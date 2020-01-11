@@ -167,7 +167,7 @@
   <div class="wrap">
 
     <div class="row lone centered">
-      <div class="col col-10">
+      <div class="col col-12">
         
         <h1 class="divide">Contact us</h1>
 
@@ -175,13 +175,6 @@
           <div class="col col-6">
             <p class="intro">If you have any enquires about our services, or any questions about what we do, we'd love to hear from you.</p>
 
-            <p>
-              We take your privacy seriously.<br>
-              <a href="/info/privacy">See how we secure your data.</a>
-            </p>
-          </div>
-
-          <div class="col col-6">
             <ul class="contact">
   <li class="icon-phone">
     <a href="tel:+441143863349">0114 386 3349</a>
@@ -202,6 +195,59 @@
     <span>S60 1FE</span>
   </li>
 </ul>
+
+            <p>
+              We take your privacy seriously.<br>
+              <a href="/info/privacy">See how we secure your data.</a>
+            </p>
+          </div>
+
+          <div class="col col-6">
+            <div class="form-box">
+              <form id="my-form" action="https://formspree.io/myyezwdv" method="POST">
+  <fieldset id="my-form-fields">
+  
+    <div class="form-group">
+      <label>
+        <span class="label hide-screen">Name</span>
+        <span class="field">
+          <input type="text" name="name" placeholder="Your name" required>
+        </span>
+      </label>
+    </div>
+    
+    <div class="form-group">
+      <label>
+        <span class="label hide-screen">Email</span>
+        <span class="field">
+          <input type="email" name="email" placeholder="Your email" required>
+        </span>
+      </label>
+    </div>
+    
+    <div class="form-group">
+      <label>
+        <span class="label hide-screen">Message</span>
+        <span class="field">
+          <textarea name="message" placeholder="Your message" required></textarea>
+        </span>
+      </label>
+    </div>
+    
+    <div class="form-group">
+      <input type="checkbox" id="privacy-consent" name="privacy-consent" class="custom-control" required>
+      <label for="privacy-consent">
+        <span class="checkbox"></span>
+        <span class="text consent">I give consent to the use of the data I entered above in accordance with the <a href="/info/privacy" target="blank">privacy policy</a></span>
+      </label>                    
+    </div>
+
+    <button id="my-form-button" class="button">Send message</button>
+  </fieldset>
+
+  <p id="my-form-status" class="form-status"></p>
+</form>
+            </div>
           </div>
         </div>
 

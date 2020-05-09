@@ -1,119 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://www.mantrasystems.co.uk/articles/sources-of-real-world-evidence</loc>
-<lastmod>2020-04-09T14:48:29+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/articles/the-new-mdr-compliance-challenge</loc>
-<lastmod>2020-04-09T11:33:36+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/articles/eu-regulators-may-delay-mdr-enforcement</loc>
-<lastmod>2020-04-20T12:32:18+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/articles/approved-proposal-to-delay-eu-mdr</loc>
-<lastmod>2020-04-21T15:17:59+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/about</loc>
-<lastmod>2020-04-07T08:42:02+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/articles/</loc>
-<lastmod>2020-04-07T08:59:21+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/services/clinical-competitor-analysis</loc>
-<lastmod>2020-04-07T08:07:48+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/services/clinical-evaluation-report</loc>
-<lastmod>2020-04-09T14:47:31+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/services/clinical-evidence-application-training</loc>
-<lastmod>2020-04-07T08:07:31+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/services/clinical-evidence-gap-analysis</loc>
-<lastmod>2020-04-09T14:50:31+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/complaints</loc>
-<lastmod>2020-04-05T20:18:53+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/contact</loc>
-<lastmod>2020-04-05T20:18:39+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/eu-mdr-compliance</loc>
-<lastmod>2020-04-06T18:41:56+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/eu-mdr-consulting</loc>
-<lastmod>2020-04-05T13:53:41+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/faqs</loc>
-<lastmod>2020-04-06T17:58:46+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/</loc>
-<lastmod>2020-04-26T14:10:54+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/services/medical-complaints-handling</loc>
-<lastmod>2020-04-07T08:07:18+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/services/medical-risk-management</loc>
-<lastmod>2020-04-09T14:50:21+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/services/post-market-surveillance-conduct</loc>
-<lastmod>2020-04-07T08:07:02+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/privacy</loc>
-<lastmod>2020-04-07T07:50:31+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/real-world-evidence-companies</loc>
-<lastmod>2020-04-05T13:47:10+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/real-world-evidence-consulting</loc>
-<lastmod>2020-04-05T13:50:11+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/services/real-world-evidence-generation-systems</loc>
-<lastmod>2020-04-09T14:50:52+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/real-world-evidence-generation</loc>
-<lastmod>2020-04-05T13:50:45+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/real-world-evidence-services</loc>
-<lastmod>2020-04-05T13:51:29+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/real-world-evidence-solutions</loc>
-<lastmod>2020-04-05T13:52:03+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/services/</loc>
-<lastmod>2020-04-07T08:58:49+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/site-map</loc>
-<lastmod>2020-04-07T08:01:00+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.mantrasystems.co.uk/assets/downloads/mantra-systems-complaints-form.pdf</loc>
-<lastmod>2019-12-18T14:50:13+00:00</lastmod>
-</url>
-</urlset>
+  <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+      <loc>https://www.mantrasystems.co.uk/articles/sources-of-real-world-evidence</loc>
+      <lastmod>2020-04-09T14:48:29+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/articles/eu-regulators-may-delay-mdr-enforcement</loc>
+      <lastmod>2020-04-20T12:32:18+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/articles/approved-proposal-to-delay-eu-mdr</loc>
+      <lastmod>2020-04-21T15:17:59+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/about</loc>
+      <lastmod>2020-04-07T08:42:02+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/articles/</loc>
+      <lastmod>2020-04-26T21:22:15+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/services/clinical-competitor-analysis</loc>
+      <lastmod>2020-04-07T08:07:48+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/services/clinical-evaluation-report</loc>
+      <lastmod>2020-04-09T14:47:31+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/services/clinical-evidence-application-training</loc>
+      <lastmod>2020-04-07T08:07:31+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/services/clinical-evidence-gap-analysis</loc>
+      <lastmod>2020-04-09T14:50:31+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/complaints</loc>
+      <lastmod>2020-05-09T08:14:53+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/contact</loc>
+      <lastmod>2020-04-05T20:18:39+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/faqs</loc>
+      <lastmod>2020-04-06T17:58:46+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/</loc>
+      <lastmod>2020-04-26T14:10:54+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/services/medical-complaints-handling</loc>
+      <lastmod>2020-04-07T08:07:18+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/services/medical-risk-management</loc>
+      <lastmod>2020-04-09T14:50:21+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/services/post-market-surveillance-conduct</loc>
+      <lastmod>2020-04-07T08:07:02+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/privacy</loc>
+      <lastmod>2020-04-07T07:50:31+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/services/real-world-evidence-generation-systems</loc>
+      <lastmod>2020-04-09T14:50:52+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/services/</loc>
+      <lastmod>2020-04-07T08:58:49+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/site-map</loc>
+      <lastmod>2020-04-07T08:01:00+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/assets/downloads/mantra-systems-complaints-form.pdf</loc>
+      <lastmod>2019-12-18T14:50:13+00:00</lastmod>
+    </url>
+  </urlset>

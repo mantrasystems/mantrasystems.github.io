@@ -176,7 +176,7 @@
                             <span class="text consent">I give consent to the use of data I submit in accordance with GDPR regulations.</span>
                           </label>
                         </div>
-                        <button id="my-form-button" class="button">Send enquiry</button>
+                        <button id="my-form-button" class="button g-recaptcha" data-sitekey="6LcAj_sUAAAAANgAV630lPLo6lZNKdNV6JBrKPl_" data-callback="onSubmit">Send enquiry</button>
                       </fieldset>
                       <p id="my-form-status" class="form-status"></p>
                     </form>
@@ -387,6 +387,12 @@
         </div>
       </div>
     </footer>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <script>
+      function onSubmit(token) {
+        document.getElementById("demo-form").submit();
+      }
+    </script>
     <script>
       window.addEventListener("DOMContentLoaded", function() {
       

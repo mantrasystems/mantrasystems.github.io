@@ -151,8 +151,8 @@
                   <h2>Contact us</h2>
                   <div class="form-box">
                     <p><b>If you have any enquires about our services, contact our team today.</b></p>
-                    <form id="my-form" action="https://formspree.io/myyezwdv" method="POST">
-                      <fieldset id="my-form-fields">
+                    <form action="https://formspree.io/myyezwdv" method="POST" id="contact-form">
+                      <fieldset>
                         <div class="form-group">
                           <label>
                             <span class="label hide-screen">Name</span>
@@ -184,9 +184,8 @@
                             <span class="text consent">I give consent to the use of data I submit in accordance with GDPR regulations.</span>
                           </label>
                         </div>
-                        <button id="my-form-button" class="button g-recaptcha" data-sitekey="6LcAj_sUAAAAANgAV630lPLo6lZNKdNV6JBrKPl_" data-callback="onSubmit">Send enquiry</button>
+                        <button type="submit" class="button g-recaptcha" data-sitekey="6LcAj_sUAAAAANgAV630lPLo6lZNKdNV6JBrKPl_" data-callback="onSubmit">Send enquiry</button>
                       </fieldset>
-                      <p id="my-form-status" class="form-status"></p>
                     </form>
                   </div>
                   <ul class="contact">
@@ -398,56 +397,7 @@
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
     <script>
       function onSubmit(token) {
-        document.getElementById("demo-form").submit();
-      }
-    </script>
-    <script>
-      window.addEventListener("DOMContentLoaded", function() {
-      
-        // get the form elements defined in your form HTML above
-      
-        var form = document.getElementById("my-form");
-        var formFields = document.getElementById("my-form-fields");
-        var status = document.getElementById("my-form-status");
-      
-        // Success and Error functions for after the form is submitted
-      
-        function success() {
-          form.reset();
-          formFields.style = "display: none";
-          status.className += " success";
-          status.innerHTML = "Your message was sent successfully. We will be in touch as soon as possible.";
-        }
-      
-        function error() {
-          status.className += " error";
-          status.innerHTML = "We're sorry. There was a problem. Please try submitting the form again.";
-        }
-      
-        // handle the form submission event
-      
-        form.addEventListener("submit", function(ev) {
-          ev.preventDefault();
-          var data = new FormData(form);
-          ajax(form.method, form.action, data, success, error);
-        });
-      });
-      
-      // helper function for sending an AJAX request
-      
-      function ajax(method, url, data, success, error) {
-        var xhr = new XMLHttpRequest();
-        xhr.open(method, url);
-        xhr.setRequestHeader("Accept", "application/json");
-        xhr.onreadystatechange = function() {
-          if (xhr.readyState !== XMLHttpRequest.DONE) return;
-          if (xhr.status === 200) {
-            success(xhr.response, xhr.responseType);
-          } else {
-            error(xhr.status, xhr.response, xhr.responseType);
-          }
-        };
-        xhr.send(data);
+        document.getElementById("contact-form").submit();
       }
     </script>
   </body>

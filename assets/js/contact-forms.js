@@ -16,7 +16,7 @@ window.addEventListener("DOMContentLoaded", function() {
           fieldset = form.getElementsByTagName("fieldset"),
           existingNotice = form.getElementsByClassName("error");
 
-      existingNotice[0].remove();
+      // existingNotice[0].remove();
 
       function success() {
         form.reset();

@@ -13,7 +13,10 @@ window.addEventListener("DOMContentLoaded", function() {
       var form = this,
           formID = form.getAttribute('id'),
           data = new FormData(form),
-          fieldset = form.getElementsByTagName("fieldset");
+          fieldset = form.getElementsByTagName("fieldset"),
+          existingNotice = form.getElementsByClassName("error");
+
+      existingNotice[0].remove();
 
       function success() {
         form.reset();

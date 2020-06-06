@@ -166,8 +166,9 @@
                 <form action="https://formspree.io/mqkypwzr" method="POST" class="contact-form" id="events-form">
                   <fieldset>
                     <p class="notice warning"><b>Due to the current coronavirus pandemic, our live seminars are set with provisional dates.</b> Registration is open, but we are guided by advice from the UK Government. When restrictions are lifted enough for us to run them safely, we will email each delegate and ask them to confirm their place.</p>
-                    <input type="hidden" name="Event registration" value="Clinical evidence in the MDR - 9th September 2020">
-                    <input type="hidden" name="Sent from page" value="https://www.mantrasystems.co.uk/mdr-training/live-seminars/2020-09-09-clinical-evidence-in-the-mdr">
+                    <input type="hidden" name="purpose" value="Event registration">
+                    <input type="hidden" name="event" value="Clinical evidence in the MDR - 9th September 2020">
+                    <input type="hidden" name="sent from page" value="https://www.mantrasystems.co.uk/mdr-training/live-seminars/2020-09-09-clinical-evidence-in-the-mdr">
                     <div class="form-group">
                       <label>
                         <span class="label hide-screen">Name</span>
@@ -208,6 +209,7 @@
                         </span>
                       </label>
                     </div>
+                    <input type="hidden" name="consent" value="Yes">
                     <button class="button">Register</button>
                     <p class="consent">By submitting this form, I accept Mantra Systems' <a href="/privacy" target="blank">privacy policy</a>.</p>
                   </fieldset>
@@ -253,8 +255,8 @@
                   <form action="https://formspree.io/myyezwdv" method="POST" class="contact-form target" id="callback-form">
                     <fieldset>
                       <p>If you would like us to phone you, please send us your details and we will call you back.</p>
-                      <input type="hidden" name="Purpose" value="Callback request">
-                      <input type="hidden" name="Sent from page" value="https://www.mantrasystems.co.uk/mdr-training/live-seminars/2020-09-09-clinical-evidence-in-the-mdr">
+                      <input type="hidden" name="purpose" value="Callback request">
+                      <input type="hidden" name="sent from page" value="https://www.mantrasystems.co.uk/mdr-training/live-seminars/2020-09-09-clinical-evidence-in-the-mdr">
                       <div class="form-group">
                         <label>
                           <span class="label hide-screen">Name</span>
@@ -271,6 +273,7 @@
                           </span>
                         </label>
                       </div>
+                      <input type="hidden" name="consent" value="Yes">
                       <button class="button">Request callback</button>
                       <p class="consent">By submitting this form, I accept Mantra Systems' <a href="/privacy" target="blank">privacy policy</a>.</p>
                     </fieldset>
@@ -284,7 +287,7 @@
       <div class="strip cta whitepaper-1">
         <div class="wrap">
           <span class="image"></span>
-          <h2>Download our free <b>Mastering the MDR</b> White Paper.</h2>
+          <h2>Download our free <b>Mastering the MDR</b> White Paper</h2>
           <p><a href="/mdr-training/downloads" class="button">Download</a></p>
         </div>
       </div>

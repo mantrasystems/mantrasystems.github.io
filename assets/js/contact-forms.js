@@ -14,9 +14,17 @@ window.addEventListener("DOMContentLoaded", function() {
           formID = form.getAttribute('id'),
           data = new FormData(form),
           fieldset = form.getElementsByTagName("fieldset"),
+          button = form.getElementsByClassName("button"),
           existingNotice = form.getElementsByClassName("error");
 
-      // existingNotice[0].remove();
+      // disable button
+      button[0].setAttribute("disabled","disabled");
+      button[0].className += " disabled";
+
+      // removing error notice if present
+      if (existingNotice[0] != null) {
+        existingNotice[0].remove();
+      }
 
       function success() {
         form.reset();
@@ -27,7 +35,7 @@ window.addEventListener("DOMContentLoaded", function() {
         if (formID == "callback-form") {
           notice.innerHTML = "Good news! Your callback request has been received. We will be in touch shortly.";
         } else if (formID == "events-form") {
-          notice.innerHTML = "Good news! You have successfully registered your place. We will send an email with further instructions in due course.";
+          notice.innerHTML = "Good news! You have successfully registered your place. We will send you an email with further instructions in due course.";
         } else if (formID == "downloads-form") {
           notice.innerHTML = "Good news! We have received your request and sent you an email with a link to access our downloads.";
         }
@@ -40,6 +48,8 @@ window.addEventListener("DOMContentLoaded", function() {
         notice.className = "notice error";
         notice.innerHTML = "We're sorry. There was a problem. Please try submitting the form again.";
         form.appendChild(notice);
+        button[0].removeAttribute("disabled");
+        button[0].className = "button";
       }
 
       ajax(form.method, form.action, data, success, error);

@@ -38,6 +38,8 @@ window.addEventListener("DOMContentLoaded", function() {
           notice.innerHTML = "Good news! You have successfully registered your place. We will send you an email with further instructions in due course.";
         } else if (formID == "downloads-form") {
           notice.innerHTML = "Good news! We have received your request and sent you an email with a link to access our downloads.";
+        } else if (formID == "newsletter-form-footer") {
+          notice.innerHTML = "Good news! You have successfully subscribed to our newsletter.";
         }
 
         form.appendChild(notice);
@@ -46,7 +48,7 @@ window.addEventListener("DOMContentLoaded", function() {
       function error() {
         var notice = document.createElement('p');
         notice.className = "notice error";
-        notice.innerHTML = "We're sorry. There was a problem. Please try submitting the form again.";
+        notice.innerHTML = "We're sorry. There was a problem. Please try re-submitting the form.";
         form.appendChild(notice);
         button[0].removeAttribute("disabled");
         button[0].className = "button";

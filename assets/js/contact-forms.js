@@ -38,7 +38,7 @@ window.addEventListener("DOMContentLoaded", function() {
           notice.innerHTML = "Good news! You have successfully registered your place. We will send you an email with further instructions in due course.";
         } else if (formID == "downloads-form") {
           notice.innerHTML = "Good news! We have received your request and sent you an email with a link to access our downloads.";
-        } else if (formID == "newsletter-form-footer") {
+        } else if (formID == "newsletter-form" || formID == "newsletter-form-footer") {
           notice.innerHTML = "Good news! You have successfully subscribed to our newsletter.";
         }
 

@@ -42,15 +42,27 @@
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/about</loc>
-      <lastmod>2020-06-10T16:10:51+01:00</lastmod>
+      <lastmod>2020-06-10T21:54:09+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/articles/</loc>
       <lastmod>2020-05-20T13:16:13+01:00</lastmod>
     </url>
     <url>
+      <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/clinical-evaluation/clinical-evaluation-report-template</loc>
+      <lastmod>2020-06-11T21:58:08+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/clinical-evaluation/clinical-evaluation-report</loc>
+      <lastmod>2020-06-11T22:05:29+01:00</lastmod>
+    </url>
+    <url>
       <loc>https://www.mantrasystems.co.uk/mdr-services/clinical-evaluation</loc>
       <lastmod>2020-06-09T16:43:40+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/clinical-evaluation/</loc>
+      <lastmod>2020-06-11T22:52:36+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/complaints</loc>
@@ -65,12 +77,20 @@
       <lastmod>2020-06-08T09:47:40+01:00</lastmod>
     </url>
     <url>
+      <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/</loc>
+      <lastmod>2020-06-10T13:38:45+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/eudamed</loc>
+      <lastmod>2020-06-11T19:16:41+01:00</lastmod>
+    </url>
+    <url>
       <loc>https://www.mantrasystems.co.uk/mdr-training/events/</loc>
       <lastmod>2020-06-08T14:06:32+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/faqs</loc>
-      <lastmod>2020-05-13T11:26:17+01:00</lastmod>
+      <lastmod>2020-06-11T10:56:09+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/mdr-services/gap-analysis</loc>
@@ -82,11 +102,15 @@
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/mdr-training/knowledge-base</loc>
-      <lastmod>2020-06-08T09:33:59+01:00</lastmod>
+      <lastmod>2020-06-11T23:12:12+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/mdr-training/events/live-seminars/</loc>
       <lastmod>2020-06-08T14:06:39+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/</loc>
+      <lastmod>2020-06-11T22:49:23+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/mdr-services/</loc>
@@ -98,11 +122,19 @@
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/mdr-services/post-market-clinical-follow-up/medical-device-product-registry</loc>
-      <lastmod>2020-06-10T15:30:07+01:00</lastmod>
+      <lastmod>2020-06-11T11:22:47+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/member-states</loc>
+      <lastmod>2020-06-11T18:52:34+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/newsletter</loc>
       <lastmod>2020-06-09T17:25:02+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/notified-bodies</loc>
+      <lastmod>2020-06-11T19:06:21+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/mdr-training/events/online-workshops/</loc>
@@ -113,8 +145,28 @@
       <lastmod>2020-05-29T21:03:14+01:00</lastmod>
     </url>
     <url>
+      <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/post-market-surveillance/post-market-clinical-follow-up/pmcf-plan</loc>
+      <lastmod>2020-06-10T15:01:25+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/post-market-surveillance/post-market-clinical-follow-up/pmcf-report</loc>
+      <lastmod>2020-06-11T15:42:43+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/post-market-surveillance/post-market-clinical-follow-up/pmcf-template</loc>
+      <lastmod>2020-06-11T16:18:56+01:00</lastmod>
+    </url>
+    <url>
       <loc>https://www.mantrasystems.co.uk/mdr-services/post-market-clinical-follow-up/</loc>
-      <lastmod>2020-06-10T15:14:08+01:00</lastmod>
+      <lastmod>2020-06-11T09:29:53+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/post-market-surveillance/post-market-clinical-follow-up/</loc>
+      <lastmod>2020-06-11T22:53:10+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/post-market-surveillance/</loc>
+      <lastmod>2020-06-11T22:49:48+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/mdr-services/post-market-surveillance</loc>
@@ -125,7 +177,27 @@
       <lastmod>2020-06-09T16:31:00+01:00</lastmod>
     </url>
     <url>
+      <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/quality-management-system</loc>
+      <lastmod>2020-06-11T22:56:24+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/post-market-surveillance/post-market-clinical-follow-up/real-world-data</loc>
+      <lastmod>2020-06-11T16:07:49+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/post-market-surveillance/post-market-clinical-follow-up/real-world-evidence</loc>
+      <lastmod>2020-06-11T15:59:51+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/risk-management</loc>
+      <lastmod>2020-06-11T22:55:01+01:00</lastmod>
+    </url>
+    <url>
       <loc>https://www.mantrasystems.co.uk/site-map</loc>
-      <lastmod>2020-06-08T16:40:18+01:00</lastmod>
+      <lastmod>2020-06-11T23:11:56+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/post-market-surveillance/Vigilance</loc>
+      <lastmod>2020-06-11T16:29:31+01:00</lastmod>
     </url>
   </urlset>

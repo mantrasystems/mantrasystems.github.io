@@ -187,7 +187,7 @@
               </ul>
               <h2 id="registration-successful" class="target">Register your place</h2>
               <div class="form-box">
-                <form action="https://formspree.io/mqkypwzr" method="POST" class="contact-form" id="events-form">
+                <form action="https://formspree.io/mqkypwzr" method="POST">
                   <fieldset>
                     <p class="notice warning"><b>Due to the current coronavirus pandemic, our live seminars are set with provisional dates.</b> Registration is open, but we are guided by advice from the UK Government. When restrictions are lifted enough for us to run them safely, we will email each delegate and ask them to confirm their place.</p>
                     <input type="hidden" name="purpose" value="Event registration">
@@ -234,7 +234,7 @@
                       </label>
                     </div>
                     <input type="hidden" name="consent" value="Yes">
-                    <button class="button">Register</button>
+                    <button type="submit" class="button">Register</button>
                     <p class="consent">By submitting this form, I accept Mantra Systems' <a href="/privacy" target="blank">privacy policy</a>.</p>
                   </fieldset>
                 </form>
@@ -289,9 +289,8 @@
                       <span>S60 1FE &mdash; <a href="https://g.page/mantrasystems" target="_blank">Map</a></span>
                     </li>
                   </ul>
-                  <form action="https://formspree.io/myyezwdv" method="POST" class="contact-form" id="callback-form">
+                  <form action="https://formspree.io/myyezwdv" method="POST">
                     <fieldset>
-                      <p>If you would like us to phone you, please send us your details and we will call you back.</p>
                       <input type="hidden" name="purpose" value="Callback request">
                       <input type="hidden" name="sent from page" value="https://www.mantrasystems.co.uk/mdr-training/events/live-seminars/2020-09-30-clinical-evaluation-for-class-iii-devices">
                       <div class="form-group">
@@ -311,7 +310,7 @@
                         </label>
                       </div>
                       <input type="hidden" name="consent" value="Yes">
-                      <button class="button">Request callback</button>
+                      <button type="submit" class="button">Request callback</button>
                       <p class="consent">By submitting this form, I accept Mantra Systems' <a href="/privacy" target="blank">privacy policy</a>.</p>
                     </fieldset>
                   </form>
@@ -567,18 +566,18 @@
             </ul>
           </div>
           <div class="col col-4">
-            <div class="newsletter">
-              <h2>Newsletter</h2>
-              <form action="https://formspree.io/mwkrojey" method="POST" class="contact-form" id="newsletter-form-footer">
+            <h2>Newsletter</h2>
+            <div class="compact-form">
+              <form action="https://formspree.io/mwkrojey" method="POST">
                 <fieldset>
-                  <p>Get email updates when we release new downloads, articles, events and services.</p>
+                  <p>Keep up to date with our latest news and events.</p>
                   <input type="hidden" name="purpose" value="Newsletter subscription">
                   <input type="hidden" name="sent from page" value="https://www.mantrasystems.co.uk/mdr-training/events/live-seminars/2020-09-30-clinical-evaluation-for-class-iii-devices">
                   <div class="form-group">
                     <label class="label hide-screen">Email</label>
                     <span class="field field-button">
                       <input type="email" name="email" placeholder="Your email" maxlength="50" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
-                      <button class="button">Go</button>
+                      <button type="submit" class="button">Go</button>
                       <span class="consent">
                         <span>By submitting this form,</span>
                         <span>I accept Mantra Systems' <a href="/privacy" target="blank">privacy policy</a>.</span>
@@ -596,6 +595,7 @@
               <li><a href="/about">About us</a></li>
               <li><a href="/eu-mdr-compliance/">MDR Guide</a></li>
               <li><a href="/downloads">Downloads</a></li>
+              <li><a href="/consultation">Free consultation</a></li>
               <li><a href="/faqs">FAQs</a></li>
               <li><a href="/site-map">Site map</a></li>
               <li><a href="/complaints">Complaints</a></li>
@@ -638,6 +638,5 @@
         </div>
       </div>
     </footer>
-    <script src="/assets/js/contact-forms.js"></script>
   </body>
 </html>

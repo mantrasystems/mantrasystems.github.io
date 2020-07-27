@@ -25,7 +25,12 @@
       
         //initialize - but do not send auto-hit
         //add your own additional options here if present in existing code
-        gtag('config', GA_TRACKING_ID, { 'anonymize_ip': true, 'send_page_view': false, 'client_id': lsCid});
+        gtag('config', GA_TRACKING_ID, {
+          'anonymize_ip': true,
+          'send_page_view': false,
+          'client_id': lsCid,
+          'client_storage': 'none'
+        });
       
         //pageview gets sent now with callback for storing the Client ID
         gtag('event', 'page_view', {

@@ -2,53 +2,7 @@
 <html itemscope itemtype="http://schema.org/WebPage" lang="en">
   <head>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-150294559-1"></script>
-    <script>
-      var GA_TRACKING_ID = 'UA-150294559-1';
-      var localStorageCid = {
-          objectName: 'ga_client_id',
-          expires: 1000*60*60*24*365*2
-        };
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      
-      if (window.localStorage) {
-        var lsCid;
-        var jsonObj = window.localStorage.getItem(localStorageCid.objectName) || '{}';
-        var obj = JSON.parse(jsonObj);
-        var now = new Date().getTime();
-        if (obj.clientId && obj.expires) {
-          if (now <= obj.expires) {
-            lsCid = obj.clientId;
-          }
-        }
-      
-      
-      
-        //initialize - but do not send auto-hit
-        //add your own additional options here if present in existing code
-        gtag('config', GA_TRACKING_ID, {
-          'client_storage': 'none',
-          'anonymize_ip': true,
-          'send_page_view': false,
-          'client_id': lsCid
-        });
-      
-        //pageview gets sent now with callback for storing the Client ID
-        gtag('event', 'page_view', {
-          'event_callback': function() {
-            var tracker_id = GA_TRACKING_ID.replace(/-/g, '_');
-            var tracker = window.ga.getByName('gtag_'+tracker_id);
-            var _lsc_clientId = tracker.get('clientId');
-            var _lsc_obj = JSON.stringify({
-                clientId: _lsc_clientId,
-                expires: new Date().getTime() + localStorageCid.expires
-            });
-            window.localStorage.setItem(localStorageCid.objectName, _lsc_obj);
-          }
-        });
-      }
-    </script>
+    <script src="/assets/js/session.js"></script>
     <meta charset="utf-8">
     <meta name="handheldfriendly" content="true">
     <meta name="mobileoptimized" content="width">

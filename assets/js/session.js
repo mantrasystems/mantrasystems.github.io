@@ -30,7 +30,7 @@ window.addEventListener("DOMContentLoaded", function() {
       'event_callback': function() {
         createFunctionWithTimeout(function() {
           var tracker_id = GA_TRACKING_ID.replace(/-/g, '_');
-          var tracker = window.ga.getByName('gtag_UA_150294559_1');
+          var tracker = window.ga.getByName('gtag_'+tracker_id);
           var _lsc_clientId = tracker.get('clientId');
           var _lsc_obj = JSON.stringify({
               clientId: _lsc_clientId,
@@ -42,7 +42,6 @@ window.addEventListener("DOMContentLoaded", function() {
     });
   }
   else {
-    //add your own additional options here if present in existing code
     gtag('config', GA_TRACKING_ID, {
       'client_storage': 'none',
       'anonymize_ip': true

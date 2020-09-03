@@ -1,2 +1,2 @@
 # mantrasystems.github.io
-Compiled files for the company's marketing website
+Public-facing, compiled files for the company's marketing website

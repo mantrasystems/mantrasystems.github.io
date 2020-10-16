@@ -280,7 +280,7 @@
                           <li>PMCF study design</li>
                           <li> Site on-boarding support</li>
                           <li> Real-time data collection</li>
-                          <li> PMCF reporting</li>
+                          <li> Automated PMCF reporting</li>
                         </ul>
                         <p><a href="/mdr-consulting/post-market-clinical-follow-up" class="button">Find out more<span> about our Post-Market Clinical Follow-up service</span></a></p>
                       </div>
@@ -290,8 +290,8 @@
               </div>
               <h2 id="why-wont-a-post-market-clinical-follow-up-template-suffice-for-mdr-compliance">Why won’t a Post-Market Clinical Follow-up Template suffice for MDR compliance?</h2>
               <p>Successfully working with the MDR necessitates a high level of understanding of how the Regulation is structured and applied. The MDR imposes a range of requirements on medical devices, conformity to which must be demonstrated through the production of clinical evidence. Templates are unlikely to provide a useful solution under the MDR because the requirements that apply to one medical device will differ markedly from those that apply to another.</p>
-              <p>The General Safety and Performance Requirements (SPRs), detailed in Annex I MDR, comprise a long list of requirements intended to cover the scope of all possible devices. However, it is not intended that all of the SPRs will apply to any one individual device, with those that do apply being dependent upon the structure, risk levels, application, and method of action of the device. Given the large total number of SPRs, this produces a high number of permutations of requirements that would be difficult (if not impossible) to adequately address through a general template.</p>
-              <p>For example, devices that are intended to be supplied sterile must be accompanied by evidence that this is achieved in practice; evidence of this type will have no applicability to non-sterile devices intended for use by lay people, or to software as a medical device. The only reasonable solution is to develop a bespoke PMCF strategy for each individual device, ensuring that relevant SPRs are addressed while diverting valuable resources away from those that are not.</p>
+              <p>The General Safety and Performance Requirements (GSPRs), detailed in Annex I MDR, comprise a long list of requirements intended to cover the scope of all possible devices. However, it is not intended that all of the GSPRs will apply to any one individual device, with those that do apply being dependent upon the structure, risk levels, application, and method of action of the device. Given the large total number of GSPRs, this produces a high number of permutations of requirements that would be difficult (if not impossible) to adequately address through a general template.</p>
+              <p>For example, devices that are intended to be supplied sterile must be accompanied by evidence that this is achieved in practice; evidence of this type will have no applicability to non-sterile devices intended for use by lay people, or to software as a medical device. The only reasonable solution is to develop a bespoke PMCF strategy for each individual device, ensuring that relevant GSPRs are addressed while diverting valuable resources away from those that are not.</p>
               <p>Other reasons for the inability of a standard template to meet PMCF requirements under the MDR include:</p>
               <ul>
                 <li><strong>Nature of adverse events.</strong> It is a requirement under Article 87 MDR that manufacturers collect data on serious incidents and adverse events. The possible range of adverse events differs markedly from one type of device to another, so the system intended to collect such data will need to be constructed around the nature and frequency of such incidences. A standard template cannot be sufficiently flexible to adequately address this variability.</li>
@@ -356,6 +356,7 @@
                     </span>
                   </label>
                 </div>
+                <input type="text" name="_gotcha" class="hide">
                 <div class="reveal-fields">
                   <input type="checkbox" id="reveal-fields">
                   <label for="reveal-fields" class="button-reveal">Add a message</label>
@@ -376,7 +377,6 @@
                   </label>
                 </div>
                 <input type="hidden" name="consent" value="Yes">
-                <input type="text" name="_gotcha" class="hide">
                 <button type="submit" class="button">Request contact</button>
                 <p class="statement">Your privacy is important. <a href="/privacy" target="_blank">See how we handle your data.</a></p>
               </fieldset>
@@ -533,8 +533,8 @@
                         </span>
                       </span>
                     </div>
-                    <input type="hidden" name="consent" value="Yes">
                     <input type="text" name="_gotcha" class="hide">
+                    <input type="hidden" name="consent" value="Yes">
                   </fieldset>
                 </form>
               </div>

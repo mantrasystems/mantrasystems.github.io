@@ -3,28 +3,30 @@
 
 document.addEventListener("DOMContentLoaded",
   function() {
-    var div, n,
+    var anchor, n,
         v = document.getElementsByClassName("youtube-player");
     for (n = 0; n < v.length; n++) {
-      div = document.createElement("div");
-      div.setAttribute("data-id", v[n].dataset.id);
-      div.innerHTML = labnolThumb(v[n].dataset.id);
-      div.onclick = labnolEmbed;
-      v[n].appendChild(div);
+      anchor = document.createElement("a");
+      anchor.setAttribute("data-id", v[n].dataset.id);
+      anchor.setAttribute("class", "cta");
+      anchor.setAttribute("href", "#");
+      anchor.setAttribute("title", "Listen to Dr Paul Hercock introduce Mantra Systems");
+      anchor.innerHTML = labnolThumb(v[n].dataset.id);
+      anchor.onclick = labnolEmbed;
+      v[n].appendChild(anchor);
     }
 });
 
 function labnolThumb(id) {
-  var thumb = '<img src="https://i.ytimg.com/vi/ID/maxresdefault.jpg" loading="lazy">',
-    play = '<div class="play"></div>';
-  return thumb.replace("ID", id) + play;
+  var thumb = '<picture><source srcset="https://i.ytimg.com/vi/ID/mqdefault.jpg" media="(max-width: 480px)"><img src="https://i.ytimg.com/vi/ID/maxresdefault.jpg" alt="Preview image: Mantra Systems CEO, Dr Paul Hercock" loading="lazy"></picture>';
+  return thumb.replace("ID", id).replace("ID", id);
 }
 
-function labnolEmbed() {
+function labnolEmbed(e) {
+  e.preventDefault();
   var embed = document.createElement("embed");
-  var url = "https://www.youtube.com/embed/ID?autoplay=1&amp;rel=0&amp;showinfo=0";
+  var url = "https://www.youtube-nocookie.com/embed/ID?autoplay=1&amp;rel=0&amp;showinfo=0";
   embed.setAttribute("src", url.replace("ID", this.dataset.id));
-  embed.setAttribute("frameborder", "0");
-  embed.setAttribute("allowfullscreen", "1");
+  this.parentNode.className += " playing";
   this.parentNode.replaceChild(embed, this);
 }

@@ -290,6 +290,47 @@
           </ul>
         </div>
       </div>
+      <input type="checkbox" id="contact-button" class="contact-button-toggle">
+      <div class="contact-button">
+        <label for="contact-button" class="cta">
+          <span class="button icon-message-square"><span>Ask us a question</span></span>
+        </label>
+        <div class="form">
+          <h2>Let's talk&hellip;</h2>
+          <form action="https://formspree.io/mvovrdgv" method="POST">
+            <fieldset>
+              <input type="hidden" name="purpose" value="Contact message">
+              <div class="form-group">
+                <label>
+                  <span class="label hide-screen">Message</span>
+                  <span class="field">
+                    <textarea name="message" rows="3" cols="100" placeholder="How can I help you?" maxlength="5000" required></textarea>
+                  </span>
+                </label>
+              </div>
+              <div class="form-group">
+                <label>
+                  <span class="label hide-screen">Name</span>
+                  <span class="field">
+                    <input type="text" name="name" placeholder="Name" maxlength="25" pattern="[A-Za-z ]{2,25}" required>
+                  </span>
+                </label>
+              </div>
+              <div class="form-group">
+                <label>
+                  <span class="label hide-screen">Email</span>
+                  <span class="field">
+                    <input type="email" name="email" placeholder="Email" maxlength="60" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
+                  </span>
+                </label>
+              </div>
+              <input type="text" name="_gotcha" class="hide">
+              <input type="hidden" name="consent" value="Yes">
+              <button type="submit" class="button">Start conversation</button>
+            </fieldset>
+          </form>
+        </div>
+      </div>
     </footer>
   </body>
 </html>

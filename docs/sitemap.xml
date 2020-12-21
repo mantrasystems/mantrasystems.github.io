@@ -221,12 +221,12 @@
       <lastmod>2020-11-04T11:48:37+00:00</lastmod>
     </url>
     <url>
-      <loc>https://www.mantrasystems.co.uk/mdr-consulting/post-market-surveillance</loc>
-      <lastmod>2020-12-04T16:57:13+00:00</lastmod>
-    </url>
-    <url>
       <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/post-market-surveillance/</loc>
       <lastmod>2020-12-11T11:49:52+00:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/mdr-consulting/post-market-surveillance</loc>
+      <lastmod>2020-12-04T16:57:13+00:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/quality-management-system</loc>
@@ -249,12 +249,16 @@
       <lastmod>2020-11-05T17:41:28+00:00</lastmod>
     </url>
     <url>
-      <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/software-as-a-medical-device</loc>
-      <lastmod>2020-12-21T12:45:37+00:00</lastmod>
-    </url>
-    <url>
       <loc>https://www.mantrasystems.co.uk/mdr-consulting/software-as-a-medical-device</loc>
       <lastmod>2020-12-04T16:57:13+00:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/software-as-a-medical-device</loc>
+      <lastmod>2020-12-21T13:14:55+00:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/summary-of-safety-and-clinical-performance</loc>
+      <lastmod>2020-12-21T13:49:33+00:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/post-market-surveillance/vigilance</loc>

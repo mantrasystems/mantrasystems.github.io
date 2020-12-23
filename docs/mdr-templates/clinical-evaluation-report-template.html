@@ -119,7 +119,7 @@
                 <a href="/contact">Contact</a>
               </li>
               <li>
-                <a href="/eu-mdr-compliance/"><span>EU</span> MDR <span>Compliance</span> Guide</a>
+                <a href="/eu-mdr-compliance/"><span>EU MDR Compliance</span> Guide</a>
               </li>
             </ul>
             <ul class="social">
@@ -155,11 +155,10 @@
                       <span class="vat">(exc. tax)</span>
                     </span>
                   </p>
-                  <!--     <p class="cta">
-      <a href="https://transactions.sendowl.com/products/78419523/6D952BA4/purchase" rel="nofollow" class="button big">Buy now</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
-
-      <span class="licences">X discounted single-user licences left</span>
-    </p> -->
+                  <p class="cta">
+                    <a href="https://transactions.sendowl.com/products/78419523/6D952BA4/purchase" rel="nofollow" class="button">Buy now</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js"></script>
+                    <!-- <span class="licences">X discounted single-user licences left</span> -->
+                  </p>
                   <p class="additional-info">Enquire about <a href="/contact">multi-user licence pricing</a></p>
                 </div>
               </div>
@@ -175,9 +174,6 @@
                 <li>Geared specifically to MDR compliance</li>
                 <li>Contains multiple examples of specimen text to guide phrasing and text construction</li>
               </ol>
-              <!-- 
-        <p>Writing a clinical evaluation report to MDR standards is a demanding and complicated process. This challenge is compounded by the fact that official guidelines, such as Meddev 2.7/1 rev 4, have not yet been updated to meet MDR requirements. Many manufacturers feel unsupported and unable to access the guidance they need to produce CERs for their products.</p>
- -->
               <p>Through use of simple questions and illustrative examples, our Clinical Evaluation Report template enables you to develop your CER step-by-step, ensuring complete MDR coverage.</p>
               <ul class="checked">
                 <li>The template outlines an overall strategy along with instructions on which sections to write first</li>
@@ -207,11 +203,10 @@
                       <span class="vat">(exc. tax)</span>
                     </span>
                   </p>
-                  <!--     <p class="cta">
-      <a href="https://transactions.sendowl.com/products/78419523/6D952BA4/purchase" rel="nofollow" class="button big">Buy now</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
-
-      <span class="licences">X discounted single-user licences left</span>
-    </p> -->
+                  <p class="cta">
+                    <a href="https://transactions.sendowl.com/products/78419523/6D952BA4/purchase" rel="nofollow" class="button">Buy now</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js"></script>
+                    <!-- <span class="licences">X discounted single-user licences left</span> -->
+                  </p>
                   <p class="additional-info">Enquire about <a href="/contact">multi-user licence pricing</a></p>
                 </div>
               </div>
@@ -246,7 +241,7 @@
                   <label>
                     <span class="label hide-screen">Name</span>
                     <span class="field">
-                      <input type="text" name="name" placeholder="Name" maxlength="50" required>
+                      <input type="text" name="name" placeholder="Name" maxlength="100" required>
                     </span>
                   </label>
                 </div>
@@ -254,7 +249,7 @@
                   <label>
                     <span class="label hide-screen">Email</span>
                     <span class="field">
-                      <input type="email" name="email" placeholder="Email" maxlength="80" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
+                      <input type="email" name="email" placeholder="Email" maxlength="100" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
                     </span>
                   </label>
                 </div>
@@ -263,6 +258,22 @@
                     <span class="label hide-screen">Phone number</span>
                     <span class="field">
                       <input type="tel" name="phone" placeholder="Phone (optional)" maxlength="20">
+                    </span>
+                  </label>
+                </div>
+                <div class="form-group">
+                  <label>
+                    <span class="label hide-screen">Company</span>
+                    <span class="field">
+                      <input type="text" name="company" placeholder="Company name" maxlength="100" required>
+                    </span>
+                  </label>
+                </div>
+                <div class="form-group">
+                  <label>
+                    <span class="label hide-screen">Job title</span>
+                    <span class="field">
+                      <input type="text" name="job" placeholder="Job title (optional)" maxlength="100">
                     </span>
                   </label>
                 </div>
@@ -787,14 +798,16 @@
                     <p>Subscribe to our newsletter to get our latest updates</p>
                     <input type="hidden" name="purpose" value="Newsletter">
                     <div class="form-group">
-                      <label class="label hide-screen">Email</label>
                       <span class="field field-button">
-                        <input type="email" name="email" placeholder="Email" maxlength="80" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
+                        <label>
+                          <span class="hide-screen">Email</span>
+                          <input type="email" name="email" placeholder="Email" maxlength="100" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
+                          <span class="statement">
+                            You will be subscribed to our periodic email newsletter and can <a href="/unsubscribe">unsubscribe</a> at any time.
+                            Your privacy is important. <a href="/privacy" target="_blank">See how we handle your data.</a>
+                          </span>
+                        </label>
                         <button type="submit" class="button">Subscribe</button>
-                        <span class="statement">
-                          You will be subscribed to our periodic email newsletter and can <a href="/unsubscribe">unsubscribe</a> at any time.
-                          Your privacy is important. <a href="/privacy" target="_blank">See how we handle your data.</a>
-                        </span>
                       </span>
                     </div>
                     <input type="text" name="_gotcha" class="hide">
@@ -870,7 +883,7 @@
               <label>
                 <span class="label hide-screen">Name</span>
                 <span class="field">
-                  <input type="text" name="name" placeholder="Name" maxlength="50" required>
+                  <input type="text" name="name" placeholder="Name" maxlength="100" required>
                 </span>
               </label>
             </div>
@@ -878,7 +891,7 @@
               <label>
                 <span class="label hide-screen">Email</span>
                 <span class="field">
-                  <input type="email" name="email" placeholder="Email" maxlength="80" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
+                  <input type="email" name="email" placeholder="Email" maxlength="100" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
                 </span>
               </label>
             </div>

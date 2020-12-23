@@ -120,7 +120,7 @@
                 <a href="/contact">Contact</a>
               </li>
               <li>
-                <a href="/eu-mdr-compliance/" class='current'><span>EU</span> MDR <span>Compliance</span> Guide</a>
+                <a href="/eu-mdr-compliance/" class='current'><span>EU MDR Compliance</span> Guide</a>
               </li>
             </ul>
             <ul class="social">
@@ -366,7 +366,7 @@
                   <label>
                     <span class="label hide-screen">Name</span>
                     <span class="field">
-                      <input type="text" name="name" placeholder="Name" maxlength="50" required>
+                      <input type="text" name="name" placeholder="Name" maxlength="100" required>
                     </span>
                   </label>
                 </div>
@@ -374,7 +374,7 @@
                   <label>
                     <span class="label hide-screen">Email</span>
                     <span class="field">
-                      <input type="email" name="email" placeholder="Email" maxlength="80" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
+                      <input type="email" name="email" placeholder="Email" maxlength="100" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
                     </span>
                   </label>
                 </div>
@@ -383,6 +383,22 @@
                     <span class="label hide-screen">Phone number</span>
                     <span class="field">
                       <input type="tel" name="phone" placeholder="Phone (optional)" maxlength="20">
+                    </span>
+                  </label>
+                </div>
+                <div class="form-group">
+                  <label>
+                    <span class="label hide-screen">Company</span>
+                    <span class="field">
+                      <input type="text" name="company" placeholder="Company name" maxlength="100" required>
+                    </span>
+                  </label>
+                </div>
+                <div class="form-group">
+                  <label>
+                    <span class="label hide-screen">Job title</span>
+                    <span class="field">
+                      <input type="text" name="job" placeholder="Job title (optional)" maxlength="100">
                     </span>
                   </label>
                 </div>
@@ -854,14 +870,16 @@
                     <p>Subscribe to our newsletter to get our latest updates</p>
                     <input type="hidden" name="purpose" value="Newsletter">
                     <div class="form-group">
-                      <label class="label hide-screen">Email</label>
                       <span class="field field-button">
-                        <input type="email" name="email" placeholder="Email" maxlength="80" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
+                        <label>
+                          <span class="hide-screen">Email</span>
+                          <input type="email" name="email" placeholder="Email" maxlength="100" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
+                          <span class="statement">
+                            You will be subscribed to our periodic email newsletter and can <a href="/unsubscribe">unsubscribe</a> at any time.
+                            Your privacy is important. <a href="/privacy" target="_blank">See how we handle your data.</a>
+                          </span>
+                        </label>
                         <button type="submit" class="button">Subscribe</button>
-                        <span class="statement">
-                          You will be subscribed to our periodic email newsletter and can <a href="/unsubscribe">unsubscribe</a> at any time.
-                          Your privacy is important. <a href="/privacy" target="_blank">See how we handle your data.</a>
-                        </span>
                       </span>
                     </div>
                     <input type="text" name="_gotcha" class="hide">

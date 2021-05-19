@@ -23,7 +23,7 @@ function labnolThumb(id) {
 function labnolEmbed(e) {
   e.preventDefault();
   var object = document.createElement("object");
-  var data = "https://www.youtube-nocookie.com/embed/ID?autoplay=1&amp;rel=0&amp;showinfo=0";
+  var data = "https://www.youtube-nocookie.com/embed/ID?autoplay=1&amp;fs=1&amp;rel=0";
   object.setAttribute("data", data.replace("ID", this.dataset.id));
   object.setAttribute("type", "video/mp4");
   this.parentNode.className += " playing";

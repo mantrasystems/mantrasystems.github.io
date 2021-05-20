@@ -22,10 +22,11 @@ function labnolThumb(id) {
 
 function labnolEmbed(e) {
   e.preventDefault();
-  var object = document.createElement("object");
-  var data = "https://www.youtube-nocookie.com/embed/ID?autoplay=1&amp;rel=0";
-  object.setAttribute("data", data.replace("ID", this.dataset.id));
-  object.setAttribute("type", "video/mp4");
+  var element = document.createElement("iframe");
+  var src = "https://www.youtube-nocookie.com/embed/ID?autoplay=1&amp;rel=0";
+  element.setAttribute("src", src.replace("ID", this.dataset.id));
+  element.setAttribute("type", "video/mp4");
+  element.setAttribute("allowfullscreen", "1");
   this.parentNode.className += " playing";
-  this.parentNode.replaceChild(object, this);
+  this.parentNode.replaceChild(element, this);
 }

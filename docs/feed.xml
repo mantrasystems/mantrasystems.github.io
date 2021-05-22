@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2021-05-22T12:37:05+01:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems Ltd</title><entry><title type="html">Does My Medical Device Need A Pmcf System For Mdr Compliance</title><link href="https://www.mantrasystems.co.uk/articles/does-my-medical-device-need-a-pmcf-system-for-mdr-compliance" rel="alternate" type="text/html" title="Does My Medical Device Need A Pmcf System For Mdr Compliance" /><published>2021-05-11T00:00:00+01:00</published><updated>2021-05-12T11:05:28+01:00</updated><id>https://www.mantrasystems.co.uk/articles/does-my-medical-device-need-a-pmcf-system-for-mdr-compliance</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/does-my-medical-device-need-a-pmcf-system-for-mdr-compliance">&lt;p&gt;Post-Market Clinical Follow-up (PMCF) has assumed greater importance under the MDR than ever before. PMCF calls for the ongoing collection of safety and performance data throughout the commercial lifetime of a medical device, generating evidence on real-life experience with the product.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2021-05-22T12:42:55+01:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems Ltd</title><entry><title type="html">Does My Medical Device Need A Pmcf System For Mdr Compliance</title><link href="https://www.mantrasystems.co.uk/articles/does-my-medical-device-need-a-pmcf-system-for-mdr-compliance" rel="alternate" type="text/html" title="Does My Medical Device Need A Pmcf System For Mdr Compliance" /><published>2021-05-11T00:00:00+01:00</published><updated>2021-05-12T11:05:28+01:00</updated><id>https://www.mantrasystems.co.uk/articles/does-my-medical-device-need-a-pmcf-system-for-mdr-compliance</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/does-my-medical-device-need-a-pmcf-system-for-mdr-compliance">&lt;p&gt;Post-Market Clinical Follow-up (PMCF) has assumed greater importance under the MDR than ever before. PMCF calls for the ongoing collection of safety and performance data throughout the commercial lifetime of a medical device, generating evidence on real-life experience with the product.&lt;/p&gt;
         &lt;p&gt;Understandably, some manufacturers are unclear whether a PMCF system needs to be implemented for their device and may prefer not to develop one unless absolutely necessary. This is particularly the case for legacy products with existing data, or with low-risk devices for which development of a bespoke PMCF system may at first glance seem unnecessary.&lt;/p&gt;
         &lt;p&gt;However, exceptions to the requirements for dedicated PMCF systems under the MDR are limited. It’s vital that all relevant device characteristics are considered in detail before forming conclusions.&lt;/p&gt;
         &lt;h2 id=&quot;rapid-pmcf-checker&quot;&gt;Rapid PMCF Checker&lt;/h2&gt;
@@ -16,8 +16,8 @@
         &lt;p class=&quot;cta&quot;&gt;&lt;label for=&quot;question-tool-start&quot; class=&quot;button secondary alt big&quot;&gt;Show question 1&lt;/label&gt;&lt;/p&gt;
         &lt;/div&gt;
         &lt;/div&gt;
-        &lt;input type=&quot;radio&quot; name=&quot;Question-1&quot; id=&quot;question-yes-1&quot; value=&quot;Yes = Is your device a new or novel product, which doesn't have substantial clinical evidence demonstrating safety and performance?&quot; /&gt;
-        &lt;input type=&quot;radio&quot; name=&quot;Question-1&quot; id=&quot;question-no-1&quot; value=&quot;No = Is your device a new or novel product, which doesn't have substantial clinical evidence demonstrating safety and performance?&quot; /&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;question-1&quot; id=&quot;question-yes-1&quot; value=&quot;Yes = Is your device a new or novel product, which doesn't have substantial clinical evidence demonstrating safety and performance?&quot; /&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;question-1&quot; id=&quot;question-no-1&quot; value=&quot;No = Is your device a new or novel product, which doesn't have substantial clinical evidence demonstrating safety and performance?&quot; /&gt;
         &lt;div class=&quot;question-content&quot;&gt;
         &lt;h3&gt;
         &lt;span class=&quot;number&quot;&gt;Question 1 / 10 &lt;/span&gt;
@@ -38,8 +38,8 @@
         &lt;/li&gt;
         &lt;/ul&gt;
         &lt;/div&gt;
-        &lt;input type=&quot;radio&quot; name=&quot;Question-2&quot; id=&quot;question-yes-2&quot; value=&quot;Yes = Was the clinical evidence relating to your medical device collected many years ago? (i.e. no recent clinical studies or substantial data collection exercises)&quot; /&gt;
-        &lt;input type=&quot;radio&quot; name=&quot;Question-2&quot; id=&quot;question-no-2&quot; value=&quot;No = Was the clinical evidence relating to your medical device collected many years ago? (i.e. no recent clinical studies or substantial data collection exercises)&quot; /&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;question-2&quot; id=&quot;question-yes-2&quot; value=&quot;Yes = Was the clinical evidence relating to your medical device collected many years ago? (i.e. no recent clinical studies or substantial data collection exercises)&quot; /&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;question-2&quot; id=&quot;question-no-2&quot; value=&quot;No = Was the clinical evidence relating to your medical device collected many years ago? (i.e. no recent clinical studies or substantial data collection exercises)&quot; /&gt;
         &lt;div class=&quot;question-content&quot;&gt;
         &lt;h3&gt;
         &lt;span class=&quot;number&quot;&gt;Question 2 / 10 &lt;/span&gt;
@@ -60,8 +60,8 @@
         &lt;/li&gt;
         &lt;/ul&gt;
         &lt;/div&gt;
-        &lt;input type=&quot;radio&quot; name=&quot;Question-3&quot; id=&quot;question-yes-3&quot; value=&quot;Yes = Does available clinical evidence leave some data gaps relating to the device's indications and/or target patient populations?&quot; /&gt;
-        &lt;input type=&quot;radio&quot; name=&quot;Question-3&quot; id=&quot;question-no-3&quot; value=&quot;No = Does available clinical evidence leave some data gaps relating to the device's indications and/or target patient populations?&quot; /&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;question-3&quot; id=&quot;question-yes-3&quot; value=&quot;Yes = Does available clinical evidence leave some data gaps relating to the device's indications and/or target patient populations?&quot; /&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;question-3&quot; id=&quot;question-no-3&quot; value=&quot;No = Does available clinical evidence leave some data gaps relating to the device's indications and/or target patient populations?&quot; /&gt;
         &lt;div class=&quot;question-content&quot;&gt;
         &lt;h3&gt;
         &lt;span class=&quot;number&quot;&gt;Question 3 / 10 &lt;/span&gt;
@@ -82,8 +82,8 @@
         &lt;/li&gt;
         &lt;/ul&gt;
         &lt;/div&gt;
-        &lt;input type=&quot;radio&quot; name=&quot;Question-4&quot; id=&quot;question-yes-4&quot; value=&quot;Yes = Have there been any important changes to the medical device, its label and packaging, or its IFU since it was CE-marked?&quot; /&gt;
-        &lt;input type=&quot;radio&quot; name=&quot;Question-4&quot; id=&quot;question-no-4&quot; value=&quot;No = Have there been any important changes to the medical device, its label and packaging, or its IFU since it was CE-marked?&quot; /&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;question-4&quot; id=&quot;question-yes-4&quot; value=&quot;Yes = Have there been any important changes to the medical device, its label and packaging, or its IFU since it was CE-marked?&quot; /&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;question-4&quot; id=&quot;question-no-4&quot; value=&quot;No = Have there been any important changes to the medical device, its label and packaging, or its IFU since it was CE-marked?&quot; /&gt;
         &lt;div class=&quot;question-content&quot;&gt;
         &lt;h3&gt;
         &lt;span class=&quot;number&quot;&gt;Question 4 / 10 &lt;/span&gt;
@@ -104,8 +104,8 @@
         &lt;/li&gt;
         &lt;/ul&gt;
         &lt;/div&gt;
-        &lt;input type=&quot;radio&quot; name=&quot;Question-5&quot; id=&quot;question-yes-5&quot; value=&quot;Yes = Has your Notified Body asked you to develop a PMCF system?&quot; /&gt;
-        &lt;input type=&quot;radio&quot; name=&quot;Question-5&quot; id=&quot;question-no-5&quot; value=&quot;No = Has your Notified Body asked you to develop a PMCF system?&quot; /&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;question-5&quot; id=&quot;question-yes-5&quot; value=&quot;Yes = Has your Notified Body asked you to develop a PMCF system?&quot; /&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;question-5&quot; id=&quot;question-no-5&quot; value=&quot;No = Has your Notified Body asked you to develop a PMCF system?&quot; /&gt;
         &lt;div class=&quot;question-content&quot;&gt;
         &lt;h3&gt;
         &lt;span class=&quot;number&quot;&gt;Question 5 / 10 &lt;/span&gt;
@@ -126,8 +126,8 @@
         &lt;/li&gt;
         &lt;/ul&gt;
         &lt;/div&gt;
-        &lt;input type=&quot;radio&quot; name=&quot;Question-6&quot; id=&quot;question-yes-6&quot; value=&quot;Yes = Has a new indication or change to intended purpose been introduced since CE-marking?&quot; /&gt;
-        &lt;input type=&quot;radio&quot; name=&quot;Question-6&quot; id=&quot;question-no-6&quot; value=&quot;No = Has a new indication or change to intended purpose been introduced since CE-marking?&quot; /&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;question-6&quot; id=&quot;question-yes-6&quot; value=&quot;Yes = Has a new indication or change to intended purpose been introduced since CE-marking?&quot; /&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;question-6&quot; id=&quot;question-no-6&quot; value=&quot;No = Has a new indication or change to intended purpose been introduced since CE-marking?&quot; /&gt;
         &lt;div class=&quot;question-content&quot;&gt;
         &lt;h3&gt;
         &lt;span class=&quot;number&quot;&gt;Question 6 / 10 &lt;/span&gt;
@@ -148,8 +148,8 @@
         &lt;/li&gt;
         &lt;/ul&gt;
         &lt;/div&gt;
-        &lt;input type=&quot;radio&quot; name=&quot;Question-7&quot; id=&quot;question-yes-7&quot; value=&quot;Yes = Has the risk classification of your device changed?&quot; /&gt;
-        &lt;input type=&quot;radio&quot; name=&quot;Question-7&quot; id=&quot;question-no-7&quot; value=&quot;No = Has the risk classification of your device changed?&quot; /&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;question-7&quot; id=&quot;question-yes-7&quot; value=&quot;Yes = Has the risk classification of your device changed?&quot; /&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;question-7&quot; id=&quot;question-no-7&quot; value=&quot;No = Has the risk classification of your device changed?&quot; /&gt;
         &lt;div class=&quot;question-content&quot;&gt;
         &lt;h3&gt;
         &lt;span class=&quot;number&quot;&gt;Question 7 / 10 &lt;/span&gt;
@@ -170,8 +170,8 @@
         &lt;/li&gt;
         &lt;/ul&gt;
         &lt;/div&gt;
-        &lt;input type=&quot;radio&quot; name=&quot;Question-8&quot; id=&quot;question-yes-8&quot; value=&quot;Yes = Have risk management activities or clinical evaluation identified any new, emergent or unmitigated risks in relation to the device?&quot; /&gt;
-        &lt;input type=&quot;radio&quot; name=&quot;Question-8&quot; id=&quot;question-no-8&quot; value=&quot;No = Have risk management activities or clinical evaluation identified any new, emergent or unmitigated risks in relation to the device?&quot; /&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;question-8&quot; id=&quot;question-yes-8&quot; value=&quot;Yes = Have risk management activities or clinical evaluation identified any new, emergent or unmitigated risks in relation to the device?&quot; /&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;question-8&quot; id=&quot;question-no-8&quot; value=&quot;No = Have risk management activities or clinical evaluation identified any new, emergent or unmitigated risks in relation to the device?&quot; /&gt;
         &lt;div class=&quot;question-content&quot;&gt;
         &lt;h3&gt;
         &lt;span class=&quot;number&quot;&gt;Question 8 / 10 &lt;/span&gt;
@@ -192,8 +192,8 @@
         &lt;/li&gt;
         &lt;/ul&gt;
         &lt;/div&gt;
-        &lt;input type=&quot;radio&quot; name=&quot;Question-9&quot; id=&quot;question-yes-9&quot; value=&quot;Yes = Have PMS activities led to questions about the safety, performance or suitability for purpose of your device or similar devices on the market? (including SAEs, FSCNs or CAPAs)&quot; /&gt;
-        &lt;input type=&quot;radio&quot; name=&quot;Question-9&quot; id=&quot;question-no-9&quot; value=&quot;No = Have PMS activities led to questions about the safety, performance or suitability for purpose of your device or similar devices on the market? (including SAEs, FSCNs or CAPAs)&quot; /&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;question-9&quot; id=&quot;question-yes-9&quot; value=&quot;Yes = Have PMS activities led to questions about the safety, performance or suitability for purpose of your device or similar devices on the market? (including SAEs, FSCNs or CAPAs)&quot; /&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;question-9&quot; id=&quot;question-no-9&quot; value=&quot;No = Have PMS activities led to questions about the safety, performance or suitability for purpose of your device or similar devices on the market? (including SAEs, FSCNs or CAPAs)&quot; /&gt;
         &lt;div class=&quot;question-content&quot;&gt;
         &lt;h3&gt;
         &lt;span class=&quot;number&quot;&gt;Question 9 / 10 &lt;/span&gt;
@@ -214,8 +214,8 @@
         &lt;/li&gt;
         &lt;/ul&gt;
         &lt;/div&gt;
-        &lt;input type=&quot;radio&quot; name=&quot;Question-10&quot; id=&quot;last-question-yes-10&quot; value=&quot;Yes = Is the device high-risk? (in terms of the nature of the device, medical indication, target patient population or substances used in the device)&quot; /&gt;
-        &lt;input type=&quot;radio&quot; name=&quot;Question-10&quot; id=&quot;last-question-no-10&quot; value=&quot;No = Is the device high-risk? (in terms of the nature of the device, medical indication, target patient population or substances used in the device)&quot; /&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;question-10&quot; id=&quot;last-question-yes-10&quot; value=&quot;Yes = Is the device high-risk? (in terms of the nature of the device, medical indication, target patient population or substances used in the device)&quot; /&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;question-10&quot; id=&quot;last-question-no-10&quot; value=&quot;No = Is the device high-risk? (in terms of the nature of the device, medical indication, target patient population or substances used in the device)&quot; /&gt;
         &lt;div class=&quot;question-content&quot;&gt;
         &lt;h3&gt;
         &lt;span class=&quot;number&quot;&gt;Question 10 / 10 &lt;/span&gt;

@@ -45,7 +45,7 @@
     <link rel="canonical" href="https://www.mantrasystems.co.uk/received-unsubscription">
     <title>Unsubscribed - Mantra Systems</title>
   </head>
-  <body class="">
+  <body class="form-response">
     <header class="banner" id="top">
       <div class="wrap">
         <a accesskey="s" href="#main-content" class="content-jump">Jump to main content</a>
@@ -149,7 +149,7 @@
       <div class="strip page-intro ">
         <div class="wrap">
           <h1>We're sorry to see you go</h1>
-          <p class="lead">We have received your request and removed your details from our databases. Please check your email inbox for confirmation.</p>
+          <p class="lead">We've removed your details from our databases.</p>
         </div>
       </div>
       <div class="strip cta">
@@ -465,7 +465,6 @@
                       </span>
                     </div>
                     <input type="text" name="_gotcha" class="hide">
-                    <input type="hidden" name="consent" value="Yes">
                   </fieldset>
                 </form>
               </div>
@@ -514,5 +513,45 @@
         </div>
       </div>
     </footer>
+    <input type="checkbox" id="contact-button" class="contact-button-toggle">
+    <div class="contact-button">
+      <label for="contact-button" class="cta">
+        <span class="button icon-comments"><span>Ask a question</span></span>
+      </label>
+      <div class="form">
+        <h2>Ask a question</h2>
+        <form action="https://formspree.io/f/mbjqgeqv" method="POST">
+          <fieldset>
+            <input type="hidden" name="origin" value="Contact button on /received-unsubscription">
+            <div class="form-group">
+              <label>
+                <span class="label hide-screen">Message</span>
+                <span class="field">
+                  <textarea name="message" rows="3" cols="100" placeholder="How can I help you today?" maxlength="1000" required></textarea>
+                </span>
+              </label>
+            </div>
+            <div class="form-group">
+              <label>
+                <span class="label hide-screen">Your name</span>
+                <span class="field">
+                  <input type="text" name="name" placeholder="Your name" maxlength="50" required>
+                </span>
+              </label>
+            </div>
+            <div class="form-group">
+              <label>
+                <span class="label hide-screen">Email</span>
+                <span class="field">
+                  <input type="email" name="email" placeholder="Email address" maxlength="100" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
+                </span>
+              </label>
+            </div>
+            <input type="text" name="_gotcha" class="hide">
+            <button type="submit" class="button">Send</button>
+          </fieldset>
+        </form>
+      </div>
+    </div>
   </body>
 </html>

@@ -2,15 +2,15 @@
   <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
       <loc>https://www.mantrasystems.co.uk/articles/sources-of-real-world-evidence</loc>
-      <lastmod>2021-05-28T13:18:47+01:00</lastmod>
+      <lastmod>2021-08-11T16:38:19+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/articles/the-new-mdr-compliance-challenge</loc>
-      <lastmod>2021-03-10T18:00:49+00:00</lastmod>
+      <lastmod>2021-08-11T16:38:19+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/articles/eu-regulators-may-delay-mdr-enforcement</loc>
-      <lastmod>2021-05-09T11:59:22+01:00</lastmod>
+      <lastmod>2021-08-11T16:38:19+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/articles/approved-proposal-to-delay-eu-mdr</loc>
@@ -18,19 +18,19 @@
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/articles/relaxing-medical-device-regulatory-requirements-during-a-healthcare-crisis</loc>
-      <lastmod>2021-05-19T21:02:02+01:00</lastmod>
+      <lastmod>2021-08-11T16:38:19+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/articles/bridging-the-gap-ensuring-that-clinical-investigations-work-in-practice</loc>
-      <lastmod>2021-04-09T13:51:20+01:00</lastmod>
+      <lastmod>2021-08-03T16:53:38+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/articles/software-as-a-medical-device</loc>
-      <lastmod>2021-05-10T13:24:18+01:00</lastmod>
+      <lastmod>2021-08-11T16:38:19+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/articles/why-medical-doctors-can-drive-mdr-compliance</loc>
-      <lastmod>2021-04-01T08:23:19+01:00</lastmod>
+      <lastmod>2021-08-11T16:38:19+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/articles/simplifying-the-challenges-posed-by-the-new-eu-mdr</loc>
@@ -42,7 +42,7 @@
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/articles/is-outside-consulting-support-the-answer-to-your-mdr-transition</loc>
-      <lastmod>2021-05-19T21:02:02+01:00</lastmod>
+      <lastmod>2021-08-11T16:38:19+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/articles/the-impact-of-brexit-on-medical-device-regulatory-compliance</loc>
@@ -50,51 +50,63 @@
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/articles/does-my-medical-device-need-a-pmcf-system-for-mdr-compliance</loc>
-      <lastmod>2021-05-12T11:05:28+01:00</lastmod>
+      <lastmod>2021-08-11T16:38:19+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/articles/medical-device-regulatory-strategy-webinar</loc>
-      <lastmod>2021-08-05T16:35:14+01:00</lastmod>
+      <lastmod>2021-08-09T16:41:06+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/about</loc>
-      <lastmod>2021-08-05T14:39:05+01:00</lastmod>
+      <lastmod>2021-08-26T15:53:36+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/mdr-training-academy/</loc>
+      <lastmod>2021-08-28T16:58:42+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/articles/</loc>
-      <lastmod>2021-05-09T11:59:22+01:00</lastmod>
+      <lastmod>2021-08-28T16:58:42+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/medical-device-regulatory-guidance-resources/downloads/clinical-evaluation-report-template</loc>
+      <lastmod>2021-08-26T15:53:36+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/clinical-evaluation/clinical-evaluation-report-template</loc>
-      <lastmod>2021-06-22T14:17:50+01:00</lastmod>
-    </url>
-    <url>
-      <loc>https://www.mantrasystems.co.uk/mdr-resources/downloads/clinical-evaluation-report-template</loc>
-      <lastmod>2021-06-22T14:17:50+01:00</lastmod>
+      <lastmod>2021-08-11T16:38:19+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/clinical-evaluation/clinical-evaluation-report</loc>
       <lastmod>2021-05-10T13:24:18+01:00</lastmod>
     </url>
     <url>
+      <loc>https://www.mantrasystems.co.uk/medical-device-regulatory-services/clinical-evaluation</loc>
+      <lastmod>2021-08-27T16:18:07+01:00</lastmod>
+    </url>
+    <url>
       <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/clinical-evaluation/</loc>
       <lastmod>2021-05-10T13:24:18+01:00</lastmod>
     </url>
     <url>
+      <loc>https://www.mantrasystems.co.uk/medical-device-regulatory-services/clinical-evidence-generation</loc>
+      <lastmod>2021-08-27T16:18:07+01:00</lastmod>
+    </url>
+    <url>
       <loc>https://www.mantrasystems.co.uk/complaints</loc>
-      <lastmod>2021-06-03T08:55:58+01:00</lastmod>
+      <lastmod>2021-08-04T19:02:41+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/contact</loc>
-      <lastmod>2021-04-16T13:41:11+01:00</lastmod>
+      <lastmod>2021-08-25T22:23:18+01:00</lastmod>
     </url>
     <url>
-      <loc>https://www.mantrasystems.co.uk/mdr-resources/downloads/</loc>
-      <lastmod>2021-06-03T08:55:58+01:00</lastmod>
+      <loc>https://www.mantrasystems.co.uk/medical-device-regulatory-resources/downloads/</loc>
+      <lastmod>2021-08-26T10:17:56+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/</loc>
-      <lastmod>2021-06-03T11:10:39+01:00</lastmod>
+      <lastmod>2021-08-28T16:58:42+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/eudamed</loc>
@@ -102,11 +114,11 @@
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/faqs</loc>
-      <lastmod>2021-05-19T11:56:14+01:00</lastmod>
+      <lastmod>2021-08-25T22:23:18+01:00</lastmod>
     </url>
     <url>
-      <loc>https://www.mantrasystems.co.uk/mdr-resources/free-mdr-support</loc>
-      <lastmod>2021-06-03T11:10:39+01:00</lastmod>
+      <loc>https://www.mantrasystems.co.uk/medical-device-regulatory-guidance-resources/free-mdr-support</loc>
+      <lastmod>2021-08-26T10:17:56+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/gap-analysis</loc>
@@ -114,47 +126,31 @@
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/</loc>
-      <lastmod>2021-08-05T14:39:05+01:00</lastmod>
+      <lastmod>2021-08-27T16:18:07+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/join</loc>
-      <lastmod>2021-07-01T11:29:49+01:00</lastmod>
+      <lastmod>2021-08-27T16:18:07+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/maa-newsletter</loc>
-      <lastmod>2021-06-02T17:35:46+01:00</lastmod>
+      <lastmod>2021-08-26T15:53:36+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/</loc>
-      <lastmod>2021-06-03T11:10:39+01:00</lastmod>
+      <lastmod>2021-08-28T16:58:42+01:00</lastmod>
     </url>
     <url>
-      <loc>https://www.mantrasystems.co.uk/medical-device-regulatory-consulting-services/mdr-clinical-evaluation</loc>
-      <lastmod>2021-05-09T11:59:22+01:00</lastmod>
+      <loc>https://www.mantrasystems.co.uk/medical-device-regulatory-guidance-resources/mdr-compliance-webinar</loc>
+      <lastmod>2021-08-27T16:18:07+01:00</lastmod>
     </url>
     <url>
-      <loc>https://www.mantrasystems.co.uk/mdr-resources/mdr-compliance-webinar</loc>
-      <lastmod>2021-06-03T11:10:39+01:00</lastmod>
+      <loc>https://www.mantrasystems.co.uk/medical-device-regulatory-guidance-resources/downloads/mdr-gap-analyser</loc>
+      <lastmod>2021-08-26T15:53:36+01:00</lastmod>
     </url>
     <url>
-      <loc>https://www.mantrasystems.co.uk/medical-device-regulatory-consulting-services/</loc>
-      <lastmod>2021-06-21T14:05:18+01:00</lastmod>
-    </url>
-    <url>
-      <loc>https://www.mantrasystems.co.uk/mdr-resources/downloads/mdr-gap-analyser</loc>
-      <lastmod>2021-06-24T17:40:11+01:00</lastmod>
-    </url>
-    <url>
-      <loc>https://www.mantrasystems.co.uk/medical-device-regulatory-consulting-services/mdr-pmcf-plan-study-survey</loc>
-      <lastmod>2021-07-01T12:19:48+01:00</lastmod>
-    </url>
-    <url>
-      <loc>https://www.mantrasystems.co.uk/mdr-resources/</loc>
-      <lastmod>2021-05-18T16:03:04+01:00</lastmod>
-    </url>
-    <url>
-      <loc>https://www.mantrasystems.co.uk/medical-device-regulatory-consulting-services/medical-technical-writing</loc>
-      <lastmod>2021-05-10T13:24:18+01:00</lastmod>
+      <loc>https://www.mantrasystems.co.uk/medical-device-regulatory-services/medical-writing</loc>
+      <lastmod>2021-08-27T16:18:07+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/member-states</loc>
@@ -162,7 +158,7 @@
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/newsletter</loc>
-      <lastmod>2021-06-02T17:35:46+01:00</lastmod>
+      <lastmod>2021-08-04T19:02:41+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/notified-bodies</loc>
@@ -173,8 +169,8 @@
       <lastmod>2021-06-03T11:10:39+01:00</lastmod>
     </url>
     <url>
-      <loc>https://www.mantrasystems.co.uk/mdr-resources/pmcf-checker</loc>
-      <lastmod>2021-05-19T21:02:02+01:00</lastmod>
+      <loc>https://www.mantrasystems.co.uk/medical-device-regulatory-guidance-resources/pmcf-checker</loc>
+      <lastmod>2021-08-26T10:17:56+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/post-market-surveillance/post-market-clinical-follow-up/pmcf-plan</loc>
@@ -186,7 +182,7 @@
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/post-market-surveillance/post-market-clinical-follow-up/pmcf-template</loc>
-      <lastmod>2021-06-03T08:55:58+01:00</lastmod>
+      <lastmod>2021-08-27T16:18:07+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/post-market-surveillance/post-market-clinical-follow-up/</loc>
@@ -194,7 +190,7 @@
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/post-market-surveillance/</loc>
-      <lastmod>2021-06-03T08:55:58+01:00</lastmod>
+      <lastmod>2021-08-26T12:46:33+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/quality-management-system</loc>
@@ -202,39 +198,39 @@
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/post-market-surveillance/post-market-clinical-follow-up/real-world-data</loc>
-      <lastmod>2021-06-02T23:44:45+01:00</lastmod>
+      <lastmod>2021-08-27T16:18:07+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/post-market-surveillance/post-market-clinical-follow-up/real-world-evidence</loc>
-      <lastmod>2021-06-03T08:55:58+01:00</lastmod>
+      <lastmod>2021-08-27T16:18:07+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/medical-device-regulatory-guidance-resources/</loc>
+      <lastmod>2021-08-28T16:58:42+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/risk-management</loc>
-      <lastmod>2021-06-03T11:10:39+01:00</lastmod>
+      <lastmod>2021-08-27T16:18:07+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://www.mantrasystems.co.uk/medical-device-regulatory-services/</loc>
+      <lastmod>2021-08-28T16:58:42+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/site-map</loc>
-      <lastmod>2021-06-21T14:38:53+01:00</lastmod>
+      <lastmod>2021-08-26T12:46:33+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/software-as-a-medical-device</loc>
-      <lastmod>2021-06-03T08:55:58+01:00</lastmod>
+      <lastmod>2021-08-28T16:58:42+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/summary-of-safety-and-clinical-performance</loc>
-      <lastmod>2021-06-03T08:55:58+01:00</lastmod>
-    </url>
-    <url>
-      <loc>https://www.mantrasystems.co.uk/medical-device-regulatory-consulting-services/systematic-literature-reviews</loc>
-      <lastmod>2021-05-10T13:24:18+01:00</lastmod>
-    </url>
-    <url>
-      <loc>https://www.mantrasystems.co.uk/talk</loc>
-      <lastmod>2021-04-16T08:44:09+01:00</lastmod>
+      <lastmod>2021-08-28T16:58:42+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/eu-mdr-compliance/manufacturers/post-market-surveillance/vigilance</loc>
-      <lastmod>2021-06-03T08:55:58+01:00</lastmod>
+      <lastmod>2021-08-27T16:18:07+01:00</lastmod>
     </url>
     <url>
       <loc>https://www.mantrasystems.co.uk/assets/downloads/documents/mantra-systems-ltd-complaints-form.pdf</loc>

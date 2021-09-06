@@ -156,76 +156,21 @@
             <ul class="row tile">
               <li class="col col-6">
                 <input type="radio" name="call-option" id="call-option-1" class="call-option" />
-                <label for="call-option-1" class="call-option-1 cta icon-phone"><span>I'd like to talk with you <b>now</b></span></label>
+                <label for="call-option-1" class="call-option-1 cta icon-phone"><span>I'd like to call you <b>now</b></span></label>
                 <div class="content call-option-1">
-                  <h2>Call <b>now</b> for free MDR support</h2>
+                  <h2>Call us for free MDR support</h2>
                   <p class="phone-number-cta"><a href="tel:+441143863349" class="button"><span class="icon-phone"><span class="area-code">(+44)</span> <span>0114 386 3349</span></span></a></p>
                   <p class="availability"><span>Available Monday to Friday</span> 9am to 5pm (<a href="https://www.timeanddate.com/worldclock/converter.html?iso=20210415T150000&amp;p1=136" rel="noopener" target="_blank" title="Check timezone">London, UK timezone</a>)</p>
                 </div>
               </li>
               <li class="col col-6">
                 <input type="radio" name="call-option" id="call-option-2" class="call-option" />
-                <label for="call-option-2" class="call-option-2 cta icon-clock"><span>Get us to call you back <b>today</b></span></label>
+                <label for="call-option-2" class="call-option-2 cta icon-clock"><span>Let us call you <b>later</b></span></label>
                 <div class="content call-option-2">
-                  <h2>What time should we call you <b>today</b>?</h2>
+                  <h2>Please tell us your details</h2>
                   <form action="https://formspree.io/f/xdoykakl" method="POST">
                     <fieldset>
                       <input type="hidden" name="origin" value="Callback form on /medical-device-regulatory-guidance-resources/free-mdr-support" />
-                      <div class="form-group call-time">
-                        <ol class="call-hours">
-                          <li>
-                            <input type="radio" name="call-hour" id="call-hour-09" value="09" />
-                            <label for="call-hour-09">09</label>
-                          </li>
-                          <li>
-                            <input type="radio" name="call-hour" id="call-hour-10" value="10" />
-                            <label for="call-hour-10">10</label>
-                          </li>
-                          <li>
-                            <input type="radio" name="call-hour" id="call-hour-11" value="11" />
-                            <label for="call-hour-11">11</label>
-                          </li>
-                          <li>
-                            <input type="radio" name="call-hour" id="call-hour-12" value="12" />
-                            <label for="call-hour-12">12</label>
-                          </li>
-                          <li>
-                            <input type="radio" name="call-hour" id="call-hour-13" value="13" />
-                            <label for="call-hour-13">13</label>
-                          </li>
-                          <li>
-                            <input type="radio" name="call-hour" id="call-hour-14" value="14" />
-                            <label for="call-hour-14">14</label>
-                          </li>
-                          <li>
-                            <input type="radio" name="call-hour" id="call-hour-15" value="15" />
-                            <label for="call-hour-15">15</label>
-                          </li>
-                          <li>
-                            <input type="radio" name="call-hour" id="call-hour-16" value="16" />
-                            <label for="call-hour-16">16</label>
-                          </li>
-                        </ol>
-                        <ol class="call-minutes">
-                          <li>
-                            <input type="radio" name="call-minute" id="call-minute-00" value="00" />
-                            <label for="call-minute-00">00</label>
-                          </li>
-                          <li>
-                            <input type="radio" name="call-minute" id="call-minute-15" value="15" />
-                            <label for="call-minute-15">15</label>
-                          </li>
-                          <li>
-                            <input type="radio" name="call-minute" id="call-minute-30" value="30" />
-                            <label for="call-minute-30">30</label>
-                          </li>
-                          <li>
-                            <input type="radio" name="call-minute" id="call-minute-45" value="45" />
-                            <label for="call-minute-45">45</label>
-                          </li>
-                        </ol>
-                        <p class="timezone">Based on <a href="https://www.timeanddate.com/worldclock/converter.html?p1=136" rel="noopener" target="_blank" title="Check timezone">London, UK timezone</a></p>
-                      </div>
                       <div class="form-group linear-fields">
                         <label>
                           <span class="label hide-screen">Name</span>
@@ -236,8 +181,67 @@
                           <input type="tel" name="phone" placeholder="Phone number" maxlength="20" required="" />
                         </label>
                       </div>
+                      <div class="reveal-fields">
+                        <input type="checkbox" id="reveal-fields" />
+                        <label for="reveal-fields" class="anchor">Optionally, choose a time for us to call you today</label>
+                        <div class="form-group call-time">
+                          <ol class="call-hours">
+                            <li>
+                              <input type="radio" name="call-hour" id="call-hour-09" value="09" />
+                              <label for="call-hour-09">09</label>
+                            </li>
+                            <li>
+                              <input type="radio" name="call-hour" id="call-hour-10" value="10" />
+                              <label for="call-hour-10">10</label>
+                            </li>
+                            <li>
+                              <input type="radio" name="call-hour" id="call-hour-11" value="11" />
+                              <label for="call-hour-11">11</label>
+                            </li>
+                            <li>
+                              <input type="radio" name="call-hour" id="call-hour-12" value="12" />
+                              <label for="call-hour-12">12</label>
+                            </li>
+                            <li>
+                              <input type="radio" name="call-hour" id="call-hour-13" value="13" />
+                              <label for="call-hour-13">13</label>
+                            </li>
+                            <li>
+                              <input type="radio" name="call-hour" id="call-hour-14" value="14" />
+                              <label for="call-hour-14">14</label>
+                            </li>
+                            <li>
+                              <input type="radio" name="call-hour" id="call-hour-15" value="15" />
+                              <label for="call-hour-15">15</label>
+                            </li>
+                            <li>
+                              <input type="radio" name="call-hour" id="call-hour-16" value="16" />
+                              <label for="call-hour-16">16</label>
+                            </li>
+                          </ol>
+                          <ol class="call-minutes">
+                            <li>
+                              <input type="radio" name="call-minute" id="call-minute-00" value="00" />
+                              <label for="call-minute-00">00</label>
+                            </li>
+                            <li>
+                              <input type="radio" name="call-minute" id="call-minute-15" value="15" />
+                              <label for="call-minute-15">15</label>
+                            </li>
+                            <li>
+                              <input type="radio" name="call-minute" id="call-minute-30" value="30" />
+                              <label for="call-minute-30">30</label>
+                            </li>
+                            <li>
+                              <input type="radio" name="call-minute" id="call-minute-45" value="45" />
+                              <label for="call-minute-45">45</label>
+                            </li>
+                          </ol>
+                          <p class="timezone">Based on <a href="https://www.timeanddate.com/worldclock/converter.html?p1=136" rel="noopener" target="_blank" title="Check timezone">London, UK timezone</a></p>
+                        </div>
+                      </div>
                       <input type="text" name="_gotcha" class="hide" />
-                      <button type="submit" class="button">Book your call</button>
+                      <button type="submit" class="button"><span class="icon-clock"><span>Book your call</span></span></button>
                     </fieldset>
                   </form>
                 </div>

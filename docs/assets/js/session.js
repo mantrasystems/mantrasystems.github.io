@@ -1,5 +1,5 @@
 window.addEventListener("DOMContentLoaded", function() {
-  var GA_TRACKING_ID = 'G-68RHWWLT08';
+  var GA_TRACKING_ID = 'UA-150294559-1';
   var localStorageCid = {
       objectName: 'ga_client_id',
       expires: 1000*60*60*24*365*2

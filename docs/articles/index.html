@@ -657,6 +657,8 @@
             hyvorScript = document.createElement("script"),
             cssElem = document.getElementById("cssElem");
       
+        gaScript.type = 'text/javascript';
+        gaScript.async = true;
         gaScript.src = "https://www.googletagmanager.com/gtag/js?id=UA-150294559-1";
       
         cssElem.parentNode.insertBefore(gaScript, cssElem.nextSibling);

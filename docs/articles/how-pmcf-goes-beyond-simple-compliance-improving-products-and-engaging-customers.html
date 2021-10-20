@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html itemscope itemtype="http://schema.org/WebPage" lang="en">
-  <head>
-    <!-- CSS -->
-    <link rel="stylesheet preload" href="/assets/css/application.css?hello" as="style" crossorigin>
+  <head id="header">
+    <link rel="stylesheet preload" href="/assets/css/application.css" as="style" id='cssElem' crossorigin>
+    <!-- General -->
     <meta charset="utf-8">
     <meta name="handheldfriendly" content="true">
     <meta name="mobileoptimized" content="width">
@@ -45,6 +45,15 @@
     <title>How PMCF goes beyond simple compliance - improving products and engaging customers</title>
   </head>
   <body class="article nav-alt">
+    <div id="cookies-eu-banner">
+      <div>
+        <p>With your permission, we'll <a href="/privacy#cookies" id="cookies-eu-more" target="_blank">use some cookies</a> to help us improve our website.</p>
+        <div class="buttons">
+          <button class="button" id="cookies-eu-accept">Accept</button>
+          <button class="button" id="cookies-eu-reject">Reject</button>
+        </div>
+      </div>
+    </div>
     <header class="banner" id="top">
       <div class="wrap">
         <a accesskey="s" href="#main-content" class="content-jump">Jump to main content</a>
@@ -221,8 +230,7 @@
             <p>Furthermore, the act of selecting a clinical site may help them to feel valued and appreciated, cementing a positive relationship and, in turn, perception of your products and you as a company.</p>
             <p>Customer relationships must be handled sensitively in relation to all forms of clinical study and PMCF is no exception. In particular, study participation must in no way act as an inducement to buy or use the product. And, as with all clinical studies, challenges will arise from time-to-time that may strain relationships. However, the right approach from the outset can more than overcome any such challenges and companies that build a network of satisfied customers actively engaging in their PMCF activities stand to secure both their customer relations and their regulatory approval both now and well into the future.</p>
             <h2 id="summary">Summary</h2>
-            <p>For advice on designing and implementing PMCF studies that will benefit both your business and your customers, <a href="/medical-device-regulatory-guidance-resources/free-mdr-support">arrange a free consultation</a> with a member of our team. Uniquely, our advisors are all medical professionals who have decades of experience working as investigators in clinical studies. Through their ability to offer a direct perspective from the clinical side, our team can help ensure your PMCF studies are designed for maximum effectiveness, investigator appeal and data collection compliance. We also offer a risk-share model where our remuneration is tied directly to the success of your PMCF study.</p>
-            <p>Read more about our <a href="/medical-device-regulatory-consulting-services/clinical-evidence-generation">PMCF services</a> or <a href="/contact">contact a member of our team</a> for a free, no-obligation discussion.</p>
+            <p>For advice on designing and implementing <a href="/medical-device-regulatory-consulting-services/clinical-evidence-generation">PMCF studies</a> that will benefit both your business and your customers, <a href="/contact">arrange a free consultation</a> with a member of our team. Uniquely, our advisors are all medical professionals who have decades of experience working as investigators in clinical studies. Through their ability to offer a direct perspective from the clinical side, our team can help ensure your PMCF studies are designed for maximum effectiveness, investigator appeal and data collection compliance. We also offer a risk-share model where our remuneration is tied directly to the success of your PMCF study.</p>
             <p>This is Part 2 of our PMCF under the MDR article series. Go back to Part 1 - <a href="/articles/why-you-will-almost-certainly-need-a-pmcf-system-for-your-medical-devices">Why you’ll almost certainly need a PMCF system for your medical devices</a>.</p>
             <div class="supporting-info end">
               <ul class="share-options">
@@ -400,7 +408,7 @@
         </div>
       </div>
     </main>
-    <footer class="footer">
+    <footer class="footer" id="footer">
       <div class="site">
         <div class="wrap">
           <div class="row">
@@ -523,6 +531,32 @@
         </form>
       </div>
     </div>
-    <script src="https://transactions.sendowl.com/assets/sendowl.js" defer></script>
+    <script src="/assets/js/cookies-eu-banner.js"></script>
+    <script>
+      new CookiesEuBanner(function () {
+        var gaScript = document.createElement("script"),
+            hyvorScript = document.createElement("script"),
+            cssElem = document.getElementById("cssElem");
+      
+        gaScript.src = "https://www.googletagmanager.com/gtag/js?id=G-68RHWWLT08";
+      
+        cssElem.parentNode.insertBefore(gaScript, cssElem.nextSibling);
+      
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-68RHWWLT08');
+        gtag('set', 'anonymizeIp', true);
+      }, true);
+    </script>
+    <script>
+      var HYVOR_TALK_WEBSITE = 5429;
+      var HYVOR_TALK_CONFIG = {
+        url: "https://www.mantrasystems.co.uk/articles/how-pmcf-goes-beyond-simple-compliance-improving-products-and-engaging-customers",
+        id: ""
+      };
+    </script>
+    <script async src="//talk.hyvor.com/web-api/embed.js"></script>
+    <script defer src="https://transactions.sendowl.com/assets/sendowl.js"></script>
   </body>
 </html>

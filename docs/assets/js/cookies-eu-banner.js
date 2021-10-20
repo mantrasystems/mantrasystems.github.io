@@ -72,19 +72,12 @@
         banner = getElementById('cookies-eu-banner'),
         rejectButton = getElementById('cookies-eu-reject'),
         acceptButton = getElementById('cookies-eu-accept'),
-        moreLink = getElementById('cookies-eu-more'),
         waitRemove = (banner.dataset.waitRemove === undefined) ? 0 : parseInt(banner.dataset.waitRemove),
         // Variables for minification optimization
         addClickListener = this.addClickListener,
         removeBanner = _this.removeBanner.bind(_this, waitRemove);
 
       banner.style.display = 'block';
-
-      if (moreLink) {
-        addClickListener(moreLink, function () {
-          _this.deleteCookie(_this.cookieName);
-        });
-      }
 
       if (acceptButton) {
         addClickListener(acceptButton, function () {
@@ -141,7 +134,7 @@
       var date = new Date();
       date.setTime(date.getTime() + this.cookieTimeout);
 
-      document.cookie = name + '=' + value + ';expires=' + date.toGMTString() + ';path=/' + ';secure;SameSite=Lax';
+      document.cookie = name + '=' + value + ';expires=' + date.toGMTString() + ';path=/';
     },
 
     /*

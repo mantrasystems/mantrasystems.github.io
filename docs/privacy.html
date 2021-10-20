@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html itemscope itemtype="http://schema.org/WebPage" lang="en">
-  <head>
-    <!-- CSS -->
-    <link rel="stylesheet preload" href="/assets/css/application.css?hello" as="style" crossorigin>
+  <head id="header">
+    <link rel="stylesheet preload" href="/assets/css/application.css" as="style" id='cssElem' crossorigin>
+    <!-- General -->
     <meta charset="utf-8">
     <meta name="handheldfriendly" content="true">
     <meta name="mobileoptimized" content="width">
@@ -43,6 +43,15 @@
     <title>Privacy policy - Mantra Systems</title>
   </head>
   <body class="">
+    <div id="cookies-eu-banner">
+      <div>
+        <p>With your permission, we'll <a href="/privacy#cookies" id="cookies-eu-more" target="_blank">use some cookies</a> to help us improve our website.</p>
+        <div class="buttons">
+          <button class="button" id="cookies-eu-accept">Accept</button>
+          <button class="button" id="cookies-eu-reject">Reject</button>
+        </div>
+      </div>
+    </div>
     <header class="banner" id="top">
       <div class="wrap">
         <a accesskey="s" href="#main-content" class="content-jump">Jump to main content</a>
@@ -170,7 +179,7 @@
       <div class="strip page-intro bg-b5">
         <div class="wrap">
           <h1>Privacy policy</h1>
-          <p class="lead">Last updated 6th October, 2021</p>
+          <p class="lead">Last updated 19th October, 2021</p>
         </div>
       </div>
       <div class="strip">
@@ -219,8 +228,10 @@
               <ul class="disc">
                 <li><b>Business Transfers.</b> We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.</li>
               </ul>
-              <h2 id="cookies" class="target">Do we use cookies and other tracking technologies?</h2>
-              <p><b>In short:</b> No. We don't set any cookies or use any tracking technologies on our website to collect any of your data.</p>
+              <h2 id="cookies" class="target">Do we use cookies?</h2>
+              <p><b>In short:</b> Yes. If you give us permission, we use Google Analytics to anonymously gather information about your activity on our website.</p>
+              <p>Invasive cookies and other tracking technologies are a privacy concern and we try to use them as infrequently as possible. Currently, we only use cookies with Google Analytics because it helps us see which features of our website people like and which pages need improving. We have activated functionality that means your IP address isn't logged by Google Analytics and we have no way to determine who is actually visiting our website.</p>
+              <p>However, we will only use these cookies if you give us permission and our implementation is legally compliant with the EU GDPR. The choice is yours to accept the cookies and our website is still fully functional if you reject them.</p>
               <h2>Do we use anti-spam controls on forms?</h2>
               <p><b>In short:</b> We use an unobtrusive hidden input to trick spammers in order to filter out their submissions.</p>
               <h2>How long do we keep your information?</h2>
@@ -267,7 +278,7 @@
         </div>
       </div>
     </main>
-    <footer class="footer">
+    <footer class="footer" id="footer">
       <div class="site">
         <div class="wrap">
           <div class="row">
@@ -350,6 +361,24 @@
         </div>
       </div>
     </footer>
-    <script src="https://transactions.sendowl.com/assets/sendowl.js" defer></script>
+    <script src="/assets/js/cookies-eu-banner.js"></script>
+    <script>
+      new CookiesEuBanner(function () {
+        var gaScript = document.createElement("script"),
+            hyvorScript = document.createElement("script"),
+            cssElem = document.getElementById("cssElem");
+      
+        gaScript.src = "https://www.googletagmanager.com/gtag/js?id=G-68RHWWLT08";
+      
+        cssElem.parentNode.insertBefore(gaScript, cssElem.nextSibling);
+      
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-68RHWWLT08');
+        gtag('set', 'anonymizeIp', true);
+      }, true);
+    </script>
+    <script defer src="https://transactions.sendowl.com/assets/sendowl.js"></script>
   </body>
 </html>

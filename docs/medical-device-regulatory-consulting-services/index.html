@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html itemscope itemtype="http://schema.org/WebPage" lang="en">
-  <head>
-    <!-- CSS -->
-    <link rel="stylesheet preload" href="/assets/css/application.css?hello" as="style" crossorigin>
+  <head id="header">
+    <link rel="stylesheet preload" href="/assets/css/application.css" as="style" id='cssElem' crossorigin>
+    <!-- General -->
     <meta charset="utf-8">
     <meta name="handheldfriendly" content="true">
     <meta name="mobileoptimized" content="width">
@@ -44,6 +44,15 @@
     <title>Medical Device Regulatory Consulting Services</title>
   </head>
   <body class="services nav-alt">
+    <div id="cookies-eu-banner">
+      <div>
+        <p>With your permission, we'll <a href="/privacy#cookies" id="cookies-eu-more" target="_blank">use some cookies</a> to help us improve our website.</p>
+        <div class="buttons">
+          <button class="button" id="cookies-eu-accept">Accept</button>
+          <button class="button" id="cookies-eu-reject">Reject</button>
+        </div>
+      </div>
+    </div>
     <header class="banner" id="top">
       <div class="wrap">
         <a accesskey="s" href="#main-content" class="content-jump">Jump to main content</a>
@@ -445,7 +454,7 @@
         </div>
       </div>
     </main>
-    <footer class="footer">
+    <footer class="footer" id="footer">
       <div class="site">
         <div class="wrap">
           <div class="row">
@@ -568,6 +577,24 @@
         </form>
       </div>
     </div>
-    <script src="https://transactions.sendowl.com/assets/sendowl.js" defer></script>
+    <script src="/assets/js/cookies-eu-banner.js"></script>
+    <script>
+      new CookiesEuBanner(function () {
+        var gaScript = document.createElement("script"),
+            hyvorScript = document.createElement("script"),
+            cssElem = document.getElementById("cssElem");
+      
+        gaScript.src = "https://www.googletagmanager.com/gtag/js?id=G-68RHWWLT08";
+      
+        cssElem.parentNode.insertBefore(gaScript, cssElem.nextSibling);
+      
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-68RHWWLT08');
+        gtag('set', 'anonymizeIp', true);
+      }, true);
+    </script>
+    <script defer src="https://transactions.sendowl.com/assets/sendowl.js"></script>
   </body>
 </html>

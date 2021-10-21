@@ -162,13 +162,16 @@
      * to specify their own transition effects
      */
     removeBanner: function (wait) {
-      var banner = document.getElementById('cookies-eu-banner');
+      var banner = document.getElementById('cookies-eu-banner'),
+          content = document.getElementById('cookies-content');
       banner.classList.add('cookies-eu-banner--before-remove');
       setTimeout (function() {
         if (banner && banner.parentNode) {
           banner.parentNode.removeChild(banner);
         }
+        content.innerHTML = "<h3>Cookie settings</h3><p class='notice info'><b>Your settings have been saved</b></p>";
       }, wait);
+
     }
   };
 

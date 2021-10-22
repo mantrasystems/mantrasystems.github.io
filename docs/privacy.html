@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html itemscope itemtype="http://schema.org/WebPage" lang="en">
   <head id="header">
-    <link rel="stylesheet preload" href="/assets/css/application.css" as="style" id='cssElem' crossorigin>
+    <!-- CSS -->
+    <link rel="stylesheet preload" href="/assets/css/application.css" as="style" crossorigin>
+    <!-- Scripts -->
     <script defer data-domain="mantrasystems.co.uk" src="https://plausible.io/js/plausible.js"></script>
     <!-- General -->
     <meta charset="utf-8">
@@ -171,7 +173,7 @@
       <div class="strip page-intro bg-b5">
         <div class="wrap">
           <h1>Privacy policy</h1>
-          <p class="lead">Last updated October 21st, 2021</p>
+          <p class="lead">Last updated October 22nd, 2021</p>
         </div>
       </div>
       <div class="strip">
@@ -220,22 +222,8 @@
               <ul class="disc">
                 <li><b>Business Transfers.</b> We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.</li>
               </ul>
-              <h2 id="cookies-policy" class="target">Cookies Policy - Do we use cookies?</h2>
-              <p><b>In short:</b> If you give us permission, we use Google Analytics' cookies to anonymously analyse traffic on our website.</p>
-              <div id="cookies-content">
-                <div id="cookies-eu-banner" class="cookies-privacy">
-                  <div id="cookies-content">
-                    <h3 id="cookies-settings" class="target">Cookie settings</h3>
-                    <ul class="buttons">
-                      <li><button class="button small full-mobile" id="cookies-eu-accept">Accept cookies</button></li>
-                      <li><button class="button secondary small full-mobile" id="cookies-eu-reject">Reject cookies</button></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <h3>About our Google Analytics cookie use</h3>
-              <p>Cookies and other tracking technologies are a privacy concern and so we use them as infrequently as possible. Currently, we only use cookies with Google Analytics because it helps us see which features of our website people like and which pages need improving. We have activated functionality which means your IP address isn't logged by Google Analytics. Mantra Systems has no way to determine who is visiting our website.</p>
-              <p>We only use these cookies if you give us permission and our implementation is legally compliant with EU GDPR. We don't sell or share this data with any other 3rd parties. All data collected is stored on Google's servers.</p>
+              <h2 id="cookies-policy" class="target">Do we use cookies?</h2>
+              <p><b>In short:</b> No. We don't use cookies to add functionality to our website.</p>
               <h2>Do we use anti-spam controls on forms?</h2>
               <p><b>In short:</b> We use an unobtrusive hidden input to trick spammers in order to filter out their submissions.</p>
               <h2>How long do we keep your information?</h2>
@@ -365,26 +353,6 @@
         </div>
       </div>
     </footer>
-    <script src="/assets/js/cookies-eu-banner.js"></script>
-    <script>
-      new CookiesEuBanner(function () {
-        var gaScript = document.createElement("script"),
-            hyvorScript = document.createElement("script"),
-            cssElem = document.getElementById("cssElem");
-      
-        gaScript.type = 'text/javascript';
-        gaScript.async = true;
-        gaScript.src = "https://www.googletagmanager.com/gtag/js?id=UA-150294559-1";
-      
-        cssElem.parentNode.insertBefore(gaScript, cssElem.nextSibling);
-      
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-150294559-1');
-        gtag('set', 'anonymizeIp', true);
-      }, true);
-    </script>
     <script defer src="https://transactions.sendowl.com/assets/sendowl.js"></script>
   </body>
 </html>

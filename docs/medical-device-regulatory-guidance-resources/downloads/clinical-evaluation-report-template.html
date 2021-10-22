@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html itemscope itemtype="http://schema.org/WebPage" lang="en">
   <head id="header">
-    <link rel="stylesheet preload" href="/assets/css/application.css" as="style" id='cssElem' crossorigin>
+    <!-- CSS -->
+    <link rel="stylesheet preload" href="/assets/css/application.css" as="style" crossorigin>
+    <!-- Scripts -->
     <script defer data-domain="mantrasystems.co.uk" src="https://plausible.io/js/plausible.js"></script>
     <!-- General -->
     <meta charset="utf-8">
@@ -45,15 +47,6 @@
     <title>Clinical Evaluation Report Template for EU MDR CER writing</title>
   </head>
   <body class="resources nav-alt">
-    <div id="cookies-eu-banner" class="cookies-banner">
-      <div class="content" id="cookies-content">
-        <p><a href="/privacy#cookies-policy" target="_blank">We use cookies</a> to analyse anonymised traffic on our website.</p>
-        <div class="buttons">
-          <button class="button" id="cookies-eu-accept">Accept</button>
-          <a href="/privacy#cookies-settings" class="button" target="_blank"><span>Cookie </span>Settings</a>
-        </div>
-      </div>
-    </div>
     <header class="banner" id="top">
       <div class="wrap">
         <a accesskey="s" href="#main-content" class="content-jump">Jump to main content</a>
@@ -582,26 +575,6 @@
         </form>
       </div>
     </div>
-    <script src="/assets/js/cookies-eu-banner.js"></script>
-    <script>
-      new CookiesEuBanner(function () {
-        var gaScript = document.createElement("script"),
-            hyvorScript = document.createElement("script"),
-            cssElem = document.getElementById("cssElem");
-      
-        gaScript.type = 'text/javascript';
-        gaScript.async = true;
-        gaScript.src = "https://www.googletagmanager.com/gtag/js?id=UA-150294559-1";
-      
-        cssElem.parentNode.insertBefore(gaScript, cssElem.nextSibling);
-      
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-150294559-1');
-        gtag('set', 'anonymizeIp', true);
-      }, true);
-    </script>
     <script defer src="https://transactions.sendowl.com/assets/sendowl.js"></script>
   </body>
 </html>

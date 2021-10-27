@@ -198,6 +198,11 @@
                 mouseTimer = window.setTimeout(disappearCursor, 5000);
             };
         })();
+        
+        window.onload = function() {
+          let elem = document.getElementById("plausibleAnalytics");
+          elem.focus();
+        }
       </script>
     </main>
     <footer class="footer" id="footer">

@@ -43,7 +43,7 @@
     <link rel="canonical" href="https://www.mantrasystems.co.uk/analytics">
     <title>Analytics - Mantra Systems</title>
   </head>
-  <body class="">
+  <body class="analytics">
     <header class="banner" id="top">
       <div class="wrap">
         <a accesskey="s" href="#main-content" class="content-jump">Jump to main content</a>
@@ -173,13 +173,17 @@
           <h1>Analytics</h1>
         </div>
       </div>
-      <div class="strip">
-        <div class="wrap">
-          <iframe plausible-embed="" src="https://plausible.io/share/mantrasystems.co.uk?auth=WAMUQEWJFfMYYtd_x8ARd&amp;embed=true&amp;theme=light&amp;background=%23FFFFFF" scrolling="no" frameborder="0" loading="lazy" style="width: 1px; min-width: 100%; height: 1600px;"></iframe>
-          <div style="font-size: 14px; padding-bottom: 14px;">Stats powered by <a target="_blank" style="color: #4F46E5; text-decoration: underline;" href="https://plausible.io">Plausible Analytics</a></div>
-          <script async="" src="https://plausible.io/js/embed.host.js"></script>
-        </div>
+      <div class="wrap">
+        <iframe id="plausibleAnalytics" plausible-embed="" src="https://plausible.io/share/mantrasystems.co.uk?auth=WAMUQEWJFfMYYtd_x8ARd&amp;embed=true&amp;theme=light&amp;background=%23FFFFFF" scrolling="no" frameborder="0" style="width: 1px; min-width: 100%; height: 1600px;"></iframe>
       </div>
+      <script async="" src="https://plausible.io/js/embed.host.js"></script>
+      <script>
+        window.addEventListener("load", function() {
+          let elem = document.getElementById("plausibleAnalytics");
+          let doc = elem.contentDocument;
+          doc.body.innerHTML = doc.body.innerHTML + '<style>.max-w-screen-lg {max-width: none;}</style>';
+        });
+      </script>
     </main>
     <footer class="footer" id="footer">
       <div class="site">
@@ -264,6 +268,5 @@
         </div>
       </div>
     </footer>
-    <script defer src="https://transactions.sendowl.com/assets/sendowl.js"></script>
   </body>
 </html>

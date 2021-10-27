@@ -177,6 +177,28 @@
         <iframe id="plausibleAnalytics" plausible-embed="" src="https://plausible.io/share/mantrasystems.co.uk?auth=WAMUQEWJFfMYYtd_x8ARd&amp;embed=true&amp;theme=dark&amp;background=%23111827" scrolling="no" frameborder="0" style="width: 1px; min-width: 100%; height: 1600px;"></iframe>
       </div>
       <script async="" src="https://plausible.io/js/embed.host.js"></script>
+      <script>
+        (function() {
+            var mouseTimer = null, cursorVisible = true;
+        
+            function disappearCursor() {
+                mouseTimer = null;
+                document.body.style.cursor = "none";
+                cursorVisible = false;
+            }
+        
+            document.onmousemove = function() {
+                if (mouseTimer) {
+                    window.clearTimeout(mouseTimer);
+                }
+                if (!cursorVisible) {
+                    document.body.style.cursor = "default";
+                    cursorVisible = true;
+                }
+                mouseTimer = window.setTimeout(disappearCursor, 5000);
+            };
+        })();
+      </script>
     </main>
     <footer class="footer" id="footer">
       <div class="site">

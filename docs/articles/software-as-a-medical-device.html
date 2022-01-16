@@ -2,7 +2,7 @@
 <html itemscope itemtype="http://schema.org/WebPage" lang="en">
   <head id="header">
     <!-- CSS -->
-    <link rel="stylesheet preload" href="/assets/css/application.css?cf3ae2" as="style" crossorigin>
+    <link rel="stylesheet preload" href="/assets/css/application.css?cf3fe2" as="style" crossorigin>
     <!-- Scripts -->
     <script defer data-domain="mantrasystems.co.uk" src="https://plausible.io/js/plausible.js"></script>
     <!-- General -->
@@ -173,12 +173,11 @@
     </header>
     <main class="content" id="main-content">
       <article>
-        <figure class="headline">
-          <picture>
-            <source srcset="/assets/images/content/articles/thumbs/software-as-a-medical-device.jpg" media="(max-width: 768px)">
-            <img src="/assets/images/content/articles/software-as-a-medical-device.jpg" alt="Software as a Medical Device">
-          </picture>
-        </figure>
+        <div class="strip page-intro headline" style="background-image: url(/assets/images/content/articles/thumbs/software-as-a-medical-device.jpg);">
+          <div class="wrap">
+            <h1>Software as a Medical Device</h1>
+          </div>
+        </div>
         <div class="hierarchy">
           <div class="wrap">
             <ol>
@@ -193,7 +192,7 @@
               <div class="compact-form">
                 <form action="https://formspree.io/f/xnqgenkn" method="POST">
                   <fieldset>
-                    <p>Get our latest articles and news</p>
+                    <p>Sign up to our Newsletter</p>
                     <input type="hidden" name="origin" value="Newsletter form on /articles/software-as-a-medical-device">
                     <div class="form-group">
                       <span class="field field-button">
@@ -215,7 +214,6 @@
         </div>
         <div class="strip">
           <div class="wrap">
-            <h1>Software as a Medical Device</h1>
             <div class="supporting-info start">
               <div class="meta">
                 <a href="https://www.linkedin.com/in/paul-hercock-04094916/" target="_blank" rel="noopener" title="View the author's profile on LinkedIn" class="author-linkedin icon-linkedin bg-b5">
@@ -240,45 +238,47 @@
                 <li><a href="mailto:?subject=I%20would%20like%20to%20share%20a%20link%20with%20you&body=Medical%20device%20software%20under%20the%20EU%20MDR%20-%20https://www.mantrasystems.co.uk/articles/software-as-a-medical-device" class="icon-envelope" title="Share by email"><span>Share by email</span></a></li>
               </ul>
             </div>
-            <p><strong>Warning!</strong> Your software may be a medical device!</p>
-            <p>Unless you have spent time working with medical device legislation in the past, the idea that <a href="/eu-mdr-compliance/software-as-a-medical-device-samd">software could be a medical device</a> may be rather unexpected — a medical device is perhaps more traditionally viewed as a hardware product. Nonetheless, it is the case. Software is increasingly capable of medical functions such as making or assisting diagnosis, interpreting medical data, forming a prognosis, monitoring disease progression, and many others. It therefore makes sense to regulate software in line with physical medical devices.</p>
-            <p>Furthermore, the introduction of the <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0745-20170505" target="_blank" rel="noopener">Medical Device Regulation (EU) 2017/745</a>, fully implemented from May 2021, expands the definition of medical device and makes it even more likely that software will fall under its jurisdiction.</p>
-            <p>The EU MDR represents the largest overhaul of medical device legislation in decades. The MDR introduces a wide range of changes including an extended definition of what constitutes a medical device. Following significant advances in the complexity and availability of software over the past decade, many types of medical software will fall within this extended definition and be subject to the full scope of the MDR.</p>
-            <p>So if you have a software product that performs a medical function, how can you determine if your software will be classed as a medical device? And what do you need to do to meet your obligations under the MDR?</p>
-            <h2 id="is-my-software-a-medical-device">Is my software a medical device?</h2>
-            <p>Not all software associated with the provision of healthcare will be classified as a medical device. Medical device legislation is intended to apply only to software whose expected purpose is in line with the definition of “medical device” provided in Article 2 of the MDR. However, because medical software performs such a vast array of purposes across healthcare, working with the Article 2 definition can be challenging.</p>
-            <p>Understanding whether or not the MDR will apply to a product is a key first step in developing a product compliance strategy beyond May 2021. In this article we set out some basic principles that may help developers understand whether the MDR applies to their products.</p>
-            <p>First of all, software must have a <strong>medical purpose on its own</strong> in order to be classified as a medical device. This is important to consider with respect to ‘stand-alone’ software such as a diagnostic application, but even more important when software is an integral part of, or associated with, a hardware device. Determining whether or not software has a medical purpose depends partly upon the <strong>intended purpose specified by the manufacturer</strong>.</p>
-            <p>Secondly, it is important to consider <strong>the extent to which medical value is added</strong> to data entered into the software. For example, simple archive and retrieval software that stores serial blood sugar values without manipulating the data does not add real medical value and would not normally be classed as a medical device; whereas, if that same software highlighted worrying trends in the data and advised when a hospital visit may be needed, this is likely to be held as medical value and class the software as a medical device.</p>
-            <p>Direct autonomous medical actions performed by software are another factor that will draw a software product under the definition of a medical device. For example, an app that analyses skin rashes to make a diagnosis would clearly be classed as a medical device.</p>
-            <p>For the purposes of understanding whether or not an individual software product may be subject to the MDR’s rules, it may be helpful to consider several categories of function and purpose:</p>
-            <ul>
-              <li>Basic support/admin software</li>
-              <li>Simple archive and retrieval</li>
-              <li>Archive, retrieval and modify</li>
-              <li>Data interpretation, advice and/or call-to-action</li>
-              <li>Independent ‘smart’ diagnosis/prognosis/analysis</li>
-              <li>Mixed purpose/modular software</li>
-              <li>Combined hardware/software</li>
-              <li>Closed loop products</li>
-              <li>Contraceptive support</li>
-            </ul>
-            <h2 id="what-needs-to-be-done-if-software-is-a-medical-device">What needs to be done if software is a medical device?</h2>
-            <p>If a software product is classified as a medical device, then the full range of provisions in the Medical Device Regulation 2017/745 (“The MDR”) will apply to the product. This will mean implementing a number of systems that may be unfamiliar to software companies, including:</p>
-            <ul>
-              <li>developing a <a href="/eu-mdr-compliance/quality-management-system">Quality Management System</a></li>
-              <li>implementing a <a href="/eu-mdr-compliance/post-market-surveillance-pms">Post-Market Surveillance (PMS) system</a> to monitor performance of the product</li>
-              <li>designing <a href="/eu-mdr-compliance/post-market-clinical-follow-up-pmcf">Post-Market Clinical Follow-up</a> and <a href="/eu-mdr-compliance/vigilance">Vigilance</a> systems as components of PMS</li>
-              <li>performing a <a href="/eu-mdr-compliance/clinical-evaluation">Clinical Evaluation</a> of the product and submitting a <a href="/eu-mdr-compliance/clinical-evaluation-report">Clinical Evaluation Report (CER)</a></li>
-            </ul>
-            <p>It will also be necessary to understand how to work with MDR Annex VIII to determine risk classification for the product, as well as learning how to use MDR Annex I that lists General Safety and Performance Requirements that must be adhered to for every product.</p>
-            <h2 id="where-can-i-find-help-developing-an-mdr-strategy">Where can I find help developing an MDR strategy?</h2>
-            <div class="article-video">
-              <div class="video-insert youtube-player" data-id="tCVN95NoArI"></div>
-              <p class="video-caption"><b>Video:</b> How to build an EU MDR compliance strategy for your medical devices.</p>
+            <div class="article-content">
+              <p><strong>Warning!</strong> Your software may be a medical device!</p>
+              <p>Unless you have spent time working with medical device legislation in the past, the idea that <a href="/eu-mdr-compliance/software-as-a-medical-device-samd">software could be a medical device</a> may be rather unexpected — a medical device is perhaps more traditionally viewed as a hardware product. Nonetheless, it is the case. Software is increasingly capable of medical functions such as making or assisting diagnosis, interpreting medical data, forming a prognosis, monitoring disease progression, and many others. It therefore makes sense to regulate software in line with physical medical devices.</p>
+              <p>Furthermore, the introduction of the <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0745-20170505" target="_blank" rel="noopener">Medical Device Regulation (EU) 2017/745</a>, fully implemented from May 2021, expands the definition of medical device and makes it even more likely that software will fall under its jurisdiction.</p>
+              <p>The EU MDR represents the largest overhaul of medical device legislation in decades. The MDR introduces a wide range of changes including an extended definition of what constitutes a medical device. Following significant advances in the complexity and availability of software over the past decade, many types of medical software will fall within this extended definition and be subject to the full scope of the MDR.</p>
+              <p>So if you have a software product that performs a medical function, how can you determine if your software will be classed as a medical device? And what do you need to do to meet your obligations under the MDR?</p>
+              <h2 id="is-my-software-a-medical-device">Is my software a medical device?</h2>
+              <p>Not all software associated with the provision of healthcare will be classified as a medical device. Medical device legislation is intended to apply only to software whose expected purpose is in line with the definition of “medical device” provided in Article 2 of the MDR. However, because medical software performs such a vast array of purposes across healthcare, working with the Article 2 definition can be challenging.</p>
+              <p>Understanding whether or not the MDR will apply to a product is a key first step in developing a product compliance strategy beyond May 2021. In this article we set out some basic principles that may help developers understand whether the MDR applies to their products.</p>
+              <p>First of all, software must have a <strong>medical purpose on its own</strong> in order to be classified as a medical device. This is important to consider with respect to ‘stand-alone’ software such as a diagnostic application, but even more important when software is an integral part of, or associated with, a hardware device. Determining whether or not software has a medical purpose depends partly upon the <strong>intended purpose specified by the manufacturer</strong>.</p>
+              <p>Secondly, it is important to consider <strong>the extent to which medical value is added</strong> to data entered into the software. For example, simple archive and retrieval software that stores serial blood sugar values without manipulating the data does not add real medical value and would not normally be classed as a medical device; whereas, if that same software highlighted worrying trends in the data and advised when a hospital visit may be needed, this is likely to be held as medical value and class the software as a medical device.</p>
+              <p>Direct autonomous medical actions performed by software are another factor that will draw a software product under the definition of a medical device. For example, an app that analyses skin rashes to make a diagnosis would clearly be classed as a medical device.</p>
+              <p>For the purposes of understanding whether or not an individual software product may be subject to the MDR’s rules, it may be helpful to consider several categories of function and purpose:</p>
+              <ul>
+                <li>Basic support/admin software</li>
+                <li>Simple archive and retrieval</li>
+                <li>Archive, retrieval and modify</li>
+                <li>Data interpretation, advice and/or call-to-action</li>
+                <li>Independent ‘smart’ diagnosis/prognosis/analysis</li>
+                <li>Mixed purpose/modular software</li>
+                <li>Combined hardware/software</li>
+                <li>Closed loop products</li>
+                <li>Contraceptive support</li>
+              </ul>
+              <h2 id="what-needs-to-be-done-if-software-is-a-medical-device">What needs to be done if software is a medical device?</h2>
+              <p>If a software product is classified as a medical device, then the full range of provisions in the Medical Device Regulation 2017/745 (“The MDR”) will apply to the product. This will mean implementing a number of systems that may be unfamiliar to software companies, including:</p>
+              <ul>
+                <li>developing a <a href="/eu-mdr-compliance/quality-management-system">Quality Management System</a></li>
+                <li>implementing a <a href="/eu-mdr-compliance/post-market-surveillance-pms">Post-Market Surveillance (PMS) system</a> to monitor performance of the product</li>
+                <li>designing <a href="/eu-mdr-compliance/post-market-clinical-follow-up-pmcf">Post-Market Clinical Follow-up</a> and <a href="/eu-mdr-compliance/vigilance">Vigilance</a> systems as components of PMS</li>
+                <li>performing a <a href="/eu-mdr-compliance/clinical-evaluation">Clinical Evaluation</a> of the product and submitting a <a href="/eu-mdr-compliance/clinical-evaluation-report">Clinical Evaluation Report (CER)</a></li>
+              </ul>
+              <p>It will also be necessary to understand how to work with MDR Annex VIII to determine risk classification for the product, as well as learning how to use MDR Annex I that lists General Safety and Performance Requirements that must be adhered to for every product.</p>
+              <h2 id="where-can-i-find-help-developing-an-mdr-strategy">Where can I find help developing an MDR strategy?</h2>
+              <div class="article-video">
+                <div class="video-insert youtube-player" data-id="tCVN95NoArI"></div>
+                <p class="video-caption"><b>Video:</b> How to build an EU MDR compliance strategy for your medical devices.</p>
+              </div>
+              <p>Working with the MDR is likely to be a daunting prospect for many software companies. If you find yourself wondering how to meet MDR requirements for your products, Mantra Systems is your ideal MDR compliance partner. We have extensive experience working with medical device legislation for all kinds of medical devices, including and especially software. We have a team of expertly-trained medical professionals who will work with you to build a tailored MDR compliance strategy for your software. <a href="/contact">Contact us</a> to speak to our medical team to discuss your requirements further.</p>
+              <p>We also have a range of free resources including an <a href="/eu-mdr-compliance/">EU MDR Compliance Guide</a> written by our medical experts, and a free-to-download <a href="/medical-device-regulatory-guidance-resources/downloads/">Software as a Medical Device White Paper</a>.</p>
             </div>
-            <p>Working with the MDR is likely to be a daunting prospect for many software companies. If you find yourself wondering how to meet MDR requirements for your products, Mantra Systems is your ideal MDR compliance partner. We have extensive experience working with medical device legislation for all kinds of medical devices, including and especially software. We have a team of expertly-trained medical professionals who will work with you to build a tailored MDR compliance strategy for your software. <a href="/contact">Contact us</a> to speak to our medical team to discuss your requirements further.</p>
-            <p>We also have a range of free resources including an <a href="/eu-mdr-compliance/">EU MDR Compliance Guide</a> written by our medical experts, and a free-to-download <a href="/medical-device-regulatory-guidance-resources/downloads/">Software as a Medical Device White Paper</a>.</p>
             <div class="guide-nav-end">
               <div class="row tile">
                 <div class="col col-7">
@@ -442,11 +442,11 @@
               </h2>
             </div>
             <div class="col col-5">
-              <h2>Newsletter</h2>
+              <h2>Get our latest articles and news</h2>
               <div class="compact-form">
                 <form action="https://formspree.io/f/xnqgenkn" method="POST">
                   <fieldset>
-                    <p>Get our latest articles and news</p>
+                    <p>Sign up to our Newsletter</p>
                     <input type="hidden" name="origin" value="Newsletter form on /articles/software-as-a-medical-device">
                     <div class="form-group">
                       <span class="field field-button">

@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="175px" height="160px" viewBox="0 0 175 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="210px" height="160px" viewBox="0 0 210 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>triangles</title>
-    <g id="triangles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.06">
+    <g id="triangles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.0599999987">
         <g id="all" transform="translate(1.000000, -18.000000)">
+            <g id="Group" transform="translate(175.000000, 0.000000)">
+                <polygon id="Triangle-Copy" fill="#B6B6B6" transform="translate(16.500000, 58.000000) scale(1, -1) rotate(-90.000000) translate(-16.500000, -58.000000) " points="16.5 41.5 34.5 74.5 -1.5 74.5"></polygon>
+                <polygon id="Triangle-Copy" fill="#595959" transform="translate(16.500000, 18.000000) scale(1, -1) rotate(-90.000000) translate(-16.500000, -18.000000) " points="16.5 1.5 34.5 34.5 -1.5 34.5"></polygon>
+                <polygon id="Triangle-Copy" fill="#9C9C9C" transform="translate(16.500000, 98.000000) scale(1, -1) rotate(-90.000000) translate(-16.500000, -98.000000) " points="16.5 81.5 34.5 114.5 -1.5 114.5"></polygon>
+                <polygon id="Triangle-Copy" fill="#CFCFCF" transform="translate(16.500000, 138.000000) scale(1, -1) rotate(-90.000000) translate(-16.500000, -138.000000) " points="16.5 121.5 34.5 154.5 -1.5 154.5"></polygon>
+                <polygon id="Triangle-Copy" fill="#595959" transform="translate(16.500000, 178.000000) scale(1, -1) rotate(-90.000000) translate(-16.500000, -178.000000) " points="16.5 161.5 34.5 194.5 -1.5 194.5"></polygon>
+                <polygon id="Triangle-Copy" fill="#595959" transform="translate(16.500000, 78.000000) scale(-1, -1) rotate(-90.000000) translate(-16.500000, -78.000000) " points="16.5 61.5 34.5 94.5 -1.5 94.5"></polygon>
+                <polygon id="Triangle-Copy" fill="#CFCFCF" transform="translate(16.500000, 38.000000) scale(-1, -1) rotate(-90.000000) translate(-16.500000, -38.000000) " points="16.5 21.5 34.5 54.5 -1.5 54.5"></polygon>
+                <polygon id="Triangle-Copy" fill="#CFCFCF" transform="translate(16.500000, 118.000000) scale(-1, -1) rotate(-90.000000) translate(-16.500000, -118.000000) " points="16.5 101.5 34.5 134.5 -1.5 134.5"></polygon>
+                <polygon id="Triangle-Copy" fill="#595959" transform="translate(16.500000, 158.000000) scale(-1, -1) rotate(-90.000000) translate(-16.500000, -158.000000) " points="16.5 141.5 34.5 174.5 -1.5 174.5"></polygon>
+            </g>
             <g id="Group" transform="translate(140.000000, 0.000000)">
                 <polygon id="Triangle-Copy" fill="#717171" transform="translate(16.500000, 78.000000) scale(1, -1) rotate(-90.000000) translate(-16.500000, -78.000000) " points="16.5 61.5 34.5 94.5 -1.5 94.5"></polygon>
                 <polygon id="Triangle-Copy" fill="#BABABA" transform="translate(16.500000, 38.000000) scale(1, -1) rotate(-90.000000) translate(-16.500000, -38.000000) " points="16.5 21.5 34.5 54.5 -1.5 54.5"></polygon>

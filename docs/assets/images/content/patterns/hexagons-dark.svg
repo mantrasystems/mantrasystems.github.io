@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="168px" height="145px" viewBox="0 0 168 145" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>hexagons</title>
+    <g id="hexagons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.080513">
+        <g id="all" transform="translate(-15.000000, -15.000000)">
+            <g id="Group" transform="translate(14.000000, 0.000000)">
+                <polygon id="Polygon" fill="#959595" points="15 0 27.9903811 7.5 27.9903811 22.5 15 30 2.00961894 22.5 2.00961894 7.5"></polygon>
+                <polygon id="Polygon" fill="#D5D5D5" points="43 0 55.9903811 7.5 55.9903811 22.5 43 30 30.0096189 22.5 30.0096189 7.5"></polygon>
+                <polygon id="Polygon" fill="#717171" points="71 0 83.9903811 7.5 83.9903811 22.5 71 30 58.0096189 22.5 58.0096189 7.5"></polygon>
+                <polygon id="Polygon" fill="#D5D5D5" points="99 0 111.990381 7.5 111.990381 22.5 99 30 86.0096189 22.5 86.0096189 7.5"></polygon>
+                <polygon id="Polygon" fill="#BABABA" points="127 0 139.990381 7.5 139.990381 22.5 127 30 114.009619 22.5 114.009619 7.5"></polygon>
+                <polygon id="Polygon" fill="#595959" points="155 0 167.990381 7.5 167.990381 22.5 155 30 142.009619 22.5 142.009619 7.5"></polygon>
+            </g>
+            <g id="Group" transform="translate(0.000000, 24.000000)">
+                <polygon id="Polygon" fill="#BABABA" points="15 0 27.9903811 7.5 27.9903811 22.5 15 30 2.00961894 22.5 2.00961894 7.5"></polygon>
+                <polygon id="Polygon" fill="#FDFDFD" points="43 0 55.9903811 7.5 55.9903811 22.5 43 30 30.0096189 22.5 30.0096189 7.5"></polygon>
+                <polygon id="Polygon" fill="#959595" points="71 0 83.9903811 7.5 83.9903811 22.5 71 30 58.0096189 22.5 58.0096189 7.5"></polygon>
+                <polygon id="Polygon" fill="#595959" points="99 0 111.990381 7.5 111.990381 22.5 99 30 86.0096189 22.5 86.0096189 7.5"></polygon>
+                <polygon id="Polygon" fill="#D5D5D5" points="127 0 139.990381 7.5 139.990381 22.5 127 30 114.009619 22.5 114.009619 7.5"></polygon>
+                <polygon id="Polygon" fill="#F8F8F8" points="155 0 167.990381 7.5 167.990381 22.5 155 30 142.009619 22.5 142.009619 7.5"></polygon>
+                <polygon id="Polygon" fill="#BABABA" points="183 0 195.990381 7.5 195.990381 22.5 183 30 170.009619 22.5 170.009619 7.5"></polygon>
+            </g>
+            <g id="Group" transform="translate(14.000000, 48.000000)">
+                <polygon id="Polygon" fill="#717171" points="15 0 27.9903811 7.5 27.9903811 22.5 15 30 2.00961894 22.5 2.00961894 7.5"></polygon>
+                <polygon id="Polygon" fill="#FCFCFC" points="43 0 55.9903811 7.5 55.9903811 22.5 43 30 30.0096189 22.5 30.0096189 7.5"></polygon>
+                <polygon id="Polygon" fill="#D5D5D5" points="71 0 83.9903811 7.5 83.9903811 22.5 71 30 58.0096189 22.5 58.0096189 7.5"></polygon>
+                <polygon id="Polygon" fill="#F9F9F9" points="99 0 111.990381 7.5 111.990381 22.5 99 30 86.0096189 22.5 86.0096189 7.5"></polygon>
+                <polygon id="Polygon" fill="#959595" points="127 0 139.990381 7.5 139.990381 22.5 127 30 114.009619 22.5 114.009619 7.5"></polygon>
+                <polygon id="Polygon" fill="#BABABA" points="155 0 167.990381 7.5 167.990381 22.5 155 30 142.009619 22.5 142.009619 7.5"></polygon>
+            </g>
+            <g id="Group" transform="translate(0.000000, 72.000000)">
+                <polygon id="Polygon" fill="#D5D5D5" points="15 0 27.9903811 7.5 27.9903811 22.5 15 30 2.00961894 22.5 2.00961894 7.5"></polygon>
+                <polygon id="Polygon" fill="#BABABA" points="43 0 55.9903811 7.5 55.9903811 22.5 43 30 30.0096189 22.5 30.0096189 7.5"></polygon>
+                <polygon id="Polygon" fill="#959595" points="71 0 83.9903811 7.5 83.9903811 22.5 71 30 58.0096189 22.5 58.0096189 7.5"></polygon>
+                <polygon id="Polygon" fill="#717171" points="99 0 111.990381 7.5 111.990381 22.5 99 30 86.0096189 22.5 86.0096189 7.5"></polygon>
+                <polygon id="Polygon" fill="#D5D5D5" points="127 0 139.990381 7.5 139.990381 22.5 127 30 114.009619 22.5 114.009619 7.5"></polygon>
+                <polygon id="Polygon" fill="#717171" points="155 0 167.990381 7.5 167.990381 22.5 155 30 142.009619 22.5 142.009619 7.5"></polygon>
+                <polygon id="Polygon" fill="#D5D5D5" points="183 0 195.990381 7.5 195.990381 22.5 183 30 170.009619 22.5 170.009619 7.5"></polygon>
+            </g>
+            <g id="Group" transform="translate(14.000000, 96.000000)">
+                <polygon id="Polygon" fill="#595959" points="15 0 27.9903811 7.5 27.9903811 22.5 15 30 2.00961894 22.5 2.00961894 7.5"></polygon>
+                <polygon id="Polygon" fill="#D5D5D5" points="43 0 55.9903811 7.5 55.9903811 22.5 43 30 30.0096189 22.5 30.0096189 7.5"></polygon>
+                <polygon id="Polygon" fill="#FBFBFB" points="71 0 83.9903811 7.5 83.9903811 22.5 71 30 58.0096189 22.5 58.0096189 7.5"></polygon>
+                <polygon id="Polygon" fill="#FCFCFC" points="99 0 111.990381 7.5 111.990381 22.5 99 30 86.0096189 22.5 86.0096189 7.5"></polygon>
+                <polygon id="Polygon" fill="#959595" points="127 0 139.990381 7.5 139.990381 22.5 127 30 114.009619 22.5 114.009619 7.5"></polygon>
+                <polygon id="Polygon" fill="#BABABA" points="155 0 167.990381 7.5 167.990381 22.5 155 30 142.009619 22.5 142.009619 7.5"></polygon>
+            </g>
+            <g id="Group" transform="translate(0.000000, 120.000000)">
+                <polygon id="Polygon" fill="#BABABA" points="15 0 27.9903811 7.5 27.9903811 22.5 15 30 2.00961894 22.5 2.00961894 7.5"></polygon>
+                <polygon id="Polygon" fill="#959595" points="43 0 55.9903811 7.5 55.9903811 22.5 43 30 30.0096189 22.5 30.0096189 7.5"></polygon>
+                <polygon id="Polygon" fill="#F9F9F9" points="71 0 83.9903811 7.5 83.9903811 22.5 71 30 58.0096189 22.5 58.0096189 7.5"></polygon>
+                <polygon id="Polygon" fill="#959595" points="99 0 111.990381 7.5 111.990381 22.5 99 30 86.0096189 22.5 86.0096189 7.5"></polygon>
+                <polygon id="Polygon" fill="#F8F8F8" points="127 0 139.990381 7.5 139.990381 22.5 127 30 114.009619 22.5 114.009619 7.5"></polygon>
+                <polygon id="Polygon" fill="#FCFCFC" points="155 0 167.990381 7.5 167.990381 22.5 155 30 142.009619 22.5 142.009619 7.5"></polygon>
+                <polygon id="Polygon" fill="#BABABA" points="183 0 195.990381 7.5 195.990381 22.5 183 30 170.009619 22.5 170.009619 7.5"></polygon>
+            </g>
+            <g id="Group" transform="translate(14.000000, 144.000000)">
+                <polygon id="Polygon" fill="#959595" points="15 0 27.9903811 7.5 27.9903811 22.5 15 30 2.00961894 22.5 2.00961894 7.5"></polygon>
+                <polygon id="Polygon" fill="#D5D5D5" points="43 0 55.9903811 7.5 55.9903811 22.5 43 30 30.0096189 22.5 30.0096189 7.5"></polygon>
+                <polygon id="Polygon" fill="#717171" points="71 0 83.9903811 7.5 83.9903811 22.5 71 30 58.0096189 22.5 58.0096189 7.5"></polygon>
+                <polygon id="Polygon" fill="#D5D5D5" points="99 0 111.990381 7.5 111.990381 22.5 99 30 86.0096189 22.5 86.0096189 7.5"></polygon>
+                <polygon id="Polygon" fill="#BABABA" points="127 0 139.990381 7.5 139.990381 22.5 127 30 114.009619 22.5 114.009619 7.5"></polygon>
+                <polygon id="Polygon" fill="#595959" points="155 0 167.990381 7.5 167.990381 22.5 155 30 142.009619 22.5 142.009619 7.5"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

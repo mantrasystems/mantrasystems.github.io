@@ -286,7 +286,6 @@
                 <p><b>Please complete the following form to be notified when the next cohort is open for participants.</b></p>
                 <form action="https://formspree.io/f/mbjbbvne" method="POST">
                   <fieldset>
-                    <input type="hidden" name="origin" value="Associates notifications" />
                     <div class="form-group linear-fields">
                       <label>
                         <span class="label hide-screen">Your name</span>
@@ -298,6 +297,7 @@
                       </label>
                     </div>
                     <input type="text" name="_gotcha" class="hide" />
+                    <input type="text" name="tags" value="Associates Notifications" class="hide" />
                     <button type="submit" class="button full">Notify me</button>
                   </fieldset>
                 </form>
@@ -505,7 +505,7 @@
             <p>Sign up to our Newsletter</p>
             <form action="https://formspree.io/f/xnqgenkn" method="POST">
               <fieldset>
-                <input type="hidden" name="origin" value="Newsletter form on /medical-affairs-associates/">
+                <input type="hidden" name="origin" value="Page: /medical-affairs-associates/">
                 <div class="form-group">
                   <span class="field">
                     <label>
@@ -524,7 +524,7 @@
                     <button type="submit" class="button small">Sign up</button>
                   </span>
                 </div>
-                <input type="hidden" name="action" value="Sign up to the General Newsletter">
+                <input type="text" name="tags" value="Newsletter" class="hide">
                 <input type="text" name="_gotcha" class="hide">
               </fieldset>
             </form>

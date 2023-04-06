@@ -52,20 +52,6 @@
       
       gtag('config', 'AW-11133303463');
     </script>
-    <script>
-      function gtag_report_conversion(url) {
-        var callback = function () {
-          if (typeof(url) != 'undefined') {
-            window.location = url;
-          }
-        };
-        gtag('event', 'conversion', {
-            'send_to': 'AW-11133303463/LjdCCOPg-JQYEKf14rwp',
-            'event_callback': callback
-        });
-        return false;
-      }
-    </script>
   </head>
   <body class="landing services nav-alt">
     <header class="banner" id="top">
@@ -226,7 +212,7 @@
                       </div>
                       <input type="text" name="_gotcha" class="hide" />
                       <input type="text" name="tags" value="CMB, Literature Review, Google Ad" class="hide" />
-                      <button type="submit" class="button full" onclick="gtag_report_conversion()">Request contact</button>
+                      <button type="submit" class="button full">Request contact</button>
                     </fieldset>
                   </form>
                   <p class="small-text align-center">Or
@@ -695,7 +681,7 @@
                       </label>
                     </div>
                     <input type="text" name="tags" value="Literature Review, Google Ad" class="hide" />
-                    <button type="submit" class="button full" onclick="gtag_report_conversion()">Send message</button>
+                    <button type="submit" class="button full">Send message</button>
                   </fieldset>
                 </form>
                 <p class="statement">Information you send is kept confidential <span>&mdash; <a href="/privacy" target="_blank">Privacy Policy</a></span></p>

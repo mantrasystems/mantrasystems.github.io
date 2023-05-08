@@ -1,4 +1,4 @@
-/* Web: http://labnol.org/?p=27941 */
+/* Web: https://www.labnol.org/internet/light-youtube-embeds/27941/ */
 
 document.addEventListener("DOMContentLoaded",
   function() {

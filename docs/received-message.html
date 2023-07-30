@@ -53,25 +53,9 @@
 
       gtag('config', 'AW-11133303463');
     </script>
-    <!-- phone button click Google Tag script -->
+    <!-- button click Google Tag script -->
     <script>
-      function gtag_report_conversion_phone(url) {
-        console.log("phone");
-        var callback = function () {
-          if (typeof(url) != 'undefined') {
-            window.location = url;
-          }
-        };
-        gtag('event', 'conversion', {
-            'send_to': 'AW-11133303463/vU9sCLSs1coYEKf14rwp',
-            'event_callback': callback
-        });
-      }
-    </script>
-    <!-- email button click Google Tag script -->
-    <script>
-      function gtag_report_conversion_email(url) {
-        console.log("email");
+      function gtag_report_conversion(url) {
         var callback = function () {
           if (typeof(url) != 'undefined') {
             window.location = url;

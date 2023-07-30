@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded",
       anchor.innerHTML = "<span>Copy email address</span>";
 
       if (v[n].classList.contains("landing-page")) {
-        anchor.setAttribute("onclick", "return gtag_report_conversion('mailto:hello@mantrasystems.co.uk');");
+        anchor.setAttribute("onclick", "return gtag_report_conversion('#');");
       }
 
       v[n].insertAdjacentElement("afterend", anchor);

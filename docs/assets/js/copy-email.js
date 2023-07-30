@@ -11,6 +11,10 @@ document.addEventListener("DOMContentLoaded",
       anchor.setAttribute("href", "#");
       anchor.innerHTML = "<span>Copy email address</span>";
 
+      if (v[n].classList.contains("landing-page")) {
+        anchor.setAttribute("onclick", "return gtag_report_conversion('mailto:hello@mantrasystems.co.uk');");
+      }
+
       v[n].insertAdjacentElement("afterend", anchor);
 
       anchor.addEventListener('click', function(e) {

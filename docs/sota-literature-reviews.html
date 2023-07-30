@@ -44,6 +44,7 @@
     <meta property="og:image" content="https://www.mantrasystems.co.uk/assets/images/logos/social-media/mantra-systems.png">
     <link rel="canonical" href="https://www.mantrasystems.co.uk/sota-literature-reviews">
     <title>SOTA Literature Reviews for Medical Devices</title>
+    <!-- main Google Tag script -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11133303463"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -52,6 +53,37 @@
 
       gtag('config', 'AW-11133303463');
     </script>
+    <!-- phone button click Google Tag script -->
+    <script>
+      function gtag_report_conversion_phone(url) {
+        console.log("phone");
+        var callback = function () {
+          if (typeof(url) != 'undefined') {
+            window.location = url;
+          }
+        };
+        gtag('event', 'conversion', {
+            'send_to': 'AW-11133303463/vU9sCLSs1coYEKf14rwp',
+            'event_callback': callback
+        });
+      }
+    </script>
+    <!-- email button click Google Tag script -->
+    <script>
+      function gtag_report_conversion_email(url) {
+        console.log("email");
+        var callback = function () {
+          if (typeof(url) != 'undefined') {
+            window.location = url;
+          }
+        };
+        gtag('event', 'conversion', {
+            'send_to': 'AW-11133303463/wy-wCIq33soYEKf14rwp',
+            'event_callback': callback
+        });
+      }
+    </script>
+    <!-- ClickExpose script -->
     <script>
       var cescript = document.createElement("script");
       cescript.async = true;
@@ -112,7 +144,7 @@
                   <div class="general-wrap">
                     <ul class="contact-buttons">
                       <li>
-                        <a href="mailto:hello&#64;mantrasystems.co.uk?subject=Hello" class="content email-address icon-envelope" title="Start an email">
+                        <a href="mailto:hello&#64;mantrasystems.co.uk?subject=Enquiry" class="content email-address icon-envelope" title="Start an email" onclick="return gtag_report_conversion_email('mailto:hello&#64;mantrasystems.co.uk');">
                           <span>
                             <span class="text">Email us</span>
                             <span class="address">hello&#64;mantrasystems.co.uk</span>
@@ -120,7 +152,7 @@
                         </a>
                       </li>
                       <li>
-                        <a href="tel:+441142998889" class="content phone icon-phone" title="Call us">
+                        <a href="tel:+441142998889" class="content phone icon-phone" title="Call us" onclick="return gtag_report_conversion_phone('tel:+441142998889');">
                           <span><span>Call us:</span> +44(0)114 299 8889</span>
                         </a>
                       </li>
@@ -361,7 +393,7 @@
                     <div class="general-wrap">
                       <ul class="contact-buttons">
                         <li>
-                          <a href="mailto:hello&#64;mantrasystems.co.uk?subject=Hello" class="content email-address icon-envelope" title="Start an email">
+                          <a href="mailto:hello&#64;mantrasystems.co.uk?subject=Enquiry" class="content email-address icon-envelope" title="Start an email" onclick="return gtag_report_conversion_email('mailto:hello&#64;mantrasystems.co.uk');">
                             <span>
                               <span class="text">Email us</span>
                               <span class="address">hello&#64;mantrasystems.co.uk</span>
@@ -369,7 +401,7 @@
                           </a>
                         </li>
                         <li>
-                          <a href="tel:+441142998889" class="content phone icon-phone" title="Call us">
+                          <a href="tel:+441142998889" class="content phone icon-phone" title="Call us" onclick="return gtag_report_conversion_phone('tel:+441142998889');">
                             <span><span>Call us:</span> +44(0)114 299 8889</span>
                           </a>
                         </li>
@@ -705,7 +737,7 @@
               <div class="general-wrap">
                 <ul class="contact-buttons">
                   <li>
-                    <a href="mailto:hello&#64;mantrasystems.co.uk?subject=Hello" class="content email-address icon-envelope" title="Start an email">
+                    <a href="mailto:hello&#64;mantrasystems.co.uk?subject=Enquiry" class="content email-address icon-envelope" title="Start an email" onclick="return gtag_report_conversion_email('mailto:hello&#64;mantrasystems.co.uk');">
                       <span>
                         <span class="text">Email us</span>
                         <span class="address">hello&#64;mantrasystems.co.uk</span>
@@ -713,7 +745,7 @@
                     </a>
                   </li>
                   <li>
-                    <a href="tel:+441142998889" class="content phone icon-phone" title="Call us">
+                    <a href="tel:+441142998889" class="content phone icon-phone" title="Call us" onclick="return gtag_report_conversion_phone('tel:+441142998889');">
                       <span><span>Call us:</span> +44(0)114 299 8889</span>
                     </a>
                   </li>

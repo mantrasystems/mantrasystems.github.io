@@ -44,6 +44,7 @@
     <meta property="og:image" content="https://www.mantrasystems.co.uk/assets/images/logos/social-media/mantra-systems.png">
     <link rel="canonical" href="https://www.mantrasystems.co.uk/received-message">
     <title>Success - Mantra Systems</title>
+    <!-- main Google Tag script -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11133303463"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -52,9 +53,41 @@
 
       gtag('config', 'AW-11133303463');
     </script>
+    <!-- phone button click Google Tag script -->
+    <script>
+      function gtag_report_conversion_phone(url) {
+        console.log("phone");
+        var callback = function () {
+          if (typeof(url) != 'undefined') {
+            window.location = url;
+          }
+        };
+        gtag('event', 'conversion', {
+            'send_to': 'AW-11133303463/vU9sCLSs1coYEKf14rwp',
+            'event_callback': callback
+        });
+      }
+    </script>
+    <!-- email button click Google Tag script -->
+    <script>
+      function gtag_report_conversion_email(url) {
+        console.log("email");
+        var callback = function () {
+          if (typeof(url) != 'undefined') {
+            window.location = url;
+          }
+        };
+        gtag('event', 'conversion', {
+            'send_to': 'AW-11133303463/wy-wCIq33soYEKf14rwp',
+            'event_callback': callback
+        });
+      }
+    </script>
+    <!-- contact form submission Google Tag script -->
     <script>
       gtag('event', 'conversion', {'send_to': 'AW-11133303463/LjdCCOPg-JQYEKf14rwp'});
     </script>
+    <!-- ClickExpose script -->
     <script>
       var cescript = document.createElement("script");
       cescript.async = true;

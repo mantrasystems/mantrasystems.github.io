@@ -1,91 +1,112 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2023-11-08T11:48:58+00:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Medical Device ‘Significant Changes’ – Navigating EU MDR Article 120(3) using MDCG 2020-3 rev. 1</title><link href="https://www.mantrasystems.co.uk/articles/medical-device-significant-changes-navigating-eu-mdr-article-120-3" rel="alternate" type="text/html" title="Medical Device ‘Significant Changes’ – Navigating EU MDR Article 120(3) using MDCG 2020-3 rev. 1" /><published>2023-11-08T00:00:00+00:00</published><updated>2023-11-08T11:37:05+00:00</updated><id>https://www.mantrasystems.co.uk/articles/medical-device-significant-changes-navigating-eu-mdr-article-120-3</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/medical-device-significant-changes-navigating-eu-mdr-article-120-3"><![CDATA[<p>With the transition to the EU MDR, legacy devices with certificates issued under the old EU directives (Directive 93/42/EEC on medical devices, MDD, and Directive 90/385/EEC on active implantable medical devices, AIMDD) can stay on the market under the transitional provisions set out in Article 120(3) of the MDR, provided they do not undergo any <b>significant changes</b>.</p>
-      <p>In this article, we explain the concept of a ‘significant change’ and, using examples, help you understand whether you can still take advantage of the transitional arrangements in MDR Article 120(3).</p>
-      <h2 id="transition-periods">Transition periods</h2>
-      <p>The transition periods in Article 120(3) MDR as per Regulation (EU) 2023/607 are as follows:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2023-11-11T14:34:27+00:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Mantra Systems at MEDICA 2023</title><link href="https://www.mantrasystems.co.uk/articles/mantra-systems-at-medica-2023" rel="alternate" type="text/html" title="Mantra Systems at MEDICA 2023" /><published>2023-11-11T00:00:00+00:00</published><updated>2023-11-11T13:39:28+00:00</updated><id>https://www.mantrasystems.co.uk/articles/mantra-systems-at-medica-2023</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/mantra-systems-at-medica-2023"><![CDATA[<p>We are thrilled to announce our attendance at <a href="https://www.medica-tradefair.com/" target="_blank" rel="noopener">MEDICA 2023</a> - a prestigious international medical trade fair held on 13th - 16th November in Düsseldorf, Germany.</p>
+      <p>With over 5,500 exhibitors from 66 countries and more than 81,000 visitors worldwide, MEDICA stands as one of the largest medical B2B trade fairs in the world. The event presents the entire spectrum of innovations from various companies and organisations for outpatient and clinical care.</p>
+      <p>As the global medical device landscape continues to evolve, staying at the forefront of medical device innovation is paramount for companies committed to advancing healthcare solutions.</p>
+      <p>The event will showcase innovation in the 5 spheres of MEDICA; these are:</p>
       <ul>
-        <li>Class III and IIb implants: new transition period until 31 December 2027</li>
-        <li>Class IIb and lower: new transition period until 31 December 2028</li>
-        <li>Class III custom-made products: new transition period until 31 December 2026</li>
-        <li>No ‘sell-off’ deadline</li>
+        <li>Medical Technology and Devices</li>
+        <li>Digital Health</li>
+        <li>Lab &amp; Diagnostics</li>
+        <li>Physio Tech</li>
+        <li>Disposables &amp; Consumables</li>
       </ul>
-      <h2 id="what-does-significant-change-mean">What does significant change mean?</h2>
-      <p>A significant change in the design or intended purpose consists of two cumulative elements:</p>
-      <ul>
-        <li>There is a change in the design or intended purpose, <b>and</b></li>
-        <li>The change is significant</li>
-      </ul>
-      <p>Therefore, changes that do not concern the design or intended purpose are out of scope of Article 120(3) of the MDR. Changes that concern the design or intended purpose only fall under Article 120(3) if they are considered ‘significant’.</p>
-      <h2 id="responsibilities-of-medical-device-manufacturers-regarding-significance-of-changes">Responsibilities of medical device manufacturers regarding ‘significance’ of changes</h2>
-      <p>Medical device manufacturers have two primary responsibilities regarding changes:</p>
-      <ul>
-        <li>provide evidence and justification that a change does not affect the design or intended purpose, or</li>
-        <li>in cases where the change affects the design or intended purpose of the device, that it is non-significant.</li>
-      </ul>
-      <p>The outcome of this assessment should be documented and made available to a competent authority when requested.</p>
-      <p>If a change to a legacy device is not a significant change in design or intended purpose, it can be implemented using the above transitional arrangement. In these instances, manufacturers must adhere to the documentation criteria of AIMDD/MDD, meaning that the revised technical documentation must enable the evaluation of the product’s compliance with the relevant standards.</p>
-      <h2 id="determining-a-significant-change-to-the-design-or-intended-purpose">Determining a significant change to the design or intended purpose</h2>
-      <p>The <a href="https://health.ec.europa.eu/system/files/2023-09/mdcg_2020-3_en_1.pdf" target="_blank" rel="noopener">MDCG 2020-3 rev. 1</a> guidance document sets out whether a change in the design or intended purpose of a device is considered ‘significant’ within the meaning of EU MDR Article 120(3c), point (b).</p>
-      <p><b>Examples of changes in design and/or intended purpose that are ‘non-significant’:</b></p>
-      <ul>
-        <li>Changes related to corrective actions assessed and accepted by the competent authority</li>
-        <li>Correction of spelling mistakes or merely editorial changes of the information to be supplied with the device (e.g. label or instructions for use)</li>
-        <li>Clarifications of intended purpose, population, or clinical application in the information to be supplied with the device in line with the original certification</li>
-        <li>Updates of the information to be supplied with the device (e.g. label, instructions for use or implant card) if they are required by EU legislation other than the MDR, are mere clarifications and do not adversely affect the devices’ safety and performance in relation to existing or new risks</li>
-      </ul>
-      <p>The following diagram, taken from the <a href="https://health.ec.europa.eu/system/files/2023-09/mdcg_2020-3_en_1.pdf" target="_blank" rel="noopener">MDCG 2020-3 rev. 1</a>, helps understand when <b>changes in design and/or intended purpose may be considered ‘significant’</b>:</p>
-      <figure class="inline">
-        <div class="image bordered">
-          <img src="/assets/images/content/articles/inline/significant-changes-main-chart.png" alt="Design changes and changes of the intended purpose which may be considered 'significant' when interpreting Art. 120(3c), point (b) MDR – Main Chart" loading="lazy" />
-        </div>
-        <figcaption>Design changes and changes of the intended purpose which may be considered 'significant' when interpreting Art. 120(3c), point (b) MDR – Main Chart taken from <a href="https://health.ec.europa.eu/system/files/2023-09/mdcg_2020-3_en_1.pdf" target="_blank" rel="noopener">MDCG 2020-3 rev. 1</a></figcaption>
-      </figure>
-      <p>Charts A to E in the MDCG guideline contain specific areas where changes in the intended purpose, device design, device software, changes related to a substance or material or changes related to sterilisation are likely to be held to be significant. It’s vital to consult these charts when understanding whether a change will be significant and, by extension, whether your device can make use of the transitional arrangement.</p>
-      <h2 id="in-summary">In summary</h2>
-      <p>The definition of a “significant change” involves two cumulative elements: a change in design or intended purpose that is deemed significant. Manufacturers bear the responsibility of determining and justifying whether a change in their medical device is significant or not, and therefore whether relevant technical documents require updating in line with the changes. The MDCG 2020-3 rev. 1 guidance document provides guidance on determining the significance of changes in design or intended purpose.</p>
-      <p>For further information regarding how we can meet your MDR requirements, including advice on whether changes are likely to be significant, <b>please <a href="/contact">contact us</a> for a free and confidential discussion.</b></p>
-      ]]></content><author><name>shen-may-khoo</name></author><category term="MDR" /><summary type="html"><![CDATA[Understand what changes to your medical device are considered 'significant' under EU MDR (2017/745).]]></summary></entry><entry><title type="html">MDR or IVDR - A sibling rivalry?</title><link href="https://www.mantrasystems.co.uk/articles/mdr-or-ivdr-a-sibling-rivalry" rel="alternate" type="text/html" title="MDR or IVDR - A sibling rivalry?" /><published>2023-10-24T00:00:00+01:00</published><updated>2023-11-08T11:07:57+00:00</updated><id>https://www.mantrasystems.co.uk/articles/mdr-or-ivdr-a-sibling-rivalry</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/mdr-or-ivdr-a-sibling-rivalry"><![CDATA[<p>Medical devices and <i>in vitro</i> diagnostic devices are like twin cities on different continents - both serving the needs of modern medicine, both highly regulated and, following the advent of updated legislation in Europe, governed by parallel legislation. However, sometimes the distinction between the two is less clear than might be thought.</p>
-    <p>In this article, we unpick the differences between these two categories of product and explore requirements for gaining and maintaining market access for these device types.</p>
-    <h2 id="is-my-product-regulated-by-the-mdr-or-the-ivdr">Is my product regulated by the MDR or the IVDR?</h2>
-    <p>The now well-known <a href="/eu-mdr-compliance/">Medical Device Regulation (EU) 2017/745 (MDR)</a> and the <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017R0746&amp;qid=1698152662286" target="_blank" rel="noopener"><i>In Vitro</i> Diagnostic Medical Devices Regulation (EU) 2017/746 (IVDR)</a> were developed to improve the regulatory framework which oversees products placed on the market in the EU.</p>
-    <p>There are many similarities between the two Regulations in terms of quality management, risk management, risk based classification and post market surveillance. Despite the areas of overlap between them, it is essential for manufacturers to correctly categorise their product as a medical device or as an <i>in vitro</i> diagnostic medical device (IVD) in order to demonstrate the applicable compliance with EU rules.</p>
-    <h2 id="basic-definitions">Basic definitions</h2>
-    <p>The definition of a medical device (Article 2 (1) MDR):</p>
-    <blockquote class="standard">
-      <p>'medical device' means any instrument, apparatus, appliance, software, implant, reagent, material or other article intended by the manufacturer to be used, alone or in combination, for human beings for one or more of the following specific medical purposes:</p>
-      <ul class="disc">
-        <li>diagnosis, prevention, monitoring, prediction, prognosis, treatment or alleviation of disease,</li>
-        <li>diagnosis, monitoring, treatment, alleviation of, or compensation for, an injury or disability,</li>
-        <li>investigation, replacement or modification of the anatomy or of a physiological or pathological process or state,</li>
-        <li>providing information by means of <i>in vitro</i> examination of specimens derived from the human body, including organ, blood and tissue donations,</li>
-      </ul>
-      <p>and which does not achieve its principal intended action by pharmacological, immunological or metabolic means, in or on the human body, but which may be assisted in its function by such means.</p>
-    </blockquote>
-    <p>Examples of medical devices include surgical implants, wheelchairs, disposable gloves, pacemakers and infusion pumps.</p>
-    <p>Indent 4 of the definition above includes medical devices which <i>‘provide information by means of in vitro examination of specimens.’</i> However, Article 1(6) MDR specifically states that the Regulation <strong>does not apply</strong> to <i>in vitro</i> diagnostic medical devices covered by Regulation (EU) 2017/746. Therefore, an IVD can be seen as a subset of the medical device family, but with its own governing Regulation IVDR (EU) 2017/746.</p>
-    <p>The definition of an <i>in vitro</i> diagnostic medical device (Article 2 (2) IVDR):</p>
-    <blockquote class="standard">
-      <p>'<i>in vitro</i> diagnostic medical device' means any medical device which is a reagent, reagent product, calibrator, control material, kit, instrument, apparatus, piece of equipment, software or system, whether used alone or in combination, intended by the manufacturer to be used <i>in vitro</i> for the examination of specimens, including blood and tissue donations, derived from the human body, solely or principally for the purpose of providing information on one or more of the following:</p>
-      <ol class="lower-alpha">
-        <li>concerning a physiological or pathological process or state</li>
-        <li>concerning congenital physical or mental impairments</li>
-        <li>concerning the predisposition to a medical condition or a disease</li>
-        <li>to determine the safety and compatibility with potential recipients</li>
-        <li>to predict treatment response or reaction</li>
-        <li>to define or monitor therapeutic measures</li>
-      </ol>
-      <p>Specimen receptacles are also deemed to be <i>in vitro</i> diagnostic medical devices.</p>
-    </blockquote>
-    <p>Examples of IVDs include laboratory machines which screen for infectious agents, compatibility for blood or tissue such as ABO or Rhesus and genetic tests. Self-tests for pregnancy, blood sugar and cholesterol are included in the definition. Companion diagnostics, where a device is specifically linked to a medicinal product to evaluate therapeutic response, are also categorised as IVDs.</p>
-    <h2 id="patient-vs-sample">Patient vs Sample</h2>
-    <p>An exclusion of the IVDR is any <i>‘invasive sampling products or products which are directly applied to the human body for the purpose of obtaining a specimen’</i>. Patients are not directly in contact with an IVD, other than a self-test IVD, which is not considered invasive. A sample of urine, blood or saliva which is collected from the patient, is then prepared and analysed by an IVD, either as a self-test, near-patient test (such as a hospital room) or in a laboratory. The results are then used for the management of the patient along with other therapeutic options.</p>
-    <p>A device which obtains a sample from the patient in an invasive way such as a spinal needle for CSF collection or a punch biopsy for a tissue sample, falls under the medical device umbrella.</p>
-    <h2 id="blurred-lines">Blurred lines</h2>
-    <p>Of course, there may be cases where a product is a combination of a medical device and an <i>in vitro</i> diagnostic medical device. Both regulations are clear in this situation (as stated in Article 1 (4) IVDR and Article 1 (7) MDR).</p>
-    <p>Any medical device which incorporates, as an integral part, an <i>in vitro</i> diagnostic medical device, shall be governed by the MDR, while the IVDR will apply to the <i>in vitro</i> diagnostic part of the device. The manufacturer will then have to meet both regulatory requirements in order to gain a CE mark for the combined device.</p>
-    <h2 id="in-a-nutshell">In a nutshell</h2>
-    <p><i>In vitro</i> diagnostic medical devices are a subcategory of medical devices with their own regulatory framework IVDR (EU) 2017/746. Although there is considerable overlap with the MDR (EU) 2017/745, it is imperative to categorise the product correctly from the beginning of the EU market access journey.</p>
-    <p><b>For further information regarding compliance with the EU MDR or IVDR, <a href="/contact">contact Mantra Systems</a> for a FREE and open discussion.</b></p>
-    ]]></content><author><name>gayle-buchel</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[A guide to easily understanding whether your device is a medical device or an in vitro diagnostic medical device (IVD).]]></summary></entry><entry><title type="html">What the latest Brexit U-turn means for CE Marking of medical devices in Great Britain</title><link href="https://www.mantrasystems.co.uk/articles/what-the-latest-brexit-u-turn-means-for-ce-marking-of-medical-devices-in-great-britain" rel="alternate" type="text/html" title="What the latest Brexit U-turn means for CE Marking of medical devices in Great Britain" /><published>2023-08-04T00:00:00+01:00</published><updated>2023-11-08T11:07:57+00:00</updated><id>https://www.mantrasystems.co.uk/articles/what-the-latest-brexit-u-turn-means-for-ce-marking-of-medical-devices-in-great-britain</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/what-the-latest-brexit-u-turn-means-for-ce-marking-of-medical-devices-in-great-britain"><![CDATA[<p>The UK Department for Business and Trade (DBT) announced on 1st August 2023 that <a href="https://www.gov.uk/government/news/uk-government-announces-extension-of-ce-mark-recognition-for-businesses">CE safety marking of products for businesses is to continue indefinitely in the UK</a>, beyond the 2024 deadline.</p>
+      <p>Alongside MEDICA, <a href="https://www.compamed-tradefair.com/" target="_blank" rel="noopener">COMPAMED</a>, an international trade fair for the medical technology supplier sector will also be happening in Düsseldorf.</p>
+      <p>COMPAMED offers a comprehensive range of high-quality medical technology components, services and production equipment for the medical industry. There will be over 800 exhibitors presenting the latest innovations in components, modules, OEM equipment, electrical and electronic components, microtechnology, raw materials, materials and adhesives, manufacturing of components, manufacturing of finished products, services and manufacturing equipment.</p>
+      <h2 id="the-significance-of-medica-a-global-hub-for-medical-innovation">The significance of MEDICA: A global hub for medical innovation</h2>
+      <p>MEDICA serves as a melting pot of innovation, bringing together leading minds, cutting-edge technologies, and groundbreaking solutions in the medical field. This year’s event promises to showcase a diverse array of products and services spanning medical imaging, laboratory technology, diagnostics, health IT, mobile health, physiotherapy/orthopaedic technology, and medical consumables. With a staggering number of exhibitors and visitors, the trade fair provides an unparalleled platform to explore the latest trends and developments shaping the future of healthcare.</p>
+      <p>Each year, distinguished figures from the realms of business, research, and politics grace the prestigious event with their attendance, alongside tens of thousands of industry experts and decision-makers from both national and international spheres, making MEDICA an excellent opportunity to exchange with experts from all over the world.</p>
+      <h2 id="why-medical-innovation-matters-a-glimpse-into-the-future">Why medical innovation matters: A glimpse into the future</h2>
+      <p>In the dynamic realm of healthcare, innovation plays a pivotal role in improving patient outcomes, enhancing diagnostics, and revolutionizing treatment modalities. As medical technology continues to advance, it opens new frontiers for personalized and more effective healthcare solutions. From state-of-the-art imaging technologies to cutting-edge health IT systems, the innovations showcased at MEDICA 2023 will underscore the transformative power of technology in the medical sector.</p>
+      <h2 id="our-presence-at-medica-2023">Our presence at MEDICA 2023</h2>
+      <p>For those attending MEDICA 2023, we invite you to connect with our representatives during the event. As a specialised medical device regulatory consultancy, we are eager to share insights, discuss regulatory challenges, and explore collaborative opportunities.</p>
+      <p>Whether you are navigating the complexities of market entry, compliance, or Post-Market Surveillance, our team is here to assist in ensuring your medical devices meet the highest regulatory standards. Please <a href="/contact">contact us</a> to arrange a free consultation.</p>
+      ]]></content><author><name>shen-may-khoo</name></author><category term="Events" /><category term="MDR" /><summary type="html"><![CDATA[Mantra Systems is going to MEDICA 2023, the largest medical trade fair in the world. We hope to see you there.]]></summary></entry><entry><title type="html">Medical Device ‘Significant Changes’ – Navigating EU MDR Article 120(3) using MDCG 2020-3 rev. 1</title><link href="https://www.mantrasystems.co.uk/articles/medical-device-significant-changes-navigating-eu-mdr-article-120-3" rel="alternate" type="text/html" title="Medical Device ‘Significant Changes’ – Navigating EU MDR Article 120(3) using MDCG 2020-3 rev. 1" /><published>2023-11-08T00:00:00+00:00</published><updated>2023-11-08T11:49:31+00:00</updated><id>https://www.mantrasystems.co.uk/articles/medical-device-significant-changes-navigating-eu-mdr-article-120-3</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/medical-device-significant-changes-navigating-eu-mdr-article-120-3"><![CDATA[<p>With the transition to the EU MDR, legacy devices with certificates issued under the old EU directives (Directive 93/42/EEC on medical devices, MDD, and Directive 90/385/EEC on active implantable medical devices, AIMDD) can stay on the market under the transitional provisions set out in Article 120(3) of the MDR, provided they do not undergo any <b>significant changes</b>.</p>
+    <p>In this article, we explain the concept of a ‘significant change’ and, using examples, help you understand whether you can still take advantage of the transitional arrangements in MDR Article 120(3).</p>
+    <h2 id="transition-periods">Transition periods</h2>
+    <p>The transition periods in Article 120(3) MDR as per Regulation (EU) 2023/607 are as follows:</p>
+    <ul>
+      <li>Class III and IIb implants: new transition period until 31 December 2027</li>
+      <li>Class IIb and lower: new transition period until 31 December 2028</li>
+      <li>Class III custom-made products: new transition period until 31 December 2026</li>
+      <li>No ‘sell-off’ deadline</li>
+    </ul>
+    <h2 id="what-does-significant-change-mean">What does significant change mean?</h2>
+    <p>A significant change in the design or intended purpose consists of two cumulative elements:</p>
+    <ul>
+      <li>There is a change in the design or intended purpose, <b>and</b></li>
+      <li>The change is significant</li>
+    </ul>
+    <p>Therefore, changes that do not concern the design or intended purpose are out of scope of Article 120(3) of the MDR. Changes that concern the design or intended purpose only fall under Article 120(3) if they are considered ‘significant’.</p>
+    <h2 id="responsibilities-of-medical-device-manufacturers-regarding-significance-of-changes">Responsibilities of medical device manufacturers regarding ‘significance’ of changes</h2>
+    <p>Medical device manufacturers have two primary responsibilities regarding changes:</p>
+    <ul>
+      <li>provide evidence and justification that a change does not affect the design or intended purpose, or</li>
+      <li>in cases where the change affects the design or intended purpose of the device, that it is non-significant.</li>
+    </ul>
+    <p>The outcome of this assessment should be documented and made available to a competent authority when requested.</p>
+    <p>If a change to a legacy device is not a significant change in design or intended purpose, it can be implemented using the above transitional arrangement. In these instances, manufacturers must adhere to the documentation criteria of AIMDD/MDD, meaning that the revised technical documentation must enable the evaluation of the product’s compliance with the relevant standards.</p>
+    <h2 id="determining-a-significant-change-to-the-design-or-intended-purpose">Determining a significant change to the design or intended purpose</h2>
+    <p>The <a href="https://health.ec.europa.eu/system/files/2023-09/mdcg_2020-3_en_1.pdf" target="_blank" rel="noopener">MDCG 2020-3 rev. 1</a> guidance document sets out whether a change in the design or intended purpose of a device is considered ‘significant’ within the meaning of EU MDR Article 120(3c), point (b).</p>
+    <p><b>Examples of changes in design and/or intended purpose that are ‘non-significant’:</b></p>
+    <ul>
+      <li>Changes related to corrective actions assessed and accepted by the competent authority</li>
+      <li>Correction of spelling mistakes or merely editorial changes of the information to be supplied with the device (e.g. label or instructions for use)</li>
+      <li>Clarifications of intended purpose, population, or clinical application in the information to be supplied with the device in line with the original certification</li>
+      <li>Updates of the information to be supplied with the device (e.g. label, instructions for use or implant card) if they are required by EU legislation other than the MDR, are mere clarifications and do not adversely affect the devices’ safety and performance in relation to existing or new risks</li>
+    </ul>
+    <p>The following diagram, taken from the <a href="https://health.ec.europa.eu/system/files/2023-09/mdcg_2020-3_en_1.pdf" target="_blank" rel="noopener">MDCG 2020-3 rev. 1</a>, helps understand when <b>changes in design and/or intended purpose may be considered ‘significant’</b>:</p>
+    <figure class="inline">
+      <div class="image bordered">
+        <img src="/assets/images/content/articles/inline/significant-changes-main-chart.png" alt="Design changes and changes of the intended purpose which may be considered 'significant' when interpreting Art. 120(3c), point (b) MDR – Main Chart" loading="lazy" />
+      </div>
+      <figcaption>Design changes and changes of the intended purpose which may be considered 'significant' when interpreting Art. 120(3c), point (b) MDR – Main Chart taken from <a href="https://health.ec.europa.eu/system/files/2023-09/mdcg_2020-3_en_1.pdf" target="_blank" rel="noopener">MDCG 2020-3 rev. 1</a></figcaption>
+    </figure>
+    <p>Charts A to E in the MDCG guideline contain specific areas where changes in the intended purpose, device design, device software, changes related to a substance or material or changes related to sterilisation are likely to be held to be significant. It’s vital to consult these charts when understanding whether a change will be significant and, by extension, whether your device can make use of the transitional arrangement.</p>
+    <h2 id="in-summary">In summary</h2>
+    <p>The definition of a “significant change” involves two cumulative elements: a change in design or intended purpose that is deemed significant. Manufacturers bear the responsibility of determining and justifying whether a change in their medical device is significant or not, and therefore whether relevant technical documents require updating in line with the changes. The MDCG 2020-3 rev. 1 guidance document provides guidance on determining the significance of changes in design or intended purpose.</p>
+    <p>For further information regarding how we can meet your MDR requirements, including advice on whether changes are likely to be significant, <b>please <a href="/contact">contact us</a> for a free and confidential discussion.</b></p>
+    ]]></content><author><name>shen-may-khoo</name></author><category term="MDR" /><summary type="html"><![CDATA[Understand what changes to your medical device are considered 'significant' under EU MDR (2017/745).]]></summary></entry><entry><title type="html">MDR or IVDR - A sibling rivalry?</title><link href="https://www.mantrasystems.co.uk/articles/mdr-or-ivdr-a-sibling-rivalry" rel="alternate" type="text/html" title="MDR or IVDR - A sibling rivalry?" /><published>2023-10-24T00:00:00+01:00</published><updated>2023-11-08T11:07:57+00:00</updated><id>https://www.mantrasystems.co.uk/articles/mdr-or-ivdr-a-sibling-rivalry</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/mdr-or-ivdr-a-sibling-rivalry"><![CDATA[<p>Medical devices and <i>in vitro</i> diagnostic devices are like twin cities on different continents - both serving the needs of modern medicine, both highly regulated and, following the advent of updated legislation in Europe, governed by parallel legislation. However, sometimes the distinction between the two is less clear than might be thought.</p>
+  <p>In this article, we unpick the differences between these two categories of product and explore requirements for gaining and maintaining market access for these device types.</p>
+  <h2 id="is-my-product-regulated-by-the-mdr-or-the-ivdr">Is my product regulated by the MDR or the IVDR?</h2>
+  <p>The now well-known <a href="/eu-mdr-compliance/">Medical Device Regulation (EU) 2017/745 (MDR)</a> and the <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017R0746&amp;qid=1698152662286" target="_blank" rel="noopener"><i>In Vitro</i> Diagnostic Medical Devices Regulation (EU) 2017/746 (IVDR)</a> were developed to improve the regulatory framework which oversees products placed on the market in the EU.</p>
+  <p>There are many similarities between the two Regulations in terms of quality management, risk management, risk based classification and post market surveillance. Despite the areas of overlap between them, it is essential for manufacturers to correctly categorise their product as a medical device or as an <i>in vitro</i> diagnostic medical device (IVD) in order to demonstrate the applicable compliance with EU rules.</p>
+  <h2 id="basic-definitions">Basic definitions</h2>
+  <p>The definition of a medical device (Article 2 (1) MDR):</p>
+  <blockquote class="standard">
+    <p>'medical device' means any instrument, apparatus, appliance, software, implant, reagent, material or other article intended by the manufacturer to be used, alone or in combination, for human beings for one or more of the following specific medical purposes:</p>
+    <ul class="disc">
+      <li>diagnosis, prevention, monitoring, prediction, prognosis, treatment or alleviation of disease,</li>
+      <li>diagnosis, monitoring, treatment, alleviation of, or compensation for, an injury or disability,</li>
+      <li>investigation, replacement or modification of the anatomy or of a physiological or pathological process or state,</li>
+      <li>providing information by means of <i>in vitro</i> examination of specimens derived from the human body, including organ, blood and tissue donations,</li>
+    </ul>
+    <p>and which does not achieve its principal intended action by pharmacological, immunological or metabolic means, in or on the human body, but which may be assisted in its function by such means.</p>
+  </blockquote>
+  <p>Examples of medical devices include surgical implants, wheelchairs, disposable gloves, pacemakers and infusion pumps.</p>
+  <p>Indent 4 of the definition above includes medical devices which <i>‘provide information by means of in vitro examination of specimens.’</i> However, Article 1(6) MDR specifically states that the Regulation <strong>does not apply</strong> to <i>in vitro</i> diagnostic medical devices covered by Regulation (EU) 2017/746. Therefore, an IVD can be seen as a subset of the medical device family, but with its own governing Regulation IVDR (EU) 2017/746.</p>
+  <p>The definition of an <i>in vitro</i> diagnostic medical device (Article 2 (2) IVDR):</p>
+  <blockquote class="standard">
+    <p>'<i>in vitro</i> diagnostic medical device' means any medical device which is a reagent, reagent product, calibrator, control material, kit, instrument, apparatus, piece of equipment, software or system, whether used alone or in combination, intended by the manufacturer to be used <i>in vitro</i> for the examination of specimens, including blood and tissue donations, derived from the human body, solely or principally for the purpose of providing information on one or more of the following:</p>
+    <ol class="lower-alpha">
+      <li>concerning a physiological or pathological process or state</li>
+      <li>concerning congenital physical or mental impairments</li>
+      <li>concerning the predisposition to a medical condition or a disease</li>
+      <li>to determine the safety and compatibility with potential recipients</li>
+      <li>to predict treatment response or reaction</li>
+      <li>to define or monitor therapeutic measures</li>
+    </ol>
+    <p>Specimen receptacles are also deemed to be <i>in vitro</i> diagnostic medical devices.</p>
+  </blockquote>
+  <p>Examples of IVDs include laboratory machines which screen for infectious agents, compatibility for blood or tissue such as ABO or Rhesus and genetic tests. Self-tests for pregnancy, blood sugar and cholesterol are included in the definition. Companion diagnostics, where a device is specifically linked to a medicinal product to evaluate therapeutic response, are also categorised as IVDs.</p>
+  <h2 id="patient-vs-sample">Patient vs Sample</h2>
+  <p>An exclusion of the IVDR is any <i>‘invasive sampling products or products which are directly applied to the human body for the purpose of obtaining a specimen’</i>. Patients are not directly in contact with an IVD, other than a self-test IVD, which is not considered invasive. A sample of urine, blood or saliva which is collected from the patient, is then prepared and analysed by an IVD, either as a self-test, near-patient test (such as a hospital room) or in a laboratory. The results are then used for the management of the patient along with other therapeutic options.</p>
+  <p>A device which obtains a sample from the patient in an invasive way such as a spinal needle for CSF collection or a punch biopsy for a tissue sample, falls under the medical device umbrella.</p>
+  <h2 id="blurred-lines">Blurred lines</h2>
+  <p>Of course, there may be cases where a product is a combination of a medical device and an <i>in vitro</i> diagnostic medical device. Both regulations are clear in this situation (as stated in Article 1 (4) IVDR and Article 1 (7) MDR).</p>
+  <p>Any medical device which incorporates, as an integral part, an <i>in vitro</i> diagnostic medical device, shall be governed by the MDR, while the IVDR will apply to the <i>in vitro</i> diagnostic part of the device. The manufacturer will then have to meet both regulatory requirements in order to gain a CE mark for the combined device.</p>
+  <h2 id="in-a-nutshell">In a nutshell</h2>
+  <p><i>In vitro</i> diagnostic medical devices are a subcategory of medical devices with their own regulatory framework IVDR (EU) 2017/746. Although there is considerable overlap with the MDR (EU) 2017/745, it is imperative to categorise the product correctly from the beginning of the EU market access journey.</p>
+  <p><b>For further information regarding compliance with the EU MDR or IVDR, <a href="/contact">contact Mantra Systems</a> for a FREE and open discussion.</b></p>
+  ]]></content><author><name>gayle-buchel</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[A guide to easily understanding whether your device is a medical device or an in vitro diagnostic medical device (IVD).]]></summary></entry><entry><title type="html">What the latest Brexit U-turn means for CE Marking of medical devices in Great Britain</title><link href="https://www.mantrasystems.co.uk/articles/what-the-latest-brexit-u-turn-means-for-ce-marking-of-medical-devices-in-great-britain" rel="alternate" type="text/html" title="What the latest Brexit U-turn means for CE Marking of medical devices in Great Britain" /><published>2023-08-04T00:00:00+01:00</published><updated>2023-11-08T11:07:57+00:00</updated><id>https://www.mantrasystems.co.uk/articles/what-the-latest-brexit-u-turn-means-for-ce-marking-of-medical-devices-in-great-britain</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/what-the-latest-brexit-u-turn-means-for-ce-marking-of-medical-devices-in-great-britain"><![CDATA[<p>The UK Department for Business and Trade (DBT) announced on 1st August 2023 that <a href="https://www.gov.uk/government/news/uk-government-announces-extension-of-ce-mark-recognition-for-businesses">CE safety marking of products for businesses is to continue indefinitely in the UK</a>, beyond the 2024 deadline.</p>
   <p>Following the departure of the UK from the European Union in 2016, UKCA marking was to replace the CE mark, along with changes to the process of medical device regulation. Several extensions to the transitional arrangements have already been made, with the latest deadline for mandatory use of the UKCA mark being the 30th June 2024.</p>
   <p>Due to issues surrounding the burden of these changes on businesses and impact on economic growth, the DBT has consulted with industry professionals and will now allow the continued use of the CE mark alongside the UKCA. For the time being, this update refers to 18 regulations it will apply to (that fall under the DBT), of which medical devices has not been included.</p>
   <p><b>The regulations stated are as follows:</b></p>
@@ -384,66 +405,7 @@
   </div>
   <p>Choosing the right CER writer is a key decision when outsourcing the writing of medical device Clinical Evaluations. Making a selection based on price alone can be a costly mistake; instead, focus on the above criteria and make a choice based on proven factors that will directly impact the quality of work delivered.</p>
   <p>Questions? <a href="mailto:contact&#64;mantrasystems.co.uk">Email a member of our friendly team</a>, or call <a href="tel:+441142992599">+44(0)114 299 2599</a> to speak directly with one of our expert medical writers. <strong>We promise: no phone menus, no waiting, no obligation and complete confidence.</strong></p>
-  ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="Strategy" /><summary type="html"><![CDATA[We've compiled a list of considerations that will help you make the right choice when choosing a CER writer.]]></summary></entry><entry><title type="html">How to achieve MDR Compliance for Class I medical devices</title><link href="https://www.mantrasystems.co.uk/articles/how-to-achieve-mdr-compliance-for-class-i-medical-devices" rel="alternate" type="text/html" title="How to achieve MDR Compliance for Class I medical devices" /><published>2022-04-02T00:00:00+01:00</published><updated>2023-10-27T17:43:25+01:00</updated><id>https://www.mantrasystems.co.uk/articles/how-to-achieve-mdr-compliance-for-class-i-medical-devices</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/how-to-achieve-mdr-compliance-for-class-i-medical-devices"><![CDATA[<p>Are you a manufacturer of Class I medical devices intended for sale in the EU market? Or are you a supplier who recently learned that your product is classified as a medical device under the new MDR? If your answer to either of these questions is ‘yes’, then this article is for you.</p>
-  <p>In order to place a medical device on the market, you as a manufacturer have to demonstrate conformity with the MDR and compliance with the GSPRs laid out in Annex I, regardless of the device classification.</p>
-  <p>Because most Class I devices don’t require the involvement of a <a href="/eu-mdr-compliance/notified-bodies">Notified Body</a>, it can be tempting to ‘do the minimum’ for Class I regulatory compliance. Under the MDR, however, this can be a big mistake.</p>
-  <p>In this article, we will discuss how to achieve <a href="/eu-mdr-compliance/">MDR compliance</a> specifically for Class I devices, with a focus on what to keep in mind while self-certifying.</p>
-  <h2 id="1-is-your-product-a-medical-device-under-mdr-article-2">1. Is your product a medical device under MDR Article 2?</h2>
-  <p>The first step towards MDR compliance is confirming whether your product is a medical device. Whether your product satisfies the definition of a medical device depends in large part on the intended purpose, which you as a manufacturer control. Take great care in matching this against the definition in Article 2 of the MDR. Remember that non-standard items such as “reagents” and “software” can all meet the definition.</p>
-  <h2 id="2-what-is-its-risk-classification">2. What is its risk classification?</h2>
-  <div class="video-wrap">
-    <div class="video-insert youtube-player" data-id="Dx55LZ3snM4"></div>
-    <p class="video-caption"><b>Video 1:</b> How to work with Annex VIII from the MDR</p>
-  </div>
-  <p>The next step is to identify the device’s risk classification. Risk classification in MDR reflects the potential risk of harm that a medical device poses. Medical devices under Class I are generally low risk devices which include non-invasive devices with non-critical functions, such as wound care devices, stethoscopes, tongue depressors, and so on.</p>
-  <p>The MDR uses a rule-based system to determine a medical device’s risk class. There are 22 rules outlined in Annex VIII of the MDR for classifying any medical device into its appropriate risk class. Work through it as described in our <a href="https://www.youtube.com/watch?v=Dx55LZ3snM4" target="_blank" rel="noopener">How to work with Annex VIII of the MDR</a>.</p>
-  <h2 id="3-demonstrate-device-conformity">3. Demonstrate device conformity</h2>
-  <p>A product can only be placed on the EU market if it satisfies all the applicable MDR requirements, which apply to Class I devices just the way they do to others. The main requirements are:</p>
-  <h3 id="i-meet-general-safety-and-performance-requirements-gsprs">i) Meet General Safety and Performance Requirements (GSPRs)</h3>
-  <p>As a manufacturer, you are required to perform a relevancy analysis of the MDR Annex I GSPRs to work out which ones apply to your product. The best way to do this is to use a GSPR checklist or table to show which GSPRs apply. Following this, begin collating evidence to support conformity with those that are relevant.</p>
-  <h3 id="ii-conduct-a-clinical-evaluation">ii) Conduct a Clinical Evaluation</h3>
-  <div class="video-wrap">
-    <div class="video-insert youtube-player" data-id="cUu6YtEdO9c"></div>
-    <p class="video-caption"><b>Video 2:</b> See how our Clinical Evaluation Report writing service works from start to finish</p>
-  </div>
-  <p>All devices, regardless of risk class, must undergo a <a href="/eu-mdr-compliance/clinical-evaluation">Clinical Evaluation</a> in line with MDR Article 61 and Annex XIV Part A.</p>
-  <p>Don’t underestimate the importance of Clinical Evaluation, even to Class I devices – even if you can self-certify, your <b title="e.g. a Government">Competent Authority</b> still has the right to review your technical documents and will often plumb straight for the device’s  <a href="/eu-mdr-compliance/clinical-evaluation-report-cer">Clinical Evaluation Report (CER)</a>. That said, a CER needn’t be as complex as for a Class III device – it’s all about balance.</p>
-  <p><a href="/contact">Discuss Class I CERs</a> with a member of our team if you are in any doubt.</p>
-  <h3 id="iii-prepare-technical-documentation">iii) Prepare technical documentation</h3>
-  <p>Technical documentation should contain information on the device’s design, intended use, composition, basic UDI-DI, IFU, labelling, testing, materials, and so on, as required by MDR Article II.</p>
-  <p>It should also set out plans for PMS and other activities as per MDR Article III. A well organised technical documentation file is crucial in demonstrating your device’s compliance. Since most Class I devices are self-certified, manufacturers may overlook the importance of a detailed, well-structured, and clear medical device technical file.</p>
-  <p>Even though it is self-certified, the manufacturer is required to make the technical documentation available to the Competent Authority, authorised representative (if applicable), and notified body (when applicable). So, it is essential to make sure that the documents are prepared in a clear, orderly, and unambiguous manner.</p>
-  <p>If you need help in putting together your technical document library, you may benefit from the range of document templates available through our <a href="/enable-ce-mark/">MDR Academy platform</a>.</p>
-  <h3 id="iv-involve-a-notified-body">iv) Involve a Notified Body</h3>
-  <p>This step is not applicable for all Class I medical devices. But as a manufacturer, you must involve a <a href="/eu-mdr-compliance/notified-bodies">Notified Body</a> for Class I devices which are:</p>
-  <ul>
-    <li>sterile devices (Class Is)</li>
-    <li>reusable surgical instruments (Class Ir)</li>
-    <li>devices with a measuring function (Class Im)</li>
-  </ul>
-  <h2 id="4-meet-the-general-obligations-for-manufacturers">4. Meet the general obligations for manufacturers</h2>
-  <p><a href="/eu-mdr-compliance/medical-device-manufacturers">General obligations for manufacturers</a> are outlined in the Article 10 of the MDR 2017/745. To meet these requirements, manufacturers must:</p>
-  <ul>
-    <li>ensure that their medical devices are MDR-compliant in design and manufacture</li>
-    <li>have <a href="/eu-mdr-compliance/risk-management">Risk Management system</a> in place</li>
-    <li>perform a thorough <a href="/eu-mdr-compliance/clinical-evaluation">Clinical Evaluation</a></li>
-    <li>keep a record of current technical documentation</li>
-    <li>have access to a <a href="/eu-mdr-compliance/person-responsible-for-regulatory-compliance-prrc">Person Responsible for Regulatory Compliance (PRRC)</a></li>
-    <li>have a <a href="/eu-mdr-compliance/quality-management-system-qms">Quality Management System (QMS)</a> in place</li>
-  </ul>
-  <h2 id="5-conduct-the-final-steps-before-placing-your-device-on-the-market">5. Conduct the final steps before placing your device on the market</h2>
-  <p>Once you complete all the documents to demonstrate the device conformity and meet the manufacturer obligations under the MDR, you must file an EU Declaration of Conformity (DoC) which includes the information listed in Annex IV of the MDR. Don’t forget to include translations for all the countries in which the device will be made available. Once you have a DoC in hand, you can affix a CE mark to your device and register it for sale.</p>
-  <h2 id="6-plan-ahead">6. Plan ahead</h2>
-  <p>Once your device is on the market, it is your responsibility to have a <a href="/eu-mdr-compliance/post-market-surveillance-pms">Post Market Surveillance (PMS) system</a> in place. This is another area that is sometimes overlooked by manufacturers of Class I devices. Once again, the skill is in striking a balance to ensure that systems are comprehensive enough to detect vital information without being too onerous and expensive.</p>
-  <p>PMS should enable you to gather and assess safety and performance data to determine whether or not any actions are required. As a part of the PMS system, you must also:</p>
-  <ul>
-    <li>report all serious incidents and Field Safety Corrective Actions (FSCA) to the appropriate Competent Authorities and execute all relevant investigations</li>
-    <li>take prompt action in case there is a reason to think that a device placed on the market or in service is not in compliance with the MDR</li>
-  </ul>
-  <h2 id="conclusion">Conclusion</h2>
-  <p>The key message is — <b>don’t neglect the importance of a full MDR regulatory system for Class I devices</b>. Neglecting key areas such as Clinical Evaluation and Post-Market Surveillance will just lead to trouble down the line. Taking advice before putting systems in place can help ensure that they are sufficiently robust without exceeding what is necessary.</p>
-  <p>If you have any doubt or would like to learn more, please <a href="/contact">contact our friendly team</a> today.</p>
-  ]]></content><author><name>sandra-gopinath</name></author><category term="Strategy" /><category term="MDR" /><summary type="html"><![CDATA[We outline a strategy for the regulatory compliance of Class I medical devices.]]></summary></entry><entry><title type="html">How to achieve MDR Compliance for Class I medical devices</title><link href="https://www.mantrasystems.co.uk/articles/literature-search-sota-review-and-clinical-evaluation" rel="alternate" type="text/html" title="How to achieve MDR Compliance for Class I medical devices" /><published>2022-04-02T00:00:00+01:00</published><updated>2023-10-27T17:43:25+01:00</updated><id>https://www.mantrasystems.co.uk/articles/literature-search-sota-review-and-clinical-evaluation</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/literature-search-sota-review-and-clinical-evaluation"><![CDATA[<p>A <a href="/eu-mdr-compliance/literature-search-protocol-sota-review">literature search &amp; review</a> is a vital component of the <a href="/eu-mdr-compliance/clinical-evaluation">Clinical Evaluation</a> of medical devices. It is also challenging to perform and is an aspect of Clinical Evaluation that can be a source of confusion, difficulty and non-conformity.</p>
+  ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="Strategy" /><summary type="html"><![CDATA[We've compiled a list of considerations that will help you make the right choice when choosing a CER writer.]]></summary></entry><entry><title type="html">How to achieve MDR Compliance for Class I medical devices</title><link href="https://www.mantrasystems.co.uk/articles/literature-search-sota-review-and-clinical-evaluation" rel="alternate" type="text/html" title="How to achieve MDR Compliance for Class I medical devices" /><published>2022-04-02T00:00:00+01:00</published><updated>2023-10-27T17:43:25+01:00</updated><id>https://www.mantrasystems.co.uk/articles/literature-search-sota-review-and-clinical-evaluation</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/literature-search-sota-review-and-clinical-evaluation"><![CDATA[<p>A <a href="/eu-mdr-compliance/literature-search-protocol-sota-review">literature search &amp; review</a> is a vital component of the <a href="/eu-mdr-compliance/clinical-evaluation">Clinical Evaluation</a> of medical devices. It is also challenging to perform and is an aspect of Clinical Evaluation that can be a source of confusion, difficulty and non-conformity.</p>
   <p>In this article, we help to demystify the process of systematic review of literature for Clinical Evaluation.</p>
   <h2 id="what-is-meddev-271-rev-4">What is MedDev 2.7/1 rev 4?</h2>
   <p><a href="https://www.medical-device-regulation.eu/wp-content/uploads/2019/05/2_7_1_rev4_en.pdf" target="_blank" rel="noopener">MedDev 2.7/1 rev 4</a> is one of a series of guidance documents published by the European Commission intended to assist <a href="/eu-mdr-compliance/medical-device-manufacturers">medical device manufacturers</a> and <a href="/eu-mdr-compliance/notified-bodies">Notified Bodies</a> in meeting medical device regulatory obligations. MedDev stands for MEDical DEVices documents. MedDev 2.7/1 rev 4 is a detailed document which sets out comprehensive guidelines for medical device manufacturers and notified bodies for the conduct of Clinical Evaluation. MedDev 2.7/1 rev 4 is a technical document which can be challenging to digest.</p>

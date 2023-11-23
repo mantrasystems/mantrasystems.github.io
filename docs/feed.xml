@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2023-11-22T13:45:37+00:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Mantra Systems at MEDICA 2023</title><link href="https://www.mantrasystems.co.uk/articles/mantra-systems-at-medica-2023" rel="alternate" type="text/html" title="Mantra Systems at MEDICA 2023" /><published>2023-11-11T00:00:00+00:00</published><updated>2023-11-11T20:20:26+00:00</updated><id>https://www.mantrasystems.co.uk/articles/mantra-systems-at-medica-2023</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/mantra-systems-at-medica-2023"><![CDATA[<p>Mantra Systems is looking forward to attending <a href="https://www.medica-tradefair.com/" target="_blank" rel="noopener">MEDICA 2023</a> - a prestigious international medical trade fair held on 13th - 16th November in Düsseldorf, Germany.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2023-11-23T12:13:24+00:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Mantra Systems at MEDICA 2023</title><link href="https://www.mantrasystems.co.uk/articles/mantra-systems-at-medica-2023" rel="alternate" type="text/html" title="Mantra Systems at MEDICA 2023" /><published>2023-11-11T00:00:00+00:00</published><updated>2023-11-11T20:20:26+00:00</updated><id>https://www.mantrasystems.co.uk/articles/mantra-systems-at-medica-2023</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/mantra-systems-at-medica-2023"><![CDATA[<p>Mantra Systems is looking forward to attending <a href="https://www.medica-tradefair.com/" target="_blank" rel="noopener">MEDICA 2023</a> - a prestigious international medical trade fair held on 13th - 16th November in Düsseldorf, Germany.</p>
       <p>With over 5,500 exhibitors from 66 countries and more than 81,000 visitors worldwide, MEDICA stands as one of the largest medical B2B trade fairs in the world. The event presents the entire spectrum of innovations from various companies and organisations for outpatient and clinical care.</p>
       <p>As the global medical device landscape continues to evolve, staying at the forefront of medical device innovation is paramount for companies committed to advancing healthcare solutions.</p>
       <p>The event will showcase innovation in the 5 spheres of MEDICA; these are:</p>
@@ -405,103 +405,63 @@
   </div>
   <p>Choosing the right CER writer is a key decision when outsourcing the writing of medical device Clinical Evaluations. Making a selection based on price alone can be a costly mistake; instead, focus on the above criteria and make a choice based on proven factors that will directly impact the quality of work delivered.</p>
   <p>Questions? <a href="mailto:contact&#64;mantrasystems.co.uk">Email a member of our friendly team</a>, or call <a href="tel:+441142992599">+44(0)114 299 2599</a> to speak directly with one of our expert medical writers. <strong>We promise: no phone menus, no waiting, no obligation and complete confidence.</strong></p>
-  ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="Strategy" /><summary type="html"><![CDATA[We've compiled a list of considerations that will help you make the right choice when choosing a CER writer.]]></summary></entry><entry><title type="html">How to achieve MDR Compliance for Class I medical devices</title><link href="https://www.mantrasystems.co.uk/articles/literature-search-sota-review-and-clinical-evaluation" rel="alternate" type="text/html" title="How to achieve MDR Compliance for Class I medical devices" /><published>2022-04-02T00:00:00+01:00</published><updated>2023-10-27T17:43:25+01:00</updated><id>https://www.mantrasystems.co.uk/articles/literature-search-sota-review-and-clinical-evaluation</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/literature-search-sota-review-and-clinical-evaluation"><![CDATA[<p>A <a href="/eu-mdr-compliance/literature-search-protocol-sota-review">literature search &amp; review</a> is a vital component of the <a href="/eu-mdr-compliance/clinical-evaluation">Clinical Evaluation</a> of medical devices. It is also challenging to perform and is an aspect of Clinical Evaluation that can be a source of confusion, difficulty and non-conformity.</p>
-  <p>In this article, we help to demystify the process of systematic review of literature for Clinical Evaluation.</p>
-  <h2 id="what-is-meddev-271-rev-4">What is MedDev 2.7/1 rev 4?</h2>
-  <p><a href="https://www.medical-device-regulation.eu/wp-content/uploads/2019/05/2_7_1_rev4_en.pdf" target="_blank" rel="noopener">MedDev 2.7/1 rev 4</a> is one of a series of guidance documents published by the European Commission intended to assist <a href="/eu-mdr-compliance/medical-device-manufacturers">medical device manufacturers</a> and <a href="/eu-mdr-compliance/notified-bodies">Notified Bodies</a> in meeting medical device regulatory obligations. MedDev stands for MEDical DEVices documents. MedDev 2.7/1 rev 4 is a detailed document which sets out comprehensive guidelines for medical device manufacturers and notified bodies for the conduct of Clinical Evaluation. MedDev 2.7/1 rev 4 is a technical document which can be challenging to digest.</p>
-  <p><strong>Appendix 5</strong> of the MedDev guideline sets out requirements for the identification and review of literature in the context of Clinical Evaluation. It is therefore central to performing a compliant literature review.</p>
-  <h2 id="what-is-the-role-of-a-literature-review-in-medical-device-clinical-evaluation">What is the role of a literature review in medical device Clinical Evaluation?</h2>
-  <p>The review of published literature is a critical component of medical device Clinical Evaluation. A literature review is performed to inform two major elements of a Clinical Evaluation:</p>
-  <ul>
-    <li>A review of the current knowledge/ the state of the art (SOTA) – this enables the identification of safety and performance benchmarks against which performance of the subject (and, if relevant, equivalent) device may be evaluated</li>
-    <li>A review of literature relating to the subject (and equivalent) device.</li>
-  </ul>
-  <p>It is a requirement that literature searches are performed according to a documented protocol and that they include both favourable and unfavourable data. They must be representative and not be biased or selective; therefore, methods must be set out clearly for inclusion, exclusion, appraisal and analysis of sources.</p>
-  <h2 id="what-guidance-is-offered-by-meddev-271-rev-4-appendix-5">What guidance is offered by MedDev 2.7/1 rev 4 Appendix 5?</h2>
-  <p>Appendix 5 of MedDev 2.7/1 rev 4 provides a range of guidance for Clinical Evaluation literature searches &amp; reviews, including:</p>
-  <ul>
-    <li>Offering general instructions on literature searching</li>
-    <li>Outlining methods for constructing protocols for undertaking a literature review</li>
-    <li>Defining the key elements of literature reviews that are required in order to deliver a compliant <a href="/eu-mdr-compliance/clinical-evaluation-report-cer">Clinical Evaluation Report</a>.</li>
-  </ul>
-  <p>Understanding the literature search &amp; review process explained in <strong>Appendix 5</strong> can be made easier by dividing it into four stages:</p>
-  <div class="general-wrap">
-    <ul class="information row tile info-process">
-      <li class="col col-3">
-        <div class="content bg-b2 bg-dark">
-          <h3><span>Stage 1</span> Background</h3>
-          <ol>
-            <li>Search criteria</li>
-            <li>Databases</li>
-            <li>Inclusion &amp; exclusion criteria</li>
-          </ol>
-        </div>
-      </li>
-      <li class="col col-3">
-        <div class="content bg-b3 bg-dark">
-          <h3><span>Stage 2</span> Literature Screen</h3>
-          <ol>
-            <li>Analysing abstracts</li>
-            <li>Full article</li>
-          </ol>
-        </div>
-      </li>
-      <li class="col col-3">
-        <div class="content bg-b4 bg-dark">
-          <h3><span>Stage 3</span> Appraisal &amp; Analysis</h3>
-          <ol>
-            <li>Selection &amp; Exclusion</li>
-            <li>Critique &amp; Appraise</li>
-            <li>Analysis</li>
-          </ol>
-        </div>
-      </li>
-      <li class="col col-3">
-        <div class="content bg-b0 bg-dark">
-          <h3><span>Stage 4</span> Literature Report</h3>
-          <ol>
-            <li>Benefits / Risk</li>
-            <li>Conclusion</li>
-            <li>Report</li>
-          </ol>
-        </div>
-      </li>
-    </ul>
+  ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="Strategy" /><summary type="html"><![CDATA[We've compiled a list of considerations that will help you make the right choice when choosing a CER writer.]]></summary></entry><entry><title type="html">How to achieve MDR Compliance for Class I medical devices</title><link href="https://www.mantrasystems.co.uk/articles/how-to-achieve-mdr-compliance-for-class-i-medical-devices" rel="alternate" type="text/html" title="How to achieve MDR Compliance for Class I medical devices" /><published>2022-04-02T00:00:00+01:00</published><updated>2023-10-27T17:43:25+01:00</updated><id>https://www.mantrasystems.co.uk/articles/how-to-achieve-mdr-compliance-for-class-i-medical-devices</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/how-to-achieve-mdr-compliance-for-class-i-medical-devices"><![CDATA[<p>Are you a manufacturer of Class I medical devices intended for sale in the EU market? Or are you a supplier who recently learned that your product is classified as a medical device under the new MDR? If your answer to either of these questions is ‘yes’, then this article is for you.</p>
+  <p>In order to place a medical device on the market, you as a manufacturer have to demonstrate conformity with the MDR and compliance with the GSPRs laid out in Annex I, regardless of the device classification.</p>
+  <p>Because most Class I devices don’t require the involvement of a <a href="/eu-mdr-compliance/notified-bodies">Notified Body</a>, it can be tempting to ‘do the minimum’ for Class I regulatory compliance. Under the MDR, however, this can be a big mistake.</p>
+  <p>In this article, we will discuss how to achieve <a href="/eu-mdr-compliance/">MDR compliance</a> specifically for Class I devices, with a focus on what to keep in mind while self-certifying.</p>
+  <h2 id="1-is-your-product-a-medical-device-under-mdr-article-2">1. Is your product a medical device under MDR Article 2?</h2>
+  <p>The first step towards MDR compliance is confirming whether your product is a medical device. Whether your product satisfies the definition of a medical device depends in large part on the intended purpose, which you as a manufacturer control. Take great care in matching this against the definition in Article 2 of the MDR. Remember that non-standard items such as “reagents” and “software” can all meet the definition.</p>
+  <h2 id="2-what-is-its-risk-classification">2. What is its risk classification?</h2>
+  <div class="video-wrap">
+    <div class="video-insert youtube-player" data-id="Dx55LZ3snM4"></div>
+    <p class="video-caption"><b>Video 1:</b> How to work with Annex VIII from the MDR</p>
   </div>
-  <h2 id="stage-1-background-to-the-literature-search">Stage 1: Background to the literature search</h2>
-  <p>Background to the literature search stage sets the scene for the substantive literature search, review, appraisal and report to follow. Performed properly, a rationale for performing the literature review should be clearly documented.</p>
-  <p>The background to the literature search should include information such as:</p>
-  <ol>
-    <li>Name of the device/model.</li>
-    <li>Importance of literature review in the risk management process. The review should provide data on current therapies, diagnostic measures, and measures for the management of medical conditions for the targeted patient population. This will help in order to assess the acceptable benefits/risks.</li>
-    <li>Outcomes of previous literature reviews and literature searches conducted by manufacturer.</li>
-    <li>Identification of any equivalent or benchmark devices to be included in the evaluation, including the name and model of these devices.</li>
-  </ol>
-  <p>Carefully formulated research question(s) should be set out to guide the selection of search terms. Selected search terms will then be subjected to an objective, non-biased, systematic search and review. The inputs required for this section are the device description and the expected device performance; these can be applied for the formation of relevant research questions. Methods or protocols adopted for the conduct of literature review should set out the search methodology, sources of data, selection &amp; exclusion criteria and appraisal/critique methodology.</p>
-  <h2 id="stage-2-literature-screen">Stage 2: Literature Screen</h2>
-  <p>The next step is to screen initial results for relevance to the research questions. This stage can be thought of as a ‘triage’ of sources, with the objective being to limit full appraisal to only those results that are pertinent.</p>
-  <p>MedDev 2.7/1 rev 4 requires the use of carefully formulated inclusion / exclusion criteria, augmented by an objective, non-biased, systematic screening and review process such as PICO (patient characteristics, type of intervention, control, and outcome queries), or PRISMA (The Preferred Reporting Items for Systematic Reviews and Meta-Analyses). Whatever method is used, it should align with the method specified in the search protocol (or review protocol) developed prior to commencing the review.</p>
-  <p>In a practical sense, begin by reviewing the titles and abstracts – the full text is not required at this stage. Due to the number of results often found by search terms, screening needs to be efficient while maintaining appropriate scrutiny. It may be helpful to use exclusion codes to codify reasons for exclusions (which may include, for example, “unrelated topic” or “article not available in English” etc).</p>
-  <p><b>Remember</b> — this stage is all about identifying relevant sources.</p>
-  <h2 id="stage-3-appraisal--analysis">Stage 3: Appraisal &amp; Analysis</h2>
-  <p>Before considering how to perform appraisal and analysis, it’s important to understand the difference between them:</p>
+  <p>The next step is to identify the device’s risk classification. Risk classification in MDR reflects the potential risk of harm that a medical device poses. Medical devices under Class I are generally low risk devices which include non-invasive devices with non-critical functions, such as wound care devices, stethoscopes, tongue depressors, and so on.</p>
+  <p>The MDR uses a rule-based system to determine a medical device’s risk class. There are 22 rules outlined in Annex VIII of the MDR for classifying any medical device into its appropriate risk class. Work through it as described in our <a href="https://www.youtube.com/watch?v=Dx55LZ3snM4" target="_blank" rel="noopener">How to work with Annex VIII of the MDR</a>.</p>
+  <h2 id="3-demonstrate-device-conformity">3. Demonstrate device conformity</h2>
+  <p>A product can only be placed on the EU market if it satisfies all the applicable MDR requirements, which apply to Class I devices just the way they do to others. The main requirements are:</p>
+  <h3 id="i-meet-general-safety-and-performance-requirements-gsprs">i) Meet General Safety and Performance Requirements (GSPRs)</h3>
+  <p>As a manufacturer, you are required to perform a relevancy analysis of the MDR Annex I GSPRs to work out which ones apply to your product. The best way to do this is to use a GSPR checklist or table to show which GSPRs apply. Following this, begin collating evidence to support conformity with those that are relevant.</p>
+  <h3 id="ii-conduct-a-clinical-evaluation">ii) Conduct a Clinical Evaluation</h3>
+  <div class="video-wrap">
+    <div class="video-insert youtube-player" data-id="cUu6YtEdO9c"></div>
+    <p class="video-caption"><b>Video 2:</b> See how our Clinical Evaluation Report writing service works from start to finish</p>
+  </div>
+  <p>All devices, regardless of risk class, must undergo a <a href="/eu-mdr-compliance/clinical-evaluation">Clinical Evaluation</a> in line with MDR Article 61 and Annex XIV Part A.</p>
+  <p>Don’t underestimate the importance of Clinical Evaluation, even to Class I devices – even if you can self-certify, your <b title="e.g. a Government">Competent Authority</b> still has the right to review your technical documents and will often plumb straight for the device’s  <a href="/eu-mdr-compliance/clinical-evaluation-report-cer">Clinical Evaluation Report (CER)</a>. That said, a CER needn’t be as complex as for a Class III device – it’s all about balance.</p>
+  <p><a href="/contact">Discuss Class I CERs</a> with a member of our team if you are in any doubt.</p>
+  <h3 id="iii-prepare-technical-documentation">iii) Prepare technical documentation</h3>
+  <p>Technical documentation should contain information on the device’s design, intended use, composition, basic UDI-DI, IFU, labelling, testing, materials, and so on, as required by MDR Article II.</p>
+  <p>It should also set out plans for PMS and other activities as per MDR Article III. A well organised technical documentation file is crucial in demonstrating your device’s compliance. Since most Class I devices are self-certified, manufacturers may overlook the importance of a detailed, well-structured, and clear medical device technical file.</p>
+  <p>Even though it is self-certified, the manufacturer is required to make the technical documentation available to the Competent Authority, authorised representative (if applicable), and notified body (when applicable). So, it is essential to make sure that the documents are prepared in a clear, orderly, and unambiguous manner.</p>
+  <p>If you need help in putting together your technical document library, you may benefit from the range of document templates available through our <a href="/enable-ce-mark/">MDR Academy platform</a>.</p>
+  <h3 id="iv-involve-a-notified-body">iv) Involve a Notified Body</h3>
+  <p>This step is not applicable for all Class I medical devices. But as a manufacturer, you must involve a <a href="/eu-mdr-compliance/notified-bodies">Notified Body</a> for Class I devices which are:</p>
   <ul>
-    <li><b>Appraisal</b> means to assess the quality of a source, methodological quality, scientific validity, reliability, relevance and weighting to the evaluation.</li>
-    <li><b>Analysis</b> is the post-appraisal stage of evaluating what the results mean (or what they tell us). Appraisal and weighting should be considered during analysis.</li>
+    <li>sterile devices (Class Is)</li>
+    <li>reusable surgical instruments (Class Ir)</li>
+    <li>devices with a measuring function (Class Im)</li>
   </ul>
-  <p>According to MedDev 2.7/1 rev 4, an appraisal plan should form part of the search protocol. It is advisable to create an appraisal framework covering multiple domains (such as relevance, clinical significance, study type, etc) and it can be useful to assign a code to each appraisal element. As part of appraisal, a score can be applied against each appraisal domain, forming a structured and codified appraisal summary of each source and the ‘body’ of sources as a whole.</p>
-  <p>Weighting is a key concept in appraisal that’s worth considering independently. The weighting of a source indicates how much importance should be placed on the results of that source when compared to others. A high weighting indicates that the results should be deemed more relevant to the evaluation than data from a lower weighting source.</p>
-  <p>Following appraisal, the next stage is to analyse the data. The analysis will depend on the reason for conducting the literature review; in a clinical evaluation, the appraisal may consider (for example):</p>
-  <ol>
-    <li>Does the data demonstrate that the device is suitable for its intended purpose?</li>
-    <li>Does the data demonstrate compliance with the relevant General Safety and Performance Requirements (GSPRs)?</li>
-  </ol>
-  <p>During appraisal, ensure that an objective approach is taken and that both favourable and unfavourable data is treated equally.</p>
-  <h2 id="stage-4-literature-review-report">Stage 4: Literature Review Report</h2>
-  <p>The fourth and final stage of the literature analysis and review process is preparing a literature review report. While writing the report, especially if performed in the context of a clinical evaluation, it is important to identify quantifiable safety and performance parameters, whether in relation to the subject device or comparable alternatives.</p>
-  <p>Ensure the report includes enough information for a reviewer to understand how the search was conducted and what appraisal and analysis criteria were used. Present a summary of each source (outlining a rationale for the appraisal and weighting) in the body of the document and outline the analysis towards the end.</p>
-  <h2 id="the-bottom-line">The bottom line</h2>
-  <p>Performing a systematic literature review to the required standard is not easy. While the framework in Appendix 5 of MedDev 2.7/1 rev 4 is not without its limitations, it is useful as a starting point and in ensuring that the review has an appropriate structure without major omissions.</p>
-  <p>At Mantra Systems, our team of medical experts are on hand to support your <a href="/medical-device-regulatory-consulting-services/literature-search-protocol-sota-review">literature search &amp; review</a> needs. If you need any information or advice, please <a href="/contact">contact us</a> for a free discussion.</p>
-  <p><strong>Note:</strong> A shortened version of this article was previously published on 20th October, 2021.</p>
+  <h2 id="4-meet-the-general-obligations-for-manufacturers">4. Meet the general obligations for manufacturers</h2>
+  <p><a href="/eu-mdr-compliance/medical-device-manufacturers">General obligations for manufacturers</a> are outlined in the Article 10 of the MDR 2017/745. To meet these requirements, manufacturers must:</p>
+  <ul>
+    <li>ensure that their medical devices are MDR-compliant in design and manufacture</li>
+    <li>have <a href="/eu-mdr-compliance/risk-management">Risk Management system</a> in place</li>
+    <li>perform a thorough <a href="/eu-mdr-compliance/clinical-evaluation">Clinical Evaluation</a></li>
+    <li>keep a record of current technical documentation</li>
+    <li>have access to a <a href="/eu-mdr-compliance/person-responsible-for-regulatory-compliance-prrc">Person Responsible for Regulatory Compliance (PRRC)</a></li>
+    <li>have a <a href="/eu-mdr-compliance/quality-management-system-qms">Quality Management System (QMS)</a> in place</li>
+  </ul>
+  <h2 id="5-conduct-the-final-steps-before-placing-your-device-on-the-market">5. Conduct the final steps before placing your device on the market</h2>
+  <p>Once you complete all the documents to demonstrate the device conformity and meet the manufacturer obligations under the MDR, you must file an EU Declaration of Conformity (DoC) which includes the information listed in Annex IV of the MDR. Don’t forget to include translations for all the countries in which the device will be made available. Once you have a DoC in hand, you can affix a CE mark to your device and register it for sale.</p>
+  <h2 id="6-plan-ahead">6. Plan ahead</h2>
+  <p>Once your device is on the market, it is your responsibility to have a <a href="/eu-mdr-compliance/post-market-surveillance-pms">Post Market Surveillance (PMS) system</a> in place. This is another area that is sometimes overlooked by manufacturers of Class I devices. Once again, the skill is in striking a balance to ensure that systems are comprehensive enough to detect vital information without being too onerous and expensive.</p>
+  <p>PMS should enable you to gather and assess safety and performance data to determine whether or not any actions are required. As a part of the PMS system, you must also:</p>
+  <ul>
+    <li>report all serious incidents and Field Safety Corrective Actions (FSCA) to the appropriate Competent Authorities and execute all relevant investigations</li>
+    <li>take prompt action in case there is a reason to think that a device placed on the market or in service is not in compliance with the MDR</li>
+  </ul>
+  <h2 id="conclusion">Conclusion</h2>
+  <p>The key message is — <b>don’t neglect the importance of a full MDR regulatory system for Class I devices</b>. Neglecting key areas such as Clinical Evaluation and Post-Market Surveillance will just lead to trouble down the line. Taking advice before putting systems in place can help ensure that they are sufficiently robust without exceeding what is necessary.</p>
+  <p>If you have any doubt or would like to learn more, please <a href="/contact">contact our friendly team</a> today.</p>
   ]]></content><author><name>sandra-gopinath</name></author><category term="Strategy" /><category term="MDR" /><summary type="html"><![CDATA[We outline a strategy for the regulatory compliance of Class I medical devices.]]></summary></entry></feed>

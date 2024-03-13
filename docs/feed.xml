@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2024-03-13T16:39:56+00:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">A device’s intended purpose - what is the point?</title><link href="https://www.mantrasystems.co.uk/articles/a-devices-intended-purpose-what-is-the-point" rel="alternate" type="text/html" title="A device’s intended purpose - what is the point?" /><published>2024-03-13T00:00:00+00:00</published><updated>2024-03-13T15:23:07+00:00</updated><id>https://www.mantrasystems.co.uk/articles/a-devices-intended-purpose-what-is-the-point</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/a-devices-intended-purpose-what-is-the-point"><![CDATA[<p>A clear idea of your medical device’s intended purpose is crucial in meeting the EU MDR regulatory requirements. Getting it right early in the development process is important, as it provides inputs to:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2024-03-13T17:37:53+00:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">A device’s intended purpose - what is the point?</title><link href="https://www.mantrasystems.co.uk/articles/a-devices-intended-purpose-what-is-the-point" rel="alternate" type="text/html" title="A device’s intended purpose - what is the point?" /><published>2024-03-13T00:00:00+00:00</published><updated>2024-03-13T16:40:38+00:00</updated><id>https://www.mantrasystems.co.uk/articles/a-devices-intended-purpose-what-is-the-point</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/a-devices-intended-purpose-what-is-the-point"><![CDATA[<p>A clear idea of your medical device’s intended purpose is crucial in meeting the EU MDR regulatory requirements. Getting it right early in the development process is important, as it provides inputs to:</p>
       <ol>
         <li>Objectives of the <a href="/eu-mdr-compliance/clinical-evaluation">Clinical Evaluation</a>,</li>
         <li>Defining the <a href="/eu-mdr-compliance/literature-search-protocol-sota-review">SOTA</a>,</li>
@@ -25,15 +25,15 @@
       <table class="simple">
         <tr>
           <th>Intended purpose</th>
-          <td>The use and effect of the device</td>
+          <td>Is the use and effect of the device.</td>
         </tr>
         <tr>
           <th>Indications for use</th>
-          <td>Clinical condition that the device targets</td>
+          <td>Is the clinical condition that the device targets.</td>
         </tr>
         <tr>
           <th>Clinical benefit</th>
-          <td>Measurable impact on the patient</td>
+          <td>Is the measurable impact on the patient.</td>
         </tr>
         <tr>
           <th>Claims</th>

@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2024-03-13T15:22:20+00:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">A device’s intended purpose - what is the point?</title><link href="https://www.mantrasystems.co.uk/articles/a-devices-intended-purpose-what-is-the-point" rel="alternate" type="text/html" title="A device’s intended purpose - what is the point?" /><published>2024-03-13T00:00:00+00:00</published><updated>2024-03-13T15:22:20+00:00</updated><id>https://www.mantrasystems.co.uk/articles/a-devices-intended-purpose-what-is-the-point</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/a-devices-intended-purpose-what-is-the-point"><![CDATA[<p>A clear idea of your medical device’s intended purpose is crucial in meeting the EU MDR regulatory requirements. Getting it right early in the development process is important, as it provides inputs to:</p>
-      <ul>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2024-03-13T16:39:56+00:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">A device’s intended purpose - what is the point?</title><link href="https://www.mantrasystems.co.uk/articles/a-devices-intended-purpose-what-is-the-point" rel="alternate" type="text/html" title="A device’s intended purpose - what is the point?" /><published>2024-03-13T00:00:00+00:00</published><updated>2024-03-13T15:23:07+00:00</updated><id>https://www.mantrasystems.co.uk/articles/a-devices-intended-purpose-what-is-the-point</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/a-devices-intended-purpose-what-is-the-point"><![CDATA[<p>A clear idea of your medical device’s intended purpose is crucial in meeting the EU MDR regulatory requirements. Getting it right early in the development process is important, as it provides inputs to:</p>
+      <ol>
         <li>Objectives of the <a href="/eu-mdr-compliance/clinical-evaluation">Clinical Evaluation</a>,</li>
         <li>Defining the <a href="/eu-mdr-compliance/literature-search-protocol-sota-review">SOTA</a>,</li>
         <li><a href="/articles/keeping-medical-devices-in-market-maintaining-ce-marks">Design of clinical investigations</a>,</li>
         <li><a href="/articles/five-tips-for-making-a-medical-device-equivalence-claim-under-the-mdr">Equivalence claims</a>,</li>
         <li>Evidence for conformity to <a href="https://www.youtube.com/watch?v=RxyKV003WaY" target="_blank" rel="noopener">relevant GSPRs</a>.</li>
-      </ul>
+      </ol>
       <p>A clinical evaluation should, according to its definition in Article 2(44) of the EU MDR, <q>“verify the safety and performance, including clinical benefits, of the device when used as intended by the manufacturer.”</q></p>
       <p>But what is the intended purpose, and how does it interact with indications for use, claims, and intended clinical benefits? <b>For each term, we will consider a fictional hip implant device.</b></p>
       <h2 id="intended-purpose">Intended purpose</h2>
@@ -21,12 +21,25 @@
       <p>‘Claims’ are not defined in the EU MDR, but Article 7 prohibits any information supplied by the manufacturer that may mislead the user with regard to the intended purpose, safety, or performance. Claims, therefore, can be <b>derived from any manufacturer documents</b> and should be supported by clinical evidence in the clinical evaluation.</p>
       <p>Claims will encompass all of the intended use, indications for use, clinical benefits, as well as other terms not discussed in this article such as intended user, use environment, etc.</p>
       <h2 id="summary">Summary</h2>
-      <ul>
-        <li>Intended purpose: the use and effect of the device</li>
-        <li>Indications for use: clinical condition that the device targets</li>
-        <li>Clinical benefit: measurable impact on the patient</li>
-        <li>Claims: derived from the above, plus any other claims made in marketing materials, IFU, etc.</li>
-      </ul>
+      <p>To briefly summarise each of the points above:</p>
+      <table class="simple">
+        <tr>
+          <th>Intended purpose</th>
+          <td>The use and effect of the device</td>
+        </tr>
+        <tr>
+          <th>Indications for use</th>
+          <td>Clinical condition that the device targets</td>
+        </tr>
+        <tr>
+          <th>Clinical benefit</th>
+          <td>Measurable impact on the patient</td>
+        </tr>
+        <tr>
+          <th>Claims</th>
+          <td>Derived from the above, plus any other claims made in marketing materials, IFU, etc.</td>
+        </tr>
+      </table>
       <p>For further information regarding how we can meet your MDR requirements please <a href="/contact">contact us</a> for a free and confidential discussion.</p>
       <p>Alternatively, for any general regulatory questions you need a quick answer to, have you tried our <a href="/medical-device-regulation-resources/enablechat">AI-powered MDR &amp; MDCG chatbot</a>? — it’s free and will answer your queries around the clock.</p>
       ]]></content><author><name>simon-cumiskey</name></author><category term="MDR" /><category term="Clinical Evaluation" /><category term="PMCF" /><summary type="html"><![CDATA[How do you define intended purpose, indication for use, intended clinical benefits, and claims?]]></summary></entry><entry><title type="html">EnableChat - Your AI-powered MDR and MDCG chatbot</title><link href="https://www.mantrasystems.co.uk/articles/enablechat-your-ai-powered-mdr-mdcg-chatbot" rel="alternate" type="text/html" title="EnableChat - Your AI-powered MDR and MDCG chatbot" /><published>2024-02-12T00:00:00+00:00</published><updated>2024-02-12T16:04:02+00:00</updated><id>https://www.mantrasystems.co.uk/articles/enablechat-your-ai-powered-mdr-mdcg-chatbot</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/enablechat-your-ai-powered-mdr-mdcg-chatbot"><![CDATA[<p>A deep understanding of the MDR and associated MDCG documents is crucial for achieving compliance with the EU Medical Device Regulations.</p>
@@ -41,7 +54,7 @@
     <p>More specifically, EnableChat is a retrieval-augmented generative question and answering web application that finds the most relevant MDCG documents or MDR pages, before using a large language model to answer the user’s question based on the relevant documents. This method ensures high accuracy while maintaining a friendly, conversational style.</p>
     <p>EnableChat is free to use (no sign-up required) and searches all the latest MDCG documents as well as the MDR text.</p>
     <p class="align-center"><a href="/medical-device-regulation-resources/enablechat" class="button">Try EnableChat</a></p>
-    ]]></content><author><name>simon-cumiskey</name></author><category term="MDR" /><summary type="html"><![CDATA[Search the MDR and MDCG documents in seconds by asking EnableChat your questions.]]></summary></entry><entry><title type="html">Staying vigilant - A guide to searching for adverse events data</title><link href="https://www.mantrasystems.co.uk/articles/staying-vigilant-a-guide-to-searching-for-adverse-events-data" rel="alternate" type="text/html" title="Staying vigilant - A guide to searching for adverse events data" /><published>2024-01-08T00:00:00+00:00</published><updated>2024-03-12T14:02:21+00:00</updated><id>https://www.mantrasystems.co.uk/articles/staying-vigilant-a-guide-to-searching-for-adverse-events-data</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/staying-vigilant-a-guide-to-searching-for-adverse-events-data"><![CDATA[<p>Searching for and analysing adverse events data relating to subject and similar devices is essential in any medical device MDR submission. Although intended to be a future major component of adverse events reporting, the EUDAMED database is not yet fully functional and does not currently allow for the searching of <a href="/eu-mdr-compliance/vigilance">vigilance data</a>.</p>
+    ]]></content><author><name>simon-cumiskey</name></author><category term="MDR" /><summary type="html"><![CDATA[Search the MDR and MDCG documents in seconds by asking EnableChat your questions.]]></summary></entry><entry><title type="html">Staying vigilant - A guide to searching for adverse events data</title><link href="https://www.mantrasystems.co.uk/articles/staying-vigilant-a-guide-to-searching-for-adverse-events-data" rel="alternate" type="text/html" title="Staying vigilant - A guide to searching for adverse events data" /><published>2024-01-08T00:00:00+00:00</published><updated>2024-03-13T15:23:07+00:00</updated><id>https://www.mantrasystems.co.uk/articles/staying-vigilant-a-guide-to-searching-for-adverse-events-data</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/staying-vigilant-a-guide-to-searching-for-adverse-events-data"><![CDATA[<p>Searching for and analysing adverse events data relating to subject and similar devices is essential in any medical device MDR submission. Although intended to be a future major component of adverse events reporting, the EUDAMED database is not yet fully functional and does not currently allow for the searching of <a href="/eu-mdr-compliance/vigilance">vigilance data</a>.</p>
   <p>In this article, we outline what other adverse event databases are available, along with the pros and cons of each.</p>
   <h2 id="what-is-adverse-events-data-used-for">What is adverse events data used for?</h2>
   <p>Data gathered by the manufacturer’s <a href="/eu-mdr-compliance/post-market-surveillance-pms">Post-Market Surveillance (PMS)</a> system, including adverse events, is used for the following purposes:</p>

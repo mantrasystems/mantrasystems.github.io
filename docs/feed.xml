@@ -1,60 +1,110 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2024-07-02T17:15:04+01:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">A medical device’s intended purpose - what is the point?</title><link href="https://www.mantrasystems.co.uk/articles/a-medical-devices-intended-purpose-what-is-the-point" rel="alternate" type="text/html" title="A medical device’s intended purpose - what is the point?" /><published>2024-03-13T00:00:00+00:00</published><updated>2024-03-14T12:56:38+00:00</updated><id>https://www.mantrasystems.co.uk/articles/a-medical-devices-intended-purpose-what-is-the-point</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/a-medical-devices-intended-purpose-what-is-the-point"><![CDATA[<p>A clear idea of your medical device’s intended purpose is crucial in meeting the EU MDR regulatory requirements. Getting it right early in the development process is important, as it provides inputs to:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2024-07-05T12:40:47+01:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">MDCG 2024-10 - Orphan medical devices</title><link href="https://www.mantrasystems.co.uk/articles/mdcg-2024-10-orphan-medical-devices" rel="alternate" type="text/html" title="MDCG 2024-10 - Orphan medical devices" /><published>2024-07-04T00:00:00+01:00</published><updated>2024-07-05T12:39:48+01:00</updated><id>https://www.mantrasystems.co.uk/articles/mdcg-2024-10-orphan-medical-devices</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/mdcg-2024-10-orphan-medical-devices"><![CDATA[<p>With the introduction of the EU Medical Device Regulation (MDR), there has been an increased emphasis on clinical evidence requirements. Manufacturers of medical devices indicated for rare diseases found these new obligations burdensome, potentially impacting patient access to these devices.</p>
+      <p>Released in June 2024, the <a href="https://health.ec.europa.eu/document/download/daa1fc59-9d2c-4e82-878e-d6fdf12ecd1a_en?filename=mdcg_2024-10_en.pdf" target="_blank" rel="noopener">MDCG 2024-10 guidance</a> introduces and defines new terms to the MDR regulatory landscape and aims to address these challenges faced by <a href="/eu-mdr-compliance/medical-device-manufacturers">manufacturers of medical devices</a> indicated for use in rare diseases.</p>
+      <p>In this article, we explore the impact of MDCG 2024-10 on clinical evidence requirements, shedding light on its key considerations and implications.</p>
+      <h2 id="orphan-device-classification">Orphan device classification</h2>
+      <p>An “orphan device” is defined as a medical device specifically intended to benefit patients in the treatment, diagnosis, or prevention of a disease or condition that affects no more than 12,000 individuals in the European Union per year. To qualify as an orphan device, at least one of the following criteria must be met:</p>
       <ol>
-        <li>Objectives of the <a href="/eu-mdr-compliance/clinical-evaluation">Clinical Evaluation</a>,</li>
-        <li>Defining the <a href="/eu-mdr-compliance/literature-search-protocol-sota-review">SOTA</a>,</li>
-        <li><a href="/articles/keeping-medical-devices-in-market-maintaining-ce-marks">Design of clinical investigations</a>,</li>
-        <li><a href="/articles/five-tips-for-making-a-medical-device-equivalence-claim-under-the-mdr">Equivalence claims</a>,</li>
-        <li>Evidence for conformity to <a href="https://www.youtube.com/watch?v=RxyKV003WaY" target="_blank" rel="noopener">relevant GSPRs</a>.</li>
+        <li><strong>Insufficiency of alternatives</strong>: There are no adequate alternative treatment, diagnostic, or preventive options available for the specific disease or condition.</li>
+        <li><strong>Clinical benefit</strong>: The device offers an expected clinical benefit compared to existing alternatives or the current state of the art. This assessment considers both device-specific factors and the patient population.</li>
       </ol>
-      <p>A clinical evaluation should, according to its definition in Article 2(44) of the EU MDR, <q>“verify the safety and performance, including clinical benefits, of the device when used as intended by the manufacturer.”</q></p>
-      <p>But what is the intended purpose, and how does it interact with indications for use, claims, and intended clinical benefits? <b>For each term, we will consider a fictional hip implant device.</b></p>
-      <h2 id="intended-purpose">Intended purpose</h2>
-      <p>‘Intended purpose’ should describe <b>what the device is used for and the effect of the device</b>. Article 2(12) of the EU MDR defines ‘intended purpose’ as <q>“the use for which a device is intended according to the data supplied by the manufacturer on the label, in the instructions for use or in promotional or sales materials or statements and as specified by the manufacturer in the clinical evaluation.”</q></p>
-      <p>All medical devices will have an intended purpose. In the case of a hip implant, the intended purpose could be for the replacement of native hip joints in adult patients with moderate to severe hip osteoarthritis.</p>
-      <h2 id="indication-for-use">Indication for use</h2>
-      <p>‘Indication for use’ should describe <b>the clinical condition that the device targets</b>. MDCG 2020-6 defines the indication for use as <q>“the clinical condition that is to be diagnosed, prevented, monitored, treated, alleviated, compensated for, replaced, modified or controlled by the medical device.”</q></p>
-      <p>Some devices, therefore, may not have an indication for use. An example would be a medical device intended to sterilise equipment. In the case of a hip implant, the indication for use could be hip osteoarthritis with an Oxford Hip Score less than 29.</p>
-      <h2 id="clinical-benefit">Clinical benefit</h2>
-      <p>‘Clinical benefit’ should describe <b>the benefit to the patient from using the device in a quantifiable manner</b>. Article 2(53) of the EU MDR defines clinical benefit as <q>“the positive impact of a device on the health of an individual, expressed in terms of a meaningful, measurable, patient-relevant clinical outcome(s), including outcome(s) related to diagnosis, or a positive impact on patient management or public health.”</q></p>
-      <p>All devices will have a clinical benefit, but these can be either direct or indirect. In the case of a hip implant, the intended clinical benefit could be the reduction in pain VAS score by 25%. An example of a medical device with an indirect clinical benefit would be the scalpel used during the operation; a scalpel will not reduce pain in patients with osteoarthritis, but will facilitate insertion of the hip replacement and therefore lead to an improvement in pain VAS score.</p>
-      <h2 id="claims">Claims</h2>
-      <p>‘Claims’ are not defined in the EU MDR, but Article 7 prohibits any information supplied by the manufacturer that may mislead the user with regard to the intended purpose, safety, or performance. Claims, therefore, can be <b>derived from any manufacturer documents</b> and should be supported by clinical evidence in the clinical evaluation.</p>
-      <p>Claims will encompass all of the intended use, indications for use, clinical benefits, as well as other terms not discussed in this article such as intended user, use environment, etc.</p>
-      <h2 id="summary">Summary</h2>
-      <p>To briefly summarise each of the points above:</p>
-      <table class="simple">
-        <tr>
-          <th>Intended purpose</th>
-          <td>Is the use and effect of the device.</td>
-        </tr>
-        <tr>
-          <th>Indications for use</th>
-          <td>Is the clinical condition that the device targets.</td>
-        </tr>
-        <tr>
-          <th>Clinical benefit</th>
-          <td>Is the measurable impact on the patient.</td>
-        </tr>
-        <tr>
-          <th>Claims</th>
-          <td>Derived from the above, plus any other claims made in marketing materials, IFU, etc.</td>
-        </tr>
-      </table>
-      <p>For further information on how we can help you meet your MDR requirements please <a href="/contact">contact us</a> for a free and confidential discussion.</p>
+      <p>Manufacturers seeking orphan device classification must provide a justification based on epidemiological data to the <a href="/eu-mdr-compliance/notified-bodies">Notified Body</a>. Additionally, this information should be summarised in the <a href="/eu-mdr-compliance/clinical-evaluation-report-cer">Clinical Evaluation Report</a>.</p>
+      <h2 id="orphan-subpopulation-and-orphan-indication">Orphan subpopulation and orphan indication</h2>
+      <p>In addition to the classification of orphan devices, the MDCG 2024-10 provides guidance for devices that serve specific patient sub-populations or have multiple indications.</p>
+      <h3 id="orphan-subpopulation">Orphan subpopulation</h3>
+      <p>This guidance applies to devices intended for use in the treatment, diagnosis, or prevention of a disease or condition within a clinically valid patient sub-population. Specifically, the sub-population should not exceed 12,000 individuals in the European Union per year (within a disease or condition with an annual incidence of more than 12,000 in the EU).</p>
+      <h3 id="orphan-indication">Orphan indication</h3>
+      <p>Sometimes, a medical device may have a specific intended purpose or indication for an orphan population (or orphan subpopulation) in addition to another intended purpose or indication in larger patient populations. In such cases, the MDCG 2024-10 outlines clinical evidence requirements specifically for the component of the intended purpose related to the orphan population.</p>
+      <h2 id="clinical-vs-non-clinical-data-for-orphan-devices">Clinical vs. non-clinical data for orphan devices</h2>
+      <p>When evaluating an orphan device, both clinical and non-clinical data play crucial roles.</p>
+      <h3 id="clinical-data-considerations">Clinical data considerations</h3>
+      <ol>
+        <li><strong>Substantial evidence</strong>: If non-clinical data provide substantial high-quality evidence supporting the safety and performance of the orphan device, it can reduce the burden of pre-market clinical data requirements. This evidence can help justify CE marking, even when there are limitations in clinical data that can be addressed through <a href="/eu-mdr-compliance/post-market-clinical-follow-up-pmcf">Post-Market Clinical Follow-up (PMCF) activities</a>.</li>
+        <li><strong>Acceptable limitations</strong>: Limitations in pre-market clinical data are acceptable under certain conditions:
+          <ul>
+            <li><strong>Expected clinical benefit</strong>: There must be sufficient clinical evidence demonstrating the expected clinical benefit, and the device must perform as intended with an acceptable level of safety.</li>
+            <li><strong>Compliance with GSPRs</strong>: The device must meet all relevant General Safety and Performance Requirements (GSPRs).</li>
+            <li><strong><a href="/eu-mdr-compliance/post-market-clinical-follow-up-pmcf-plan">PMCF plan</a></strong>: A well-defined PMCF plan should generate additional clinical data within an appropriate time-frame, fully addressing any remaining limitations.</li>
+          </ul>
+        </li>
+      </ol>
+      <h3 id="clinical-data-sources">Clinical data sources</h3>
+      <p>Sources of clinical data must relate to either the subject or equivalent devices, and include:</p>
+      <ul>
+        <li><strong>Clinical investigations</strong>: Studies involving human subjects and undertaken to assess the safety or performance of a device.</li>
+        <li><strong>Peer-reviewed scientific literature</strong>: Relevant research published in reputable journals.</li>
+        <li><strong>PMCF</strong>: Data collected during post-market follow-up.</li>
+      </ul>
+      <h3 id="useful-non-clinical-data">Useful non-clinical data</h3>
+      <p>Non-clinical data can complement clinical evidence. Useful sources include:</p>
+      <ul>
+        <li><strong>Laboratory and animal tests</strong>: Results from in vitro and animal studies.</li>
+        <li><strong>Computer modelling and simulated testing</strong>: Data from software-based models, 3D printed models, and other physical simulations.</li>
+        <li><strong>Ex vivo and cadaveric studies</strong>: Insights gained from studies using tissue samples or cadavers.</li>
+        <li><strong>Similar devices</strong>: Data from devices similar to the orphan device (when equivalence is not demonstrated).</li>
+        <li><strong>State of the Art information</strong>: Understanding the technology landscape.</li>
+        <li><strong>Health datasets</strong>: Previously collected patient health information, often used for software validation without exposing patients.</li>
+      </ul>
+      <h2 id="conclusion">Conclusion</h2>
+      <p>MDCG 2024-10 offers guidance on the classification and clinical evidence requirements for orphan devices. Importantly, manufacturers of orphan devices may use non-clinical data, in combination with a rigorous <a href="/eu-mdr-compliance/post-market-clinical-follow-up-pmcf-plan">PMCF plan</a>, to supplement clinical evidence to address pre-market clinical data limitations.</p>
+      <p>Please email <a href="mailto:simon&#64;mantrasystems.com">simon@mantrasystems.com</a> if you have any questions about this article or would like to understand <strong>how Mantra Systems can help you meet your MDR requirements</strong>.</p>
       <p>Alternatively, for any general regulatory questions you need a quick answer to, have you tried our <a href="/medical-device-regulation-resources/enablechat">AI-powered MDR &amp; MDCG chatbot</a>? — it’s free and will answer your queries around the clock.</p>
-      ]]></content><author><name>simon-cumiskey</name></author><category term="MDR" /><category term="Clinical Evaluation" /><category term="PMCF" /><summary type="html"><![CDATA[How do you define intended purpose, indication for use, intended clinical benefits, and claims?]]></summary></entry><entry><title type="html">EnableChat - Your AI-powered MDR and MDCG chatbot</title><link href="https://www.mantrasystems.co.uk/articles/enablechat-your-ai-powered-mdr-mdcg-chatbot" rel="alternate" type="text/html" title="EnableChat - Your AI-powered MDR and MDCG chatbot" /><published>2024-02-12T00:00:00+00:00</published><updated>2024-02-12T16:04:02+00:00</updated><id>https://www.mantrasystems.co.uk/articles/enablechat-your-ai-powered-mdr-mdcg-chatbot</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/enablechat-your-ai-powered-mdr-mdcg-chatbot"><![CDATA[<p>A deep understanding of the MDR and associated MDCG documents is crucial for achieving compliance with the EU Medical Device Regulations.</p>
-    <p>However, the MDR itself is 175 pages long and the MDCG documents, at the time of writing, number over 100 files. With so much information available it can sometimes be difficult to find the relevant information.</p>
-    <p>To solve this problem we have developed EnableChat, <a href="/medical-device-regulation-resources/enablechat">your AI-powered regulatory chatbot</a>.</p>
-    <div class="video-wrap">
-      <div class="video-insert youtube-player" data-id="Mej0nkKHP7M"></div>
-      <p class="video-caption">About EnableChat - Your AI-powered MDR &amp; MDCG chatbot</p>
-    </div>
-    <h2 id="the-solution">The Solution</h2>
-    <p>EnableChat is, in simple terms, a question and answer service. Ask any question related to MDR compliance and, like magic, EnableChat will search the MDR and MDCG documents and find the answer you are looking for. It will even list the most relevant documents and provide a link, connecting you directly with them.</p>
-    <p>More specifically, EnableChat is a retrieval-augmented generative question and answering web application that finds the most relevant MDCG documents or MDR pages, before using a large language model to answer the user’s question based on the relevant documents. This method ensures high accuracy while maintaining a friendly, conversational style.</p>
-    <p>EnableChat is free to use (no sign-up required) and searches all the latest MDCG documents as well as the MDR text.</p>
-    <p class="align-center"><a href="/medical-device-regulation-resources/enablechat" class="button">Try EnableChat</a></p>
-    ]]></content><author><name>simon-cumiskey</name></author><category term="MDR" /><summary type="html"><![CDATA[Search the MDR and MDCG documents in seconds by asking EnableChat your questions.]]></summary></entry><entry><title type="html">Staying vigilant - A guide to searching for adverse events data</title><link href="https://www.mantrasystems.co.uk/articles/staying-vigilant-a-guide-to-searching-for-adverse-events-data" rel="alternate" type="text/html" title="Staying vigilant - A guide to searching for adverse events data" /><published>2024-01-08T00:00:00+00:00</published><updated>2024-03-14T12:28:14+00:00</updated><id>https://www.mantrasystems.co.uk/articles/staying-vigilant-a-guide-to-searching-for-adverse-events-data</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/staying-vigilant-a-guide-to-searching-for-adverse-events-data"><![CDATA[<p>Searching for and analysing adverse events data relating to subject and similar devices is essential in any medical device MDR submission. Although intended to be a future major component of adverse events reporting, the EUDAMED database is not yet fully functional and does not currently allow for the searching of <a href="/eu-mdr-compliance/vigilance">vigilance data</a>.</p>
+      ]]></content><author><name>simon-cumiskey</name></author><category term="MDR" /><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[How to apply MDR pre-market clinical evidence requirements to medical devices intended for limited usage.]]></summary></entry><entry><title type="html">A medical device’s intended purpose - what is the point?</title><link href="https://www.mantrasystems.co.uk/articles/a-medical-devices-intended-purpose-what-is-the-point" rel="alternate" type="text/html" title="A medical device’s intended purpose - what is the point?" /><published>2024-03-13T00:00:00+00:00</published><updated>2024-03-14T12:56:38+00:00</updated><id>https://www.mantrasystems.co.uk/articles/a-medical-devices-intended-purpose-what-is-the-point</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/a-medical-devices-intended-purpose-what-is-the-point"><![CDATA[<p>A clear idea of your medical device’s intended purpose is crucial in meeting the EU MDR regulatory requirements. Getting it right early in the development process is important, as it provides inputs to:</p>
+    <ol>
+      <li>Objectives of the <a href="/eu-mdr-compliance/clinical-evaluation">Clinical Evaluation</a>,</li>
+      <li>Defining the <a href="/eu-mdr-compliance/literature-search-protocol-sota-review">SOTA</a>,</li>
+      <li><a href="/articles/keeping-medical-devices-in-market-maintaining-ce-marks">Design of clinical investigations</a>,</li>
+      <li><a href="/articles/five-tips-for-making-a-medical-device-equivalence-claim-under-the-mdr">Equivalence claims</a>,</li>
+      <li>Evidence for conformity to <a href="https://www.youtube.com/watch?v=RxyKV003WaY" target="_blank" rel="noopener">relevant GSPRs</a>.</li>
+    </ol>
+    <p>A clinical evaluation should, according to its definition in Article 2(44) of the EU MDR, <q>“verify the safety and performance, including clinical benefits, of the device when used as intended by the manufacturer.”</q></p>
+    <p>But what is the intended purpose, and how does it interact with indications for use, claims, and intended clinical benefits? <b>For each term, we will consider a fictional hip implant device.</b></p>
+    <h2 id="intended-purpose">Intended purpose</h2>
+    <p>‘Intended purpose’ should describe <b>what the device is used for and the effect of the device</b>. Article 2(12) of the EU MDR defines ‘intended purpose’ as <q>“the use for which a device is intended according to the data supplied by the manufacturer on the label, in the instructions for use or in promotional or sales materials or statements and as specified by the manufacturer in the clinical evaluation.”</q></p>
+    <p>All medical devices will have an intended purpose. In the case of a hip implant, the intended purpose could be for the replacement of native hip joints in adult patients with moderate to severe hip osteoarthritis.</p>
+    <h2 id="indication-for-use">Indication for use</h2>
+    <p>‘Indication for use’ should describe <b>the clinical condition that the device targets</b>. MDCG 2020-6 defines the indication for use as <q>“the clinical condition that is to be diagnosed, prevented, monitored, treated, alleviated, compensated for, replaced, modified or controlled by the medical device.”</q></p>
+    <p>Some devices, therefore, may not have an indication for use. An example would be a medical device intended to sterilise equipment. In the case of a hip implant, the indication for use could be hip osteoarthritis with an Oxford Hip Score less than 29.</p>
+    <h2 id="clinical-benefit">Clinical benefit</h2>
+    <p>‘Clinical benefit’ should describe <b>the benefit to the patient from using the device in a quantifiable manner</b>. Article 2(53) of the EU MDR defines clinical benefit as <q>“the positive impact of a device on the health of an individual, expressed in terms of a meaningful, measurable, patient-relevant clinical outcome(s), including outcome(s) related to diagnosis, or a positive impact on patient management or public health.”</q></p>
+    <p>All devices will have a clinical benefit, but these can be either direct or indirect. In the case of a hip implant, the intended clinical benefit could be the reduction in pain VAS score by 25%. An example of a medical device with an indirect clinical benefit would be the scalpel used during the operation; a scalpel will not reduce pain in patients with osteoarthritis, but will facilitate insertion of the hip replacement and therefore lead to an improvement in pain VAS score.</p>
+    <h2 id="claims">Claims</h2>
+    <p>‘Claims’ are not defined in the EU MDR, but Article 7 prohibits any information supplied by the manufacturer that may mislead the user with regard to the intended purpose, safety, or performance. Claims, therefore, can be <b>derived from any manufacturer documents</b> and should be supported by clinical evidence in the clinical evaluation.</p>
+    <p>Claims will encompass all of the intended use, indications for use, clinical benefits, as well as other terms not discussed in this article such as intended user, use environment, etc.</p>
+    <h2 id="summary">Summary</h2>
+    <p>To briefly summarise each of the points above:</p>
+    <table class="simple">
+      <tr>
+        <th>Intended purpose</th>
+        <td>Is the use and effect of the device.</td>
+      </tr>
+      <tr>
+        <th>Indications for use</th>
+        <td>Is the clinical condition that the device targets.</td>
+      </tr>
+      <tr>
+        <th>Clinical benefit</th>
+        <td>Is the measurable impact on the patient.</td>
+      </tr>
+      <tr>
+        <th>Claims</th>
+        <td>Derived from the above, plus any other claims made in marketing materials, IFU, etc.</td>
+      </tr>
+    </table>
+    <p>For further information on how we can help you meet your MDR requirements please <a href="/contact">contact us</a> for a free and confidential discussion.</p>
+    <p>Alternatively, for any general regulatory questions you need a quick answer to, have you tried our <a href="/medical-device-regulation-resources/enablechat">AI-powered MDR &amp; MDCG chatbot</a>? — it’s free and will answer your queries around the clock.</p>
+    ]]></content><author><name>simon-cumiskey</name></author><category term="MDR" /><category term="Clinical Evaluation" /><category term="PMCF" /><summary type="html"><![CDATA[How do you define intended purpose, indication for use, intended clinical benefits, and claims?]]></summary></entry><entry><title type="html">EnableChat - Your AI-powered MDR and MDCG chatbot</title><link href="https://www.mantrasystems.co.uk/articles/enablechat-your-ai-powered-mdr-mdcg-chatbot" rel="alternate" type="text/html" title="EnableChat - Your AI-powered MDR and MDCG chatbot" /><published>2024-02-12T00:00:00+00:00</published><updated>2024-02-12T16:04:02+00:00</updated><id>https://www.mantrasystems.co.uk/articles/enablechat-your-ai-powered-mdr-mdcg-chatbot</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/enablechat-your-ai-powered-mdr-mdcg-chatbot"><![CDATA[<p>A deep understanding of the MDR and associated MDCG documents is crucial for achieving compliance with the EU Medical Device Regulations.</p>
+  <p>However, the MDR itself is 175 pages long and the MDCG documents, at the time of writing, number over 100 files. With so much information available it can sometimes be difficult to find the relevant information.</p>
+  <p>To solve this problem we have developed EnableChat, <a href="/medical-device-regulation-resources/enablechat">your AI-powered regulatory chatbot</a>.</p>
+  <div class="video-wrap">
+    <div class="video-insert youtube-player" data-id="Mej0nkKHP7M"></div>
+    <p class="video-caption">About EnableChat - Your AI-powered MDR &amp; MDCG chatbot</p>
+  </div>
+  <h2 id="the-solution">The Solution</h2>
+  <p>EnableChat is, in simple terms, a question and answer service. Ask any question related to MDR compliance and, like magic, EnableChat will search the MDR and MDCG documents and find the answer you are looking for. It will even list the most relevant documents and provide a link, connecting you directly with them.</p>
+  <p>More specifically, EnableChat is a retrieval-augmented generative question and answering web application that finds the most relevant MDCG documents or MDR pages, before using a large language model to answer the user’s question based on the relevant documents. This method ensures high accuracy while maintaining a friendly, conversational style.</p>
+  <p>EnableChat is free to use (no sign-up required) and searches all the latest MDCG documents as well as the MDR text.</p>
+  <p class="align-center"><a href="/medical-device-regulation-resources/enablechat" class="button">Try EnableChat</a></p>
+  ]]></content><author><name>simon-cumiskey</name></author><category term="MDR" /><summary type="html"><![CDATA[Search the MDR and MDCG documents in seconds by asking EnableChat your questions.]]></summary></entry><entry><title type="html">Staying vigilant - A guide to searching for adverse events data</title><link href="https://www.mantrasystems.co.uk/articles/staying-vigilant-a-guide-to-searching-for-adverse-events-data" rel="alternate" type="text/html" title="Staying vigilant - A guide to searching for adverse events data" /><published>2024-01-08T00:00:00+00:00</published><updated>2024-03-14T12:28:14+00:00</updated><id>https://www.mantrasystems.co.uk/articles/staying-vigilant-a-guide-to-searching-for-adverse-events-data</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/staying-vigilant-a-guide-to-searching-for-adverse-events-data"><![CDATA[<p>Searching for and analysing adverse events data relating to subject and similar devices is essential in any medical device MDR submission. Although intended to be a future major component of adverse events reporting, the EUDAMED database is not yet fully functional and does not currently allow for the searching of <a href="/eu-mdr-compliance/vigilance">vigilance data</a>.</p>
   <p>In this article, we outline what other adverse event databases are available, along with the pros and cons of each.</p>
   <h2 id="what-is-adverse-events-data-used-for">What is adverse events data used for?</h2>
   <p>Data gathered by the manufacturer’s <a href="/eu-mdr-compliance/post-market-surveillance-pms">Post-Market Surveillance (PMS)</a> system, including adverse events, is used for the following purposes:</p>
@@ -261,21 +311,4 @@
   <p><b>Whether medical device regulation will be impacted is yet to be confirmed</b>, although given the current trend in extensions made to the transition deadline, it would not be a surprise if it were to follow suit. To date, no update has been provided by the MHRA regarding this matter.</p>
   <p>Keep an eye out for an article regarding an update on this topic.</p>
   <p>Please <a href="/contact">contact us</a> if you have any questions about this article or would like to discuss how we can help you with your CE &amp; UKCA certification in more detail.</p>
-  ]]></content><author><name>hanna-gul</name></author><category term="MDR" /><summary type="html"><![CDATA[Will Great Britain continue to allow the use of the CE mark for medical devices beyond the 2024 deadline?]]></summary></entry><entry><title type="html">Gain confidence, reassurance and control over your EU MDR strategy</title><link href="https://www.mantrasystems.co.uk/articles/gain-confidence-reassurance-and-control-over-your-eu-mdr-strategy" rel="alternate" type="text/html" title="Gain confidence, reassurance and control over your EU MDR strategy" /><published>2023-07-28T00:00:00+01:00</published><updated>2024-07-02T11:50:11+01:00</updated><id>https://www.mantrasystems.co.uk/articles/gain-confidence-reassurance-and-control-over-your-eu-mdr-strategy</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/gain-confidence-reassurance-and-control-over-your-eu-mdr-strategy"><![CDATA[<p>What if there was a way to save a portion of your regulatory budget by writing your own MDR technical documents? What if you could build your own technical file using proven frameworks and detailed templates, with step-by-step guidance from EU MDR experts?</p>
-  <p><a href="/enable-ce-mark/">EnableCE from Mantra Systems</a> is a product suite created for medical device manufacturers who would like to take control of their own regulatory processes but are in need of training, support or guidance from regulatory specialists.</p>
-  <p>By building your own technical files within a guided framework, unnecessary financial outlays for comprehensive regulatory consulting packages can be minimised.</p>
-  <h2 id="the-cost-of-compliance">The cost of compliance</h2>
-  <p>With increasing costs across the industry, the requirements to become EU MDR compliant can add significant expense to an already tight balance sheet. Afterall, transitioning to the MDR is costly — <a href="https://www.ukri.org/wp-content/uploads/2021/12/IUK-171221-UK-SME-MDR-ReadinessFinalReport.pdf" target="_blank" rel="noopener">MedTech Europe estimates</a> compliance costs of 8-15% of revenue from certified devices, which translates into £800K - £1.5M for an SME with revenues of £10M.</p>
-  <p>In the MedTech Europe report (commissioned by Innovate UK in September 2019), the readiness of UK small and medium size enterprise (SME) medical device companies for the Regulation (EU) 2017/745, commonly referred to as the EU Medical Device Regulation (MDR), was investigated.</p>
-  <p>In response to the survey, with less than one year to go to the date of application of the MDR, 60% of medical device manufacturers had not yet budgeted for the MDR. Of the 40% who had, only 12% had provisioned between 8-15% of their impacted sales revenues.</p>
-  <p>Regardless of the device classification, <a href="/eu-mdr-compliance/">EU MDR compliance</a> is a labour-intensive and expensive exercise. It requires significantly more in terms of clinical evidence, risk assessments, post market surveillance, supply chain obligations and data for the Unique Device Identification (UDI) system and the new EU Eudamed database.</p>
-  <h2 id="enablece--saving-you-time-and-money">EnableCE – saving you time and money</h2>
-  <p><a href="/enable-ce-mark/">EnableCE</a> was built to give the control of timelines and regulatory budgets back to the medical device manufacturer. Regardless of the degree of assistance you require, there is an EnableCE product for everyone.</p>
-  <ul>
-    <li><a href="/enable-ce-mark/white-papers-guides/">White Papers &amp; guides</a> for overviews on the general medical device regulatory landscape</li>
-    <li><a href="/enable-ce-mark/online-video-training-courses/">Online video courses</a> providing detailed guidance on key aspects of regulatory compliance</li>
-    <li><a href="/enable-ce-mark/technical-document-templates/">Technical document templates</a> for Annex II technical documents, Risk Management, CERs, CEPs and more</li>
-  </ul>
-  <p>Mantra Systems is well positioned to be your regulatory partner for <a href="/medical-device-regulatory-consulting-services/clinical-evaluation">Clinical Evaluation</a>, guiding and supporting you while you complete your own MDR compliant technical file.</p>
-  <p>Please <a href="/contact">contact us</a> if you have any questions about this article or would like to discuss our products and services in more detail.</p>
-  ]]></content><author><name>gayle-buchel</name></author><category term="MDR" /><summary type="html"><![CDATA[Find out how to build your own technical files within a guided framework while minimising financial outlays.]]></summary></entry></feed>
+  ]]></content><author><name>hanna-gul</name></author><category term="MDR" /><summary type="html"><![CDATA[Will Great Britain continue to allow the use of the CE mark for medical devices beyond the 2024 deadline?]]></summary></entry></feed>

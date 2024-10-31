@@ -60,6 +60,29 @@
         <img src="https://clickexpose.com/monitoring/noscript-tracker" alt="ClickExpose"/>
       </a>
     </noscript>
+    <!-- main Google Tag script -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11133303463"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'AW-11133303463');
+    </script>
+    <!-- button click Google Tag script -->
+    <script>
+      function gtag_report_conversion(url) {
+        var callback = function () {
+          if (typeof(url) != 'undefined') {
+            window.location = url;
+          }
+        };
+        gtag('event', 'conversion', {
+            'send_to': 'AW-11133303463/wy-wCIq33soYEKf14rwp',
+            'event_callback': callback
+        });
+      }
+    </script>
   </head>
   <body class="landing">
     <header class="banner" id="top">

@@ -1,96 +1,162 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-01-30T11:42:52+00:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">From IVDD to IVDR: Ensuring Compliance During the Transitional Period</title><link href="https://www.mantrasystems.co.uk/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period" rel="alternate" type="text/html" title="From IVDD to IVDR: Ensuring Compliance During the Transitional Period" /><published>2025-01-28T00:00:00+00:00</published><updated>2025-01-29T09:49:41+00:00</updated><id>https://www.mantrasystems.co.uk/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period"><![CDATA[<p>The European Union <a href="https://eur-lex.europa.eu/eli/reg/2017/746/oj/eng">In Vitro Diagnostic Regulation (EU IVDR 2017/746)</a> has transformed the medical device industry. Replacing the In Vitro Diagnostic Directive (IVDD 98/79/EC), <a href="/medical-device-regulatory-consulting-services/ivdr-consulting">the IVDR</a> establishes more rigorous standards to enhance the safety, performance, and quality of in vitro diagnostic medical devices (IVDs).</p>
-      <p>However, the transition from IVDD to IVDR can be complex and manufacturers of legacy devices must navigate a range of considerations to ensure compliance while adapting to the new regulatory landscape.</p>
-      <h2 id="maintaining-regulatory-compliance-during-the-ivdd-to-ivdr-transition">Maintaining Regulatory Compliance During the IVDD-to-IVDR Transition</h2>
-      <p>To facilitate a smooth transition, IVDD-compliant legacy devices may continue to be placed on the market until the following deadlines:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-01-30T14:20:23+00:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">MDCG 2024-2 Rev.1 and 2021-12 Rev.1: Key Updates for Navigating the EMDN System</title><link href="https://www.mantrasystems.co.uk/articles/key-updates-navigating-emdn-mdcg-2024-2-2021-12-revision-1" rel="alternate" type="text/html" title="MDCG 2024-2 Rev.1 and 2021-12 Rev.1: Key Updates for Navigating the EMDN System" /><published>2025-01-30T00:00:00+00:00</published><updated>2025-01-30T14:17:07+00:00</updated><id>https://www.mantrasystems.co.uk/articles/key-updates-navigating-emdn-mdcg-2024-2-2021-12-revision-1</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/key-updates-navigating-emdn-mdcg-2024-2-2021-12-revision-1"><![CDATA[<p>The Medical Device Coordination Group (MDCG) has released revised guidance documents, <a href="https://health.ec.europa.eu/document/de470384-e8be-45e7-a334-226757f8816d_en">MDCG 2024-2 Rev.1</a> and <a href="https://health.ec.europa.eu/document/d90b3f63-1d62-43e6-bf5f-fb32ea7c47a2_en">2021-12 Rev.1</a>, focusing on the European Medical Device Nomenclature (EMDN). This update, released in January 2025, provides critical clarifications and insights for medical device manufacturers, aiming to ensure accurate and consistent use of the EMDN system.</p>
+      <h2 id="what-is-the-emdn-and-how-does-it-affect-me">What is the EMDN, and how does it affect me?</h2>
+      <p>The EMDN is a standardised system for classifying and identifying medical devices within the European Union. Introduced under Article 26 of the <a href="https://eur-lex.europa.eu/eli/reg/2017/745/oj/eng">Medical Device Regulation (MDR) (EU) 2017/745</a> and Article 23 of the <a href="https://eur-lex.europa.eu/eli/reg/2017/746/oj/eng">In Vitro Diagnostic Medical Device Regulation (IVDR) (EU) 2017/746</a>, the EMDN plays a crucial role in the functioning of the <a href="/eu-mdr-compliance/eudamed">European Database on Medical Devices (EUDAMED)</a>.</p>
+      <p>Manufacturers utilise the EMDN to register their devices in EUDAMED, linking each device with a Unique Device Identifier - Device Identifier (UDI-DI). Beyond registration, the EMDN is vital for device documentation, notified body assessments, post-market surveillance, vigilance activities, and data analysis. It serves as a key reference for all stakeholders, including patients, providing clear device descriptions and promoting transparency in the medical device market. The EMDN is reviewed and updated annually based on user feedback and practical use.   </p>
+      <h2 id="key-changes-at-a-glance">Key changes at a glance</h2>
+      <table>
+        <thead>
+          <tr>
+            <th style="text-align: left">Update</th>
+            <th style="text-align: left">Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style="text-align: left">New and revised FAQs</td>
+            <td style="text-align: left">The guidance document includes a restructured FAQ section with new questions and clarifications on various aspects of the EMDN.</td>
+          </tr>
+          <tr>
+            <td style="text-align: left">Code granularity</td>
+            <td style="text-align: left">Manufacturers are reminded to use the most specific and detailed (terminal) EMDN code available for each device.</td>
+          </tr>
+          <tr>
+            <td style="text-align: left">Multiple codes</td>
+            <td style="text-align: left">Clearer instructions are provided for using multiple EMDN codes for devices with multiple intended purposes, especially complex systems.</td>
+          </tr>
+          <tr>
+            <td style="text-align: left">Code gaps</td>
+            <td style="text-align: left">A process for proposing new EMDN codes when existing codes are not suitable is outlined, ensuring the nomenclature stays current.</td>
+          </tr>
+          <tr>
+            <td style="text-align: left">Annual review and updates</td>
+            <td style="text-align: left">The importance of staying informed about annual EMDN updates and making necessary changes to device registrations and documentation is emphasised.</td>
+          </tr>
+          <tr>
+            <td style="text-align: left">Obsolete and split codes</td>
+            <td style="text-align: left">Clear procedures for managing obsolete and split codes in EUDAMED are provided, including archiving and public accessibility.</td>
+          </tr>
+        </tbody>
+      </table>
+      <p>The updated guidance document features a restructured FAQ section with new questions addressing specific aspects of EMDN implementation and management. Some of the key areas covered include:</p>
       <ul>
-        <li><strong>Class D devices:</strong> Compliance required by <strong>31 December 2027</strong>.</li>
-        <li><strong>Class C devices:</strong> Compliance required by <strong>31 December 2028</strong>.</li>
-        <li><strong>Class B and Class A sterile devices:</strong> Compliance required by <strong>31 December 2029</strong>.</li>
+        <li><strong>EMDN Code Assignment:</strong> The document emphasises assigning the most granular and terminal code available to each device in EUDAMED. It clarifies the use of multiple codes for devices with multiple intended purposes, particularly complex systems with diverse functions.</li>
+        <li><strong>Handling Code Gaps:</strong> If an appropriate EMDN term is not available, manufacturers are advised to use the code extension ‘99’ (‘Other’) and submit a proposal for a new code. This ensures the EMDN stays current with technological advancements and evolving device types.</li>
+        <li><strong>Annual EMDN Review:</strong> The update highlights the annual EMDN update cycle and the importance of timely updates to EUDAMED entries and related documentation. Manufacturers are encouraged to review the updated EMDN annually to identify any changes impacting their devices and notify their notified bodies accordingly.</li>
+        <li><strong>Code Updates and EUDAMED:</strong> The guidance provides clear instructions on handling obsolete or split codes in EUDAMED. Obsolete codes remain visible for a period, allowing for a smooth transition, while split codes are archived and made publicly accessible.</li>
       </ul>
-      <p>These <a href="https://health.ec.europa.eu/document/dfd7a1c6-f319-4682-9bac-77bef1165818_en">extended timelines</a> aim to provide manufacturers with the opportunity to adjust to the IVDR. However, continuing to market legacy devices during this period is conditional upon strict adherence to specific requirements.</p>
-      <h2 id="conditions-for-placing-ivdd-compliant-devices-on-the-market">Conditions for Placing IVDD-Compliant Devices on the Market</h2>
-      <p>Legacy devices may remain on the market during the transition period only if the following conditions are met:</p>
-      <ol>
-        <li>The device must remain fully compliant with the IVDD.</li>
-        <li>There are no significant changes to device design or intended purpose.</li>
-        <li>The device does not present an unacceptable risk to patient or user health and safety, nor to public health.</li>
-        <li>By <strong>26 May 2025</strong>, the manufacturer must have implemented a Quality Management System (QMS) in accordance with Article 10(8) of the IVDR.</li>
-        <li>A formal application must have been lodged with a notified body (as per section 4.3, Annex VII) for conformity assessment no later than the 26 May 2025 for Class D devices, <strong>26 May 2026</strong> for Class C devices, and 26 May 2027 for Class B and Class A sterile devices.</li>
-        <li>The manufacturer must have written agreement with the Notified Body by <strong>26 September 2025</strong> for Class D devices, <strong>26 September 2026</strong> for Class C devices, and <strong>26 September 2027</strong> for Class B and Class A sterile devices.</li>
-      </ol>
-      <p>Failure to meet these conditions will negate compliance under transitional provisions.</p>
-      <h2 id="implementing-an-ivdr-compliant-qms">Implementing an IVDR-Compliant QMS</h2>
-      <p>Having an IVDR complaint QMS in place is not just about meeting regulatory requirements; it is a proactive strategy to ensure the continuous safety and performance of an IVD in a competitive market. To meet IVDR requirements, the QMS must include the following elements:</p>
+      <h2 id="annual-revision-process">Annual revision process</h2>
+      <figure class="inline">
+        <div class="image">
+          <img src="/assets/images/content/articles/inline/emdn-annual-revision-process-diagram.png" alt="Diagram showing the annual update cycle of the EMDN annual revision process." loading="lazy" width="800" />
+        </div>
+      </figure>
+      <p>MDCG <a href="https://health.ec.europa.eu/document/de470384-e8be-45e7-a334-226757f8816d_en">2024-2 Rev.1</a> contains a detailed explanation of the annual EMDN revision process. The most important part of the process for manufacturers is the collection of requests step. EMDN users, including competent authorities, notified bodies, manufacturers, and other stakeholders, can submit requests for changes to the EMDN through a dedicated platform. The deadline for submitting requests for processing in that same year is 31st January.  </p>
+      <p>These requests are then reviewed by the EMDN Technical Team (EMDN-TT) and the MDCG Nomenclature Working Group (NOM WG) over the course of the year before finally being published to EUDAMED by the end of the year.</p>
+      <p>In addition to the annual update cycle, a pilot procedure for ad-hoc updates requiring expedited review has been introduced. This ad-hoc process is limited to new code requests and is only available to competent authorities and notified bodies.  </p>
+      <h2 id="what-does-this-mean-for-me">What does this mean for me?</h2>
+      <p>This update underscores the importance of staying informed about EMDN changes and ensuring accurate EMDN code assignment for all medical devices. Manufacturers must proactively engage with the annual EMDN review process, participate in code update proposals, and maintain accurate device information in EUDAMED.</p>
+      <p>By adhering to these guidelines manufacturers can:</p>
       <ul>
-        <li>A strategy for regulatory compliance, including management of modifications to devices.</li>
-        <li>Identification of safety and performance requirements and strategies to address them.</li>
-        <li>Clear management responsibility and accountability.</li>
-        <li>Resource management, including oversight of suppliers and subcontractors.</li>
-        <li>Comprehensive risk management in line with Annex I, Section 3.</li>
-        <li>Performance evaluation, including Post-Market Performance Follow-up (PMPF) per Article 56 and Annex XIII.</li>
-        <li>Processes for product realisation, from design and development to production and service.</li>
-        <li>Verification of <strong>Unique Device Identifier (UDI)</strong> assignments and consistent device information management under Articles 24(3) and 26.</li>
-        <li>A robust <strong>Post-Market Surveillance (PMS)</strong> system, as outlined in Article 78.</li>
-        <li>Effective communication with stakeholders, including authorities, notified bodies, and customers.</li>
-        <li>Processes for reporting serious incidents and implementing corrective and preventive actions (CAPA).</li>
-        <li>Monitoring, measurement, and continuous product improvement.</li>
+        <li><strong>Enhance Regulatory Compliance:</strong> Accurate EMDN coding is crucial for meeting regulatory requirements and avoiding potential issues with notified bodies and market access.</li>
+        <li><strong>Improve Data Quality:</strong> Consistent and precise EMDN coding contributes to the quality and reliability of data in EUDAMED, supporting effective post-market surveillance and regulatory decision-making.</li>
+        <li><strong>Increase Transparency:</strong> Clear and standardised device identification through the EMDN promotes transparency for patients, healthcare professionals, and other stakeholders.</li>
       </ul>
-      <h2 id="an-ivdr-compliant-qms-for-legacy-devices">An IVDR-Compliant QMS for Legacy Devices</h2>
-      <p>Manufacturers must ensure their QMS is aligned with IVDR regulatory requirements. However, for certain aspects outlined in Article 10(8), such as points (b), (e), and (f), a distinction must be made for “legacy devices”. For these devices, manufacturers are not required to have identified all relevant safety and performance requirements, implemented comprehensive risk management, or conducted a full performance evaluation. However, it is important to note that from the 26 May 2025, manufacturers must ensure that their QMS addresses how compliance with these requirements will be achieved for legacy devices, ensuring full alignment with IVDR standards.</p>
-      <p>Manufacturers have a few strategic options for updating to an IVDR-compliant QMS. One approach is to establish a parallel QMS. This approach enables clear reference to the appropriate procedures and highlights the transition to the new system. For companies with complex, long-standing QMS, it offers the chance to streamline and enhance efficiency. However, this approach demands considerable effort to develop and eventually replace the old procedures.</p>
-      <p>Alternatively, companies whose existing QMS already aligns closely with the new IVDR requirements might prefer to update their current system. While this option can be more efficient, it may present challenges in ensuring that certain QMS elements are applied consistently across all products.</p>
-      <p>Despite the chosen approach, documenting the transition is critical, clearly defining which procedures apply, when they take effect, and which products they impact. This can be done either within the procedures themselves or through a separate project plan. In addition, comprehensive training is key to ensuring everyone involved understands and implements the new requirements effectively.</p>
-      <h2 id="the-time-to-act-is-now">The Time to Act Is Now</h2>
-      <p>As the transition deadlines approach, manufacturers of legacy IVDs need to act swiftly to remain competitive and compliant in the evolving European market. The IVDR represents a major overhaul of IVD regulation in the EU, but it aims to ensure medical devices are safer, more effective, and of higher quality. Manufacturers who embrace these changes and take proactive steps to comply will be better positioned to navigate the evolving regulatory environment, ensuring continued market access and patient safety.</p>
-      <p>Struggling with your IVDD to IVDR transition? Mantra Systems is here to help! Our expertise can guide you through the complexities of achieving IVDR compliance and ensure your QMS is up to date with the latest regulatory requirements. <a href="/contact">Contact us today</a>.</p>
-      ]]></content><author><name>shona-richardson</name></author><category term="IVDR" /><summary type="html"><![CDATA[Legacy device manufacturers need to manage challenging timelines as well as address transitional provisions and update QMS.]]></summary></entry><entry><title type="html">An Overview of the UK’s 2024 Post-Market Surveillance Update</title><link href="https://www.mantrasystems.co.uk/articles/overview-of-uk-2024-post-market-surveillance-update" rel="alternate" type="text/html" title="An Overview of the UK’s 2024 Post-Market Surveillance Update" /><published>2025-01-16T00:00:00+00:00</published><updated>2025-01-16T17:13:22+00:00</updated><id>https://www.mantrasystems.co.uk/articles/overview-of-uk-2024-post-market-surveillance-update</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/overview-of-uk-2024-post-market-surveillance-update"><![CDATA[<p>The <a href="https://www.gov.uk/government/publications/medical-devices-post-market-surveillance-requirements/the-medical-devices-post-market-surveillance-requirements-amendment-great-britain-regulations-2024-guidance-on-implementation">UK’s Medical Devices (Post-market Surveillance Requirements) (Amendment) Regulations 2024</a> introduce significant changes to the Post-Market Surveillance (PMS) landscape for medical devices. These changes aim to strengthen the PMS system in the UK, ultimately improving patient safety. In this article, we will provide a detailed breakdown of these changes and what they mean for you.</p>
-    <h2 id="introduction-to-the-mandatory-pms-plan">Introduction to the Mandatory PMS Plan</h2>
-    <p>One of the most significant changes is the mandatory requirement for manufacturers to <a href="/eu-mdr-compliance/post-market-surveillance-pms">have a PMS plan in place</a>. This plan, which outlines the methods for gathering and analysing device performance and safety data throughout the device’s lifecycle, is a crucial component of the updated regulations.</p>
-    <p>The PMS plan should include:</p>
+      <h2 id="conclusion">Conclusion</h2>
+      <p>The MDCG have provided valuable guidance for medical device manufacturers navigating the EMDN system. By understanding and implementing these guidelines, manufacturers can ensure accurate device classification, maintain regulatory compliance, and contribute to a transparent and well-functioning medical device market.</p>
+      <p>Navigating the complexities of EMDN and EUDAMED can be challenging. Partnering with Mantra Systems allows you to focus on your core business while we handle the intricacies of EMDN compliance. <a href="/contact">Book a free, no-obligation chat with one of our regulatory experts</a> to see how we can help.</p>
+      ]]></content><author><name>ron-sangal</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[Release of the updated guidance helps manufacturers navigate the EMDN system for accurate device classification, ensuring market access.]]></summary></entry><entry><title type="html">From IVDD to IVDR: Ensuring Compliance During the Transitional Period</title><link href="https://www.mantrasystems.co.uk/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period" rel="alternate" type="text/html" title="From IVDD to IVDR: Ensuring Compliance During the Transitional Period" /><published>2025-01-28T00:00:00+00:00</published><updated>2025-01-29T09:49:41+00:00</updated><id>https://www.mantrasystems.co.uk/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period"><![CDATA[<p>The European Union <a href="https://eur-lex.europa.eu/eli/reg/2017/746/oj/eng">In Vitro Diagnostic Regulation (EU IVDR 2017/746)</a> has transformed the medical device industry. Replacing the In Vitro Diagnostic Directive (IVDD 98/79/EC), <a href="/medical-device-regulatory-consulting-services/ivdr-consulting">the IVDR</a> establishes more rigorous standards to enhance the safety, performance, and quality of in vitro diagnostic medical devices (IVDs).</p>
+    <p>However, the transition from IVDD to IVDR can be complex and manufacturers of legacy devices must navigate a range of considerations to ensure compliance while adapting to the new regulatory landscape.</p>
+    <h2 id="maintaining-regulatory-compliance-during-the-ivdd-to-ivdr-transition">Maintaining Regulatory Compliance During the IVDD-to-IVDR Transition</h2>
+    <p>To facilitate a smooth transition, IVDD-compliant legacy devices may continue to be placed on the market until the following deadlines:</p>
     <ul>
-      <li>Objectives of the PMS system</li>
-      <li>Processes to gather information, ensuring comprehensive real-world data is obtained</li>
-      <li>Methods of data analysis</li>
-      <li>Processes for fulfilling <a href="/eu-mdr-compliance/vigilance">vigilance reporting</a> obligations</li>
-      <li>Links to preventive and corrective action as part of a risk management process</li>
+      <li><strong>Class D devices:</strong> Compliance required by <strong>31 December 2027</strong>.</li>
+      <li><strong>Class C devices:</strong> Compliance required by <strong>31 December 2028</strong>.</li>
+      <li><strong>Class B and Class A sterile devices:</strong> Compliance required by <strong>31 December 2029</strong>.</li>
     </ul>
-    <p>Manufacturers must review the actions taken according to the PMS plan at regular intervals and document the review in a Post-Market Surveillance Report (PMSR) or Periodic Safety Update Report (PSUR), as appropriate.</p>
-    <h2 id="enhancing-patient-and-public-engagement">Enhancing Patient and Public Engagement</h2>
-    <p>The regulations underscore the significance of gathering feedback directly from patients and the public. This inclusive approach ensures that their experiences and perspectives are considered.</p>
-    <p>This includes obtaining feedback on the device’s usability and the adequacy of the instructions for use. Depending on the device type, manufacturers need to assess and document the extent to which this is relevant and achievable.</p>
-    <h2 id="focusing-on-similar-devices">Focusing on Similar Devices</h2>
-    <p>To improve signal detection, manufacturers must collect data on their devices across all markets and review publicly available information on the safety of similar devices offered by competitors.</p>
-    <p>The regulations define similar devices as those based on the same or similar technology and with the same or similar intended purpose.</p>
-    <h2 id="taking-preventive-and-corrective-actions">Taking Preventive and Corrective Actions</h2>
-    <p>The regulations require manufacturers to take preventive and corrective actions to address potential safety or conformity issues with their devices. This includes cooperating with the Medicines &amp; Healthcare products Regulatory Agency (MHRA) on any actions taken.</p>
-    <p>Preventive actions should be taken before the manufacturing process is completed, while corrective actions should be taken after the devices have been manufactured.</p>
-    <h2 id="understanding-reporting-requirements">Understanding Reporting Requirements</h2>
-    <p>Manufacturers must submit PMSRs or PSURs to the MHRA, depending on the device classification. The PSURs must follow a standardised format and be updated at set intervals.</p>
-    <p>The PMSR or PSUR should provide a comprehensive and critical analysis of the device’s risk-benefit balance and include a summary of the analysis and conclusions from the review of the PMS data gathered since the last report.</p>
-    <h2 id="incorporating-vigilance-reporting">Incorporating Vigilance Reporting</h2>
-    <p>The regulations outline the requirements for reporting serious incidents, Field Safety Corrective Actions (FSCAs), and adverse trends to the MHRA. This includes specific timelines for reporting and the use of the MHRA’s Manufacturer’s Incident Report (MIR) form.</p>
-    <p>A serious incident is defined as one that directly or indirectly led to, or could have led to, death or serious deterioration in the state of health of a patient, user, or another person.</p>
-    <h2 id="communicating-field-safety-notices-fsns">Communicating Field Safety Notices (FSNs)</h2>
-    <p>Manufacturers must communicate FSCAs to affected customers using FSNs. The FSNs must include Unique Device Identifier (UDI) information where available and be sent in a searchable format. The MHRA encourages manufacturers to host a copy of the FSN on their website for transparency.</p>
-    <p>The FSN should clearly communicate the risk and the actions taken to mitigate it. Manufacturers should take reasonable steps to ensure that all affected end-users receive and understand the FSN.</p>
-    <h2 id="fscas-outside-great-britain">FSCAs Outside Great Britain</h2>
-    <p>If a manufacturer undertakes an FSCA outside Great Britain that affects the same type of devices supplied in Great Britain, they must notify the MHRA within three UK working days of the FSN being circulated, even if the devices in Great Britain are not affected.</p>
-    <p>This requirement is in place to provide transparency and avoid confusion by clarifying why the FSCA does not affect the UK.</p>
-    <h2 id="additional-important-changes">Additional Important Changes</h2>
-    <p>The update also amends the following:</p>
+    <p>These <a href="https://health.ec.europa.eu/document/dfd7a1c6-f319-4682-9bac-77bef1165818_en">extended timelines</a> aim to provide manufacturers with the opportunity to adjust to the IVDR. However, continuing to market legacy devices during this period is conditional upon strict adherence to specific requirements.</p>
+    <h2 id="conditions-for-placing-ivdd-compliant-devices-on-the-market">Conditions for Placing IVDD-Compliant Devices on the Market</h2>
+    <p>Legacy devices may remain on the market during the transition period only if the following conditions are met:</p>
+    <ol>
+      <li>The device must remain fully compliant with the IVDD.</li>
+      <li>There are no significant changes to device design or intended purpose.</li>
+      <li>The device does not present an unacceptable risk to patient or user health and safety, nor to public health.</li>
+      <li>By <strong>26 May 2025</strong>, the manufacturer must have implemented a Quality Management System (QMS) in accordance with Article 10(8) of the IVDR.</li>
+      <li>A formal application must have been lodged with a notified body (as per section 4.3, Annex VII) for conformity assessment no later than the 26 May 2025 for Class D devices, <strong>26 May 2026</strong> for Class C devices, and 26 May 2027 for Class B and Class A sterile devices.</li>
+      <li>The manufacturer must have written agreement with the Notified Body by <strong>26 September 2025</strong> for Class D devices, <strong>26 September 2026</strong> for Class C devices, and <strong>26 September 2027</strong> for Class B and Class A sterile devices.</li>
+    </ol>
+    <p>Failure to meet these conditions will negate compliance under transitional provisions.</p>
+    <h2 id="implementing-an-ivdr-compliant-qms">Implementing an IVDR-Compliant QMS</h2>
+    <p>Having an IVDR complaint QMS in place is not just about meeting regulatory requirements; it is a proactive strategy to ensure the continuous safety and performance of an IVD in a competitive market. To meet IVDR requirements, the QMS must include the following elements:</p>
     <ul>
-      <li><strong>Clarification of Important Terms:</strong> The regulations define key terms, such as “lifetime” and “PMS period,” to ensure consistency and clarity.</li>
-      <li><strong>Reportable Side Effects:</strong> The regulations clarify the definition of reportable side effects to include any negative impact on the health of the patient, their care, or wider public health.</li>
-      <li><strong>Self-Administered Treatment:</strong> The regulations clarify that interventions to prevent serious deterioration in health include self-administered treatment.</li>
-      <li><strong>Use Errors:</strong> The regulations specify that use errors do not need to result in serious deterioration in health to be reportable; the risk of occurrence is sufficient.</li>
-      <li><strong>UDI Information:</strong> The regulations require the inclusion of Unique Device Identifier (UDI) information in incident reports and FSNs where available.</li>
-      <li><strong>Trend Reporting:</strong> The regulations require manufacturers to submit trend reports for incidents that are reportable individually, as well as those that do not meet the criteria for individual reporting.</li>
-      <li><strong>Custom-Made Devices:</strong> The regulations clarify that trend reports are not required for custom-made devices.</li>
+      <li>A strategy for regulatory compliance, including management of modifications to devices.</li>
+      <li>Identification of safety and performance requirements and strategies to address them.</li>
+      <li>Clear management responsibility and accountability.</li>
+      <li>Resource management, including oversight of suppliers and subcontractors.</li>
+      <li>Comprehensive risk management in line with Annex I, Section 3.</li>
+      <li>Performance evaluation, including Post-Market Performance Follow-up (PMPF) per Article 56 and Annex XIII.</li>
+      <li>Processes for product realisation, from design and development to production and service.</li>
+      <li>Verification of <strong>Unique Device Identifier (UDI)</strong> assignments and consistent device information management under Articles 24(3) and 26.</li>
+      <li>A robust <strong>Post-Market Surveillance (PMS)</strong> system, as outlined in Article 78.</li>
+      <li>Effective communication with stakeholders, including authorities, notified bodies, and customers.</li>
+      <li>Processes for reporting serious incidents and implementing corrective and preventive actions (CAPA).</li>
+      <li>Monitoring, measurement, and continuous product improvement.</li>
     </ul>
-    <h2 id="conclusion">Conclusion</h2>
-    <p>The UK’s Medical Devices (Post-market Surveillance Requirements) (Amendment) Regulations 2024 represent a significant step towards strengthening the PMS system for medical devices. By clarifying requirements, enhancing patient engagement, and focusing on proactive risk mitigation, these regulations aim to improve patient safety and ensure the continued effectiveness of medical devices in the UK market.</p>
-    <p>If you need to speak to an expert to understand more about what this update might mean for you, <a href="/contact">contact us to arrange a free, no-obligation discussion</a>.</p>
-    ]]></content><author><name>ron-sangal</name></author><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[What might mandatory PMS plans - which emphasise enhanced patient engagement and proactive risk management - mean for the industry?]]></summary></entry><entry><title type="html">Understanding Clinical Evidence Requirements with MDCG 2020-6</title><link href="https://www.mantrasystems.co.uk/articles/understanding-clinical-evidence-requirements-mdcg-2020-6" rel="alternate" type="text/html" title="Understanding Clinical Evidence Requirements with MDCG 2020-6" /><published>2025-01-15T00:00:00+00:00</published><updated>2025-01-15T12:40:25+00:00</updated><id>https://www.mantrasystems.co.uk/articles/understanding-clinical-evidence-requirements-mdcg-2020-6</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/understanding-clinical-evidence-requirements-mdcg-2020-6"><![CDATA[<p>As legacy devices transition to compliance with the new Medical Device Regulation (MDR), manufacturers face the challenge of meeting updated clinical evidence requirements. <a href="https://ec.europa.eu/docsroom/documents/40904/">MDCG 2020-6 offers essential guidance</a> on how to assess and demonstrate sufficient clinical evidence to ensure legacy devices meet MDR General Safety and Performance Requirements (GSPRs).</p>
+    <h2 id="an-ivdr-compliant-qms-for-legacy-devices">An IVDR-Compliant QMS for Legacy Devices</h2>
+    <p>Manufacturers must ensure their QMS is aligned with IVDR regulatory requirements. However, for certain aspects outlined in Article 10(8), such as points (b), (e), and (f), a distinction must be made for “legacy devices”. For these devices, manufacturers are not required to have identified all relevant safety and performance requirements, implemented comprehensive risk management, or conducted a full performance evaluation. However, it is important to note that from the 26 May 2025, manufacturers must ensure that their QMS addresses how compliance with these requirements will be achieved for legacy devices, ensuring full alignment with IVDR standards.</p>
+    <p>Manufacturers have a few strategic options for updating to an IVDR-compliant QMS. One approach is to establish a parallel QMS. This approach enables clear reference to the appropriate procedures and highlights the transition to the new system. For companies with complex, long-standing QMS, it offers the chance to streamline and enhance efficiency. However, this approach demands considerable effort to develop and eventually replace the old procedures.</p>
+    <p>Alternatively, companies whose existing QMS already aligns closely with the new IVDR requirements might prefer to update their current system. While this option can be more efficient, it may present challenges in ensuring that certain QMS elements are applied consistently across all products.</p>
+    <p>Despite the chosen approach, documenting the transition is critical, clearly defining which procedures apply, when they take effect, and which products they impact. This can be done either within the procedures themselves or through a separate project plan. In addition, comprehensive training is key to ensuring everyone involved understands and implements the new requirements effectively.</p>
+    <h2 id="the-time-to-act-is-now">The Time to Act Is Now</h2>
+    <p>As the transition deadlines approach, manufacturers of legacy IVDs need to act swiftly to remain competitive and compliant in the evolving European market. The IVDR represents a major overhaul of IVD regulation in the EU, but it aims to ensure medical devices are safer, more effective, and of higher quality. Manufacturers who embrace these changes and take proactive steps to comply will be better positioned to navigate the evolving regulatory environment, ensuring continued market access and patient safety.</p>
+    <p>Struggling with your IVDD to IVDR transition? Mantra Systems is here to help! Our expertise can guide you through the complexities of achieving IVDR compliance and ensure your QMS is up to date with the latest regulatory requirements. <a href="/contact">Contact us today</a>.</p>
+    ]]></content><author><name>shona-richardson</name></author><category term="IVDR" /><summary type="html"><![CDATA[Legacy device manufacturers need to manage challenging timelines as well as address transitional provisions and update QMS.]]></summary></entry><entry><title type="html">An Overview of the UK’s 2024 Post-Market Surveillance Update</title><link href="https://www.mantrasystems.co.uk/articles/overview-of-uk-2024-post-market-surveillance-update" rel="alternate" type="text/html" title="An Overview of the UK’s 2024 Post-Market Surveillance Update" /><published>2025-01-16T00:00:00+00:00</published><updated>2025-01-16T17:13:22+00:00</updated><id>https://www.mantrasystems.co.uk/articles/overview-of-uk-2024-post-market-surveillance-update</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/overview-of-uk-2024-post-market-surveillance-update"><![CDATA[<p>The <a href="https://www.gov.uk/government/publications/medical-devices-post-market-surveillance-requirements/the-medical-devices-post-market-surveillance-requirements-amendment-great-britain-regulations-2024-guidance-on-implementation">UK’s Medical Devices (Post-market Surveillance Requirements) (Amendment) Regulations 2024</a> introduce significant changes to the Post-Market Surveillance (PMS) landscape for medical devices. These changes aim to strengthen the PMS system in the UK, ultimately improving patient safety. In this article, we will provide a detailed breakdown of these changes and what they mean for you.</p>
+  <h2 id="introduction-to-the-mandatory-pms-plan">Introduction to the Mandatory PMS Plan</h2>
+  <p>One of the most significant changes is the mandatory requirement for manufacturers to <a href="/eu-mdr-compliance/post-market-surveillance-pms">have a PMS plan in place</a>. This plan, which outlines the methods for gathering and analysing device performance and safety data throughout the device’s lifecycle, is a crucial component of the updated regulations.</p>
+  <p>The PMS plan should include:</p>
+  <ul>
+    <li>Objectives of the PMS system</li>
+    <li>Processes to gather information, ensuring comprehensive real-world data is obtained</li>
+    <li>Methods of data analysis</li>
+    <li>Processes for fulfilling <a href="/eu-mdr-compliance/vigilance">vigilance reporting</a> obligations</li>
+    <li>Links to preventive and corrective action as part of a risk management process</li>
+  </ul>
+  <p>Manufacturers must review the actions taken according to the PMS plan at regular intervals and document the review in a Post-Market Surveillance Report (PMSR) or Periodic Safety Update Report (PSUR), as appropriate.</p>
+  <h2 id="enhancing-patient-and-public-engagement">Enhancing Patient and Public Engagement</h2>
+  <p>The regulations underscore the significance of gathering feedback directly from patients and the public. This inclusive approach ensures that their experiences and perspectives are considered.</p>
+  <p>This includes obtaining feedback on the device’s usability and the adequacy of the instructions for use. Depending on the device type, manufacturers need to assess and document the extent to which this is relevant and achievable.</p>
+  <h2 id="focusing-on-similar-devices">Focusing on Similar Devices</h2>
+  <p>To improve signal detection, manufacturers must collect data on their devices across all markets and review publicly available information on the safety of similar devices offered by competitors.</p>
+  <p>The regulations define similar devices as those based on the same or similar technology and with the same or similar intended purpose.</p>
+  <h2 id="taking-preventive-and-corrective-actions">Taking Preventive and Corrective Actions</h2>
+  <p>The regulations require manufacturers to take preventive and corrective actions to address potential safety or conformity issues with their devices. This includes cooperating with the Medicines &amp; Healthcare products Regulatory Agency (MHRA) on any actions taken.</p>
+  <p>Preventive actions should be taken before the manufacturing process is completed, while corrective actions should be taken after the devices have been manufactured.</p>
+  <h2 id="understanding-reporting-requirements">Understanding Reporting Requirements</h2>
+  <p>Manufacturers must submit PMSRs or PSURs to the MHRA, depending on the device classification. The PSURs must follow a standardised format and be updated at set intervals.</p>
+  <p>The PMSR or PSUR should provide a comprehensive and critical analysis of the device’s risk-benefit balance and include a summary of the analysis and conclusions from the review of the PMS data gathered since the last report.</p>
+  <h2 id="incorporating-vigilance-reporting">Incorporating Vigilance Reporting</h2>
+  <p>The regulations outline the requirements for reporting serious incidents, Field Safety Corrective Actions (FSCAs), and adverse trends to the MHRA. This includes specific timelines for reporting and the use of the MHRA’s Manufacturer’s Incident Report (MIR) form.</p>
+  <p>A serious incident is defined as one that directly or indirectly led to, or could have led to, death or serious deterioration in the state of health of a patient, user, or another person.</p>
+  <h2 id="communicating-field-safety-notices-fsns">Communicating Field Safety Notices (FSNs)</h2>
+  <p>Manufacturers must communicate FSCAs to affected customers using FSNs. The FSNs must include Unique Device Identifier (UDI) information where available and be sent in a searchable format. The MHRA encourages manufacturers to host a copy of the FSN on their website for transparency.</p>
+  <p>The FSN should clearly communicate the risk and the actions taken to mitigate it. Manufacturers should take reasonable steps to ensure that all affected end-users receive and understand the FSN.</p>
+  <h2 id="fscas-outside-great-britain">FSCAs Outside Great Britain</h2>
+  <p>If a manufacturer undertakes an FSCA outside Great Britain that affects the same type of devices supplied in Great Britain, they must notify the MHRA within three UK working days of the FSN being circulated, even if the devices in Great Britain are not affected.</p>
+  <p>This requirement is in place to provide transparency and avoid confusion by clarifying why the FSCA does not affect the UK.</p>
+  <h2 id="additional-important-changes">Additional Important Changes</h2>
+  <p>The update also amends the following:</p>
+  <ul>
+    <li><strong>Clarification of Important Terms:</strong> The regulations define key terms, such as “lifetime” and “PMS period,” to ensure consistency and clarity.</li>
+    <li><strong>Reportable Side Effects:</strong> The regulations clarify the definition of reportable side effects to include any negative impact on the health of the patient, their care, or wider public health.</li>
+    <li><strong>Self-Administered Treatment:</strong> The regulations clarify that interventions to prevent serious deterioration in health include self-administered treatment.</li>
+    <li><strong>Use Errors:</strong> The regulations specify that use errors do not need to result in serious deterioration in health to be reportable; the risk of occurrence is sufficient.</li>
+    <li><strong>UDI Information:</strong> The regulations require the inclusion of Unique Device Identifier (UDI) information in incident reports and FSNs where available.</li>
+    <li><strong>Trend Reporting:</strong> The regulations require manufacturers to submit trend reports for incidents that are reportable individually, as well as those that do not meet the criteria for individual reporting.</li>
+    <li><strong>Custom-Made Devices:</strong> The regulations clarify that trend reports are not required for custom-made devices.</li>
+  </ul>
+  <h2 id="conclusion">Conclusion</h2>
+  <p>The UK’s Medical Devices (Post-market Surveillance Requirements) (Amendment) Regulations 2024 represent a significant step towards strengthening the PMS system for medical devices. By clarifying requirements, enhancing patient engagement, and focusing on proactive risk mitigation, these regulations aim to improve patient safety and ensure the continued effectiveness of medical devices in the UK market.</p>
+  <p>If you need to speak to an expert to understand more about what this update might mean for you, <a href="/contact">contact us to arrange a free, no-obligation discussion</a>.</p>
+  ]]></content><author><name>ron-sangal</name></author><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[What might mandatory PMS plans - which emphasise enhanced patient engagement and proactive risk management - mean for the industry?]]></summary></entry><entry><title type="html">Understanding Clinical Evidence Requirements with MDCG 2020-6</title><link href="https://www.mantrasystems.co.uk/articles/understanding-clinical-evidence-requirements-mdcg-2020-6" rel="alternate" type="text/html" title="Understanding Clinical Evidence Requirements with MDCG 2020-6" /><published>2025-01-15T00:00:00+00:00</published><updated>2025-01-15T12:40:25+00:00</updated><id>https://www.mantrasystems.co.uk/articles/understanding-clinical-evidence-requirements-mdcg-2020-6</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/understanding-clinical-evidence-requirements-mdcg-2020-6"><![CDATA[<p>As legacy devices transition to compliance with the new Medical Device Regulation (MDR), manufacturers face the challenge of meeting updated clinical evidence requirements. <a href="https://ec.europa.eu/docsroom/documents/40904/">MDCG 2020-6 offers essential guidance</a> on how to assess and demonstrate sufficient clinical evidence to ensure legacy devices meet MDR General Safety and Performance Requirements (GSPRs).</p>
   <h2 id="what-constitutes-a-legacy-device-and-what-are-the-clinical-evidence-requirements">What constitutes a ‘legacy device’ and what are the clinical evidence requirements?</h2>
   <p>Legacy devices include all <a href="/articles/keeping-medical-devices-in-market-maintaining-ce-marks">devices previously CE marked</a> under the European Medical Devices Directive 93/42/EEC (MDD) or the <a href="https://single-market-economy.ec.europa.eu/single-market/european-standards/harmonised-standards/implantable-medical-devices_en">Active Implantable Medical Devices Directive 90/385/EEC (AIMDD)</a>.</p>
   <p>The MDR states that for legacy devices “sufficient” clinical evidence is required to demonstrate conformity with the relevant General Safety and Performance Requirements (GSPRs).</p>
@@ -256,34 +322,4 @@
   <p>More specifically, EnableChat is a retrieval-augmented generative question and answering web application that finds the most relevant MDCG documents or MDR pages, before using a large language model to answer the user’s question based on the relevant documents. This method ensures high accuracy while maintaining a friendly, conversational style.</p>
   <p>EnableChat is free to use (no sign-up required) and searches all the latest MDCG documents as well as the MDR text.</p>
   <p class="align-center"><a href="/medical-device-regulation-resources/enablechat" class="button">Try EnableChat</a></p>
-  ]]></content><author><name>simon-cumiskey</name></author><category term="MDR" /><summary type="html"><![CDATA[Search the MDR and MDCG documents in seconds by asking EnableChat your questions.]]></summary></entry><entry><title type="html">Staying vigilant - A guide to searching for adverse events data</title><link href="https://www.mantrasystems.co.uk/articles/staying-vigilant-a-guide-to-searching-for-adverse-events-data" rel="alternate" type="text/html" title="Staying vigilant - A guide to searching for adverse events data" /><published>2024-01-08T00:00:00+00:00</published><updated>2024-10-23T00:32:12+01:00</updated><id>https://www.mantrasystems.co.uk/articles/staying-vigilant-a-guide-to-searching-for-adverse-events-data</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/staying-vigilant-a-guide-to-searching-for-adverse-events-data"><![CDATA[<p>Searching for and analysing adverse events data relating to subject and similar devices is essential in any medical device MDR submission. Although intended to be a future major component of adverse events reporting, the EUDAMED database is not yet fully functional and does not currently allow for the searching of <a href="/eu-mdr-compliance/vigilance">vigilance data</a>.</p>
-  <p>In this article, we outline what other adverse event databases are available, along with the pros and cons of each.</p>
-  <h2 id="what-is-adverse-events-data-used-for">What is adverse events data used for?</h2>
-  <p>Data gathered by the manufacturer’s <a href="/eu-mdr-compliance/post-market-surveillance-pms">Post-Market Surveillance (PMS)</a> system, including adverse events, is used for the following purposes:</p>
-  <ul>
-    <li>To detect and report types and frequencies of adverse events</li>
-    <li>To identify any new risks not currently considered in <a href="/eu-mdr-compliance/risk-management">Risk Management</a> files</li>
-    <li>To determine trends of adverse events over time</li>
-    <li>To understand side-effects and their potential impact on the benefit-risk analysis.</li>
-  </ul>
-  <p>PMS activities should include an analysis of adverse events relating to both the subject device and similar devices, as those relating to similar devices are likely to apply to the subject device.</p>
-  <h2 id="sources-of-adverse-events-data">Sources of adverse events data</h2>
-  <p>The monitoring of post-market surveillance data will be possible through the EUDAMED Vigilance module, which is under development and will be released when EUDAMED is declared fully functional. Use of this module will become mandatory from Q4 2027.</p>
-  <p>Until then, adverse event report searches will rely on country-specific vigilance databases. Even following the deployment of the EUDAMED Vigilance module, <a href="/eu-mdr-compliance/medical-device-manufacturers">manufacturers</a> will still need to monitor other vigilance databases “in a manner that is proportionate to the risk class and appropriate for the type of device”. (EU MDR Chapter VII, Section 1, Article 83).</p>
-  <p>The following databases are all commonly used by medical device manufacturers for Post-Market Surveillance activities:</p>
-  <h3 id="us-maude"><a href="https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfmaude/search.cfm" target="_blank" rel="noopener">US MAUDE</a></h3>
-  <p>The largest database of vigilance data and an excellent resource to utilise. MAUDE offers the ability to search for adverse event reports received from healthcare professionals, patients, and manufacturers, as well as Field Safety Notices. It’s an extremely comprehensive database that can result in thousands of results, meaning that reviewers need a plan and some dedicated time to review and analyse. The site also contains a disclaimer that, because of the risk of duplicate entries, MAUDE shouldn’t be used to assess frequency of events.</p>
-  <h3 id="uk-mhra"><a href="https://www.gov.uk/drug-device-alerts" target="_blank" rel="noopener">UK MHRA</a></h3>
-  <p>The MHRA allows searches for Field Safety Notices, National Patient Safety Alerts, and device safety information. Search functionality is limited, however, and the format that results are presented in can take up a lot of time. Outputs are as PDF files only, further limiting functionality.</p>
-  <h3 id="swissmedic"><a href="https://fsca.swissmedic.ch/mep/#/" target="_blank" rel="noopener">Swissmedic</a></h3>
-  <p>Swissmedic provides an easy to use website with the ability to search for Field Safety Notices only. With excellent search functionality and easy to review results this is a great resource to utilise. Outputs are as PDF files only.</p>
-  <h3 id="australian-daen"><a href="https://www.tga.gov.au/safety/safety/safety-monitoring-daen-database-adverse-event-notifications/database-adverse-event-notifications-daen-medicines" target="_blank" rel="noopener">Australian DAEN</a></h3>
-  <p>The DAEN database allows searching of adverse event reports. The search function, however, can sometimes be difficult to use. Results can be output into an easy to read PDF document.</p>
-  <h3 id="french-ansm"><a href="https://ansm.sante.fr/informations-de-securite/" target="_blank" rel="noopener">French ANSM</a></h3>
-  <p>The ANSM website is in French, so an online translator may be helpful here. With a simple to use search function showing Field Safety Notices and device alert information, the French database can provide useful outputs.</p>
-  <h3 id="german-bfarm"><a href="https://www.bfarm.de/EN/Medical-devices/Tasks/Risk-assessment-and-research/Field-corrective-actions/_node.html" target="_blank" rel="noopener">German BfArM</a></h3>
-  <p>The BfArM website is user friendly and responsive, showing predominantly Field Safety Notices. A great resource to utilise for your vigilance searches.</p>
-  <h2 id="conclusion">Conclusion</h2>
-  <p>Adverse event data is a vital component of a clinical evaluation and post market surveillance. With such a wide range of sources available to collect this information from, appropriate planning and time should be allocated to this task.</p>
-  <p>Need further information on vigilance database searches? Interested to hear more about Mantra Systems’ Clinical Evaluation Report Writing service, which includes a vigilance database search as standard? <a href="/contact">Contact us</a> for a free, impartial and no obligation discussion with a member of our team.</p>
-  ]]></content><author><name>simon-cumiskey</name></author><category term="MDR" /><summary type="html"><![CDATA[We discuss the pros and cons of existing adverse event databases for vigilance data searching.]]></summary></entry></feed>
+  ]]></content><author><name>simon-cumiskey</name></author><category term="MDR" /><summary type="html"><![CDATA[Search the MDR and MDCG documents in seconds by asking EnableChat your questions.]]></summary></entry></feed>

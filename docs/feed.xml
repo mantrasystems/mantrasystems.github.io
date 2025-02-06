@@ -1,115 +1,139 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-02-05T16:31:47+00:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Key Updates for Navigating EMDN: MDCG 2024-2 Rev.1 &amp;amp; 2021-12 Rev.1</title><link href="https://www.mantrasystems.co.uk/articles/key-updates-navigating-emdn-mdcg-2024-2-2021-12-revision-1" rel="alternate" type="text/html" title="Key Updates for Navigating EMDN: MDCG 2024-2 Rev.1 &amp;amp; 2021-12 Rev.1" /><published>2025-01-30T00:00:00+00:00</published><updated>2025-01-31T11:50:56+00:00</updated><id>https://www.mantrasystems.co.uk/articles/key-updates-navigating-emdn-mdcg-2024-2-2021-12-revision-1</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/key-updates-navigating-emdn-mdcg-2024-2-2021-12-revision-1"><![CDATA[<p>The Medical Device Coordination Group (MDCG) has released revised guidance documents, <a href="https://health.ec.europa.eu/document/de470384-e8be-45e7-a334-226757f8816d_en">MDCG 2024-2 Rev.1</a> and <a href="https://health.ec.europa.eu/document/d90b3f63-1d62-43e6-bf5f-fb32ea7c47a2_en">2021-12 Rev.1</a>, focusing on the European Medical Device Nomenclature (EMDN). This update, released in January 2025, provides critical clarifications and insights for medical device manufacturers, aiming to ensure accurate and consistent use of the EMDN system.</p>
-      <h2 id="what-is-the-emdn-and-how-does-it-affect-me">What is the EMDN, and how does it affect me?</h2>
-      <p>The EMDN is a standardised system for classifying and identifying medical devices within the European Union. Introduced under Article 26 of the <a href="https://eur-lex.europa.eu/eli/reg/2017/745/oj/eng">Medical Device Regulation (MDR) (EU) 2017/745</a> and Article 23 of the <a href="https://eur-lex.europa.eu/eli/reg/2017/746/oj/eng">In Vitro Diagnostic Medical Device Regulation (IVDR) (EU) 2017/746</a>, the EMDN plays a crucial role in the functioning of the <a href="/eu-mdr-compliance/eudamed">European Database on Medical Devices (EUDAMED)</a>.</p>
-      <p>Manufacturers utilise the EMDN to register their devices in EUDAMED, linking each device with a Unique Device Identifier - Device Identifier (UDI-DI). Beyond registration, the EMDN is vital for device documentation, notified body assessments, post-market surveillance, vigilance activities, and data analysis. It serves as a key reference for all stakeholders, including patients, providing clear device descriptions and promoting transparency in the medical device market. The EMDN is reviewed and updated annually based on user feedback and practical use.   </p>
-      <h2 id="key-changes-at-a-glance">Key changes at a glance</h2>
-      <table>
-        <thead>
-          <tr>
-            <th style="text-align: left">Update</th>
-            <th style="text-align: left">Description</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td style="text-align: left">New and revised FAQs</td>
-            <td style="text-align: left">The guidance document includes a restructured FAQ section with new questions and clarifications on various aspects of the EMDN.</td>
-          </tr>
-          <tr>
-            <td style="text-align: left">Code granularity</td>
-            <td style="text-align: left">Manufacturers are reminded to use the most specific and detailed (terminal) EMDN code available for each device.</td>
-          </tr>
-          <tr>
-            <td style="text-align: left">Multiple codes</td>
-            <td style="text-align: left">Clearer instructions are provided for using multiple EMDN codes for devices with multiple intended purposes, especially complex systems.</td>
-          </tr>
-          <tr>
-            <td style="text-align: left">Code gaps</td>
-            <td style="text-align: left">A process for proposing new EMDN codes when existing codes are not suitable is outlined, ensuring the nomenclature stays current.</td>
-          </tr>
-          <tr>
-            <td style="text-align: left">Annual review and updates</td>
-            <td style="text-align: left">The importance of staying informed about annual EMDN updates and making necessary changes to device registrations and documentation is emphasised.</td>
-          </tr>
-          <tr>
-            <td style="text-align: left">Obsolete and split codes</td>
-            <td style="text-align: left">Clear procedures for managing obsolete and split codes in EUDAMED are provided, including archiving and public accessibility.</td>
-          </tr>
-        </tbody>
-      </table>
-      <p>The updated guidance document features a restructured FAQ section with new questions addressing specific aspects of EMDN implementation and management. Some of the key areas covered include:</p>
-      <ul>
-        <li><strong>EMDN Code Assignment:</strong> The document emphasises assigning the most granular and terminal code available to each device in EUDAMED. It clarifies the use of multiple codes for devices with multiple intended purposes, particularly complex systems with diverse functions.</li>
-        <li><strong>Handling Code Gaps:</strong> If an appropriate EMDN term is not available, manufacturers are advised to use the code extension ‘99’ (‘Other’) and submit a proposal for a new code. This ensures the EMDN stays current with technological advancements and evolving device types.</li>
-        <li><strong>Annual EMDN Review:</strong> The update highlights the annual EMDN update cycle and the importance of timely updates to EUDAMED entries and related documentation. Manufacturers are encouraged to review the updated EMDN annually to identify any changes impacting their devices and notify their notified bodies accordingly.</li>
-        <li><strong>Code Updates and EUDAMED:</strong> The guidance provides clear instructions on handling obsolete or split codes in EUDAMED. Obsolete codes remain visible for a period, allowing for a smooth transition, while split codes are archived and made publicly accessible.</li>
-      </ul>
-      <h2 id="annual-revision-process">Annual revision process</h2>
-      <figure>
-        <div class="image">
-          <img src="/assets/images/content/articles/inline/emdn-annual-revision-process-diagram.png" alt="Diagram showing the annual update cycle of the EMDN annual revision process." loading="lazy" width="800" height="705" />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-02-06T09:45:48+00:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">IMDRF Sets the Standard: 10 Key Principles for AI-enabled Medical Devices</title><link href="https://www.mantrasystems.co.uk/articles/imdrf-ets-the-standard-10-principles-ai-medical-devices" rel="alternate" type="text/html" title="IMDRF Sets the Standard: 10 Key Principles for AI-enabled Medical Devices" /><published>2025-02-06T00:00:00+00:00</published><updated>2025-02-06T09:35:04+00:00</updated><id>https://www.mantrasystems.co.uk/articles/imdrf-ets-the-standard-10-principles-ai-medical-devices</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/imdrf-ets-the-standard-10-principles-ai-medical-devices"><![CDATA[<p>The International Medical Device Regulators Forum (IMDRF) has released a new document outlining ten guiding principles for <a href="https://www.imdrf.org/documents/good-machine-learning-practice-medical-device-development-guiding-principles">Good Machine Learning Practice (GMLP)</a> in the development of medical devices that incorporate artificial intelligence (AI), including machine learning. This document is intended to promote the development of safe, effective, and high-quality AI-enabled medical devices.</p>
+      <p>The ten guiding principles are:</p>
+      <ol>
+        <li><strong>Well-defined intended use:</strong> AI-enabled medical devices must be designed and used to address clinically meaningful needs. This requires a thorough understanding of the device’s intended use, benefits, and risks throughout its lifecycle. Multidisciplinary expertise should be leveraged to ensure safety and effectiveness.</li>
+        <li><strong>Good software engineering, medical device design, and security practices:</strong> It is vital to ensure robust software engineering practices are implemented throughout the product life cycle. This can be achieved by using validated quality management systems and quality assurance tools, as well as following strict data management and cybersecurity protocols. This also includes having well-structured risk management and design processes to ensure confidence in the outputs of the model.</li>
+        <li><strong><a href="/eu-mdr-compliance/clinical-evaluation">Clinical evaluation</a> with representative datasets:</strong> Data collection protocols must ensure the datasets used for training, testing, and monitoring the AI model sufficiently represent the intended patient population, use environment, and inputs. This helps manage bias, promote generalisability, assess usability, and identify potential underperformance.</li>
+        <li><strong>Independent training and test datasets:</strong> Training and test datasets should be selected and maintained independently of one another. All potential sources of dependence, including factors related to patients, sites, and data acquisition, should be considered and addressed.</li>
+        <li><strong>Fit-for-purpose reference standards:</strong> Accepted methods for developing reference standards should be used to ensure that clinically relevant and well-characterised data is collected. The limitations of reference standards should be understood, and the rationale for their choice should be documented based on the device’s intended use and assessment of their suitability for the intended use environment.</li>
+        <li><strong>Model choice and design tailored to data and intended use:</strong> The choice and design of the AI model should be evaluated and shown to be suitable for the available data and support the mitigation of known risks such as overfitting, performance degradation, and security risks. The clinical benefits and risks related to the product should be well understood and used to derive clinically meaningful performance goals for testing.</li>
+        <li><strong>Assessment of human-AI interactions:</strong> Device performance should be evaluated within its intended use environment and clinical workflow, considering interactions with all users. Human factors like user skills, understanding of model outputs, potential for overreliance, device autonomy, and user error should be addressed for both normal use and foreseeable misuse.</li>
+        <li><strong>Performance testing in clinically relevant conditions:</strong> Methodologically and statistically sound test plans should be developed and executed to generate clinically relevant device performance information independently of the training dataset. Considerations should include the intended patient population, relevant subgroups, clinical environment, use by the human-AI team, measurement inputs, and potential confounding factors.</li>
+        <li><strong>Clear and essential information for users:</strong> All users (healthcare professionals, patients, etc.) must receive clear, relevant information about the product’s intended use, indications, benefits, risks, performance, and limitations. This includes details about the model’s development, data used, inputs, outputs, and user interface. Users should also be informed about device updates and have a way to report concerns to the manufacturer.</li>
+        <li><strong>Monitoring of deployed models and management of re-training risks:</strong> Deployed models should be capable of ongoing monitoring in real-world use with a focus on maintaining or improving safety and performance. When models are retrained after deployment, appropriate controls should be in place to manage risks of overfitting, unintended bias, or degradation of the model that may impact safety and performance.</li>
+      </ol>
+      <p>These guiding principles are a call to action for international standards organisations, regulators, and other collaborative bodies to further advance GMLP. Areas of collaboration include research, educational tools and resources, international harmonisation, and consensus standards to inform regulatory policies and guidelines.</p>
+      <figure class="inline">
+        <div class="image bordered">
+          <img src="/assets/images/content/articles/inline/good-machine-learning-practice-diagram.svg" alt="Diagram illustrating what is considered a good machine learning process." loading="lazy" width="800" height="700" />
         </div>
+        <figcaption>Good Machine Learning Practice</figcaption>
       </figure>
-      <p>MDCG <a href="https://health.ec.europa.eu/document/de470384-e8be-45e7-a334-226757f8816d_en">2024-2 Rev.1</a> contains a detailed explanation of the annual EMDN revision process. The most important part of the process for manufacturers is the collection of requests step. EMDN users, including competent authorities, notified bodies, manufacturers, and other stakeholders, can submit requests for changes to the EMDN through a dedicated platform. The deadline for submitting requests for processing in that same year is 31st January.  </p>
-      <p>These requests are then reviewed by the EMDN Technical Team (EMDN-TT) and the MDCG Nomenclature Working Group (NOM WG) over the course of the year before finally being published to EUDAMED by the end of the year.</p>
-      <p>In addition to the annual update cycle, a pilot procedure for ad-hoc updates requiring expedited review has been introduced. This ad-hoc process is limited to new code requests and is only available to competent authorities and notified bodies.  </p>
-      <h2 id="what-does-this-mean-for-me">What does this mean for me?</h2>
-      <p>This update underscores the importance of staying informed about EMDN changes and ensuring accurate EMDN code assignment for all medical devices. Manufacturers must proactively engage with the annual EMDN review process, participate in code update proposals, and maintain accurate device information in EUDAMED.</p>
-      <p>By adhering to these guidelines manufacturers can:</p>
-      <ul>
-        <li><strong>Enhance Regulatory Compliance:</strong> Accurate EMDN coding is crucial for meeting regulatory requirements and avoiding potential issues with notified bodies and market access.</li>
-        <li><strong>Improve Data Quality:</strong> Consistent and precise EMDN coding contributes to the quality and reliability of data in EUDAMED, supporting effective post-market surveillance and regulatory decision-making.</li>
-        <li><strong>Increase Transparency:</strong> Clear and standardised device identification through the EMDN promotes transparency for patients, healthcare professionals, and other stakeholders.</li>
-      </ul>
-      <h2 id="conclusion">Conclusion</h2>
-      <p>The MDCG have provided valuable guidance for medical device manufacturers navigating the EMDN system. By understanding and implementing these guidelines, manufacturers can ensure accurate device classification, maintain regulatory compliance, and contribute to a transparent and well-functioning medical device market.</p>
-      <p>Navigating the complexities of EMDN and EUDAMED can be challenging. Partnering with Mantra Systems allows you to focus on your core business while we handle the intricacies of EMDN compliance. <a href="/contact">Book a free, no-obligation chat with one of our regulatory experts</a> to see how we can help.</p>
-      ]]></content><author><name>ron-sangal</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[Release of the updated guidance helps manufacturers navigate the EMDN system for accurate device classification, ensuring market access.]]></summary></entry><entry><title type="html">From IVDD to IVDR: Ensuring Compliance During the Transitional Period</title><link href="https://www.mantrasystems.co.uk/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period" rel="alternate" type="text/html" title="From IVDD to IVDR: Ensuring Compliance During the Transitional Period" /><published>2025-01-28T00:00:00+00:00</published><updated>2025-01-29T09:49:41+00:00</updated><id>https://www.mantrasystems.co.uk/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period"><![CDATA[<p>The European Union <a href="https://eur-lex.europa.eu/eli/reg/2017/746/oj/eng">In Vitro Diagnostic Regulation (EU IVDR 2017/746)</a> has transformed the medical device industry. Replacing the In Vitro Diagnostic Directive (IVDD 98/79/EC), <a href="/medical-device-regulatory-consulting-services/ivdr-consulting">the IVDR</a> establishes more rigorous standards to enhance the safety, performance, and quality of in vitro diagnostic medical devices (IVDs).</p>
-    <p>However, the transition from IVDD to IVDR can be complex and manufacturers of legacy devices must navigate a range of considerations to ensure compliance while adapting to the new regulatory landscape.</p>
-    <h2 id="maintaining-regulatory-compliance-during-the-ivdd-to-ivdr-transition">Maintaining Regulatory Compliance During the IVDD-to-IVDR Transition</h2>
-    <p>To facilitate a smooth transition, IVDD-compliant legacy devices may continue to be placed on the market until the following deadlines:</p>
+      <p>The IMDRF emphasises the importance of GMLP in the context of evolving AI technologies, particularly generative AI. Generative AI presents unique considerations and potential risks, such as the use of foundation models not under the provenance of medical device manufacturers. The regulatory science of measuring performance and characterising and detecting errors in these models is maturing to meet these challenges.</p>
+      <p>As the field of AI medical devices continues to evolve, so too must GMLP and consensus standards. The IMDRF’s publication of these guiding principles is a significant step in promoting the safe and effective development of AI-enabled medical devices. Medical device manufacturers should familiarise themselves with these principles and incorporate them into their development processes to ensure compliance and maintain patient safety.</p>
+      <p><a href="/newsletter">Subscribe to our newsletter</a> for the latest updates on this rapidly changing field. If you have any questions, <a href="/solutions/regulatory-consulting-for-samd-software-as-a-medical-device">book a free, no-obligation call</a> with one of our Software as a Medical Device (SaMD) experts.</p>
+      ]]></content><author><name>ron-sangal</name></author><category term="SaMD" /><summary type="html"><![CDATA[Good Machine Learning Practice (GMLP) principles ensure safe devices, covering intended use, clinical evaluation & Human-AI Interaction (HAII).]]></summary></entry><entry><title type="html">Key Updates for Navigating EMDN: MDCG 2024-2 Rev.1 &amp;amp; 2021-12 Rev.1</title><link href="https://www.mantrasystems.co.uk/articles/key-updates-navigating-emdn-mdcg-2024-2-2021-12-revision-1" rel="alternate" type="text/html" title="Key Updates for Navigating EMDN: MDCG 2024-2 Rev.1 &amp;amp; 2021-12 Rev.1" /><published>2025-01-30T00:00:00+00:00</published><updated>2025-01-31T11:50:56+00:00</updated><id>https://www.mantrasystems.co.uk/articles/key-updates-navigating-emdn-mdcg-2024-2-2021-12-revision-1</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/key-updates-navigating-emdn-mdcg-2024-2-2021-12-revision-1"><![CDATA[<p>The Medical Device Coordination Group (MDCG) has released revised guidance documents, <a href="https://health.ec.europa.eu/document/de470384-e8be-45e7-a334-226757f8816d_en">MDCG 2024-2 Rev.1</a> and <a href="https://health.ec.europa.eu/document/d90b3f63-1d62-43e6-bf5f-fb32ea7c47a2_en">2021-12 Rev.1</a>, focusing on the European Medical Device Nomenclature (EMDN). This update, released in January 2025, provides critical clarifications and insights for medical device manufacturers, aiming to ensure accurate and consistent use of the EMDN system.</p>
+    <h2 id="what-is-the-emdn-and-how-does-it-affect-me">What is the EMDN, and how does it affect me?</h2>
+    <p>The EMDN is a standardised system for classifying and identifying medical devices within the European Union. Introduced under Article 26 of the <a href="https://eur-lex.europa.eu/eli/reg/2017/745/oj/eng">Medical Device Regulation (MDR) (EU) 2017/745</a> and Article 23 of the <a href="https://eur-lex.europa.eu/eli/reg/2017/746/oj/eng">In Vitro Diagnostic Medical Device Regulation (IVDR) (EU) 2017/746</a>, the EMDN plays a crucial role in the functioning of the <a href="/eu-mdr-compliance/eudamed">European Database on Medical Devices (EUDAMED)</a>.</p>
+    <p>Manufacturers utilise the EMDN to register their devices in EUDAMED, linking each device with a Unique Device Identifier - Device Identifier (UDI-DI). Beyond registration, the EMDN is vital for device documentation, notified body assessments, post-market surveillance, vigilance activities, and data analysis. It serves as a key reference for all stakeholders, including patients, providing clear device descriptions and promoting transparency in the medical device market. The EMDN is reviewed and updated annually based on user feedback and practical use.   </p>
+    <h2 id="key-changes-at-a-glance">Key changes at a glance</h2>
+    <table>
+      <thead>
+        <tr>
+          <th style="text-align: left">Update</th>
+          <th style="text-align: left">Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="text-align: left">New and revised FAQs</td>
+          <td style="text-align: left">The guidance document includes a restructured FAQ section with new questions and clarifications on various aspects of the EMDN.</td>
+        </tr>
+        <tr>
+          <td style="text-align: left">Code granularity</td>
+          <td style="text-align: left">Manufacturers are reminded to use the most specific and detailed (terminal) EMDN code available for each device.</td>
+        </tr>
+        <tr>
+          <td style="text-align: left">Multiple codes</td>
+          <td style="text-align: left">Clearer instructions are provided for using multiple EMDN codes for devices with multiple intended purposes, especially complex systems.</td>
+        </tr>
+        <tr>
+          <td style="text-align: left">Code gaps</td>
+          <td style="text-align: left">A process for proposing new EMDN codes when existing codes are not suitable is outlined, ensuring the nomenclature stays current.</td>
+        </tr>
+        <tr>
+          <td style="text-align: left">Annual review and updates</td>
+          <td style="text-align: left">The importance of staying informed about annual EMDN updates and making necessary changes to device registrations and documentation is emphasised.</td>
+        </tr>
+        <tr>
+          <td style="text-align: left">Obsolete and split codes</td>
+          <td style="text-align: left">Clear procedures for managing obsolete and split codes in EUDAMED are provided, including archiving and public accessibility.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>The updated guidance document features a restructured FAQ section with new questions addressing specific aspects of EMDN implementation and management. Some of the key areas covered include:</p>
     <ul>
-      <li><strong>Class D devices:</strong> Compliance required by <strong>31 December 2027</strong>.</li>
-      <li><strong>Class C devices:</strong> Compliance required by <strong>31 December 2028</strong>.</li>
-      <li><strong>Class B and Class A sterile devices:</strong> Compliance required by <strong>31 December 2029</strong>.</li>
+      <li><strong>EMDN Code Assignment:</strong> The document emphasises assigning the most granular and terminal code available to each device in EUDAMED. It clarifies the use of multiple codes for devices with multiple intended purposes, particularly complex systems with diverse functions.</li>
+      <li><strong>Handling Code Gaps:</strong> If an appropriate EMDN term is not available, manufacturers are advised to use the code extension ‘99’ (‘Other’) and submit a proposal for a new code. This ensures the EMDN stays current with technological advancements and evolving device types.</li>
+      <li><strong>Annual EMDN Review:</strong> The update highlights the annual EMDN update cycle and the importance of timely updates to EUDAMED entries and related documentation. Manufacturers are encouraged to review the updated EMDN annually to identify any changes impacting their devices and notify their notified bodies accordingly.</li>
+      <li><strong>Code Updates and EUDAMED:</strong> The guidance provides clear instructions on handling obsolete or split codes in EUDAMED. Obsolete codes remain visible for a period, allowing for a smooth transition, while split codes are archived and made publicly accessible.</li>
     </ul>
-    <p>These <a href="https://health.ec.europa.eu/document/dfd7a1c6-f319-4682-9bac-77bef1165818_en">extended timelines</a> aim to provide manufacturers with the opportunity to adjust to the IVDR. However, continuing to market legacy devices during this period is conditional upon strict adherence to specific requirements.</p>
-    <h2 id="conditions-for-placing-ivdd-compliant-devices-on-the-market">Conditions for Placing IVDD-Compliant Devices on the Market</h2>
-    <p>Legacy devices may remain on the market during the transition period only if the following conditions are met:</p>
-    <ol>
-      <li>The device must remain fully compliant with the IVDD.</li>
-      <li>There are no significant changes to device design or intended purpose.</li>
-      <li>The device does not present an unacceptable risk to patient or user health and safety, nor to public health.</li>
-      <li>By <strong>26 May 2025</strong>, the manufacturer must have implemented a Quality Management System (QMS) in accordance with Article 10(8) of the IVDR.</li>
-      <li>A formal application must have been lodged with a notified body (as per section 4.3, Annex VII) for conformity assessment no later than the 26 May 2025 for Class D devices, <strong>26 May 2026</strong> for Class C devices, and 26 May 2027 for Class B and Class A sterile devices.</li>
-      <li>The manufacturer must have written agreement with the Notified Body by <strong>26 September 2025</strong> for Class D devices, <strong>26 September 2026</strong> for Class C devices, and <strong>26 September 2027</strong> for Class B and Class A sterile devices.</li>
-    </ol>
-    <p>Failure to meet these conditions will negate compliance under transitional provisions.</p>
-    <h2 id="implementing-an-ivdr-compliant-qms">Implementing an IVDR-Compliant QMS</h2>
-    <p>Having an IVDR complaint QMS in place is not just about meeting regulatory requirements; it is a proactive strategy to ensure the continuous safety and performance of an IVD in a competitive market. To meet IVDR requirements, the QMS must include the following elements:</p>
+    <h2 id="annual-revision-process">Annual revision process</h2>
+    <figure>
+      <div class="image">
+        <img src="/assets/images/content/articles/inline/emdn-annual-revision-process-diagram.png" alt="Diagram showing the annual update cycle of the EMDN annual revision process." loading="lazy" width="800" height="705" />
+      </div>
+    </figure>
+    <p>MDCG <a href="https://health.ec.europa.eu/document/de470384-e8be-45e7-a334-226757f8816d_en">2024-2 Rev.1</a> contains a detailed explanation of the annual EMDN revision process. The most important part of the process for manufacturers is the collection of requests step. EMDN users, including competent authorities, notified bodies, manufacturers, and other stakeholders, can submit requests for changes to the EMDN through a dedicated platform. The deadline for submitting requests for processing in that same year is 31st January.  </p>
+    <p>These requests are then reviewed by the EMDN Technical Team (EMDN-TT) and the MDCG Nomenclature Working Group (NOM WG) over the course of the year before finally being published to EUDAMED by the end of the year.</p>
+    <p>In addition to the annual update cycle, a pilot procedure for ad-hoc updates requiring expedited review has been introduced. This ad-hoc process is limited to new code requests and is only available to competent authorities and notified bodies.  </p>
+    <h2 id="what-does-this-mean-for-me">What does this mean for me?</h2>
+    <p>This update underscores the importance of staying informed about EMDN changes and ensuring accurate EMDN code assignment for all medical devices. Manufacturers must proactively engage with the annual EMDN review process, participate in code update proposals, and maintain accurate device information in EUDAMED.</p>
+    <p>By adhering to these guidelines manufacturers can:</p>
     <ul>
-      <li>A strategy for regulatory compliance, including management of modifications to devices.</li>
-      <li>Identification of safety and performance requirements and strategies to address them.</li>
-      <li>Clear management responsibility and accountability.</li>
-      <li>Resource management, including oversight of suppliers and subcontractors.</li>
-      <li>Comprehensive risk management in line with Annex I, Section 3.</li>
-      <li>Performance evaluation, including Post-Market Performance Follow-up (PMPF) per Article 56 and Annex XIII.</li>
-      <li>Processes for product realisation, from design and development to production and service.</li>
-      <li>Verification of <strong>Unique Device Identifier (UDI)</strong> assignments and consistent device information management under Articles 24(3) and 26.</li>
-      <li>A robust <strong>Post-Market Surveillance (PMS)</strong> system, as outlined in Article 78.</li>
-      <li>Effective communication with stakeholders, including authorities, notified bodies, and customers.</li>
-      <li>Processes for reporting serious incidents and implementing corrective and preventive actions (CAPA).</li>
-      <li>Monitoring, measurement, and continuous product improvement.</li>
+      <li><strong>Enhance Regulatory Compliance:</strong> Accurate EMDN coding is crucial for meeting regulatory requirements and avoiding potential issues with notified bodies and market access.</li>
+      <li><strong>Improve Data Quality:</strong> Consistent and precise EMDN coding contributes to the quality and reliability of data in EUDAMED, supporting effective post-market surveillance and regulatory decision-making.</li>
+      <li><strong>Increase Transparency:</strong> Clear and standardised device identification through the EMDN promotes transparency for patients, healthcare professionals, and other stakeholders.</li>
     </ul>
-    <h2 id="an-ivdr-compliant-qms-for-legacy-devices">An IVDR-Compliant QMS for Legacy Devices</h2>
-    <p>Manufacturers must ensure their QMS is aligned with IVDR regulatory requirements. However, for certain aspects outlined in Article 10(8), such as points (b), (e), and (f), a distinction must be made for “legacy devices”. For these devices, manufacturers are not required to have identified all relevant safety and performance requirements, implemented comprehensive risk management, or conducted a full performance evaluation. However, it is important to note that from the 26 May 2025, manufacturers must ensure that their QMS addresses how compliance with these requirements will be achieved for legacy devices, ensuring full alignment with IVDR standards.</p>
-    <p>Manufacturers have a few strategic options for updating to an IVDR-compliant QMS. One approach is to establish a parallel QMS. This approach enables clear reference to the appropriate procedures and highlights the transition to the new system. For companies with complex, long-standing QMS, it offers the chance to streamline and enhance efficiency. However, this approach demands considerable effort to develop and eventually replace the old procedures.</p>
-    <p>Alternatively, companies whose existing QMS already aligns closely with the new IVDR requirements might prefer to update their current system. While this option can be more efficient, it may present challenges in ensuring that certain QMS elements are applied consistently across all products.</p>
-    <p>Despite the chosen approach, documenting the transition is critical, clearly defining which procedures apply, when they take effect, and which products they impact. This can be done either within the procedures themselves or through a separate project plan. In addition, comprehensive training is key to ensuring everyone involved understands and implements the new requirements effectively.</p>
-    <h2 id="the-time-to-act-is-now">The Time to Act Is Now</h2>
-    <p>As the transition deadlines approach, manufacturers of legacy IVDs need to act swiftly to remain competitive and compliant in the evolving European market. The IVDR represents a major overhaul of IVD regulation in the EU, but it aims to ensure medical devices are safer, more effective, and of higher quality. Manufacturers who embrace these changes and take proactive steps to comply will be better positioned to navigate the evolving regulatory environment, ensuring continued market access and patient safety.</p>
-    <p>Struggling with your IVDD to IVDR transition? Mantra Systems is here to help! Our expertise can guide you through the complexities of achieving IVDR compliance and ensure your QMS is up to date with the latest regulatory requirements. <a href="/contact">Contact us today</a>.</p>
-    ]]></content><author><name>shona-richardson</name></author><category term="IVDR" /><summary type="html"><![CDATA[Legacy device manufacturers need to manage challenging timelines as well as address transitional provisions and update QMS.]]></summary></entry><entry><title type="html">An Overview of the UK’s 2024 Post-Market Surveillance Update</title><link href="https://www.mantrasystems.co.uk/articles/overview-of-uk-2024-post-market-surveillance-update" rel="alternate" type="text/html" title="An Overview of the UK’s 2024 Post-Market Surveillance Update" /><published>2025-01-16T00:00:00+00:00</published><updated>2025-01-16T17:13:22+00:00</updated><id>https://www.mantrasystems.co.uk/articles/overview-of-uk-2024-post-market-surveillance-update</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/overview-of-uk-2024-post-market-surveillance-update"><![CDATA[<p>The <a href="https://www.gov.uk/government/publications/medical-devices-post-market-surveillance-requirements/the-medical-devices-post-market-surveillance-requirements-amendment-great-britain-regulations-2024-guidance-on-implementation">UK’s Medical Devices (Post-market Surveillance Requirements) (Amendment) Regulations 2024</a> introduce significant changes to the Post-Market Surveillance (PMS) landscape for medical devices. These changes aim to strengthen the PMS system in the UK, ultimately improving patient safety. In this article, we will provide a detailed breakdown of these changes and what they mean for you.</p>
+    <h2 id="conclusion">Conclusion</h2>
+    <p>The MDCG have provided valuable guidance for medical device manufacturers navigating the EMDN system. By understanding and implementing these guidelines, manufacturers can ensure accurate device classification, maintain regulatory compliance, and contribute to a transparent and well-functioning medical device market.</p>
+    <p>Navigating the complexities of EMDN and EUDAMED can be challenging. Partnering with Mantra Systems allows you to focus on your core business while we handle the intricacies of EMDN compliance. <a href="/contact">Book a free, no-obligation chat with one of our regulatory experts</a> to see how we can help.</p>
+    ]]></content><author><name>ron-sangal</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[Release of the updated guidance helps manufacturers navigate the EMDN system for accurate device classification, ensuring market access.]]></summary></entry><entry><title type="html">From IVDD to IVDR: Ensuring Compliance During the Transitional Period</title><link href="https://www.mantrasystems.co.uk/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period" rel="alternate" type="text/html" title="From IVDD to IVDR: Ensuring Compliance During the Transitional Period" /><published>2025-01-28T00:00:00+00:00</published><updated>2025-01-29T09:49:41+00:00</updated><id>https://www.mantrasystems.co.uk/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period"><![CDATA[<p>The European Union <a href="https://eur-lex.europa.eu/eli/reg/2017/746/oj/eng">In Vitro Diagnostic Regulation (EU IVDR 2017/746)</a> has transformed the medical device industry. Replacing the In Vitro Diagnostic Directive (IVDD 98/79/EC), <a href="/medical-device-regulatory-consulting-services/ivdr-consulting">the IVDR</a> establishes more rigorous standards to enhance the safety, performance, and quality of in vitro diagnostic medical devices (IVDs).</p>
+  <p>However, the transition from IVDD to IVDR can be complex and manufacturers of legacy devices must navigate a range of considerations to ensure compliance while adapting to the new regulatory landscape.</p>
+  <h2 id="maintaining-regulatory-compliance-during-the-ivdd-to-ivdr-transition">Maintaining Regulatory Compliance During the IVDD-to-IVDR Transition</h2>
+  <p>To facilitate a smooth transition, IVDD-compliant legacy devices may continue to be placed on the market until the following deadlines:</p>
+  <ul>
+    <li><strong>Class D devices:</strong> Compliance required by <strong>31 December 2027</strong>.</li>
+    <li><strong>Class C devices:</strong> Compliance required by <strong>31 December 2028</strong>.</li>
+    <li><strong>Class B and Class A sterile devices:</strong> Compliance required by <strong>31 December 2029</strong>.</li>
+  </ul>
+  <p>These <a href="https://health.ec.europa.eu/document/dfd7a1c6-f319-4682-9bac-77bef1165818_en">extended timelines</a> aim to provide manufacturers with the opportunity to adjust to the IVDR. However, continuing to market legacy devices during this period is conditional upon strict adherence to specific requirements.</p>
+  <h2 id="conditions-for-placing-ivdd-compliant-devices-on-the-market">Conditions for Placing IVDD-Compliant Devices on the Market</h2>
+  <p>Legacy devices may remain on the market during the transition period only if the following conditions are met:</p>
+  <ol>
+    <li>The device must remain fully compliant with the IVDD.</li>
+    <li>There are no significant changes to device design or intended purpose.</li>
+    <li>The device does not present an unacceptable risk to patient or user health and safety, nor to public health.</li>
+    <li>By <strong>26 May 2025</strong>, the manufacturer must have implemented a Quality Management System (QMS) in accordance with Article 10(8) of the IVDR.</li>
+    <li>A formal application must have been lodged with a notified body (as per section 4.3, Annex VII) for conformity assessment no later than the 26 May 2025 for Class D devices, <strong>26 May 2026</strong> for Class C devices, and 26 May 2027 for Class B and Class A sterile devices.</li>
+    <li>The manufacturer must have written agreement with the Notified Body by <strong>26 September 2025</strong> for Class D devices, <strong>26 September 2026</strong> for Class C devices, and <strong>26 September 2027</strong> for Class B and Class A sterile devices.</li>
+  </ol>
+  <p>Failure to meet these conditions will negate compliance under transitional provisions.</p>
+  <h2 id="implementing-an-ivdr-compliant-qms">Implementing an IVDR-Compliant QMS</h2>
+  <p>Having an IVDR complaint QMS in place is not just about meeting regulatory requirements; it is a proactive strategy to ensure the continuous safety and performance of an IVD in a competitive market. To meet IVDR requirements, the QMS must include the following elements:</p>
+  <ul>
+    <li>A strategy for regulatory compliance, including management of modifications to devices.</li>
+    <li>Identification of safety and performance requirements and strategies to address them.</li>
+    <li>Clear management responsibility and accountability.</li>
+    <li>Resource management, including oversight of suppliers and subcontractors.</li>
+    <li>Comprehensive risk management in line with Annex I, Section 3.</li>
+    <li>Performance evaluation, including Post-Market Performance Follow-up (PMPF) per Article 56 and Annex XIII.</li>
+    <li>Processes for product realisation, from design and development to production and service.</li>
+    <li>Verification of <strong>Unique Device Identifier (UDI)</strong> assignments and consistent device information management under Articles 24(3) and 26.</li>
+    <li>A robust <strong>Post-Market Surveillance (PMS)</strong> system, as outlined in Article 78.</li>
+    <li>Effective communication with stakeholders, including authorities, notified bodies, and customers.</li>
+    <li>Processes for reporting serious incidents and implementing corrective and preventive actions (CAPA).</li>
+    <li>Monitoring, measurement, and continuous product improvement.</li>
+  </ul>
+  <h2 id="an-ivdr-compliant-qms-for-legacy-devices">An IVDR-Compliant QMS for Legacy Devices</h2>
+  <p>Manufacturers must ensure their QMS is aligned with IVDR regulatory requirements. However, for certain aspects outlined in Article 10(8), such as points (b), (e), and (f), a distinction must be made for “legacy devices”. For these devices, manufacturers are not required to have identified all relevant safety and performance requirements, implemented comprehensive risk management, or conducted a full performance evaluation. However, it is important to note that from the 26 May 2025, manufacturers must ensure that their QMS addresses how compliance with these requirements will be achieved for legacy devices, ensuring full alignment with IVDR standards.</p>
+  <p>Manufacturers have a few strategic options for updating to an IVDR-compliant QMS. One approach is to establish a parallel QMS. This approach enables clear reference to the appropriate procedures and highlights the transition to the new system. For companies with complex, long-standing QMS, it offers the chance to streamline and enhance efficiency. However, this approach demands considerable effort to develop and eventually replace the old procedures.</p>
+  <p>Alternatively, companies whose existing QMS already aligns closely with the new IVDR requirements might prefer to update their current system. While this option can be more efficient, it may present challenges in ensuring that certain QMS elements are applied consistently across all products.</p>
+  <p>Despite the chosen approach, documenting the transition is critical, clearly defining which procedures apply, when they take effect, and which products they impact. This can be done either within the procedures themselves or through a separate project plan. In addition, comprehensive training is key to ensuring everyone involved understands and implements the new requirements effectively.</p>
+  <h2 id="the-time-to-act-is-now">The Time to Act Is Now</h2>
+  <p>As the transition deadlines approach, manufacturers of legacy IVDs need to act swiftly to remain competitive and compliant in the evolving European market. The IVDR represents a major overhaul of IVD regulation in the EU, but it aims to ensure medical devices are safer, more effective, and of higher quality. Manufacturers who embrace these changes and take proactive steps to comply will be better positioned to navigate the evolving regulatory environment, ensuring continued market access and patient safety.</p>
+  <p>Struggling with your IVDD to IVDR transition? Mantra Systems is here to help! Our expertise can guide you through the complexities of achieving IVDR compliance and ensure your QMS is up to date with the latest regulatory requirements. <a href="/contact">Contact us today</a>.</p>
+  ]]></content><author><name>shona-richardson</name></author><category term="IVDR" /><summary type="html"><![CDATA[Legacy device manufacturers need to manage challenging timelines as well as address transitional provisions and update QMS.]]></summary></entry><entry><title type="html">An Overview of the UK’s 2024 Post-Market Surveillance Update</title><link href="https://www.mantrasystems.co.uk/articles/overview-of-uk-2024-post-market-surveillance-update" rel="alternate" type="text/html" title="An Overview of the UK’s 2024 Post-Market Surveillance Update" /><published>2025-01-16T00:00:00+00:00</published><updated>2025-01-16T17:13:22+00:00</updated><id>https://www.mantrasystems.co.uk/articles/overview-of-uk-2024-post-market-surveillance-update</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/overview-of-uk-2024-post-market-surveillance-update"><![CDATA[<p>The <a href="https://www.gov.uk/government/publications/medical-devices-post-market-surveillance-requirements/the-medical-devices-post-market-surveillance-requirements-amendment-great-britain-regulations-2024-guidance-on-implementation">UK’s Medical Devices (Post-market Surveillance Requirements) (Amendment) Regulations 2024</a> introduce significant changes to the Post-Market Surveillance (PMS) landscape for medical devices. These changes aim to strengthen the PMS system in the UK, ultimately improving patient safety. In this article, we will provide a detailed breakdown of these changes and what they mean for you.</p>
   <h2 id="introduction-to-the-mandatory-pms-plan">Introduction to the Mandatory PMS Plan</h2>
   <p>One of the most significant changes is the mandatory requirement for manufacturers to <a href="/eu-mdr-compliance/post-market-surveillance-pms">have a PMS plan in place</a>. This plan, which outlines the methods for gathering and analysing device performance and safety data throughout the device’s lifecycle, is a crucial component of the updated regulations.</p>
   <p>The PMS plan should include:</p>
@@ -310,16 +334,4 @@
   </table>
   <p>For further information on how we can help you meet your MDR requirements please <a href="/contact">contact us</a> for a free and confidential discussion.</p>
   <p>Alternatively, for any general regulatory questions you need a quick answer to, have you tried our <a href="/medical-device-regulation-resources/enablechat">AI-powered MDR &amp; MDCG chatbot</a>? — it’s free and will answer your queries around the clock.</p>
-  ]]></content><author><name>simon-cumiskey</name></author><category term="MDR" /><category term="Clinical Evaluation" /><category term="PMCF" /><summary type="html"><![CDATA[How do you define intended purpose, indication for use, intended clinical benefits, and claims?]]></summary></entry><entry><title type="html">EnableChat - Your AI-powered MDR and MDCG chatbot</title><link href="https://www.mantrasystems.co.uk/articles/enablechat-your-ai-powered-mdr-mdcg-chatbot" rel="alternate" type="text/html" title="EnableChat - Your AI-powered MDR and MDCG chatbot" /><published>2024-02-12T00:00:00+00:00</published><updated>2024-02-12T16:04:02+00:00</updated><id>https://www.mantrasystems.co.uk/articles/enablechat-your-ai-powered-mdr-mdcg-chatbot</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/enablechat-your-ai-powered-mdr-mdcg-chatbot"><![CDATA[<p>A deep understanding of the MDR and associated MDCG documents is crucial for achieving compliance with the EU Medical Device Regulations.</p>
-  <p>However, the MDR itself is 175 pages long and the MDCG documents, at the time of writing, number over 100 files. With so much information available it can sometimes be difficult to find the relevant information.</p>
-  <p>To solve this problem we have developed EnableChat, <a href="/medical-device-regulation-resources/enablechat">your AI-powered regulatory chatbot</a>.</p>
-  <div class="video-wrap">
-    <div class="video-insert youtube-player" data-id="Mej0nkKHP7M"></div>
-    <p class="video-caption">About EnableChat - Your AI-powered MDR &amp; MDCG chatbot</p>
-  </div>
-  <h2 id="the-solution">The Solution</h2>
-  <p>EnableChat is, in simple terms, a question and answer service. Ask any question related to MDR compliance and, like magic, EnableChat will search the MDR and MDCG documents and find the answer you are looking for. It will even list the most relevant documents and provide a link, connecting you directly with them.</p>
-  <p>More specifically, EnableChat is a retrieval-augmented generative question and answering web application that finds the most relevant MDCG documents or MDR pages, before using a large language model to answer the user’s question based on the relevant documents. This method ensures high accuracy while maintaining a friendly, conversational style.</p>
-  <p>EnableChat is free to use (no sign-up required) and searches all the latest MDCG documents as well as the MDR text.</p>
-  <p class="align-center"><a href="/medical-device-regulation-resources/enablechat" class="button">Try EnableChat</a></p>
-  ]]></content><author><name>simon-cumiskey</name></author><category term="MDR" /><summary type="html"><![CDATA[Search the MDR and MDCG documents in seconds by asking EnableChat your questions.]]></summary></entry></feed>
+  ]]></content><author><name>simon-cumiskey</name></author><category term="MDR" /><category term="Clinical Evaluation" /><category term="PMCF" /><summary type="html"><![CDATA[How do you define intended purpose, indication for use, intended clinical benefits, and claims?]]></summary></entry></feed>

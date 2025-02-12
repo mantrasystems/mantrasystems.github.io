@@ -66,8 +66,28 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-
       gtag('config', 'AW-11133303463');
+    </script>
+    <!-- Google tag manual events -->
+    <script>
+      function gtag_report_conversion(url) {
+        var callback = function () {
+          if (typeof(url) != 'undefined') {
+            window.location = url;
+          }
+        };
+        // For Press Email Button
+        gtag('event', 'conversion', {
+            'send_to': 'AW-11133303463/IvC-CO_ppJ0aEKf14rwp',
+            'event_callback': callback
+        });
+        // For Press Phone Button
+        gtag('event', 'conversion', {
+            'send_to': 'AW-11133303463/MWB6CPf_k50aEKf14rwp',
+            'event_callback': callback
+        });
+        return false;
+      }
     </script>
   </head>
   <body class="landing ads">

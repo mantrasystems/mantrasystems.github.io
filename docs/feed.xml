@@ -1,120 +1,161 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-02-22T12:21:51+00:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Extending the Validity of your IVDD Certificates – Key Dates</title><link href="https://www.mantrasystems.co.uk/articles/extending-validity-of-ivdd-certficates-key-dates" rel="alternate" type="text/html" title="Extending the Validity of your IVDD Certificates – Key Dates" /><published>2025-02-19T00:00:00+00:00</published><updated>2025-02-19T09:50:36+00:00</updated><id>https://www.mantrasystems.co.uk/articles/extending-validity-of-ivdd-certficates-key-dates</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/extending-validity-of-ivdd-certficates-key-dates"><![CDATA[<p>The EU and the MHRA have extended the validity of IVDD certificates, allowing you more time to <a href="/medical-device-regulatory-consulting-services/ivdr-consulting">transition to the IVDR</a>. In this article, Kamiya Crabtree explains what this means for you.</p>
-      <p>Recently, <a href="https://health.ec.europa.eu/document/dfd7a1c6-f319-4682-9bac-77bef1165818_en">the EU has extended the validity of EU IVDD</a> (In Vitro Diagnostic Medical Device Directive) certificates and declarations. The EU has updated the timelines for IVD devices to align with the EU In Vitro Diagnostic Devices Regulation (2017/746) (EU IVDR). As a result, devices with EU IVDD certificates will now be allowed to remain on the EU market for a longer period of time.</p>
-      <p>Previously, IVDD CE certificates and declarations of conformity were set to expire on 26th May 2025. Under the updated transitional provisions, the validity of certain certificates and declarations has been extended as follows:</p>
-      <table>
-        <thead>
-          <tr>
-            <th>Device classification</th>
-            <th>New deadline</th>
-            <th>Applies as long as…</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th>Annex II List A devices</th>
-            <td rowspan="4">31st December 2027</td>
-            <td rowspan="3">The CE certificate was issued after 25th May 2017 and was still valid on 26th May 2022.</td>
-          </tr>
-          <tr>
-            <th>Annex II List B devices</th>
-          </tr>
-          <tr>
-            <th>Self-test devices</th>
-          </tr>
-          <tr>
-            <th>General IVD devices that have been upclassified to Class D IVD devices</th>
-            <td rowspan="4">The declaration of conformity was drawn up before 26th May 2022.</td>
-          </tr>
-          <tr>
-            <th>General IVD devices that have been upclassified to Class C IVD devices</th>
-            <td>31st December 2028</td>
-          </tr>
-          <tr>
-            <th>General IVD devices that have been upclassified to Class B IVD devices</th>
-            <td rowspan="2">31st December 2029</td>
-          </tr>
-          <tr>
-            <th>Class A devices placed on the market in a sterile condition</th>
-          </tr>
-        </tbody>
-      </table>
-      <p>Key points to note:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-02-24T08:18:07+00:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Beyond the Acronyms: Understanding SaMD and SiMD</title><link href="https://www.mantrasystems.co.uk/articles/understanding-samd-simd-beyond-the-acronyms" rel="alternate" type="text/html" title="Beyond the Acronyms: Understanding SaMD and SiMD" /><published>2025-02-24T00:00:00+00:00</published><updated>2025-02-23T22:20:47+00:00</updated><id>https://www.mantrasystems.co.uk/articles/understanding-samd-simd-beyond-the-acronyms</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/understanding-samd-simd-beyond-the-acronyms"><![CDATA[<p>The rapid evolution of medical technology has brought with it a host of innovative devices designed to enhance patient care, improve diagnostics, and streamline treatment processes.</p>
+      <p>As software advancements continue, the line between traditional hardware-centric medical devices and software-driven solutions becomes increasingly blurred. Enter the domains of Software in a Medical Device (SiMD), referring to software that is integral to the functioning of a physical medical device, and <a href="/solutions/regulatory-consulting-for-samd-software-as-a-medical-device">Software as a Medical Device (SaMD)</a>, which operates independently to perform medical functions. These two, while closely linked, serve as distinctive categories in the medical technology landscape.</p>
+      <h2 id="software-as-a-medical-device-samd">Software <em>as a</em> Medical Device (SaMD)</h2>
+      <p>Software as a medical device is defined by the <a href="https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-131209-samd-key-definitions-140901.pdf">International Medical Device Regulators Forum (IMDRF)</a> as:</p>
+      <blockquote>
+        <p>“<em>software intended to be used for one or more medical purposes that perform these purposes without being part of a hardware medical device.</em>”</p>
+      </blockquote>
+      <p>Although this definition offers guidance on what falls under the term SaMD, it’s possible there could still be confusion regarding what constitutes a SaMD product, as applications can integrate with hardware devices without being part of them.</p>
+      <p>Examples Include:</p>
       <ul>
-        <li>Notified Bodies are not required to change the date on the individual certificates</li>
-        <li>The above dates are subject to meeting the relevant conditions under EU IVDR Article 110(3c)</li>
-        <li>If your device is being placed on both the GB and NI markets, you should upload a single declaration confirming that the Article 110 extended CE certificate validity applies to both markets.</li>
+        <li>An app that calculates appropriate insulin dosage based on a person’s blood glucose levels.</li>
+        <li>Software that draws data from other digital devices to determine risk factors associated with epileptic seizures</li>
+        <li>Software that uses artificial intelligence to look at MRI images to identify anomalies missed by other diagnostic tools (like an electrocardiogram)</li>
       </ul>
-      <p>Unsure which IVDR classification applies to your product? <a href="/articles/understanding-risk-based-classification-of-in-vitro-medical-devices-under-eu-ivdr">Find out more about what the new classification system means for you</a>.</p>
-      <h2 id="extended-validity-in-the-uk">Extended validity in the UK</h2>
-      <p>The MHRA (Medicines and Healthcare products Regulatory Agency) <a href="https://www.gov.uk/government/publications/registration-of-in-vitro-diagnostic-devices-with-expiring-ce-certificates/registration-of-certain-in-vitro-diagnostic-devices">has issued new guidance on the impact of these new deadlines on the UK</a>.</p>
-      <h3 id="great-britain-gb--england-wales-and-scotland">Great Britain (GB) – England, Wales, and Scotland</h3>
-      <p>To support the safe supply of medical devices to GB and make the transition to the new regulatory framework smoother, the government has put in place legislation that extends the acceptance of CE-marked IVD devices. This means that CE-marked IVD devices, whether compliant with the EU IVDD or the EU IVDR, can continue to be placed on the GB market until the 30th June 2030 (or until the certificate expires).</p>
-      <p>This is great news because it allows certain devices to stay on the market longer. However, there’s a key limitation: general IVD devices that were previously not required to involve a Notified Body under the EU IVDD will only be allowed on the GB market if they are upclassified (meaning the involvement of a Notified Body is now required under the EU IVDR).</p>
-      <p>It’s also important to note that manufacturers won’t be able to use expired certificates, unless the EU has deemed them valid under specific conditions.</p>
-      <p>So, if you’re relying on an EU IVDD CE certificate with extended validity under Article 110 to place devices on the GB market, be sure to <a href="https://aic.mhra.gov.uk/era/drsystem.nsf/a508926735cb834f802576880054e0c3/0afbc51d01dee249802577f0003861bb">update the MHRA Device Online Registration System</a> as outlined in the guidance. The devices can stay on the market until the 30th June 2030 (or until the certificate expires).</p>
-      <h3 id="northern-ireland-ni">Northern Ireland (NI)</h3>
-      <p>The rules for placing IVD devices on the NI market are different from those for GB. Since 26th May 2022, the EU IVDR has applied in both EU Member States and Northern Ireland.</p>
-      <p>CE certificates with extended validity under the EU IVDR transitional arrangements (Article 110) can still be used to place devices on the NI market, as long as EU IVDD CE-marked medical devices are accepted.</p>
-      <p>For these devices to be valid on the <a href="https://www.gov.uk/guidance/medical-devices-eu-regulations-for-mdr-and-ivdr">NI market</a>, they must meet the conditions set out in Article 110(3c), including:</p>
+      <h2 id="software-in-a-medical-device-simd">Software <em>in a</em> Medical Device (SiMD)</h2>
+      <p>According to the US Food and Drug Administration (FDA), SiMD refers to software that is incorporated into a medical device to control its performance or provide specific functions. SiMD is also known as embedded software, firmware, or microcode. Unlike SaMD, SiMD can’t function independently, and is instead reliant on the associated medical hardware. Since the software contributes to the device’s intended purpose, any malfunction or failure could impact the safety and performance of the entire medical device.</p>
+      <p>Examples Include:</p>
       <ul>
-        <li>Continued compliance with Directive 98/79/EC</li>
-        <li>No significant changes to the design or intended purpose</li>
-        <li>No unacceptable risk to the health or safety of patients, users, or others, or to public health protection</li>
+        <li>Software embedded in a pacemaker, or defibrillator that monitors heart rhythm, calculates responses, and delivers electrical impulses</li>
+        <li>Software that powers infusion pumps, glucose meters, and smart pens</li>
+        <li>A mobile application that is the primary interface for reading continuous waveform data from an implanted or wearable EKG loop monitor</li>
       </ul>
-      <p>Additionally, there are some important steps you must follow:</p>
+      <h2 id="mdr-in-focus-how-it-applies-to-samd-and-simd">MDR in Focus: How it applies to SaMD and SiMD</h2>
+      <h3 id="samd">SaMD</h3>
+      <p>SaMD is classified under the MDR using a risk-based approach, aligning with its potential impact on patient health and safety. Risk classification is determined based on the level of risk posed to patients, similar to traditional medical devices. SaMD must undergo a conformity assessment in accordance with its risk classification. Higher-risk SaMD oftent require Notified Body (NB) involvement for certification, whereas lower-risk software (e.g., Class I) may only require self-certification.</p>
+      <p>SaMD classification follows MDR Annex VIII, Rule 11:</p>
       <ul>
-        <li>By 26th May 2025, you’ll need to provide evidence that you’ve implemented a quality management system in accordance with EU IVDR Article 10(8).</li>
-        <li>By 26th May 2025, you’ll also need to provide evidence that you or your authorised representative have made a formal application to a Notified Body.</li>
-        <li>By 26th September 2025, you must provide evidence that both the Notified Body and the manufacturer have signed a written agreement.</li>
+        <li><strong>Class I:</strong> Low-risk software, such as apps for general health tracking.</li>
+        <li><strong>Class IIa:</strong> Medium-risk software that supports decision-making for non-critical conditions.</li>
+        <li><strong>Class IIb:</strong> Higher-risk software, such as diagnostic tools that influence significant treatment decisions.</li>
+        <li><strong>Class III:</strong> High-risk software used in critical or life-threatening situations, such as applications for surgical planning or cancer treatment.</li>
       </ul>
-      <p>If you plan to rely on an EU IVDD CE certificate with extended validity under Article 110 for placing devices on the NI market, the MHRA encourages you to reflect this on the <a href="https://aic.mhra.gov.uk/era/drsystem.nsf/a508926735cb834f802576880054e0c3/0afbc51d01dee249802577f0003861bb">MHRA Device Online Registration System</a>.</p>
-      <h3 id="previously-expired-certificates">Previously expired certificates</h3>
-      <p>If you want to rely on a certificate that expired before 9th July 2024 but was still valid on 26th May 2022, you must upload a letter from the Notified Body. This letter should confirm that they’ve received the manufacturer’s application for conformity assessment and that a written agreement has been finalised.</p>
-      <p>Alternatively, you could upload a completed template instead of the letter, which should declare that the key conditions for extending the certificate under EU IVDR Article 110 have been met. These conditions include:</p>
-      <ul>
-        <li>A signed contract with the Notified Body that was in place before the certificate expired, or</li>
-        <li>If no contract existed at the time of expiry, confirmation that the manufacturer had received a derogation from conformity assessment procedures under Article 54(1) of the EU IVDR, or</li>
-        <li>Confirmation that they were allowed extra time to complete the conformity assessment as per Article 92(1) of the EU IVDR.</li>
-      </ul>
-      <h3 id="certificates-expiring-on-or-after-9th-july-2024">Certificates expiring on or after 9th July 2024</h3>
-      <p>If you intend to rely on a certificate that was valid on 26th May 2022 and has expired on or after 9th July 2024, you must upload a letter from the Notified Body confirming that they have received the manufacturer’s application for conformity assessment and that a written agreement has been finalised.</p>
-      <p>Alternatively, instead of the letter, you can upload a declaration stating that the certificate remains valid under <a href="https://eur-lex.europa.eu/eli/reg/2017/746/oj/eng">EU IVDR Article 110</a>.</p>
-      <h2 id="final-thoughts">Final thoughts</h2>
-      <p>Navigating the evolving landscape of IVDR compliance can be complex. These updated guidelines offer crucial clarity, streamlining the process and ensuring your devices maintain market access. From extended certificate validity to essential documentation, staying informed is key.</p>
-      <p>Following these guidelines will help ensure the ongoing safety, quality, and regulatory compliance of your IVD products. To successfully navigate the transition to IVDR, be sure to explore <a href="/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period">our latest article</a> for an in-depth guide on what steps you need to take.</p>
-      <p>Stay informed on the latest IVDR updates and their potential impact by subscribing to our newsletter below.</p>
-      ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[The EU and the MHRA have extended the validity of IVDD certificates, allowing you more time to transition to the IVDR. We explain what this means for manufacturers.]]></summary></entry><entry><title type="html">GSPR 1: A New Era of Performance with Safety at the Core</title><link href="https://www.mantrasystems.co.uk/articles/gspr-1-a-new-era-of-performance-with-patient-safety-at-the-core" rel="alternate" type="text/html" title="GSPR 1: A New Era of Performance with Safety at the Core" /><published>2025-02-17T00:00:00+00:00</published><updated>2025-02-13T18:39:33+00:00</updated><id>https://www.mantrasystems.co.uk/articles/gspr-1-a-new-era-of-performance-with-patient-safety-at-the-core</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/gspr-1-a-new-era-of-performance-with-patient-safety-at-the-core"><![CDATA[<p>In order to be effective and successful in patient care, the safety and performance of medical devices is paramount. The General Safety and Performance Requirements (GSPRs) are a key aspect of the <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745">Medical Device Regulation (MDR)</a> and <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0746"><em>In Vitro</em> Diagnostic Medical Device Regulation (IVDR)</a>, ensuring that medical devices in the European Union (EU) meet high standards of safety and performance. In our new GSPR series, we will take an in-depth look at each of the GSPRs, outlining the key requirements to ensure compliance.</p>
-    <p>The <a href="https://www.linkedin.com/posts/mantrasystems_medicaldevices-gspr-mdr-activity-7262434101956165632-TaAy">GSPRs</a> specify the essential requirements that medical devices must meet to be placed on the market, and they cover a wide range of topics including design and manufacturing, risk management, labelling, and instructions for use. Compliance with the GSPRs is mandatory, and failure to meet these requirements can result in serious consequences, such as product recalls, fines, or legal action.</p>
-    <p>In the first article of the GSPR series, we will be taking a look at GSPR 1:</p>
-    <!-- TODO: Markup properly -->
-    <blockquote>
-      <p>“<em>Devices shall achieve the performance intended by their manufacturer and shall be designed and manufactured in such a way that, during normal conditions of use, they are suitable for their intended purpose. They shall be safe and effective and shall not compromise the clinical condition or the safety of patients, or the safety and health of users or, where applicable, other persons, provided that any risks which may be associated with their use constitute acceptable risks when weighed against the benefits to the patient and are compatible with a high level of protection of health and safety, taking into account the generally acknowledged state of the art.</em>”</p>
-    </blockquote>
-    <h2 id="understanding-gspr1-the-basics">Understanding GSPR1: The Basics</h2>
-    <p>GSPR 1 is one of the foundational requirements under the <a href="/medical-device-regulatory-consulting-services/ivdr-consulting">IVDR</a>/<a href="/medical-device-regulatory-consulting-services/mdr-consulting">MDR</a>, to regulate the safety and efficacy of medical devices in the EU. It outlines a comprehensive approach to ensuring that medical devices are safe, effective, and of high quality. This specific requirement focuses on ensuring that the design and manufacturing of these devices must prioritise safety in a way that minimises risk to both patients and users.</p>
-    <p>The regulation mandates that manufacturers must design their devices with a comprehensive risk management process in place. This includes identifying potential risks and mitigating them through:</p>
+      <h3 id="simd">SiMD</h3>
+      <p>SiMD classification differs from SaMD and is typically evaluated within the regulatory framework of the overall medical device it accompanies. As a result, its risk classification is influenced by the combined risk of both the software and the device’s hardware. Consequently, SiMD must undergo a conformity assessment of the entire device. This means that even if the software alone is low risk, it must still meet the same regulatory scrutiny as the physical device, which may require NB involvement depending on the device classification.</p>
+      <p>Despite their differences, Both SaMD and SiMD require rigorous clinical evaluation, risk management, and post-market monitoring, but the MDR treats them distinctly based on how they are used in medical practice.</p>
+      <h2 id="unpacking-the-divide-samd-vs-simd">Unpacking the Divide: SaMD vs. SiMD</h2>
+      <p>Overall, there are a few differences in the safety and efficacy standards that apply to SaMD and SiMD. Compliance around <a href="https://www.iso.org/standard/38421.html">IEC 62304</a> (which outlines requirements for the safe design and maintenance of medical device software throughout its lifecycle), <a href="https://www.iso.org/standard/63179.html">IEC 62366</a> (which focuses on usability engineering to ensure medical devices are safe and effective for users), and <a href="https://www.mantrasystems.co.uk/enable-ce-mark/online-video-training-courses/risk-management">ISO 14971</a> (which provides a framework for identifying, evaluating, and mitigating risks associated with medical devices) are the same.</p>
+      <p>For example, both SaMD and SiMD must be classified according to IEC 62304 as far as class A, B, and C software where A is low-risk software and C is high-risk software. However, SiMD also has to meet additional requirements that concern hardware, and hardware and software integration. Compliance with these regulations ensures the safety and performance of the integrated software as part of the overall medical device.</p>
+      <h2 id="navigating-the-nuances-final-takeaways-on-samd-vs-simd">Navigating the Nuances: Final Takeaways on SaMD vs. SiMD</h2>
+      <p>The rise of <a href="https://www.linkedin.com/posts/mantrasystems_regulatory-consulting-for-software-as-a-medical-activity-7295456626759614464-z-AN">SaMD</a> and SiMD highlights a significant shift in healthcare toward more personalised, accessible, and data-driven care. It reflects the remarkable progress in integrating technology with health while underscoring the critical responsibility to ensure these innovations prioritise patient safety.</p>
+      <p>Ultimately, as we continue to explore the evolving landscape of SaMD and SiMD, understanding their complexities and distinctions is more important than ever. As the boundaries between software and medical devices become increasingly intertwined, our focus must remain steadfast on developing safe, effective, and forward-thinking solutions that enhance patient outcomes.</p>
+      ]]></content><author><name>kamiya-crabtree</name></author><category term="SaMD" /><category term="MDR" /><summary type="html"><![CDATA[As software advancements continue, the line between traditional hardware-centric medical devices and software-driven solutions becomes increasingly blurred.]]></summary></entry><entry><title type="html">Extending the Validity of your IVDD Certificates – Key Dates</title><link href="https://www.mantrasystems.co.uk/articles/extending-validity-of-ivdd-certficates-key-dates" rel="alternate" type="text/html" title="Extending the Validity of your IVDD Certificates – Key Dates" /><published>2025-02-19T00:00:00+00:00</published><updated>2025-02-19T09:50:36+00:00</updated><id>https://www.mantrasystems.co.uk/articles/extending-validity-of-ivdd-certficates-key-dates</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/extending-validity-of-ivdd-certficates-key-dates"><![CDATA[<p>The EU and the MHRA have extended the validity of IVDD certificates, allowing you more time to <a href="/medical-device-regulatory-consulting-services/ivdr-consulting">transition to the IVDR</a>. In this article, Kamiya Crabtree explains what this means for you.</p>
+    <p>Recently, <a href="https://health.ec.europa.eu/document/dfd7a1c6-f319-4682-9bac-77bef1165818_en">the EU has extended the validity of EU IVDD</a> (In Vitro Diagnostic Medical Device Directive) certificates and declarations. The EU has updated the timelines for IVD devices to align with the EU In Vitro Diagnostic Devices Regulation (2017/746) (EU IVDR). As a result, devices with EU IVDD certificates will now be allowed to remain on the EU market for a longer period of time.</p>
+    <p>Previously, IVDD CE certificates and declarations of conformity were set to expire on 26th May 2025. Under the updated transitional provisions, the validity of certain certificates and declarations has been extended as follows:</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Device classification</th>
+          <th>New deadline</th>
+          <th>Applies as long as…</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th>Annex II List A devices</th>
+          <td rowspan="4">31st December 2027</td>
+          <td rowspan="3">The CE certificate was issued after 25th May 2017 and was still valid on 26th May 2022.</td>
+        </tr>
+        <tr>
+          <th>Annex II List B devices</th>
+        </tr>
+        <tr>
+          <th>Self-test devices</th>
+        </tr>
+        <tr>
+          <th>General IVD devices that have been upclassified to Class D IVD devices</th>
+          <td rowspan="4">The declaration of conformity was drawn up before 26th May 2022.</td>
+        </tr>
+        <tr>
+          <th>General IVD devices that have been upclassified to Class C IVD devices</th>
+          <td>31st December 2028</td>
+        </tr>
+        <tr>
+          <th>General IVD devices that have been upclassified to Class B IVD devices</th>
+          <td rowspan="2">31st December 2029</td>
+        </tr>
+        <tr>
+          <th>Class A devices placed on the market in a sterile condition</th>
+        </tr>
+      </tbody>
+    </table>
+    <p>Key points to note:</p>
     <ul>
-      <li><strong>Design:</strong> The design phase involves developing the device in such a way that risks to patient safety and device performance are minimised. This could mean ensuring the device operates effectively under all intended conditions, incorporating fail-safes, or using ergonomic designs that reduce the likelihood of user error.</li>
-      <li><strong>Material selection:</strong> Choosing the right materials is crucial to ensure that the device is safe for its intended use. This includes considering factors such as biocompatibility, durability, and potential for allergic reactions or other adverse events.</li>
-      <li><strong>Testing before the device can be marketed or used on patients:</strong> Extensive testing is required before the device can be marketed. This involves testing to confirm that the device meets the required safety and performance standards. Testing helps to identify any potential issues that may not have been apparent during the design or material selection phases.</li>
+      <li>Notified Bodies are not required to change the date on the individual certificates</li>
+      <li>The above dates are subject to meeting the relevant conditions under EU IVDR Article 110(3c)</li>
+      <li>If your device is being placed on both the GB and NI markets, you should upload a single declaration confirming that the Article 110 extended CE certificate validity applies to both markets.</li>
     </ul>
-    <p>These safeguards are proposed to prevent harm in the short and long term.</p>
-    <h2 id="gspr1-core-principles-you-need-to-know">GSPR1: Core Principles You Need to Know</h2>
+    <p>Unsure which IVDR classification applies to your product? <a href="/articles/understanding-risk-based-classification-of-in-vitro-medical-devices-under-eu-ivdr">Find out more about what the new classification system means for you</a>.</p>
+    <h2 id="extended-validity-in-the-uk">Extended validity in the UK</h2>
+    <p>The MHRA (Medicines and Healthcare products Regulatory Agency) <a href="https://www.gov.uk/government/publications/registration-of-in-vitro-diagnostic-devices-with-expiring-ce-certificates/registration-of-certain-in-vitro-diagnostic-devices">has issued new guidance on the impact of these new deadlines on the UK</a>.</p>
+    <h3 id="great-britain-gb--england-wales-and-scotland">Great Britain (GB) – England, Wales, and Scotland</h3>
+    <p>To support the safe supply of medical devices to GB and make the transition to the new regulatory framework smoother, the government has put in place legislation that extends the acceptance of CE-marked IVD devices. This means that CE-marked IVD devices, whether compliant with the EU IVDD or the EU IVDR, can continue to be placed on the GB market until the 30th June 2030 (or until the certificate expires).</p>
+    <p>This is great news because it allows certain devices to stay on the market longer. However, there’s a key limitation: general IVD devices that were previously not required to involve a Notified Body under the EU IVDD will only be allowed on the GB market if they are upclassified (meaning the involvement of a Notified Body is now required under the EU IVDR).</p>
+    <p>It’s also important to note that manufacturers won’t be able to use expired certificates, unless the EU has deemed them valid under specific conditions.</p>
+    <p>So, if you’re relying on an EU IVDD CE certificate with extended validity under Article 110 to place devices on the GB market, be sure to <a href="https://aic.mhra.gov.uk/era/drsystem.nsf/a508926735cb834f802576880054e0c3/0afbc51d01dee249802577f0003861bb">update the MHRA Device Online Registration System</a> as outlined in the guidance. The devices can stay on the market until the 30th June 2030 (or until the certificate expires).</p>
+    <h3 id="northern-ireland-ni">Northern Ireland (NI)</h3>
+    <p>The rules for placing IVD devices on the NI market are different from those for GB. Since 26th May 2022, the EU IVDR has applied in both EU Member States and Northern Ireland.</p>
+    <p>CE certificates with extended validity under the EU IVDR transitional arrangements (Article 110) can still be used to place devices on the NI market, as long as EU IVDD CE-marked medical devices are accepted.</p>
+    <p>For these devices to be valid on the <a href="https://www.gov.uk/guidance/medical-devices-eu-regulations-for-mdr-and-ivdr">NI market</a>, they must meet the conditions set out in Article 110(3c), including:</p>
     <ul>
-      <li><strong><a href="/enable-ce-mark/online-video-training-courses/risk-management">Risk Management</a></strong> – A robust risk management system lies at the heart of GSPR 1. All possible hazards associated with the device, including any foreseeable misuse, need to be assessed by the manufacturer. These risk assessments must be done throughout the product’s lifetime, from design and development to production and use. One of the key aims is to ensure there is a minimal likelihood of harm, and if risks are identified, they are appropriately mitigated.</li>
-      <li><strong>Quality</strong> – GSPR 1 stresses that the design and manufacturing process should ensure that the device maintains its performance for the duration of its use. The conditions that it is subjected to during its intended use should be withstood by the device, and manufacturers are to ensure its durability.</li>
-      <li><strong>Biocompatibility</strong> – GSPR 1 mandates that the materials used in medical devices must be compatible with the human body, not causing any adverse reactions. Manufacturers must ensure that the material does not provoke harmful immune responses, toxicity, or irritation, regardless of whether the device will have direct or indirect contact with the patient. Biocompatibility testing is essential to verify that the materials used will not negatively affect patients. This is especially important for implantable devices or those that are used over extended periods.</li>
-      <li><strong>Design Considerations</strong> – The design of the device plays a pivotal role in preventing user error. GSPR 1 requires that devices are designed in a way that reduces the risk of incorrect use – whether that be considerations like intuitive user interfaces, clear instructions, or an ergonomic design.</li>
+      <li>Continued compliance with Directive 98/79/EC</li>
+      <li>No significant changes to the design or intended purpose</li>
+      <li>No unacceptable risk to the health or safety of patients, users, or others, or to public health protection</li>
     </ul>
-    <h2 id="why-gspr1-matters-key-reasons-for-compliance">Why GSPR1 Matters: Key Reasons for Compliance</h2>
-    <p>GSPR 1 serves as a cornerstone of patient and user safety. By ensuring that safety and performance are prioritised from the earliest stages of design and manufacturing, this regulation aims to prevent potential harm before it happens.</p>
-    <p>The requirement also fosters innovation in device design by encouraging manufacturers to continuously evaluate and enhance safety features. With an emphasis on risk management and continual improvement, GSPR 1 not only meets current needs but anticipates future challenges, allowing the medical device industry to respond effectively to evolving healthcare environments and patient needs.</p>
-    <h2 id="the-bottom-line-gspr-1s-impact-on-the-future">The Bottom Line: GSPR 1’s Impact on the Future</h2>
-    <p>GSPR 1 is fundamental within the MDR and IVDR and underscores the importance of designing and manufacturing devices that prioritise the safety and performance of both patients and users of the medical device. Through rigorous risk management, thought-out material selection, and user-centred design, GSPR 1 seeks to ensure that medical devices do not pose harm to those relying on them for care.</p>
-    <p>Ultimately, GSPR 1 represents a commitment by the medical device industry to uphold the highest standards of safety and quality, fostering trust in devices that are critical to patient health and wellbeing.</p>
-    <p>If you’re unsure whether you have the necessary evidence to demonstrate conformity with GSPR requirements, don’t worry – we’re here to help! Contact us today, and our team will provide expert guidance to ensure you’re fully compliant with all relevant GSPRs.</p>
-    <p><a href="/contact">Get in touch now</a> for personalised support and peace of mind!</p>
-    ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[This regulation emphasizes risk management, durable design & biocompatibility to ensure medical devices are safe and effective. GSPR 1 protects users while driving innovation in medical technology.]]></summary></entry><entry><title type="html">Cybersecurity Vulnerabilities in Medical Devices: FDA Alerts on Contec and Epsimed Monitors</title><link href="https://www.mantrasystems.co.uk/articles/fda-alerts-cybersecurity-vulnerablities-medical-devices-contec-epsimed-monitors" rel="alternate" type="text/html" title="Cybersecurity Vulnerabilities in Medical Devices: FDA Alerts on Contec and Epsimed Monitors" /><published>2025-02-14T00:00:00+00:00</published><updated>2025-02-13T19:42:15+00:00</updated><id>https://www.mantrasystems.co.uk/articles/fda-alerts-cybersecurity-vulnerablities-medical-devices-contec-epsimed-monitors</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/fda-alerts-cybersecurity-vulnerablities-medical-devices-contec-epsimed-monitors"><![CDATA[<p>The FDA recently <a href="https://www.fda.gov/medical-devices/safety-communications/cybersecurity-vulnerabilities-certain-patient-monitors-contec-and-epsimed-fda-safety-communication">issued a safety communication</a> to raise awareness of cybersecurity vulnerabilities in the Contec CMS8000 patient monitor and the Epsimed MN-120 patient monitor which may put patients at risk when connected to the internet.</p>
+    <p>Additionally, there are some important steps you must follow:</p>
+    <ul>
+      <li>By 26th May 2025, you’ll need to provide evidence that you’ve implemented a quality management system in accordance with EU IVDR Article 10(8).</li>
+      <li>By 26th May 2025, you’ll also need to provide evidence that you or your authorised representative have made a formal application to a Notified Body.</li>
+      <li>By 26th September 2025, you must provide evidence that both the Notified Body and the manufacturer have signed a written agreement.</li>
+    </ul>
+    <p>If you plan to rely on an EU IVDD CE certificate with extended validity under Article 110 for placing devices on the NI market, the MHRA encourages you to reflect this on the <a href="https://aic.mhra.gov.uk/era/drsystem.nsf/a508926735cb834f802576880054e0c3/0afbc51d01dee249802577f0003861bb">MHRA Device Online Registration System</a>.</p>
+    <h3 id="previously-expired-certificates">Previously expired certificates</h3>
+    <p>If you want to rely on a certificate that expired before 9th July 2024 but was still valid on 26th May 2022, you must upload a letter from the Notified Body. This letter should confirm that they’ve received the manufacturer’s application for conformity assessment and that a written agreement has been finalised.</p>
+    <p>Alternatively, you could upload a completed template instead of the letter, which should declare that the key conditions for extending the certificate under EU IVDR Article 110 have been met. These conditions include:</p>
+    <ul>
+      <li>A signed contract with the Notified Body that was in place before the certificate expired, or</li>
+      <li>If no contract existed at the time of expiry, confirmation that the manufacturer had received a derogation from conformity assessment procedures under Article 54(1) of the EU IVDR, or</li>
+      <li>Confirmation that they were allowed extra time to complete the conformity assessment as per Article 92(1) of the EU IVDR.</li>
+    </ul>
+    <h3 id="certificates-expiring-on-or-after-9th-july-2024">Certificates expiring on or after 9th July 2024</h3>
+    <p>If you intend to rely on a certificate that was valid on 26th May 2022 and has expired on or after 9th July 2024, you must upload a letter from the Notified Body confirming that they have received the manufacturer’s application for conformity assessment and that a written agreement has been finalised.</p>
+    <p>Alternatively, instead of the letter, you can upload a declaration stating that the certificate remains valid under <a href="https://eur-lex.europa.eu/eli/reg/2017/746/oj/eng">EU IVDR Article 110</a>.</p>
+    <h2 id="final-thoughts">Final thoughts</h2>
+    <p>Navigating the evolving landscape of IVDR compliance can be complex. These updated guidelines offer crucial clarity, streamlining the process and ensuring your devices maintain market access. From extended certificate validity to essential documentation, staying informed is key.</p>
+    <p>Following these guidelines will help ensure the ongoing safety, quality, and regulatory compliance of your IVD products. To successfully navigate the transition to IVDR, be sure to explore <a href="/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period">our latest article</a> for an in-depth guide on what steps you need to take.</p>
+    <p>Stay informed on the latest IVDR updates and their potential impact by subscribing to our newsletter below.</p>
+    ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[The EU and the MHRA have extended the validity of IVDD certificates, allowing you more time to transition to the IVDR. We explain what this means for manufacturers.]]></summary></entry><entry><title type="html">GSPR 1: A New Era of Performance with Safety at the Core</title><link href="https://www.mantrasystems.co.uk/articles/gspr-1-a-new-era-of-performance-with-patient-safety-at-the-core" rel="alternate" type="text/html" title="GSPR 1: A New Era of Performance with Safety at the Core" /><published>2025-02-17T00:00:00+00:00</published><updated>2025-02-13T18:39:33+00:00</updated><id>https://www.mantrasystems.co.uk/articles/gspr-1-a-new-era-of-performance-with-patient-safety-at-the-core</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/gspr-1-a-new-era-of-performance-with-patient-safety-at-the-core"><![CDATA[<p>In order to be effective and successful in patient care, the safety and performance of medical devices is paramount. The General Safety and Performance Requirements (GSPRs) are a key aspect of the <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745">Medical Device Regulation (MDR)</a> and <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0746"><em>In Vitro</em> Diagnostic Medical Device Regulation (IVDR)</a>, ensuring that medical devices in the European Union (EU) meet high standards of safety and performance. In our new GSPR series, we will take an in-depth look at each of the GSPRs, outlining the key requirements to ensure compliance.</p>
+  <p>The <a href="https://www.linkedin.com/posts/mantrasystems_medicaldevices-gspr-mdr-activity-7262434101956165632-TaAy">GSPRs</a> specify the essential requirements that medical devices must meet to be placed on the market, and they cover a wide range of topics including design and manufacturing, risk management, labelling, and instructions for use. Compliance with the GSPRs is mandatory, and failure to meet these requirements can result in serious consequences, such as product recalls, fines, or legal action.</p>
+  <p>In the first article of the GSPR series, we will be taking a look at GSPR 1:</p>
+  <!-- TODO: Markup properly -->
+  <blockquote>
+    <p>“<em>Devices shall achieve the performance intended by their manufacturer and shall be designed and manufactured in such a way that, during normal conditions of use, they are suitable for their intended purpose. They shall be safe and effective and shall not compromise the clinical condition or the safety of patients, or the safety and health of users or, where applicable, other persons, provided that any risks which may be associated with their use constitute acceptable risks when weighed against the benefits to the patient and are compatible with a high level of protection of health and safety, taking into account the generally acknowledged state of the art.</em>”</p>
+  </blockquote>
+  <h2 id="understanding-gspr1-the-basics">Understanding GSPR1: The Basics</h2>
+  <p>GSPR 1 is one of the foundational requirements under the <a href="/medical-device-regulatory-consulting-services/ivdr-consulting">IVDR</a>/<a href="/medical-device-regulatory-consulting-services/mdr-consulting">MDR</a>, to regulate the safety and efficacy of medical devices in the EU. It outlines a comprehensive approach to ensuring that medical devices are safe, effective, and of high quality. This specific requirement focuses on ensuring that the design and manufacturing of these devices must prioritise safety in a way that minimises risk to both patients and users.</p>
+  <p>The regulation mandates that manufacturers must design their devices with a comprehensive risk management process in place. This includes identifying potential risks and mitigating them through:</p>
+  <ul>
+    <li><strong>Design:</strong> The design phase involves developing the device in such a way that risks to patient safety and device performance are minimised. This could mean ensuring the device operates effectively under all intended conditions, incorporating fail-safes, or using ergonomic designs that reduce the likelihood of user error.</li>
+    <li><strong>Material selection:</strong> Choosing the right materials is crucial to ensure that the device is safe for its intended use. This includes considering factors such as biocompatibility, durability, and potential for allergic reactions or other adverse events.</li>
+    <li><strong>Testing before the device can be marketed or used on patients:</strong> Extensive testing is required before the device can be marketed. This involves testing to confirm that the device meets the required safety and performance standards. Testing helps to identify any potential issues that may not have been apparent during the design or material selection phases.</li>
+  </ul>
+  <p>These safeguards are proposed to prevent harm in the short and long term.</p>
+  <h2 id="gspr1-core-principles-you-need-to-know">GSPR1: Core Principles You Need to Know</h2>
+  <ul>
+    <li><strong><a href="/enable-ce-mark/online-video-training-courses/risk-management">Risk Management</a></strong> – A robust risk management system lies at the heart of GSPR 1. All possible hazards associated with the device, including any foreseeable misuse, need to be assessed by the manufacturer. These risk assessments must be done throughout the product’s lifetime, from design and development to production and use. One of the key aims is to ensure there is a minimal likelihood of harm, and if risks are identified, they are appropriately mitigated.</li>
+    <li><strong>Quality</strong> – GSPR 1 stresses that the design and manufacturing process should ensure that the device maintains its performance for the duration of its use. The conditions that it is subjected to during its intended use should be withstood by the device, and manufacturers are to ensure its durability.</li>
+    <li><strong>Biocompatibility</strong> – GSPR 1 mandates that the materials used in medical devices must be compatible with the human body, not causing any adverse reactions. Manufacturers must ensure that the material does not provoke harmful immune responses, toxicity, or irritation, regardless of whether the device will have direct or indirect contact with the patient. Biocompatibility testing is essential to verify that the materials used will not negatively affect patients. This is especially important for implantable devices or those that are used over extended periods.</li>
+    <li><strong>Design Considerations</strong> – The design of the device plays a pivotal role in preventing user error. GSPR 1 requires that devices are designed in a way that reduces the risk of incorrect use – whether that be considerations like intuitive user interfaces, clear instructions, or an ergonomic design.</li>
+  </ul>
+  <h2 id="why-gspr1-matters-key-reasons-for-compliance">Why GSPR1 Matters: Key Reasons for Compliance</h2>
+  <p>GSPR 1 serves as a cornerstone of patient and user safety. By ensuring that safety and performance are prioritised from the earliest stages of design and manufacturing, this regulation aims to prevent potential harm before it happens.</p>
+  <p>The requirement also fosters innovation in device design by encouraging manufacturers to continuously evaluate and enhance safety features. With an emphasis on risk management and continual improvement, GSPR 1 not only meets current needs but anticipates future challenges, allowing the medical device industry to respond effectively to evolving healthcare environments and patient needs.</p>
+  <h2 id="the-bottom-line-gspr-1s-impact-on-the-future">The Bottom Line: GSPR 1’s Impact on the Future</h2>
+  <p>GSPR 1 is fundamental within the MDR and IVDR and underscores the importance of designing and manufacturing devices that prioritise the safety and performance of both patients and users of the medical device. Through rigorous risk management, thought-out material selection, and user-centred design, GSPR 1 seeks to ensure that medical devices do not pose harm to those relying on them for care.</p>
+  <p>Ultimately, GSPR 1 represents a commitment by the medical device industry to uphold the highest standards of safety and quality, fostering trust in devices that are critical to patient health and wellbeing.</p>
+  <p>If you’re unsure whether you have the necessary evidence to demonstrate conformity with GSPR requirements, don’t worry – we’re here to help! Contact us today, and our team will provide expert guidance to ensure you’re fully compliant with all relevant GSPRs.</p>
+  <p><a href="/contact">Get in touch now</a> for personalised support and peace of mind!</p>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[This regulation emphasizes risk management, durable design & biocompatibility to ensure medical devices are safe and effective. GSPR 1 protects users while driving innovation in medical technology.]]></summary></entry><entry><title type="html">Cybersecurity Vulnerabilities in Medical Devices: FDA Alerts on Contec and Epsimed Monitors</title><link href="https://www.mantrasystems.co.uk/articles/fda-alerts-cybersecurity-vulnerablities-medical-devices-contec-epsimed-monitors" rel="alternate" type="text/html" title="Cybersecurity Vulnerabilities in Medical Devices: FDA Alerts on Contec and Epsimed Monitors" /><published>2025-02-14T00:00:00+00:00</published><updated>2025-02-13T19:42:15+00:00</updated><id>https://www.mantrasystems.co.uk/articles/fda-alerts-cybersecurity-vulnerablities-medical-devices-contec-epsimed-monitors</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/fda-alerts-cybersecurity-vulnerablities-medical-devices-contec-epsimed-monitors"><![CDATA[<p>The FDA recently <a href="https://www.fda.gov/medical-devices/safety-communications/cybersecurity-vulnerabilities-certain-patient-monitors-contec-and-epsimed-fda-safety-communication">issued a safety communication</a> to raise awareness of cybersecurity vulnerabilities in the Contec CMS8000 patient monitor and the Epsimed MN-120 patient monitor which may put patients at risk when connected to the internet.</p>
   <p>These vulnerabilities, which include a software backdoor, could compromise digital security and pose significant risks to patients when the devices are connected to the internet. As more medical devices become internet-connected, this development underscores the critical importance of robust cybersecurity measures in protecting patient safety and data.</p>
   <p>While the FDA’s warning highlights the risks, the <a href="https://eur-lex.europa.eu/eli/reg/2017/745/oj/eng">EU Medical Device Regulations (MDR)</a> and <a href="https://eur-lex.europa.eu/eli/reg/2017/746/oj/eng">In-Vitro Diagnostic Medical Device Regulation (IVDR)</a> introduced stricter safety requirements to address such challenges. These regulations apply to medical devices that incorporate electronic programmable systems and software, which are now classified as medical devices themselves. Manufacturers must design and manufacture devices in accordance with the state of the art by applying risk management principles, including information security. Additionally, the regulations establish minimum IT security requirements, including protection against unauthorised access.</p>
   <p>In this article we discuss cybersecurity requirements of the EU MDR and IVDR and summarise the Medical Device Coordination Group (MDCG) guidance document - <a href="https://health.ec.europa.eu/document/download/b23b362f-8a56-434c-922a-5b3ca4d0a7a1_en">MDCG 2019-16 Rev 1</a>: Guidance on Cybersecurity for medical devices.</p>
@@ -432,33 +473,4 @@
   <h2 id="conclusion">Conclusion</h2>
   <p>The UK’s Medical Devices (Post-market Surveillance Requirements) (Amendment) Regulations 2024 represent a significant step towards strengthening the PMS system for medical devices. By clarifying requirements, enhancing patient engagement, and focusing on proactive risk mitigation, these regulations aim to improve patient safety and ensure the continued effectiveness of medical devices in the UK market.</p>
   <p>If you need to speak to an expert to understand more about what this update might mean for you, <a href="/contact">contact us to arrange a free, no-obligation discussion</a>.</p>
-  ]]></content><author><name>ron-sangal</name></author><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[What might mandatory PMS plans - which emphasise enhanced patient engagement and proactive risk management - mean for the industry?]]></summary></entry><entry><title type="html">Understanding Clinical Evidence Requirements with MDCG 2020-6</title><link href="https://www.mantrasystems.co.uk/articles/understanding-clinical-evidence-requirements-mdcg-2020-6" rel="alternate" type="text/html" title="Understanding Clinical Evidence Requirements with MDCG 2020-6" /><published>2025-01-15T00:00:00+00:00</published><updated>2025-01-15T12:40:25+00:00</updated><id>https://www.mantrasystems.co.uk/articles/understanding-clinical-evidence-requirements-mdcg-2020-6</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/understanding-clinical-evidence-requirements-mdcg-2020-6"><![CDATA[<p>As legacy devices transition to compliance with the new Medical Device Regulation (MDR), manufacturers face the challenge of meeting updated clinical evidence requirements. <a href="https://ec.europa.eu/docsroom/documents/40904/">MDCG 2020-6 offers essential guidance</a> on how to assess and demonstrate sufficient clinical evidence to ensure legacy devices meet MDR General Safety and Performance Requirements (GSPRs).</p>
-  <h2 id="what-constitutes-a-legacy-device-and-what-are-the-clinical-evidence-requirements">What constitutes a ‘legacy device’ and what are the clinical evidence requirements?</h2>
-  <p>Legacy devices include all <a href="/articles/keeping-medical-devices-in-market-maintaining-ce-marks">devices previously CE marked</a> under the European Medical Devices Directive 93/42/EEC (MDD) or the <a href="https://single-market-economy.ec.europa.eu/single-market/european-standards/harmonised-standards/implantable-medical-devices_en">Active Implantable Medical Devices Directive 90/385/EEC (AIMDD)</a>.</p>
-  <p>The MDR states that for legacy devices “sufficient” clinical evidence is required to demonstrate conformity with the relevant General Safety and Performance Requirements (GSPRs).</p>
-  <p>MDCG 2020-6 offers guidance on demonstrating sufficient clinical evidence for legacy devices. It states that both MDD and MDR require the quantity and quality of clinical data to be sufficient to demonstrate safety, performance and the acceptability of the benefit-risk ratio: both the Directives and the MDR require clinical evidence to be robust and the conclusions derived from this evidence to be scientifically valid. The guidance also reports that “the level of clinical evidence required for the device under evaluation needs to be determined by the manufacturer and verified by the notified body. The level of clinical evidence shall be appropriate in view of the characteristics of the device and its intended purpose.”</p>
-  <h2 id="clinical-evaluation-for-legacy-devices">Clinical evaluation for legacy devices</h2>
-  <p>The clinical evaluation process under EU MDR 2017/745 requires clinical data to:</p>
-  <ul>
-    <li>Demonstrate conformity with the applicable GSPRs set out in MDR Annex I under the normal conditions of the intended use of the device</li>
-    <li>Assess undesirable side effects and the acceptability of the benefit-risk ratio.</li>
-  </ul>
-  <p>For legacy devices, <a href="/eu-mdr-compliance/clinical-evaluation">the MDR clinical evaluation process</a> relies on post-market clinical data and clinical data generated during conformity assessments under MDD/AIMDD. Devices previously CE marked under MDD/AIMDD are expected to have continuously collected evidence in line with evolving regulatory requirements and guidance. However, MDCG 2020-6 clarifies that clinical data from conformity assessments under the MDD may not necessarily provide sufficient clinical evidence to meet MDR requirements. Therefore, manufacturers should assess whether additional evidence is needed to comply with MDR standards.</p>
-  <p>Sections of the <a href="https://ec.europa.eu/docsroom/documents/17522/attachments/1/translations/">MEDDEV 2.7/1 rev. 4</a> that remain relevant under the MDR are listed in Appendix I of the document. Additionally, if clinical data from an equivalent device has been used, manufacturers must verify that these devices still meet the <a href="/articles/five-tips-for-making-a-medical-device-equivalence-claim-under-the-mdr">MDR’s equivalence criteria</a>.</p>
-  <p>During the transitional period, legacy devices are not exempt from the MDR’s additional requirements, including those related to Post-Market Surveillance (PMS) and <a href="/eu-mdr-compliance/post-market-clinical-follow-up-pmcf">Post-Market Clinical Follow-Up (PMCF)</a>.</p>
-  <h2 id="how-can-mdcg-2020-6-help-with-the-mdr-conformity-assessment">How can MDCG 2020-6 help with the MDR conformity assessment?</h2>
-  <p>MDCG 2020-6 provides guidance on establishing or updating a Clinical Evaluation Plan for legacy devices; the minimum content for the Clinical Evaluation Plan is described in Appendix II of the guidance document.</p>
-  <p>Guidance is also described for the identification of available clinical data including pre-market and post-market sources, appraisal of the clinical data with respect to the overall clinical evaluation, generation of new clinical data to bridge gaps and analysis of the clinical data to demonstrate conformity with relevant GSPRs.</p>
-  <p>A list of the suggested hierarchy of clinical evidence is documented in Appendix III of MDCG 2020-6, ranked from strongest to weakest level of evidence.</p>
-  <p>Listed as number 1 are “results of high-quality clinical investigations covering all device variants, indications, patient populations, duration of treatment etc”; however, it is acknowledged that clinical investigations may not be feasible or necessary for legacy devices with a wide range of indications.</p>
-  <h2 id="when-must-my-legacy-device-conform-to-the-updated-mdr-assessment">When must my legacy device conform to the updated MDR assessment?</h2>
-  <p>Under the timelines established by the MDR, the deadline for manufacturers to apply to a Notified Body for a conformity assessment and to have a compliant Quality Management System (QMS) in place was 26 May 2021. Additionally, manufacturers were required to have a formal, written agreement with the Notified Body by 26 September 2024.</p>
-  <p>Transition deadlines for legacy devices depend on their classification:</p>
-  <ul>
-    <li>For <strong>Class III custom-made implantable devices</strong>, the deadline for full MDR compliance is <strong>26 May 2026</strong>.</li>
-    <li>For <strong>Class III and Class IIb implantable devices that are non-WET (Well-Established Technologies)</strong>, the deadline for MDR compliance is <strong>31 December 2027</strong>.</li>
-    <li>For all other <strong>Class IIb, Class IIa, Class Is, and Class Im devices</strong>, the deadline for MDR compliance is <strong>31 December 2028</strong>.</li>
-  </ul>
-  <p>The recent release of MDCG 2021-25 Rev. 1 provides crucial insights into applying MDR requirements to ‘legacy’ and ‘old’ devices in light of the extended transitional period from MDD to MDR.</p>
-  <p><strong>If you need to speak to an expert to understand more about potential need for clinical evidence for a legacy device, <a href="/contact">contact us to arrange a free, no obligation discussion</a>.</strong></p>
-  ]]></content><author><name>clare-dixon</name></author><category term="MDR" /><category term="Clinical Evaluation" /><summary type="html"><![CDATA[How can manufacturers ensure legacy devices meet MDR's stringent requirements? Discover how MDCG 2020-6 guidance simplifies the path to compliance.]]></summary></entry></feed>
+  ]]></content><author><name>ron-sangal</name></author><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[What might mandatory PMS plans - which emphasise enhanced patient engagement and proactive risk management - mean for the industry?]]></summary></entry></feed>

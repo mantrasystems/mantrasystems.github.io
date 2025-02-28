@@ -1,190 +1,231 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-02-27T13:02:27+00:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Navigating Risk Management Requirements under the EU MDR</title><link href="https://www.mantrasystems.co.uk/articles/navigating-risk-management-requirements-under-eu-mdr" rel="alternate" type="text/html" title="Navigating Risk Management Requirements under the EU MDR" /><published>2025-02-26T00:00:00+00:00</published><updated>2025-02-26T10:59:18+00:00</updated><id>https://www.mantrasystems.co.uk/articles/navigating-risk-management-requirements-under-eu-mdr</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/navigating-risk-management-requirements-under-eu-mdr"><![CDATA[<p>Risk management is a cornerstone of EU MDR 2017/745, requiring a continuous, well-documented approach to ensure patient safety. This article unpacks the key requirements and provides actionable strategies for compliance.</p>
-      <p><a href="/eu-mdr-compliance/risk-management">Risk management</a> is a significant component of the <a href="https://eur-lex.europa.eu/eli/reg/2017/745/oj/eng">EU MDR 2017/745</a> and is vital to ensure the safety of patients and medical device users. A thorough approach to risk management activities is essential for medical device manufacturers to demonstrate conformity with the requirements of the EU MDR. In this article, we will explore the requirements placed on medical device manufacturers by the EU MDR and provide an overview on how to address them.</p>
-      <h2 id="what-are-the-requirements">What are the requirements?</h2>
-      <p>Article 10, point 2 of the EU MDR stipulates that manufacturers are required to establish, document, implement and maintain a system for risk management. It can therefore be clearly interpreted that risk management must be an ongoing process throughout the lifecycle of a device, rather than a ‘one-off’ exercise. A continuous approach to risk management is pivotal in ensuring compliance with regulatory complaints and, moreover, safeguarding patients and device users from avoidable harm.</p>
-      <p>A more detailed breakdown of risk management requirements can be found in Annex I, points 2-8 of the EU MDR. In summary, the points stipulate that manufacturers must:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-02-28T12:09:09+00:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">A Guide to Electronic Instructions for Use (eIFU)</title><link href="https://www.mantrasystems.co.uk/articles/a-guide-to-eifu-electronic-instructions-for-use" rel="alternate" type="text/html" title="A Guide to Electronic Instructions for Use (eIFU)" /><published>2025-02-28T00:00:00+00:00</published><updated>2025-02-28T12:08:35+00:00</updated><id>https://www.mantrasystems.co.uk/articles/a-guide-to-eifu-electronic-instructions-for-use</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/a-guide-to-eifu-electronic-instructions-for-use"><![CDATA[<p>Electronic Instructions for Use (eIFUs) are set to revolutionise how medical device instructions are delivered. A recent EU survey has paved the way for significant expansion, enabling more devices to move away from traditional paper IFUs. This article breaks down the key changes and what they mean for you.</p>
+      <p>The EU MDR establishes the general requirements for instructions for use (IFU). <a href="https://eur-lex.europa.eu/eli/reg_impl/2021/2226/oj/eng">Implementing Regulation (EU) 2021/2226</a> determines which devices can use Electronic Instructions for Use (eIFUs), and which must use physical IFUs. In this article, we will review its key information and how it affects the medical device industry and examine a new draft amendment to the legislation.</p>
+      <p>The legislation defines instructions for use in electronic form as “<em>instructions for use displayed in electronic form by the device, contained in portable storage media supplied by the manufacturer together with the device, or made available through a software or a website.</em>” Essentially, eIFUs are digital instructions, accessible via the device, storage media, software, or a website.</p>
+      <p>For a more detailed look at what needs to go in your IFU, <a href="https://www.linkedin.com/pulse/eu-mdr-requirements-writing-ifu-what-you-need-know-mantrasystems-1wpee/">check out our recent article</a> on the topic.</p>
+      <h2 id="which-devices-can-currently-have-an-eifu">Which devices can currently have an eIFU?</h2>
+      <p>While all manufacturers must provide an electronic copy of the IFU on their website, they may currently only be provided instead of paper for the following categories of devices:</p>
       <ul>
-        <li>Reduce risks as far as possible without negatively affecting the benefit/risk profile of a device.</li>
-        <li>Establish, document, implement and maintain a risk management system throughout the entire lifecycle of a device. This process includes:
-          <ul>
-            <li>Development of a risk management plan</li>
-            <li>Identification of known and foreseeable hazards associated with the device</li>
-            <li>Evaluation of risks associated with the device during intended and reasonably foreseeable misuse</li>
-            <li>Implementation of measures to control or eliminate identified risks</li>
-            <li>Incorporation of information gathered during device production and <a href="/eu-mdr-compliance/post-market-surveillance-pms">post-market surveillance (PMS)</a> regarding the frequency of identified risks</li>
-            <li>Implementation/amendment of risk control measures to address new risks, or risks with greater frequency than initially forecast, based on information obtained through PMS activities.</li>
-          </ul>
-        </li>
-        <li>Manage risks to an extent that the residual risk associated with each hazard, and the overall residual risk of a device, is acceptable.</li>
-        <li>Inform users of any residual risks</li>
-        <li>Reduce or eliminate risks relating to user error</li>
-        <li>Ensure that the safety of patients and device users is not affected by the impact of stresses and environmental factors on device performance under normal conditions of use throughout the lifetime of the device.</li>
-        <li>Design, manufacture and package devices in a manner that ensures their characteristics and performance are not affected during storage and transport.</li>
-        <li>Ensure that all foreseeable risks and undesirable side effects are reduced as far as possible and deemed acceptable when weighed against the benefit of a device to patients and users.</li>
+        <li>Implantable and active implantable devices and their accessories (e.g. pacemakers)</li>
+        <li>Fixed medical devices and their accessories (e.g. MRI scanner)</li>
+        <li>Medical devices and their accessories fitted with a built-in system for visually displaying the instructions for use (e.g. ultrasound equipment)</li>
+        <li>If a device fits into one of these groups, it must also be intended for use only by professional users and have undergone a comprehensive risk analysis as discussed below.</li>
       </ul>
-      <p>Annex I, point 9 refers to the requirement for devices without an intended medical purpose, as outlined in Annex XVI, to present no risk at all or a risk that is no greater than the maximum acceptable risk related to the device’s use. Interpretation of this statement would infer that, for devices without an intended medical purpose that remain governed by MDR, the level of acceptable risk is minimal. Devices falling under this bracket include:</p>
+      <h3 id="eifu-and-software-as-a-medical-device-samd">eIFU and Software as a Medical Device (SaMD)</h3>
+      <p>For SaMD covered by the MDR, eIFUs are permitted for devices intended for use by all user types, including lay persons. Manufacturers may provide eIFUs using the software itself instead of in paper form.</p>
+      <h2 id="why-was-the-amendment-introduced">Why was the amendment introduced?</h2>
+      <p>The Commission carried out a survey on replacing paper-based IFUs with eIFUs from 1st August to 10th October 2024. The survey results showed a clear preference among healthcare professionals for receiving IFUs electronically rather than on paper. They concluded that providing IFUs in electronic form helps the health sector deliver better and faster solutions.</p>
+      <p>The amendment proposes broadening the scope of application of IR (EU) 2021/2226 to “all medical devices and their accessories covered by the EU MDR <strong><em>that are intended for professional users</em></strong>”.</p>
+      <p>More significantly, the Commission are currently collecting feedback from stakeholders on the proposed amendment, so <a href="https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14470-Medical-devices-electronic-instructions-for-use_en">complete their survey</a> to have your say and make sure your voice is heard.</p>
+      <h2 id="risk-assessment-and-eifus">Risk assessment and eIFUs</h2>
+      <p>Devices utilising eIFUs must undergo the same comprehensive risk assessment as all devices under the EU MDR. IR 2021/22226 supplements this with additional areas which the risk assessment must cover:</p>
       <ul>
-        <li>Contact lenses and other products intended to be introduced onto or into the eye</li>
-        <li>Products intended to be totally or partially inserted into the body through surgically invasive means for modifying anatomy or the fixation of body parts, excluding tattooing products and piercings</li>
-        <li>Facial, dermal or mucous membrane fillers</li>
-        <li>Equipment for the destruction, reduction of removal of adipose tissue, such as those used in liposuction and lipolysis</li>
-        <li>Equipment emitting high-intensity electromagnetic radiation for use on the human body, such as lasers and pulsed light equipment used in skin resurfacing, tattoo or hair removal</li>
-        <li>Equipment intended to modify neuronal activity in the brain by applying electrical currents or magnetic or electromagnetic fields that penetrate the cranium</li>
+        <li>That the user has access, knowledge and experience of the hardware and software needed to display the instructions for use in electronic form.</li>
+        <li>Safeguards are needed to ensure that the electronic data and content are protected from tampering, and that backup mechanisms are in place in case of a hardware or software fault.</li>
+        <li>Foreseeable medical emergencies requiring the provision of information in paper form, and an evaluation of the period within which a paper IFU shall be provided upon request.</li>
+        <li>The impact caused by the temporary unavailability of the specific website or the internet in general.</li>
+        <li>Assessment of the website’s compatibility and usability, and its ability to display eIFUs of multiple different devices while minimising the risk of users looking at the wrong eIFU.</li>
+        <li>The management of different versions of the eIFU.</li>
       </ul>
-      <h2 id="how-do-we-meet-the-requirements">How do we meet the requirements?</h2>
-      <p>One approach to meeting the requirements for risk management is to align risk management procedures with <a href="https://www.linkedin.com/pulse/quick-guide-iso-14971-risk-management-mantrasystems-xwtne/">BS EN ISO 14971</a>, since the standard is aligned with the General Safety and Performance Requirements of the EU MDR.</p>
-      <p>BS EN ISO 14971 describes 6 distinct steps in the overall risk management process, as demonstrated below:</p>
-      <figure>
-        <img src="/assets/images/content/articles/inline/risk-management-processes.svg" alt="A diagram of a risk management process" loading="lazy" width="520" height="416" />
-        <figcaption>A risk management process</figcaption>
-      </figure>
-      <h2 id="risk-management-plan">Risk Management Plan</h2>
-      <p>It is essential that all activities conducted during risk management are planned and that this plan is documented. A robust risk management plan will describe the following:</p>
+      <p>Manufacturers can only proceed with an eIFU if this risk assessment demonstrates no decreased level of safety compared to a paper IFU.</p>
+      <h2 id="further-requirements-for-manufacturers">Further requirements for manufacturers</h2>
+      <p>If manufacturers provide only an eIFU, they must follow these obligations:</p>
       <ul>
-        <li>Assignment of responsibilities and authorities for risk management processes.</li>
-        <li>A roadmap for risk management activities to be conducted, based on the 6 defined process steps in BS EN ISO 14971.</li>
-        <li>A procedure for the identification and analysis of risks associated with the device throughout its lifetime.</li>
-        <li>Criteria for determination of risk acceptability.</li>
-        <li>A procedure for the identification and implementation of appropriate risk control measures.</li>
+        <li>They must have a system in place to provide a paper IFU at no additional cost to the user at the latest within 7 days of receiving a request from a user.</li>
+        <li>The existence of an eIFU must be indicated on the label.</li>
+        <li>eIFUs must be available on their website in any official language of the EU, as per the member state in which the device is used.</li>
+        <li>All historical eIFUs shall be available on their website.</li>
       </ul>
-      <p>A procedure for the evaluation of individual and overall residual risks following the implementation of risk control measures.</p>
-      <p>A process for the collection and review of production and post-production information.</p>
-      <h2 id="risk-assessment">Risk Assessment</h2>
-      <p>Risk assessment involves the analysis of risks by identifying all relevant hazards, hazardous situations and harms, and estimating the probability and severity of identified risks. In order to provide a framework for the identification of risks, it is beneficial to consider the following:</p>
-      <ul>
-        <li>Definition of intended use:
-          <ul>
-            <li>Intended medical indication and target medical condition</li>
-            <li>Target patient population
-              <ul>
-                <li>Demographics</li>
-                <li>Disease state and stage</li>
-              </ul>
-            </li>
-            <li>Part of body/type of tissue the device interacts with</li>
-            <li>Device user profile
-              <ul>
-                <li>Age</li>
-                <li>Medical professionals and/or laypersons</li>
-              </ul>
-            </li>
-            <li>Use environment</li>
-          </ul>
-        </li>
-        <li>Definition of reasonably foreseeable misuse:
-          <ul>
-            <li>Accidental use error</li>
-            <li>Use under the wrong conditions</li>
-            <li>Impact of intentional misuse</li>
-            <li>Use for non-intended clinical indications</li>
-          </ul>
-        </li>
-        <li>Characteristics related to safety</li>
-      </ul>
-      <p>A comprehensive list of hazards, hazardous situations and associated harms can be identified following the definition of intended use, reasonably foreseeable misuse and characteristics related to safety. According to the definitions in BS EN ISO 14971, a hazard cannot result in harm until a sequence of events or circumstances (including normal use and reasonably foreseeable misuse) leads to a hazardous situation. Each hazard (e.g. device size too small) can be associated with several hazardous situations (e.g. pressure of device against skin), each associated with several potential harms (e.g. skin abrasion). Once a risk has been followed through from hazard to harm, it can be assessed by estimating both severity and probability of occurrence of harm that could result. A pre-determined criteria of risk acceptability, as documented in the risk management plan, can then be applied based on the estimated risk probability and severity.</p>
-      <h2 id="risk-control">Risk control</h2>
-      <p>The application of appropriate risk control measures to reduce the probability and/or severity of each identified potential harm, regardless of initial evaluation of acceptability, is required. This process ensures that each identified risk has been reduced as far as possible, without negatively affecting the overall benefit-risk profile of the device.</p>
-      <p><a href="/enable-ce-mark/online-video-training-courses/risk-management">BS EN ISO 14971</a> sets out 3 broad risk control options for medical device manufacturers, in descending order of effectiveness, as described below:</p>
-      <ul>
-        <li>Elimination of risk through design of the device. Examples include:
-          <ul>
-            <li>Design without sharp edges</li>
-            <li>Make dangerous electrical equipment inaccessible</li>
-          </ul>
-        </li>
-        <li>Reduction of risk through the addition of protective measures in the medical device itself or in the manufacturing process. Examples include:
-          <ul>
-            <li>Alarms</li>
-            <li>Protective covers</li>
-          </ul>
-        </li>
-        <li>Reduction of risk through the provision of information for the safety of device users/operators. Examples include:
-          <ul>
-            <li>Warnings/precautions</li>
-            <li>Promotion of use of protective equipment</li>
-            <li>Instructions for use</li>
-          </ul>
-        </li>
-      </ul>
-      <h2 id="evaluation-of-residual-risk">Evaluation of Residual Risk</h2>
-      <p>Following the implementation of control measures to each identified risk, the probability and severity of each individual risk can be re-estimated, and the previously documented risk acceptability criteria re-applied to determine individual residual risks.</p>
-      <p>Risk management requirements under the EU MDR place an onus on manufacturers to also assess overall residual risk, whereby the acceptability of all residual risks taken together must be determined.  As is the case when determining the acceptability of individual risks, a pre-determined criteria of acceptability must be documented and followed when evaluating overall residual risk. The assessment of overall residual risk should consider the distribution of individual residual risks by acceptability category. For example, even in the absence of any unacceptable individual risks, if a significant proportion of individual risks are considered ‘borderline’ the overall residual risk associated with a device may be deemed unacceptable. If this is the case, manufacturers must implement additional risk control measures, consider modifying the device design and manufacturing process, or place restrictions on the intended use or users, before re-evaluating individual and overall residual risks.</p>
-      <p>Manufacturers are required to disclose any significant residual risks by providing relevant information in the device labelling and Instructions for Use documentation. The disclosure of residual risks should not be confused with information for safety, which forms part of the risk control process. The disclosure of residual risk does not in itself provide information which can reduce the probability or severity of a given risk, instead providing users with an overview of the risks associated with a device that remain after risk control measures have been implemented. Further guidance on the disclosure of residual risk, and information for safety, can be found in ISO/TR 24971.</p>
-      <h2 id="risk-management-review">Risk Management Review</h2>
-      <p>Once all the risk management activities described above have completed, manufacturers are required to conduct a risk management review. The review must assess whether all procedures in the Risk Management Plan were adhered to and a robust conclusion that the overall residual risk of the device is acceptable must be made. Finally, practices for the collection and assessment of production and post-production information relating to the risk of the device must be decided on and documented. The processes and conclusions of the risk management review must be documented in a Risk Management Report.</p>
-      <h2 id="production-and-post-production-activities">Production and Post-Production Activities</h2>
-      <p>BS EN ISO 14971 describes the requirement for manufacturers to implement, document and maintain a system to collect and analyse information relating to the safety of a medical device during its production and post-production phases.</p>
-      <p>The collection of relevant information should encompass feedback and data from a variety of sources, including:</p>
-      <ul>
-        <li>Information from the supply chain relating to production and distribution of the device.</li>
-        <li>Information gathered during the production process.</li>
-        <li>Information from those responsible for installation and maintenance of the device.</li>
-        <li>Information from users of the device.</li>
-        <li>Information relating to the device or similar devices which is publicly available.</li>
-        <li>Information regarding updates to the state of the art.</li>
-      </ul>
-      <p>When the relevant information has been collected, it must be subject to a formal review, with a focus on relevance of the information to the safety of the subject device. The review should identify the following:</p>
-      <ul>
-        <li>Any hazards or hazardous situations that were not addressed during initial risk management procedures.</li>
-        <li>Previously addressed hazardous situations which have become unacceptable due to the impact of collected information.</li>
-        <li>If the overall residual risk remains acceptable or is now unacceptable.</li>
-        <li>Updates to the acknowledged state of the art which may impact the safety profile of the device.</li>
-      </ul>
-      <p>Following a review of information gathered during production and post-production activities, manufacturers must determine whether any action is required. This process should include:</p>
-      <ul>
-        <li>Review of the risk management file and reassessment of previously identified risks for appropriateness of the estimated severity and probability.</li>
-        <li>Evaluation of new identified risks with a determination of risk acceptability, implementation of risk control measures and assessment of residual risk as previously carried out.</li>
-        <li>Reassessment of overall residual risk of the device.</li>
-        <li>Determination of whether actions related to already marketed devices, such as device recall, are required based on new information.</li>
-        <li>Evaluation of the impact of new information on previous risk management activities.</li>
-        <li>A determination of the suitability of risk management procedures by top management.</li>
-      </ul>
+      <p>The new draft amendment to the regulation also stipulates that eIFUs must be available through a persistently accessible URL, which the manufacturer shall provide to the UDI database.</p>
       <h2 id="conclusion">Conclusion</h2>
-      <p>The EU MDR places significant risk management requirements on manufacturers of all medical devices. In order to demonstrate compliance, a detailed, well-documented. procedure-driven approach to all aspects of risk management must be implemented. In addition, risk management procedures must be viewed as an ongoing process throughout the lifetime of a device, rather than a one-off exercise.</p>
-      <p>Though risk management compliance may seem daunting for manufacturers, embracing the requirements is an opportunity for manufacturers to support the safety of their device, and to utilise the data gathered to adopt a strong position in the market.</p>
-      <p>At Mantra Systems, we have a dedicated team of clinical and regulatory professionals ready to help you with all aspects of risk management for your medical device. Want to learn more? <a href="/contact">Why not book in a consultation with one of our experts today</a>?</p>
-      ]]></content><author><name>peter-boxall</name></author><category term="MDR" /><summary type="html"><![CDATA[This is a cornerstone of EU MDR 2017/745, requiring a continuous, well-documented approach. We unpack key requirements and provide actionable strategies.]]></summary></entry><entry><title type="html">Beyond the Acronyms: Understanding SaMD and SiMD</title><link href="https://www.mantrasystems.co.uk/articles/understanding-samd-simd-beyond-the-acronyms" rel="alternate" type="text/html" title="Beyond the Acronyms: Understanding SaMD and SiMD" /><published>2025-02-24T00:00:00+00:00</published><updated>2025-02-23T22:20:47+00:00</updated><id>https://www.mantrasystems.co.uk/articles/understanding-samd-simd-beyond-the-acronyms</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/understanding-samd-simd-beyond-the-acronyms"><![CDATA[<p>The rapid evolution of medical technology has brought with it a host of innovative devices designed to enhance patient care, improve diagnostics, and streamline treatment processes.</p>
-    <p>As software advancements continue, the line between traditional hardware-centric medical devices and software-driven solutions becomes increasingly blurred. Enter the domains of Software in a Medical Device (SiMD), referring to software that is integral to the functioning of a physical medical device, and <a href="/solutions/regulatory-consulting-for-samd-software-as-a-medical-device">Software as a Medical Device (SaMD)</a>, which operates independently to perform medical functions. These two, while closely linked, serve as distinctive categories in the medical technology landscape.</p>
-    <h2 id="software-as-a-medical-device-samd">Software <em>as a</em> Medical Device (SaMD)</h2>
-    <p>Software as a medical device is defined by the <a href="https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-131209-samd-key-definitions-140901.pdf">International Medical Device Regulators Forum (IMDRF)</a> as:</p>
-    <blockquote>
-      <p>“<em>software intended to be used for one or more medical purposes that perform these purposes without being part of a hardware medical device.</em>”</p>
-    </blockquote>
-    <p>Although this definition offers guidance on what falls under the term SaMD, it’s possible there could still be confusion regarding what constitutes a SaMD product, as applications can integrate with hardware devices without being part of them.</p>
-    <p>Examples Include:</p>
+      <p>eIFUs offer many benefits to both manufacturers and users. They are often easier to access, reduce physical IFU production costs, and can be updated far more quickly than paper IFUs. They are, however, limited by poor internet access and user interface design challenges.</p>
+      <p>The future of IFUs is digital, delivering cost savings, faster updates, and improved accessibility. Navigating the regulatory landscape can be challenging, but with Mantra Systems, you can move forward with confidence. <a href="/contact">Act now — partner with us</a> to ensure your eIFUs are compliant and your devices are approved without delay.</p>
+      ]]></content><author><name>ron-sangal</name></author><category term="MDR" /><summary type="html"><![CDATA[Electronic Instructions for Use (eIFUs) are set to revolutionise how medical device instructions are delivered. We explore what this means for you.]]></summary></entry><entry><title type="html">Navigating Risk Management Requirements under the EU MDR</title><link href="https://www.mantrasystems.co.uk/articles/navigating-risk-management-requirements-under-eu-mdr" rel="alternate" type="text/html" title="Navigating Risk Management Requirements under the EU MDR" /><published>2025-02-26T00:00:00+00:00</published><updated>2025-02-26T10:59:18+00:00</updated><id>https://www.mantrasystems.co.uk/articles/navigating-risk-management-requirements-under-eu-mdr</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/navigating-risk-management-requirements-under-eu-mdr"><![CDATA[<p>Risk management is a cornerstone of EU MDR 2017/745, requiring a continuous, well-documented approach to ensure patient safety. This article unpacks the key requirements and provides actionable strategies for compliance.</p>
+    <p><a href="/eu-mdr-compliance/risk-management">Risk management</a> is a significant component of the <a href="https://eur-lex.europa.eu/eli/reg/2017/745/oj/eng">EU MDR 2017/745</a> and is vital to ensure the safety of patients and medical device users. A thorough approach to risk management activities is essential for medical device manufacturers to demonstrate conformity with the requirements of the EU MDR. In this article, we will explore the requirements placed on medical device manufacturers by the EU MDR and provide an overview on how to address them.</p>
+    <h2 id="what-are-the-requirements">What are the requirements?</h2>
+    <p>Article 10, point 2 of the EU MDR stipulates that manufacturers are required to establish, document, implement and maintain a system for risk management. It can therefore be clearly interpreted that risk management must be an ongoing process throughout the lifecycle of a device, rather than a ‘one-off’ exercise. A continuous approach to risk management is pivotal in ensuring compliance with regulatory complaints and, moreover, safeguarding patients and device users from avoidable harm.</p>
+    <p>A more detailed breakdown of risk management requirements can be found in Annex I, points 2-8 of the EU MDR. In summary, the points stipulate that manufacturers must:</p>
     <ul>
-      <li>An app that calculates appropriate insulin dosage based on a person’s blood glucose levels.</li>
-      <li>Software that draws data from other digital devices to determine risk factors associated with epileptic seizures</li>
-      <li>Software that uses artificial intelligence to look at MRI images to identify anomalies missed by other diagnostic tools (like an electrocardiogram)</li>
+      <li>Reduce risks as far as possible without negatively affecting the benefit/risk profile of a device.</li>
+      <li>Establish, document, implement and maintain a risk management system throughout the entire lifecycle of a device. This process includes:
+        <ul>
+          <li>Development of a risk management plan</li>
+          <li>Identification of known and foreseeable hazards associated with the device</li>
+          <li>Evaluation of risks associated with the device during intended and reasonably foreseeable misuse</li>
+          <li>Implementation of measures to control or eliminate identified risks</li>
+          <li>Incorporation of information gathered during device production and <a href="/eu-mdr-compliance/post-market-surveillance-pms">post-market surveillance (PMS)</a> regarding the frequency of identified risks</li>
+          <li>Implementation/amendment of risk control measures to address new risks, or risks with greater frequency than initially forecast, based on information obtained through PMS activities.</li>
+        </ul>
+      </li>
+      <li>Manage risks to an extent that the residual risk associated with each hazard, and the overall residual risk of a device, is acceptable.</li>
+      <li>Inform users of any residual risks</li>
+      <li>Reduce or eliminate risks relating to user error</li>
+      <li>Ensure that the safety of patients and device users is not affected by the impact of stresses and environmental factors on device performance under normal conditions of use throughout the lifetime of the device.</li>
+      <li>Design, manufacture and package devices in a manner that ensures their characteristics and performance are not affected during storage and transport.</li>
+      <li>Ensure that all foreseeable risks and undesirable side effects are reduced as far as possible and deemed acceptable when weighed against the benefit of a device to patients and users.</li>
     </ul>
-    <h2 id="software-in-a-medical-device-simd">Software <em>in a</em> Medical Device (SiMD)</h2>
-    <p>According to the US Food and Drug Administration (FDA), SiMD refers to software that is incorporated into a medical device to control its performance or provide specific functions. SiMD is also known as embedded software, firmware, or microcode. Unlike SaMD, SiMD can’t function independently, and is instead reliant on the associated medical hardware. Since the software contributes to the device’s intended purpose, any malfunction or failure could impact the safety and performance of the entire medical device.</p>
-    <p>Examples Include:</p>
+    <p>Annex I, point 9 refers to the requirement for devices without an intended medical purpose, as outlined in Annex XVI, to present no risk at all or a risk that is no greater than the maximum acceptable risk related to the device’s use. Interpretation of this statement would infer that, for devices without an intended medical purpose that remain governed by MDR, the level of acceptable risk is minimal. Devices falling under this bracket include:</p>
     <ul>
-      <li>Software embedded in a pacemaker, or defibrillator that monitors heart rhythm, calculates responses, and delivers electrical impulses</li>
-      <li>Software that powers infusion pumps, glucose meters, and smart pens</li>
-      <li>A mobile application that is the primary interface for reading continuous waveform data from an implanted or wearable EKG loop monitor</li>
+      <li>Contact lenses and other products intended to be introduced onto or into the eye</li>
+      <li>Products intended to be totally or partially inserted into the body through surgically invasive means for modifying anatomy or the fixation of body parts, excluding tattooing products and piercings</li>
+      <li>Facial, dermal or mucous membrane fillers</li>
+      <li>Equipment for the destruction, reduction of removal of adipose tissue, such as those used in liposuction and lipolysis</li>
+      <li>Equipment emitting high-intensity electromagnetic radiation for use on the human body, such as lasers and pulsed light equipment used in skin resurfacing, tattoo or hair removal</li>
+      <li>Equipment intended to modify neuronal activity in the brain by applying electrical currents or magnetic or electromagnetic fields that penetrate the cranium</li>
     </ul>
-    <h2 id="mdr-in-focus-how-it-applies-to-samd-and-simd">MDR in Focus: How it applies to SaMD and SiMD</h2>
-    <h3 id="samd">SaMD</h3>
-    <p>SaMD is classified under the MDR using a risk-based approach, aligning with its potential impact on patient health and safety. Risk classification is determined based on the level of risk posed to patients, similar to traditional medical devices. SaMD must undergo a conformity assessment in accordance with its risk classification. Higher-risk SaMD oftent require Notified Body (NB) involvement for certification, whereas lower-risk software (e.g., Class I) may only require self-certification.</p>
-    <p>SaMD classification follows MDR Annex VIII, Rule 11:</p>
+    <h2 id="how-do-we-meet-the-requirements">How do we meet the requirements?</h2>
+    <p>One approach to meeting the requirements for risk management is to align risk management procedures with <a href="https://www.linkedin.com/pulse/quick-guide-iso-14971-risk-management-mantrasystems-xwtne/">BS EN ISO 14971</a>, since the standard is aligned with the General Safety and Performance Requirements of the EU MDR.</p>
+    <p>BS EN ISO 14971 describes 6 distinct steps in the overall risk management process, as demonstrated below:</p>
+    <figure>
+      <img src="/assets/images/content/articles/inline/risk-management-processes.svg" alt="A diagram of a risk management process" loading="lazy" width="520" height="416" />
+      <figcaption>A risk management process</figcaption>
+    </figure>
+    <h2 id="risk-management-plan">Risk Management Plan</h2>
+    <p>It is essential that all activities conducted during risk management are planned and that this plan is documented. A robust risk management plan will describe the following:</p>
     <ul>
-      <li><strong>Class I:</strong> Low-risk software, such as apps for general health tracking.</li>
-      <li><strong>Class IIa:</strong> Medium-risk software that supports decision-making for non-critical conditions.</li>
-      <li><strong>Class IIb:</strong> Higher-risk software, such as diagnostic tools that influence significant treatment decisions.</li>
-      <li><strong>Class III:</strong> High-risk software used in critical or life-threatening situations, such as applications for surgical planning or cancer treatment.</li>
+      <li>Assignment of responsibilities and authorities for risk management processes.</li>
+      <li>A roadmap for risk management activities to be conducted, based on the 6 defined process steps in BS EN ISO 14971.</li>
+      <li>A procedure for the identification and analysis of risks associated with the device throughout its lifetime.</li>
+      <li>Criteria for determination of risk acceptability.</li>
+      <li>A procedure for the identification and implementation of appropriate risk control measures.</li>
     </ul>
-    <h3 id="simd">SiMD</h3>
-    <p>SiMD classification differs from SaMD and is typically evaluated within the regulatory framework of the overall medical device it accompanies. As a result, its risk classification is influenced by the combined risk of both the software and the device’s hardware. Consequently, SiMD must undergo a conformity assessment of the entire device. This means that even if the software alone is low risk, it must still meet the same regulatory scrutiny as the physical device, which may require NB involvement depending on the device classification.</p>
-    <p>Despite their differences, Both SaMD and SiMD require rigorous clinical evaluation, risk management, and post-market monitoring, but the MDR treats them distinctly based on how they are used in medical practice.</p>
-    <h2 id="unpacking-the-divide-samd-vs-simd">Unpacking the Divide: SaMD vs. SiMD</h2>
-    <p>Overall, there are a few differences in the safety and efficacy standards that apply to SaMD and SiMD. Compliance around <a href="https://www.iso.org/standard/38421.html">IEC 62304</a> (which outlines requirements for the safe design and maintenance of medical device software throughout its lifecycle), <a href="https://www.iso.org/standard/63179.html">IEC 62366</a> (which focuses on usability engineering to ensure medical devices are safe and effective for users), and <a href="https://www.mantrasystems.co.uk/enable-ce-mark/online-video-training-courses/risk-management">ISO 14971</a> (which provides a framework for identifying, evaluating, and mitigating risks associated with medical devices) are the same.</p>
-    <p>For example, both SaMD and SiMD must be classified according to IEC 62304 as far as class A, B, and C software where A is low-risk software and C is high-risk software. However, SiMD also has to meet additional requirements that concern hardware, and hardware and software integration. Compliance with these regulations ensures the safety and performance of the integrated software as part of the overall medical device.</p>
-    <h2 id="navigating-the-nuances-final-takeaways-on-samd-vs-simd">Navigating the Nuances: Final Takeaways on SaMD vs. SiMD</h2>
-    <p>The rise of <a href="https://www.linkedin.com/posts/mantrasystems_regulatory-consulting-for-software-as-a-medical-activity-7295456626759614464-z-AN">SaMD</a> and SiMD highlights a significant shift in healthcare toward more personalised, accessible, and data-driven care. It reflects the remarkable progress in integrating technology with health while underscoring the critical responsibility to ensure these innovations prioritise patient safety.</p>
-    <p>Ultimately, as we continue to explore the evolving landscape of SaMD and SiMD, understanding their complexities and distinctions is more important than ever. As the boundaries between software and medical devices become increasingly intertwined, our focus must remain steadfast on developing safe, effective, and forward-thinking solutions that enhance patient outcomes.</p>
-    ]]></content><author><name>kamiya-crabtree</name></author><category term="SaMD" /><category term="MDR" /><summary type="html"><![CDATA[As software advancements continue, the line between traditional hardware-centric medical devices and software-driven solutions becomes increasingly blurred.]]></summary></entry><entry><title type="html">Extending the Validity of your IVDD Certificates – Key Dates</title><link href="https://www.mantrasystems.co.uk/articles/extending-validity-of-ivdd-certficates-key-dates" rel="alternate" type="text/html" title="Extending the Validity of your IVDD Certificates – Key Dates" /><published>2025-02-19T00:00:00+00:00</published><updated>2025-02-19T09:50:36+00:00</updated><id>https://www.mantrasystems.co.uk/articles/extending-validity-of-ivdd-certficates-key-dates</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/extending-validity-of-ivdd-certficates-key-dates"><![CDATA[<p>The EU and the MHRA have extended the validity of IVDD certificates, allowing you more time to <a href="/medical-device-regulatory-consulting-services/ivdr-consulting">transition to the IVDR</a>. In this article, Kamiya Crabtree explains what this means for you.</p>
+    <p>A procedure for the evaluation of individual and overall residual risks following the implementation of risk control measures.</p>
+    <p>A process for the collection and review of production and post-production information.</p>
+    <h2 id="risk-assessment">Risk Assessment</h2>
+    <p>Risk assessment involves the analysis of risks by identifying all relevant hazards, hazardous situations and harms, and estimating the probability and severity of identified risks. In order to provide a framework for the identification of risks, it is beneficial to consider the following:</p>
+    <ul>
+      <li>Definition of intended use:
+        <ul>
+          <li>Intended medical indication and target medical condition</li>
+          <li>Target patient population
+            <ul>
+              <li>Demographics</li>
+              <li>Disease state and stage</li>
+            </ul>
+          </li>
+          <li>Part of body/type of tissue the device interacts with</li>
+          <li>Device user profile
+            <ul>
+              <li>Age</li>
+              <li>Medical professionals and/or laypersons</li>
+            </ul>
+          </li>
+          <li>Use environment</li>
+        </ul>
+      </li>
+      <li>Definition of reasonably foreseeable misuse:
+        <ul>
+          <li>Accidental use error</li>
+          <li>Use under the wrong conditions</li>
+          <li>Impact of intentional misuse</li>
+          <li>Use for non-intended clinical indications</li>
+        </ul>
+      </li>
+      <li>Characteristics related to safety</li>
+    </ul>
+    <p>A comprehensive list of hazards, hazardous situations and associated harms can be identified following the definition of intended use, reasonably foreseeable misuse and characteristics related to safety. According to the definitions in BS EN ISO 14971, a hazard cannot result in harm until a sequence of events or circumstances (including normal use and reasonably foreseeable misuse) leads to a hazardous situation. Each hazard (e.g. device size too small) can be associated with several hazardous situations (e.g. pressure of device against skin), each associated with several potential harms (e.g. skin abrasion). Once a risk has been followed through from hazard to harm, it can be assessed by estimating both severity and probability of occurrence of harm that could result. A pre-determined criteria of risk acceptability, as documented in the risk management plan, can then be applied based on the estimated risk probability and severity.</p>
+    <h2 id="risk-control">Risk control</h2>
+    <p>The application of appropriate risk control measures to reduce the probability and/or severity of each identified potential harm, regardless of initial evaluation of acceptability, is required. This process ensures that each identified risk has been reduced as far as possible, without negatively affecting the overall benefit-risk profile of the device.</p>
+    <p><a href="/enable-ce-mark/online-video-training-courses/risk-management">BS EN ISO 14971</a> sets out 3 broad risk control options for medical device manufacturers, in descending order of effectiveness, as described below:</p>
+    <ul>
+      <li>Elimination of risk through design of the device. Examples include:
+        <ul>
+          <li>Design without sharp edges</li>
+          <li>Make dangerous electrical equipment inaccessible</li>
+        </ul>
+      </li>
+      <li>Reduction of risk through the addition of protective measures in the medical device itself or in the manufacturing process. Examples include:
+        <ul>
+          <li>Alarms</li>
+          <li>Protective covers</li>
+        </ul>
+      </li>
+      <li>Reduction of risk through the provision of information for the safety of device users/operators. Examples include:
+        <ul>
+          <li>Warnings/precautions</li>
+          <li>Promotion of use of protective equipment</li>
+          <li>Instructions for use</li>
+        </ul>
+      </li>
+    </ul>
+    <h2 id="evaluation-of-residual-risk">Evaluation of Residual Risk</h2>
+    <p>Following the implementation of control measures to each identified risk, the probability and severity of each individual risk can be re-estimated, and the previously documented risk acceptability criteria re-applied to determine individual residual risks.</p>
+    <p>Risk management requirements under the EU MDR place an onus on manufacturers to also assess overall residual risk, whereby the acceptability of all residual risks taken together must be determined.  As is the case when determining the acceptability of individual risks, a pre-determined criteria of acceptability must be documented and followed when evaluating overall residual risk. The assessment of overall residual risk should consider the distribution of individual residual risks by acceptability category. For example, even in the absence of any unacceptable individual risks, if a significant proportion of individual risks are considered ‘borderline’ the overall residual risk associated with a device may be deemed unacceptable. If this is the case, manufacturers must implement additional risk control measures, consider modifying the device design and manufacturing process, or place restrictions on the intended use or users, before re-evaluating individual and overall residual risks.</p>
+    <p>Manufacturers are required to disclose any significant residual risks by providing relevant information in the device labelling and Instructions for Use documentation. The disclosure of residual risks should not be confused with information for safety, which forms part of the risk control process. The disclosure of residual risk does not in itself provide information which can reduce the probability or severity of a given risk, instead providing users with an overview of the risks associated with a device that remain after risk control measures have been implemented. Further guidance on the disclosure of residual risk, and information for safety, can be found in ISO/TR 24971.</p>
+    <h2 id="risk-management-review">Risk Management Review</h2>
+    <p>Once all the risk management activities described above have completed, manufacturers are required to conduct a risk management review. The review must assess whether all procedures in the Risk Management Plan were adhered to and a robust conclusion that the overall residual risk of the device is acceptable must be made. Finally, practices for the collection and assessment of production and post-production information relating to the risk of the device must be decided on and documented. The processes and conclusions of the risk management review must be documented in a Risk Management Report.</p>
+    <h2 id="production-and-post-production-activities">Production and Post-Production Activities</h2>
+    <p>BS EN ISO 14971 describes the requirement for manufacturers to implement, document and maintain a system to collect and analyse information relating to the safety of a medical device during its production and post-production phases.</p>
+    <p>The collection of relevant information should encompass feedback and data from a variety of sources, including:</p>
+    <ul>
+      <li>Information from the supply chain relating to production and distribution of the device.</li>
+      <li>Information gathered during the production process.</li>
+      <li>Information from those responsible for installation and maintenance of the device.</li>
+      <li>Information from users of the device.</li>
+      <li>Information relating to the device or similar devices which is publicly available.</li>
+      <li>Information regarding updates to the state of the art.</li>
+    </ul>
+    <p>When the relevant information has been collected, it must be subject to a formal review, with a focus on relevance of the information to the safety of the subject device. The review should identify the following:</p>
+    <ul>
+      <li>Any hazards or hazardous situations that were not addressed during initial risk management procedures.</li>
+      <li>Previously addressed hazardous situations which have become unacceptable due to the impact of collected information.</li>
+      <li>If the overall residual risk remains acceptable or is now unacceptable.</li>
+      <li>Updates to the acknowledged state of the art which may impact the safety profile of the device.</li>
+    </ul>
+    <p>Following a review of information gathered during production and post-production activities, manufacturers must determine whether any action is required. This process should include:</p>
+    <ul>
+      <li>Review of the risk management file and reassessment of previously identified risks for appropriateness of the estimated severity and probability.</li>
+      <li>Evaluation of new identified risks with a determination of risk acceptability, implementation of risk control measures and assessment of residual risk as previously carried out.</li>
+      <li>Reassessment of overall residual risk of the device.</li>
+      <li>Determination of whether actions related to already marketed devices, such as device recall, are required based on new information.</li>
+      <li>Evaluation of the impact of new information on previous risk management activities.</li>
+      <li>A determination of the suitability of risk management procedures by top management.</li>
+    </ul>
+    <h2 id="conclusion">Conclusion</h2>
+    <p>The EU MDR places significant risk management requirements on manufacturers of all medical devices. In order to demonstrate compliance, a detailed, well-documented. procedure-driven approach to all aspects of risk management must be implemented. In addition, risk management procedures must be viewed as an ongoing process throughout the lifetime of a device, rather than a one-off exercise.</p>
+    <p>Though risk management compliance may seem daunting for manufacturers, embracing the requirements is an opportunity for manufacturers to support the safety of their device, and to utilise the data gathered to adopt a strong position in the market.</p>
+    <p>At Mantra Systems, we have a dedicated team of clinical and regulatory professionals ready to help you with all aspects of risk management for your medical device. Want to learn more? <a href="/contact">Why not book in a consultation with one of our experts today</a>?</p>
+    ]]></content><author><name>peter-boxall</name></author><category term="MDR" /><summary type="html"><![CDATA[This is a cornerstone of EU MDR 2017/745, requiring a continuous, well-documented approach. We unpack key requirements and provide actionable strategies.]]></summary></entry><entry><title type="html">Beyond the Acronyms: Understanding SaMD and SiMD</title><link href="https://www.mantrasystems.co.uk/articles/understanding-samd-simd-beyond-the-acronyms" rel="alternate" type="text/html" title="Beyond the Acronyms: Understanding SaMD and SiMD" /><published>2025-02-24T00:00:00+00:00</published><updated>2025-02-23T22:20:47+00:00</updated><id>https://www.mantrasystems.co.uk/articles/understanding-samd-simd-beyond-the-acronyms</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/understanding-samd-simd-beyond-the-acronyms"><![CDATA[<p>The rapid evolution of medical technology has brought with it a host of innovative devices designed to enhance patient care, improve diagnostics, and streamline treatment processes.</p>
+  <p>As software advancements continue, the line between traditional hardware-centric medical devices and software-driven solutions becomes increasingly blurred. Enter the domains of Software in a Medical Device (SiMD), referring to software that is integral to the functioning of a physical medical device, and <a href="/solutions/regulatory-consulting-for-samd-software-as-a-medical-device">Software as a Medical Device (SaMD)</a>, which operates independently to perform medical functions. These two, while closely linked, serve as distinctive categories in the medical technology landscape.</p>
+  <h2 id="software-as-a-medical-device-samd">Software <em>as a</em> Medical Device (SaMD)</h2>
+  <p>Software as a medical device is defined by the <a href="https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-131209-samd-key-definitions-140901.pdf">International Medical Device Regulators Forum (IMDRF)</a> as:</p>
+  <blockquote>
+    <p>“<em>software intended to be used for one or more medical purposes that perform these purposes without being part of a hardware medical device.</em>”</p>
+  </blockquote>
+  <p>Although this definition offers guidance on what falls under the term SaMD, it’s possible there could still be confusion regarding what constitutes a SaMD product, as applications can integrate with hardware devices without being part of them.</p>
+  <p>Examples Include:</p>
+  <ul>
+    <li>An app that calculates appropriate insulin dosage based on a person’s blood glucose levels.</li>
+    <li>Software that draws data from other digital devices to determine risk factors associated with epileptic seizures</li>
+    <li>Software that uses artificial intelligence to look at MRI images to identify anomalies missed by other diagnostic tools (like an electrocardiogram)</li>
+  </ul>
+  <h2 id="software-in-a-medical-device-simd">Software <em>in a</em> Medical Device (SiMD)</h2>
+  <p>According to the US Food and Drug Administration (FDA), SiMD refers to software that is incorporated into a medical device to control its performance or provide specific functions. SiMD is also known as embedded software, firmware, or microcode. Unlike SaMD, SiMD can’t function independently, and is instead reliant on the associated medical hardware. Since the software contributes to the device’s intended purpose, any malfunction or failure could impact the safety and performance of the entire medical device.</p>
+  <p>Examples Include:</p>
+  <ul>
+    <li>Software embedded in a pacemaker, or defibrillator that monitors heart rhythm, calculates responses, and delivers electrical impulses</li>
+    <li>Software that powers infusion pumps, glucose meters, and smart pens</li>
+    <li>A mobile application that is the primary interface for reading continuous waveform data from an implanted or wearable EKG loop monitor</li>
+  </ul>
+  <h2 id="mdr-in-focus-how-it-applies-to-samd-and-simd">MDR in Focus: How it applies to SaMD and SiMD</h2>
+  <h3 id="samd">SaMD</h3>
+  <p>SaMD is classified under the MDR using a risk-based approach, aligning with its potential impact on patient health and safety. Risk classification is determined based on the level of risk posed to patients, similar to traditional medical devices. SaMD must undergo a conformity assessment in accordance with its risk classification. Higher-risk SaMD oftent require Notified Body (NB) involvement for certification, whereas lower-risk software (e.g., Class I) may only require self-certification.</p>
+  <p>SaMD classification follows MDR Annex VIII, Rule 11:</p>
+  <ul>
+    <li><strong>Class I:</strong> Low-risk software, such as apps for general health tracking.</li>
+    <li><strong>Class IIa:</strong> Medium-risk software that supports decision-making for non-critical conditions.</li>
+    <li><strong>Class IIb:</strong> Higher-risk software, such as diagnostic tools that influence significant treatment decisions.</li>
+    <li><strong>Class III:</strong> High-risk software used in critical or life-threatening situations, such as applications for surgical planning or cancer treatment.</li>
+  </ul>
+  <h3 id="simd">SiMD</h3>
+  <p>SiMD classification differs from SaMD and is typically evaluated within the regulatory framework of the overall medical device it accompanies. As a result, its risk classification is influenced by the combined risk of both the software and the device’s hardware. Consequently, SiMD must undergo a conformity assessment of the entire device. This means that even if the software alone is low risk, it must still meet the same regulatory scrutiny as the physical device, which may require NB involvement depending on the device classification.</p>
+  <p>Despite their differences, Both SaMD and SiMD require rigorous clinical evaluation, risk management, and post-market monitoring, but the MDR treats them distinctly based on how they are used in medical practice.</p>
+  <h2 id="unpacking-the-divide-samd-vs-simd">Unpacking the Divide: SaMD vs. SiMD</h2>
+  <p>Overall, there are a few differences in the safety and efficacy standards that apply to SaMD and SiMD. Compliance around <a href="https://www.iso.org/standard/38421.html">IEC 62304</a> (which outlines requirements for the safe design and maintenance of medical device software throughout its lifecycle), <a href="https://www.iso.org/standard/63179.html">IEC 62366</a> (which focuses on usability engineering to ensure medical devices are safe and effective for users), and <a href="https://www.mantrasystems.co.uk/enable-ce-mark/online-video-training-courses/risk-management">ISO 14971</a> (which provides a framework for identifying, evaluating, and mitigating risks associated with medical devices) are the same.</p>
+  <p>For example, both SaMD and SiMD must be classified according to IEC 62304 as far as class A, B, and C software where A is low-risk software and C is high-risk software. However, SiMD also has to meet additional requirements that concern hardware, and hardware and software integration. Compliance with these regulations ensures the safety and performance of the integrated software as part of the overall medical device.</p>
+  <h2 id="navigating-the-nuances-final-takeaways-on-samd-vs-simd">Navigating the Nuances: Final Takeaways on SaMD vs. SiMD</h2>
+  <p>The rise of <a href="https://www.linkedin.com/posts/mantrasystems_regulatory-consulting-for-software-as-a-medical-activity-7295456626759614464-z-AN">SaMD</a> and SiMD highlights a significant shift in healthcare toward more personalised, accessible, and data-driven care. It reflects the remarkable progress in integrating technology with health while underscoring the critical responsibility to ensure these innovations prioritise patient safety.</p>
+  <p>Ultimately, as we continue to explore the evolving landscape of SaMD and SiMD, understanding their complexities and distinctions is more important than ever. As the boundaries between software and medical devices become increasingly intertwined, our focus must remain steadfast on developing safe, effective, and forward-thinking solutions that enhance patient outcomes.</p>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="SaMD" /><category term="MDR" /><summary type="html"><![CDATA[As software advancements continue, the line between traditional hardware-centric medical devices and software-driven solutions becomes increasingly blurred.]]></summary></entry><entry><title type="html">Extending the Validity of your IVDD Certificates – Key Dates</title><link href="https://www.mantrasystems.co.uk/articles/extending-validity-of-ivdd-certficates-key-dates" rel="alternate" type="text/html" title="Extending the Validity of your IVDD Certificates – Key Dates" /><published>2025-02-19T00:00:00+00:00</published><updated>2025-02-19T09:50:36+00:00</updated><id>https://www.mantrasystems.co.uk/articles/extending-validity-of-ivdd-certficates-key-dates</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/extending-validity-of-ivdd-certficates-key-dates"><![CDATA[<p>The EU and the MHRA have extended the validity of IVDD certificates, allowing you more time to <a href="/medical-device-regulatory-consulting-services/ivdr-consulting">transition to the IVDR</a>. In this article, Kamiya Crabtree explains what this means for you.</p>
   <p>Recently, <a href="https://health.ec.europa.eu/document/dfd7a1c6-f319-4682-9bac-77bef1165818_en">the EU has extended the validity of EU IVDD</a> (In Vitro Diagnostic Medical Device Directive) certificates and declarations. The EU has updated the timelines for IVD devices to align with the EU In Vitro Diagnostic Devices Regulation (2017/746) (EU IVDR). As a result, devices with EU IVDD certificates will now be allowed to remain on the EU market for a longer period of time.</p>
   <p>Previously, IVDD CE certificates and declarations of conformity were set to expire on 26th May 2025. Under the updated transitional provisions, the validity of certain certificates and declarations has been extended as follows:</p>
   <table>
@@ -526,49 +567,4 @@
   <h2 id="conclusion">Conclusion</h2>
   <p>The MDCG have provided valuable guidance for medical device manufacturers navigating the EMDN system. By understanding and implementing these guidelines, manufacturers can ensure accurate device classification, maintain regulatory compliance, and contribute to a transparent and well-functioning medical device market.</p>
   <p>Navigating the complexities of EMDN and EUDAMED can be challenging. Partnering with Mantra Systems allows you to focus on your core business while we handle the intricacies of EMDN compliance. <a href="/contact">Book a free, no-obligation chat with one of our regulatory experts</a> to see how we can help.</p>
-  ]]></content><author><name>ron-sangal</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[Release of the updated guidance helps manufacturers navigate the EMDN system for accurate device classification, ensuring market access.]]></summary></entry><entry><title type="html">From IVDD to IVDR: Ensuring Compliance During the Transitional Period</title><link href="https://www.mantrasystems.co.uk/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period" rel="alternate" type="text/html" title="From IVDD to IVDR: Ensuring Compliance During the Transitional Period" /><published>2025-01-28T00:00:00+00:00</published><updated>2025-01-29T09:49:41+00:00</updated><id>https://www.mantrasystems.co.uk/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period"><![CDATA[<p>The European Union <a href="https://eur-lex.europa.eu/eli/reg/2017/746/oj/eng">In Vitro Diagnostic Regulation (EU IVDR 2017/746)</a> has transformed the medical device industry. Replacing the In Vitro Diagnostic Directive (IVDD 98/79/EC), <a href="/medical-device-regulatory-consulting-services/ivdr-consulting">the IVDR</a> establishes more rigorous standards to enhance the safety, performance, and quality of in vitro diagnostic medical devices (IVDs).</p>
-  <p>However, the transition from IVDD to IVDR can be complex and manufacturers of legacy devices must navigate a range of considerations to ensure compliance while adapting to the new regulatory landscape.</p>
-  <h2 id="maintaining-regulatory-compliance-during-the-ivdd-to-ivdr-transition">Maintaining Regulatory Compliance During the IVDD-to-IVDR Transition</h2>
-  <p>To facilitate a smooth transition, IVDD-compliant legacy devices may continue to be placed on the market until the following deadlines:</p>
-  <ul>
-    <li><strong>Class D devices:</strong> Compliance required by <strong>31 December 2027</strong>.</li>
-    <li><strong>Class C devices:</strong> Compliance required by <strong>31 December 2028</strong>.</li>
-    <li><strong>Class B and Class A sterile devices:</strong> Compliance required by <strong>31 December 2029</strong>.</li>
-  </ul>
-  <p>These <a href="https://health.ec.europa.eu/document/dfd7a1c6-f319-4682-9bac-77bef1165818_en">extended timelines</a> aim to provide manufacturers with the opportunity to adjust to the IVDR. However, continuing to market legacy devices during this period is conditional upon strict adherence to specific requirements.</p>
-  <h2 id="conditions-for-placing-ivdd-compliant-devices-on-the-market">Conditions for Placing IVDD-Compliant Devices on the Market</h2>
-  <p>Legacy devices may remain on the market during the transition period only if the following conditions are met:</p>
-  <ol>
-    <li>The device must remain fully compliant with the IVDD.</li>
-    <li>There are no significant changes to device design or intended purpose.</li>
-    <li>The device does not present an unacceptable risk to patient or user health and safety, nor to public health.</li>
-    <li>By <strong>26 May 2025</strong>, the manufacturer must have implemented a Quality Management System (QMS) in accordance with Article 10(8) of the IVDR.</li>
-    <li>A formal application must have been lodged with a notified body (as per section 4.3, Annex VII) for conformity assessment no later than the 26 May 2025 for Class D devices, <strong>26 May 2026</strong> for Class C devices, and 26 May 2027 for Class B and Class A sterile devices.</li>
-    <li>The manufacturer must have written agreement with the Notified Body by <strong>26 September 2025</strong> for Class D devices, <strong>26 September 2026</strong> for Class C devices, and <strong>26 September 2027</strong> for Class B and Class A sterile devices.</li>
-  </ol>
-  <p>Failure to meet these conditions will negate compliance under transitional provisions.</p>
-  <h2 id="implementing-an-ivdr-compliant-qms">Implementing an IVDR-Compliant QMS</h2>
-  <p>Having an IVDR complaint QMS in place is not just about meeting regulatory requirements; it is a proactive strategy to ensure the continuous safety and performance of an IVD in a competitive market. To meet IVDR requirements, the QMS must include the following elements:</p>
-  <ul>
-    <li>A strategy for regulatory compliance, including management of modifications to devices.</li>
-    <li>Identification of safety and performance requirements and strategies to address them.</li>
-    <li>Clear management responsibility and accountability.</li>
-    <li>Resource management, including oversight of suppliers and subcontractors.</li>
-    <li>Comprehensive risk management in line with Annex I, Section 3.</li>
-    <li>Performance evaluation, including Post-Market Performance Follow-up (PMPF) per Article 56 and Annex XIII.</li>
-    <li>Processes for product realisation, from design and development to production and service.</li>
-    <li>Verification of <strong>Unique Device Identifier (UDI)</strong> assignments and consistent device information management under Articles 24(3) and 26.</li>
-    <li>A robust <strong>Post-Market Surveillance (PMS)</strong> system, as outlined in Article 78.</li>
-    <li>Effective communication with stakeholders, including authorities, notified bodies, and customers.</li>
-    <li>Processes for reporting serious incidents and implementing corrective and preventive actions (CAPA).</li>
-    <li>Monitoring, measurement, and continuous product improvement.</li>
-  </ul>
-  <h2 id="an-ivdr-compliant-qms-for-legacy-devices">An IVDR-Compliant QMS for Legacy Devices</h2>
-  <p>Manufacturers must ensure their QMS is aligned with IVDR regulatory requirements. However, for certain aspects outlined in Article 10(8), such as points (b), (e), and (f), a distinction must be made for “legacy devices”. For these devices, manufacturers are not required to have identified all relevant safety and performance requirements, implemented comprehensive risk management, or conducted a full performance evaluation. However, it is important to note that from the 26 May 2025, manufacturers must ensure that their QMS addresses how compliance with these requirements will be achieved for legacy devices, ensuring full alignment with IVDR standards.</p>
-  <p>Manufacturers have a few strategic options for updating to an IVDR-compliant QMS. One approach is to establish a parallel QMS. This approach enables clear reference to the appropriate procedures and highlights the transition to the new system. For companies with complex, long-standing QMS, it offers the chance to streamline and enhance efficiency. However, this approach demands considerable effort to develop and eventually replace the old procedures.</p>
-  <p>Alternatively, companies whose existing QMS already aligns closely with the new IVDR requirements might prefer to update their current system. While this option can be more efficient, it may present challenges in ensuring that certain QMS elements are applied consistently across all products.</p>
-  <p>Despite the chosen approach, documenting the transition is critical, clearly defining which procedures apply, when they take effect, and which products they impact. This can be done either within the procedures themselves or through a separate project plan. In addition, comprehensive training is key to ensuring everyone involved understands and implements the new requirements effectively.</p>
-  <h2 id="the-time-to-act-is-now">The Time to Act Is Now</h2>
-  <p>As the transition deadlines approach, manufacturers of legacy IVDs need to act swiftly to remain competitive and compliant in the evolving European market. The IVDR represents a major overhaul of IVD regulation in the EU, but it aims to ensure medical devices are safer, more effective, and of higher quality. Manufacturers who embrace these changes and take proactive steps to comply will be better positioned to navigate the evolving regulatory environment, ensuring continued market access and patient safety.</p>
-  <p>Struggling with your IVDD to IVDR transition? Mantra Systems is here to help! Our expertise can guide you through the complexities of achieving IVDR compliance and ensure your QMS is up to date with the latest regulatory requirements. <a href="/contact">Contact us today</a>.</p>
-  ]]></content><author><name>shona-richardson</name></author><category term="IVDR" /><summary type="html"><![CDATA[Legacy device manufacturers need to manage challenging timelines as well as address transitional provisions and update QMS.]]></summary></entry></feed>
+  ]]></content><author><name>ron-sangal</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[Release of the updated guidance helps manufacturers navigate the EMDN system for accurate device classification, ensuring market access.]]></summary></entry></feed>

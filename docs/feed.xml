@@ -1,186 +1,220 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-03-21T10:00:46+00:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Labelling 101: A Comprehensive Overview for Medical Device Manufacturers</title><link href="https://www.mantrasystems.co.uk/articles/labelling-101-a-comprehensive-overview-form-medical-device-manufacturers" rel="alternate" type="text/html" title="Labelling 101: A Comprehensive Overview for Medical Device Manufacturers" /><published>2025-03-21T00:00:00+00:00</published><updated>2025-03-20T21:40:34+00:00</updated><id>https://www.mantrasystems.co.uk/articles/labelling-101-a-comprehensive-overview-form-medical-device-manufacturers</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/labelling-101-a-comprehensive-overview-form-medical-device-manufacturers"><![CDATA[<p>Labelling is a crucial aspect of medical device compliance, ensuring that essential information is effectively communicated to users. Labelling includes written, printed, or graphic details on the device itself, its packaging, or accompanying materials such as Instructions for Use (IFU). Regulatory bodies require manufacturers to provide clear and accurate labelling to enhance patient safety, facilitate proper usage, and comply with international standards.</p>
-      <h2 id="medical-device-labelling-standard-iso-15223-12021">Medical Device Labelling Standard: ISO 15223-1:2021</h2>
-      <p><a href="https://www.iso.org/standard/77326.html">ISO 15223-1</a> sets out requirements for symbols used in medical device labelling to communicate information about the safe and effective use of devices. The latest version, ISO 15223-1:2021, includes additional symbols to comply with the requirements of <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32017R0745">EU MDR 2017/745</a>.</p>
-      <p>According to the ISO 15223-1 standard, medical device labelling symbols are organised into seven categories:</p>
-      <ul>
-        <li><strong>Manufacturing:</strong> Symbols related to the manufacturing process of the device.</li>
-        <li><strong>Storage:</strong> Symbols indicating specific storage conditions for the device.</li>
-        <li><strong>Safe use:</strong> Symbols providing information on the safe and proper use of the device.</li>
-        <li><strong>Sterility:</strong> Symbols indicating the sterile condition of the device or instructions related to sterility.</li>
-        <li><strong>IVD specific:</strong> Symbols specific to in vitro diagnostic devices.</li>
-        <li><strong>Transfusion/Infusion:</strong> Symbols related to transfusion or infusion procedures.</li>
-        <li><strong>Others:</strong> Symbols that do not fall into the above categories but are still relevant to medical device labelling.</li>
-      </ul>
-      <p>Standardised symbols help manufacturers effectively communicate vital information to users, enhancing safety and reducing risks of errors or misinterpretation.</p>
-      <p>Regulatory requirements mandate that devices must be clearly identifiable as <a href="https://www.linkedin.com/pulse/my-product-medical-device-mantrasystems-fbjae/">medical devices</a>. The medical device symbol, in accordance with ISO 15223, can be displayed on the label to facilitate recognition and ensure regulatory compliance.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-03-26T10:37:05+00:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Top 5 Common Pitfalls to Avoid During Risk Assessment</title><link href="https://www.mantrasystems.co.uk/articles/top-5-risk-assessment-pitfalls-how-to-avoid-them" rel="alternate" type="text/html" title="Top 5 Common Pitfalls to Avoid During Risk Assessment" /><published>2025-03-26T00:00:00+00:00</published><updated>2025-03-26T10:36:54+00:00</updated><id>https://www.mantrasystems.co.uk/articles/top-5-risk-assessment-pitfalls-how-to-avoid-them</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/top-5-risk-assessment-pitfalls-how-to-avoid-them"><![CDATA[<p>A medical device-specific risk assessment uses the <a href="https://www.iso.org/standard/72704.html">ISO 14971 standard</a>, which provides guidance for producing and maintaining a risk management file.</p>
+      <p>A risk assessment is a process used to identify, analyse, and mitigate risk in the design and development process to enable the sale of safe and successful medical devices. <a href="/eu-mdr-compliance/risk-management">Risk assessment</a> ensures that all potential hazards are identified and mitigated to protect patient safety. However, manufacturers often encounter mistakes along the way that can compromise the effectiveness of the assessment and delay product launch. To help you navigate the risk management process smoothly, here are the <strong>Top 5 Pitfalls</strong> to avoid during the risk assessment of your medical devices.</p>
       <figure>
-        <img src="/assets/images/content/articles/inline/md-logo.svg" alt="Medical Device logo." loading="lazy" width="200" height="137" />
+        <img src="/assets/images/content/articles/inline/5-pitfalls-for-risk-assessment.svg" alt="Diagram highlighting the 5 pitfalls for risk assessment." loading="lazy" width="498" height="552" />
       </figure>
-      <p>Additionally, manufacturers must adhere to labelling regulations outlined in <a href="https://www.linkedin.com/pulse/guide-general-performance-safety-requirements-gsprs-mantrasystems-f69fe/">GSPR</a> 23.1(a) and GSPR 20.1(a). These guidelines specify that certain label information must also be included in the Instructions for Use (IFU), and any symbols used on the label may require an explanation within the IFU.</p>
-      <h2 id="substances-specific-information">Substances Specific Information</h2>
-      <p>The label must also specify if the device contains or incorporates any of the following substances:</p>
-      <figure>
-        <img src="/assets/images/content/articles/inline/substances-for-device.svg" alt="Does the device contain specific substances? decision diagram." loading="lazy" width="556" height="264" />
-      </figure>
-      <h2 id="label-marking-requirements-iso-204172021">Label Marking Requirements (ISO 20417:2021)</h2>
-      <p><a href="https://www.iso.org/standard/67943.html">ISO 20417:2021</a> defines a label as “written, printed, or graphic information appearing on the item itself, on the packaging of each item, or on the packaging of multiple items.” According to this standard, manufacturers must ensure that the device is marked with the relevant information, unless:</p>
+      <h2 id="1-failing-to-identify-all-potential-hazards">1. Failing to Identify All Potential Hazards</h2>
+      <p>To begin a risk assessment, a comprehensive identification of potential hazards that could arise at any stage of the device’s lifecycle should be conducted. This involves documenting known and foreseeable hazards related to the medical device, considering its intended use, foreseeable misuse, and safety characteristics. A significant pitfall occurs here when manufacturers underestimate these hazards, in turn leading to an incomplete risk assessment.</p>
+      <p><strong>How to avoid this:</strong></p>
+      <p>Ensure cross-disciplinary teams are engaged (e.g., engineering, clinical, regulatory experts). This will ensure a thorough hazard analysis. Consider all potential risks, including those related to device malfunction, misuse, environmental factors, and human error.</p>
+      <h2 id="2-insufficient-documentation-and-traceability">2. Insufficient Documentation and Traceability</h2>
+      <p><a href="/enable-ce-mark/online-video-training-courses/risk-management">Clear documentation</a> of the risk management process is required for regulatory authorities, e.g., Notified Bodies, to review. <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745">Article 10 of the EU MDR</a> requires all manufacturers to establish, document, implement, and maintain a system for Risk Management. A frequent pitfall here is failing to maintain proper documentation of hazard identification, risk analysis, and control measures. This, in turn, will lead to non-compliance and delays.</p>
+      <p><strong>How to avoid this:</strong></p>
+      <p>Confirm that every step of the risk management process is documented in detail. Alongside this, you can use risk management tools, e.g., FMEA or risk matrices, to track the rationale behind each decision. This will allow for full traceability throughout the device lifecycle.</p>
+      <p>Maintaining and updating a Risk Management strategy requires scheduled review and appraisal sessions to analyse system suitability. The clinical evaluation cycle offers an opportunity to assimilate Risk Management data collected and to re-perform a benefit-risk analysis of the device. Any updates or changes to the process must be reflected in documentation and disseminated across the organisation to ensure the changes are implemented.</p>
+      <h2 id="3-underestimating-risk-acceptability-criteria">3. Underestimating Risk Acceptability Criteria</h2>
+      <p>Determining whether a risk is acceptable or not is crucial in risk assessment. During risk evaluation, the manufacturer must assess estimated risks for each hazardous situation and check if they meet the criteria in the risk management plan.</p>
+      <p>Setting inappropriate risk acceptance thresholds can directly impact both patient safety and product timelines. If the acceptable risk is set too high, the device may pose a significant threat to users, leading to potential harm or regulatory non-compliance. On the other hand, being too cautious and lowering the threshold could result in unnecessary design changes or delays in the approval process, even for risks that are statistically insignificant.</p>
+      <p><strong>How to avoid this:</strong></p>
+      <p>Risk acceptance should be based on both regulatory requirements and real-world clinical needs. The criteria should be proportional to the severity and likelihood of the identified risks. A low-risk device may have higher acceptable risk levels, while a high-risk device, such as a life-supporting medical device, must have stringent limits. Tools like risk matrices can help categorise and prioritise risks by their severity and probability, ensuring a rational and evidence-based approach to setting acceptability levels.</p>
+      <h2 id="4-ignoring-post-market-risks">4. Ignoring Post-Market Risks</h2>
+      <p>Many manufacturers place a significant emphasis on pre-market risks, neglecting the post-market risks that may arise once the device is in use by patients or healthcare professionals. The manufacturer must review all collected post-market information, focusing on safety relevance. This aims to identify unrecognised hazards not initially identified, hazardous situations with now-unacceptable estimated risks, and cases where the overall residual risk is no longer acceptable relative to intended use benefits.</p>
+      <p><strong>How to avoid:</strong></p>
+      <p>Ensure you incorporate a robust <a href="eu-mdr-compliance/post-market-surveillance-pms">post-market surveillance plan</a> into your risk management strategy. As well as this, make sure you set up systems to monitor and track device performance, adverse events, and potential hazards once the product is on the market.</p>
+      <h2 id="5-neglecting-risk-control-and-mitigation-strategies">5. Neglecting Risk Control and Mitigation Strategies</h2>
+      <p>The identification of hazards is just one part of the risk management process. The next critical phase is the implementation of effective risk controls, which is necessary to reduce identified risks to acceptable levels. Failing to implement effective controls or using controls that are impractical or inadequate is a common trap. This can lead to unresolved risks that may jeopardise patient safety, compromise device effectiveness, and increase the likelihood of regulatory non-compliance.</p>
+      <p><strong>How to avoid:</strong></p>
+      <p>To avoid neglecting risk control strategies, it’s essential to follow a structured approach that aligns with recognised best practices and regulatory standards. Here are some practical steps:</p>
       <ul>
-        <li>The size of the device does not allow for fixation of the information.</li>
-        <li>The nature of the outer surface of the device does not allow for the information to be fixed.</li>
-        <li>The omission of the markings does not negatively affect the benefit-risk balance as per <a href="https://www.iso.org/standard/72704.html">ISO 14971:2019</a>.</li>
+        <li>Start by prioritising the risks that need mitigation based on their severity and probability of occurrence.</li>
+        <li>Evaluate the effectiveness of controls. This can include pre-market validation through clinical trials, in-vitro testing, and failure testing, as well as post-market monitoring to ensure that controls remain effective over time.</li>
+        <li>For each identified risk, provide a rationale for the selected control, how it works to mitigate the hazard, and how its effectiveness will be measured.</li>
       </ul>
-      <h2 id="packaging-and-sterility-requirements">Packaging and Sterility Requirements</h2>
-      <p>Packaging plays an essential role in ensuring that medical devices remain protected during transport, storage, and handling. <a href="https://www.iso.org/standard/70799.html">ISO 11607</a> specifies requirements for the development and validation of processes for packaging medical devices. Compliance with ISO 11607 helps demonstrate conformity with essential requirements. Similar to the FDA, the EU requires compliance with ISO 10993-1 for the biological evaluation of medical device packaging materials.</p>
-      <p>EU MDR 2017/745 annex I GSPR, specifies the packaging requirements of medical devices. The requirements can be summarised as;</p>
-      <ul>
-        <li>The packaging must protect the device and maintain its integrity, ensuring it remains sterile if applicable.</li>
-        <li>Non-sterile devices must be packaged in a way that maintains their cleanliness and integrity.</li>
-        <li>The packaging must be designed to minimise contamination risks during transportation and storage.</li>
-      </ul>
-      <p>For sterile devices, the packaging must ensure the device remains sterile until the packaging is opened.</p>
-      <ul>
-        <li>The sterile packaging of a device should include the following information:</li>
-        <li>An indication to recognise the packaging as sterile.</li>
-        <li>A declaration that the device is in a sterile condition.</li>
-        <li>The method of sterilisation.</li>
-        <li>Instruction to check the instructions for use on what to do if the sterile packaging is damaged or unintentionally opened before use.</li>
-      </ul>
-      <h2 id="checklist-for-eu-mdr-medical-device-labelling">Checklist for EU MDR Medical Device Labelling</h2>
-      <p>Avoid compliance pitfalls with this checklist of essential labelling requirements for medical devices:</p>
-      <table>
-        <thead>
-          <tr>
-            <th style="text-align: left">Key Requirement</th>
-            <th style="text-align: left">Yes/No</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td style="text-align: left">Product name</td>
-            <td style="text-align: left"> </td>
-          </tr>
-          <tr>
-            <td style="text-align: left">Product’s lot number or serial number</td>
-            <td style="text-align: left"> </td>
-          </tr>
-          <tr>
-            <td style="text-align: left">All details needed for a user to identify the device, the contents of its packaging and the intended purpose of the device</td>
-            <td style="text-align: left"> </td>
-          </tr>
-          <tr>
-            <td style="text-align: left">Contact details of the manufacturer (e.g., name and address)</td>
-            <td style="text-align: left"> </td>
-          </tr>
-          <tr>
-            <td style="text-align: left">In the case of non-EU-based manufacturers, the name and address of their authorised representative</td>
-            <td style="text-align: left"> </td>
-          </tr>
-          <tr>
-            <td style="text-align: left">Where relevant, information per Section 10.4.5. of the MDR</td>
-            <td style="text-align: left"> </td>
-          </tr>
-          <tr>
-            <td style="text-align: left">The <a href="/articles/decoding-udi-ultimate-guide-to-smarter-medical-device-labelling">UDI carrier</a> referred to in Part C of Annex VII of the MDR</td>
-            <td style="text-align: left"> </td>
-          </tr>
-          <tr>
-            <td style="text-align: left">An indication of any special storage or handling conditions</td>
-            <td style="text-align: left"> </td>
-          </tr>
-          <tr>
-            <td style="text-align: left">A clear indication of the time limit for using the device safely, or where this is not applicable – the date of manufacture</td>
-            <td style="text-align: left"> </td>
-          </tr>
-          <tr>
-            <td style="text-align: left">If the product is supplied in a sterile condition, an indication of its sterile state and method of sterilisation</td>
-            <td style="text-align: left"> </td>
-          </tr>
-          <tr>
-            <td style="text-align: left">An indication if the product is for single-use</td>
-            <td style="text-align: left"> </td>
-          </tr>
-          <tr>
-            <td style="text-align: left">An indication if the device is custom-made or intended for clinical investigation only</td>
-            <td style="text-align: left"> </td>
-          </tr>
-          <tr>
-            <td style="text-align: left">Other warnings and precautions to be taken that need to be brought to the user’s immediate attention</td>
-            <td style="text-align: left"> </td>
-          </tr>
-        </tbody>
-      </table>
-      <h2 id="why-is-medical-device-labelling-so-important">Why is medical device labelling so important?</h2>
-      <p>For medical devices to be used safely and effectively, it is crucial that patients, caregivers, and healthcare providers receive clear and concise instructions, guidance, and warnings. Failure to follow these instructions, or mishandling the device, can result in malfunction, injury, or even death. While some mistakes may cause severe harm, even minor errors can impact patient outcomes in significant ways.</p>
-      <p>The well-being of the user must always be the primary concern for those involved in the manufacturing and design of medical devices. Effective labelling is essential in preventing misuse and ensuring proper usage. Moreover, complying with labelling standards isn’t just about safety—it also helps manufacturers meet regulatory requirements, avoiding costly delays, recalls, or legal issues.</p>
-      <h2 id="the-final-stamp-of-approval-on-labelling">The Final Stamp of Approval on Labelling</h2>
-      <p>Labelling and packaging are critical aspects of medical device regulation, ensuring both compliance with the EU MDR and safety for patients and users. Medical device manufacturers must adhere to the extensive labelling requirements, including clear information on the device’s identity, use, storage, and associated risks. Failure to comply with these requirements can lead to regulatory challenges and safety concerns. By adhering to the EU MDR labelling and packaging guidelines, manufacturers can ensure their devices are compliant, safe, and ready for market entry.</p>
-      <p>Need expert guidance on medical device labeling? Mantra Systems is here to help. Our tailored solutions ensure your devices meet all regulatory requirements while streamlining compliance processes. <a href="/contact">Reach out today for tailored solutions!</a></p>
-      ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[Labelling and packaging are critical elements to ensuring safety, compliance, and ease of use.]]></summary></entry><entry><title type="html">European Commission Guidelines on Prohibited Artificial Intelligence Practices</title><link href="https://www.mantrasystems.co.uk/articles/european-commission-guidelines-on-prohibited-artificial-intelligence-practices" rel="alternate" type="text/html" title="European Commission Guidelines on Prohibited Artificial Intelligence Practices" /><published>2025-03-18T00:00:00+00:00</published><updated>2025-03-18T12:16:10+00:00</updated><id>https://www.mantrasystems.co.uk/articles/european-commission-guidelines-on-prohibited-artificial-intelligence-practices</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/european-commission-guidelines-on-prohibited-artificial-intelligence-practices"><![CDATA[<p>The Regulation (EU) 2024/1689 artificial intelligence (AI) Act aims to promote innovation and uptake of AI while ensuring high protection of health, safety, and fundamental rights. It classifies AI systems into four risk categories which are unacceptable risk, high risk, transparency risk and minimal to no risk.</p>
-    <p>On 4th February 2025, the European Commission issued guidelines on prohibited AI practices established by regulation (EU) 2024/1689 (AI Act). The guidelines are important to organisations and businesses with AI systems in the EU and detail which AI practices are unacceptable.</p>
-    <p>A summary of the eight prohibited AI practices, examples of AI systems to which they apply and systems that are out of scope are listed below.</p>
-    <h2 id="prohibited-ai-practices">Prohibited AI practices:</h2>
-    <h3 id="1-harmful-manipulation-and-deception---article-5-1a">1. Harmful Manipulation and Deception - Article 5 (1)(a):</h3>
-    <p>AI systems that employ subliminal, manipulative, or deceptive techniques that distort behaviour and cause significant harm are prohibited.</p>
+      <h2 id="final-thoughts-mastering-risk-assessment">Final Thoughts: Mastering Risk Assessment</h2>
+      <p>By carefully identifying all potential hazards, setting realistic risk acceptability criteria, and implementing robust mitigation strategies, you can significantly reduce the likelihood of regulatory setbacks and safety issues. A proactive and comprehensive approach to risk management not only protects patients but also streamlines the path to market, helping your device succeed in a competitive landscape. Remember, risk assessment is an ongoing process that requires constant vigilance and adaptation, so stay committed to continuous improvement. Please <a href="/contact">contact us if you need any help with risk assessment</a> or any medical device regulation issue.</p>
+      ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[Learn how to sidestep costly mistakes which manufacturers commonly make. From hazard ID to post-market surveillance, we help you improve safety and speed up approvals.]]></summary></entry><entry><title type="html">Labelling 101: A Comprehensive Overview for Medical Device Manufacturers</title><link href="https://www.mantrasystems.co.uk/articles/labelling-101-a-comprehensive-overview-form-medical-device-manufacturers" rel="alternate" type="text/html" title="Labelling 101: A Comprehensive Overview for Medical Device Manufacturers" /><published>2025-03-21T00:00:00+00:00</published><updated>2025-03-20T21:40:34+00:00</updated><id>https://www.mantrasystems.co.uk/articles/labelling-101-a-comprehensive-overview-form-medical-device-manufacturers</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/labelling-101-a-comprehensive-overview-form-medical-device-manufacturers"><![CDATA[<p>Labelling is a crucial aspect of medical device compliance, ensuring that essential information is effectively communicated to users. Labelling includes written, printed, or graphic details on the device itself, its packaging, or accompanying materials such as Instructions for Use (IFU). Regulatory bodies require manufacturers to provide clear and accurate labelling to enhance patient safety, facilitate proper usage, and comply with international standards.</p>
+    <h2 id="medical-device-labelling-standard-iso-15223-12021">Medical Device Labelling Standard: ISO 15223-1:2021</h2>
+    <p><a href="https://www.iso.org/standard/77326.html">ISO 15223-1</a> sets out requirements for symbols used in medical device labelling to communicate information about the safe and effective use of devices. The latest version, ISO 15223-1:2021, includes additional symbols to comply with the requirements of <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32017R0745">EU MDR 2017/745</a>.</p>
+    <p>According to the ISO 15223-1 standard, medical device labelling symbols are organised into seven categories:</p>
     <ul>
-      <li><strong>Subliminal techniques:</strong> Examples include AI systems that use visual and auditory subliminal messages, subvisual and subaudible cueing and embedded images that can unconsciously influence users.</li>
-      <li><strong>Manipulative techniques:</strong> Examples include AI systems that purposefully manipulate users through background audio or images to induce mood changes such as increased anxiety or mental suffering resulting in significant harm.</li>
-      <li><strong>Deceptive techniques:</strong> Examples include an AI chatbot that impersonates a friend or relative with a synthetic voice leading to scams and significant harm.</li>
+      <li><strong>Manufacturing:</strong> Symbols related to the manufacturing process of the device.</li>
+      <li><strong>Storage:</strong> Symbols indicating specific storage conditions for the device.</li>
+      <li><strong>Safe use:</strong> Symbols providing information on the safe and proper use of the device.</li>
+      <li><strong>Sterility:</strong> Symbols indicating the sterile condition of the device or instructions related to sterility.</li>
+      <li><strong>IVD specific:</strong> Symbols specific to in vitro diagnostic devices.</li>
+      <li><strong>Transfusion/Infusion:</strong> Symbols related to transfusion or infusion procedures.</li>
+      <li><strong>Others:</strong> Symbols that do not fall into the above categories but are still relevant to medical device labelling.</li>
     </ul>
-    <h3 id="2-harmful-exploitation-of-vulnerabilities---article-51b">2. Harmful exploitation of vulnerabilities - Article 5(1)(b):</h3>
-    <p>AI systems that exploit vulnerabilities due to age, disability, or socio-economic situations resulting in distortion of behaviour and significant harm are prohibited.</p>
-    <ul>
-      <li>An example is an AI powered toy that encourages children to complete increasingly risky challenges for digital rewards and virtual praise, potentially leading to dangerous behaviour and physical harm.</li>
-      <li>AI systems that use lawful persuasion rather than manipulation and that are not likely to cause significant harm are outside of the scope of Article 5(1)(a) and (b).
-        <ul>
-          <li>For example, an AI system that uses personalised recommendations based on transparent algorithms and user preferences engages in lawful persuasion.</li>
-          <li>For example, a therapeutic chatbot that uses subliminal techniques to guide users towards a healthier lifestyle and to quit bad habits such as smoking is not likely to cause significant harm even if users experience physical discomfort and psychological stress because of the effort made to quit smoking.</li>
-        </ul>
-      </li>
-    </ul>
-    <h3 id="3-social-scoring---article-51c">3. Social Scoring - Article 5(1)(c)</h3>
-    <p>AI systems that evaluate or classify individuals based on social behaviour or personal characteristics resulting in unjustified treatment are prohibited.</p>
-    <ul>
-      <li>An example is an AI predictive tool that analyses taxpayers’ tax returns to select tax returns for closer inspection. The AI tool uses relevant variables such as yearly income as well as unrelated data such as a taxpayer’ social habits or internet connections to select individuals for closer inspection, leading to potential discrimination.</li>
-      <li>Out of scope legitimate scoring practices include financial credit scoring systems which are used by creditors and credit information agencies to determine a customer’s ability to repay debts by analysing a range of financial data such as the customer’s income and expenses.</li>
-    </ul>
-    <h3 id="4-individual-criminal-offence-risk-assessment-and-prediction---article-51d">4. Individual Criminal Offence Risk Assessment and Prediction - Article 5(1)(d)</h3>
-    <p>AI systems that predict criminal behaviour based solely on profiling or personality traits, without objective human assessment are prohibited.</p>
-    <ul>
-      <li>An example is a law enforcement authority that uses an AI system to predict criminal behaviour based on a personal characteristic such as age, nationality, address and marital status leading to unjust profiling.</li>
-      <li>Out of scope AI systems include predictive policing systems which generate a score for the likelihood of criminality in different neighbourhoods based on previous criminality rates and other supporting information such as street maps, allowing law enforcement to identify areas that require additional police presence.</li>
-    </ul>
-    <h3 id="5-untargeted-scraping-of-facial-images---article-51e">5. Untargeted Scraping of Facial Images - Article 5(1)(e)</h3>
-    <p>Creating or expanding facial recognition databases through untargeted scraping from the internet or CCTV footage is prohibited.</p>
-    <ul>
-      <li>In terms of the internet, if a person has published facial images of themselves on social media it does not mean that the person has given permission for the images to be included in a facial recognition database. An example of scraping images from CCTV is an AI tool that uses images from surveillance cameras in public spaces like airports and streets without consent.</li>
-      <li>Out of scope AI systems include databases that contain facial images but do not associate them with identifiable individuals e.g. datasets used solely for training or testing AI models without any intent to recognise or identify the persons in the images.</li>
-    </ul>
-    <h3 id="6-emotion-recognition---article-51f">6. Emotion Recognition - Article 5(1)(f)</h3>
-    <p>AI systems inferring emotions in workplaces and educational institutions, except for medical or safety reasons are prohibited.</p>
-    <ul>
-      <li>An example of ‘emotion recognition’ is an AI system that infers that an employee is unhappy, sad or angry to customers using body gestures, a frown or the absence of a smile.</li>
-      <li>Out of scope are AI systems that infer emotions not on the basis of biometric data e.g. from written text and AI systems that infer physical states e.g. pain and tiredness.</li>
-    </ul>
-    <h3 id="7-biometric-categorisation---article-51g">7. Biometric Categorisation - Article 5(1)(g)</h3>
-    <p>Categorising individuals based on biometric data to infer sensitive characteristics like race, political opinions, or sexual orientation are prohibited.</p>
-    <ul>
-      <li>An example is an AI system that categorises social media users by their presumed political orientation based on biometric data from uploaded photos to send them targeted political messages.</li>
-      <li>Examples of permissible filtering include the categorisation of patients using images according to skin or eye colour which may be important for a medical diagnosis such as cancer.</li>
-    </ul>
-    <h3 id="8-real-time-remote-biometric-identification-rbi---article-51h">8. Real-time Remote Biometric Identification (RBI) - Article 5(1)(h)</h3>
-    <p>The use of real-time RBI systems in publicly accessible spaces for law enforcement is prohibited with exceptions only for serious threats and criminal investigations.</p>
-    <p>Safeguards and conditions for the exceptions (Article 5(2)-(7) AI Act) are documented in the guidelines which aim to ensure the responsible and ethical use of AI technologies while safeguarding fundamental rights and promoting trust in AI systems.</p>
+    <p>Standardised symbols help manufacturers effectively communicate vital information to users, enhancing safety and reducing risks of errors or misinterpretation.</p>
+    <p>Regulatory requirements mandate that devices must be clearly identifiable as <a href="https://www.linkedin.com/pulse/my-product-medical-device-mantrasystems-fbjae/">medical devices</a>. The medical device symbol, in accordance with ISO 15223, can be displayed on the label to facilitate recognition and ensure regulatory compliance.</p>
     <figure>
-      <img src="/assets/images/content/articles/inline/8-prohibited-ai-practices-diagram.svg" alt="A diagram showing 8 prohibited AI practices.svg" loading="lazy" width="674" height="476" />
-      <figcaption>Overview of Prohibited AI Practices</figcaption>
+      <img src="/assets/images/content/articles/inline/md-logo.svg" alt="Medical Device logo." loading="lazy" width="200" height="137" />
     </figure>
-    <h2 id="enforcement-of-article-5-ai-act">Enforcement of Article 5 AI Act</h2>
-    <p>The prohibitions in Article 5 AI Act became applicable after 2 February 2025 and penalties, governance and confidentiality will apply from 2 August 2025.</p>
-    <p>Market Surveillance Authorities are responsible for the enforcement of rules in the AI Act for AI systems including prohibitions. The AI Act employs a tiered response to determine penalties for non-compliance. This system is designed to ensure that the severity of the infringement is appropriately matched with the corresponding penalty. Non-compliance with prohibitions in Article 5 AI Act are classified as the most serious infringement and subject to the highest fine which can be up to EUR 35,000,000 or up to 7% of worldwide turnover for the previous financial year, if the offender is an undertaking, whichever is higher.</p>
-    <h2 id="conclusion">Conclusion</h2>
-    <p>AI in healthcare, such as software as a medical device (SaMD), must be developed with stringent ethical standards to ensure patient safety and protection of fundamental rights. The guidelines remind developers and regulators alike of the importance of maintaining transparency and safeguarding against AI misuse. As the healthcare sector continues to integrate AI into medical devices, these guidelines will serve as a key framework for ensuring that AI-driven solutions prioritise the well-being of patients while promoting innovation and trust in the healthcare system.</p>
-    <p>If you need guidance on navigating AI challenges, <a href="/contact">contact us today to arrange a free, no-obligation discussion</a>.</p>
-    ]]></content><author><name>clare-dixon</name></author><category term="SaMD" /><category term="MDR" /><summary type="html"><![CDATA[Summary of the 8 AI practices prohibited by the EU 2024/1689 artificial intelligence (AI) Act.]]></summary></entry><entry><title type="html">Navigating Non-Conformities in Technical Documentation</title><link href="https://www.mantrasystems.co.uk/articles/navigating-non-conformities-in-technical-documentation" rel="alternate" type="text/html" title="Navigating Non-Conformities in Technical Documentation" /><published>2025-03-12T00:00:00+00:00</published><updated>2025-03-12T11:01:47+00:00</updated><id>https://www.mantrasystems.co.uk/articles/navigating-non-conformities-in-technical-documentation</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/navigating-non-conformities-in-technical-documentation"><![CDATA[<p>This article explores how to effectively manage non-conformities in technical documentation within the context of EU MDR compliance. Learn how to implement corrective and preventive actions (CAPAs) and best practices to enhance product quality and ensure regulatory adherence.</p>
+    <p>Additionally, manufacturers must adhere to labelling regulations outlined in <a href="https://www.linkedin.com/pulse/guide-general-performance-safety-requirements-gsprs-mantrasystems-f69fe/">GSPR</a> 23.1(a) and GSPR 20.1(a). These guidelines specify that certain label information must also be included in the Instructions for Use (IFU), and any symbols used on the label may require an explanation within the IFU.</p>
+    <h2 id="substances-specific-information">Substances Specific Information</h2>
+    <p>The label must also specify if the device contains or incorporates any of the following substances:</p>
+    <figure>
+      <img src="/assets/images/content/articles/inline/substances-for-device.svg" alt="Does the device contain specific substances? decision diagram." loading="lazy" width="556" height="264" />
+    </figure>
+    <h2 id="label-marking-requirements-iso-204172021">Label Marking Requirements (ISO 20417:2021)</h2>
+    <p><a href="https://www.iso.org/standard/67943.html">ISO 20417:2021</a> defines a label as “written, printed, or graphic information appearing on the item itself, on the packaging of each item, or on the packaging of multiple items.” According to this standard, manufacturers must ensure that the device is marked with the relevant information, unless:</p>
+    <ul>
+      <li>The size of the device does not allow for fixation of the information.</li>
+      <li>The nature of the outer surface of the device does not allow for the information to be fixed.</li>
+      <li>The omission of the markings does not negatively affect the benefit-risk balance as per <a href="https://www.iso.org/standard/72704.html">ISO 14971:2019</a>.</li>
+    </ul>
+    <h2 id="packaging-and-sterility-requirements">Packaging and Sterility Requirements</h2>
+    <p>Packaging plays an essential role in ensuring that medical devices remain protected during transport, storage, and handling. <a href="https://www.iso.org/standard/70799.html">ISO 11607</a> specifies requirements for the development and validation of processes for packaging medical devices. Compliance with ISO 11607 helps demonstrate conformity with essential requirements. Similar to the FDA, the EU requires compliance with ISO 10993-1 for the biological evaluation of medical device packaging materials.</p>
+    <p>EU MDR 2017/745 annex I GSPR, specifies the packaging requirements of medical devices. The requirements can be summarised as;</p>
+    <ul>
+      <li>The packaging must protect the device and maintain its integrity, ensuring it remains sterile if applicable.</li>
+      <li>Non-sterile devices must be packaged in a way that maintains their cleanliness and integrity.</li>
+      <li>The packaging must be designed to minimise contamination risks during transportation and storage.</li>
+    </ul>
+    <p>For sterile devices, the packaging must ensure the device remains sterile until the packaging is opened.</p>
+    <ul>
+      <li>The sterile packaging of a device should include the following information:</li>
+      <li>An indication to recognise the packaging as sterile.</li>
+      <li>A declaration that the device is in a sterile condition.</li>
+      <li>The method of sterilisation.</li>
+      <li>Instruction to check the instructions for use on what to do if the sterile packaging is damaged or unintentionally opened before use.</li>
+    </ul>
+    <h2 id="checklist-for-eu-mdr-medical-device-labelling">Checklist for EU MDR Medical Device Labelling</h2>
+    <p>Avoid compliance pitfalls with this checklist of essential labelling requirements for medical devices:</p>
+    <table>
+      <thead>
+        <tr>
+          <th style="text-align: left">Key Requirement</th>
+          <th style="text-align: left">Yes/No</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="text-align: left">Product name</td>
+          <td style="text-align: left"> </td>
+        </tr>
+        <tr>
+          <td style="text-align: left">Product’s lot number or serial number</td>
+          <td style="text-align: left"> </td>
+        </tr>
+        <tr>
+          <td style="text-align: left">All details needed for a user to identify the device, the contents of its packaging and the intended purpose of the device</td>
+          <td style="text-align: left"> </td>
+        </tr>
+        <tr>
+          <td style="text-align: left">Contact details of the manufacturer (e.g., name and address)</td>
+          <td style="text-align: left"> </td>
+        </tr>
+        <tr>
+          <td style="text-align: left">In the case of non-EU-based manufacturers, the name and address of their authorised representative</td>
+          <td style="text-align: left"> </td>
+        </tr>
+        <tr>
+          <td style="text-align: left">Where relevant, information per Section 10.4.5. of the MDR</td>
+          <td style="text-align: left"> </td>
+        </tr>
+        <tr>
+          <td style="text-align: left">The <a href="/articles/decoding-udi-ultimate-guide-to-smarter-medical-device-labelling">UDI carrier</a> referred to in Part C of Annex VII of the MDR</td>
+          <td style="text-align: left"> </td>
+        </tr>
+        <tr>
+          <td style="text-align: left">An indication of any special storage or handling conditions</td>
+          <td style="text-align: left"> </td>
+        </tr>
+        <tr>
+          <td style="text-align: left">A clear indication of the time limit for using the device safely, or where this is not applicable – the date of manufacture</td>
+          <td style="text-align: left"> </td>
+        </tr>
+        <tr>
+          <td style="text-align: left">If the product is supplied in a sterile condition, an indication of its sterile state and method of sterilisation</td>
+          <td style="text-align: left"> </td>
+        </tr>
+        <tr>
+          <td style="text-align: left">An indication if the product is for single-use</td>
+          <td style="text-align: left"> </td>
+        </tr>
+        <tr>
+          <td style="text-align: left">An indication if the device is custom-made or intended for clinical investigation only</td>
+          <td style="text-align: left"> </td>
+        </tr>
+        <tr>
+          <td style="text-align: left">Other warnings and precautions to be taken that need to be brought to the user’s immediate attention</td>
+          <td style="text-align: left"> </td>
+        </tr>
+      </tbody>
+    </table>
+    <h2 id="why-is-medical-device-labelling-so-important">Why is medical device labelling so important?</h2>
+    <p>For medical devices to be used safely and effectively, it is crucial that patients, caregivers, and healthcare providers receive clear and concise instructions, guidance, and warnings. Failure to follow these instructions, or mishandling the device, can result in malfunction, injury, or even death. While some mistakes may cause severe harm, even minor errors can impact patient outcomes in significant ways.</p>
+    <p>The well-being of the user must always be the primary concern for those involved in the manufacturing and design of medical devices. Effective labelling is essential in preventing misuse and ensuring proper usage. Moreover, complying with labelling standards isn’t just about safety—it also helps manufacturers meet regulatory requirements, avoiding costly delays, recalls, or legal issues.</p>
+    <h2 id="the-final-stamp-of-approval-on-labelling">The Final Stamp of Approval on Labelling</h2>
+    <p>Labelling and packaging are critical aspects of medical device regulation, ensuring both compliance with the EU MDR and safety for patients and users. Medical device manufacturers must adhere to the extensive labelling requirements, including clear information on the device’s identity, use, storage, and associated risks. Failure to comply with these requirements can lead to regulatory challenges and safety concerns. By adhering to the EU MDR labelling and packaging guidelines, manufacturers can ensure their devices are compliant, safe, and ready for market entry.</p>
+    <p>Need expert guidance on medical device labeling? Mantra Systems is here to help. Our tailored solutions ensure your devices meet all regulatory requirements while streamlining compliance processes. <a href="/contact">Reach out today for tailored solutions!</a></p>
+    ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[Labelling and packaging are critical elements to ensuring safety, compliance, and ease of use.]]></summary></entry><entry><title type="html">European Commission Guidelines on Prohibited Artificial Intelligence Practices</title><link href="https://www.mantrasystems.co.uk/articles/european-commission-guidelines-on-prohibited-artificial-intelligence-practices" rel="alternate" type="text/html" title="European Commission Guidelines on Prohibited Artificial Intelligence Practices" /><published>2025-03-18T00:00:00+00:00</published><updated>2025-03-18T12:16:10+00:00</updated><id>https://www.mantrasystems.co.uk/articles/european-commission-guidelines-on-prohibited-artificial-intelligence-practices</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/european-commission-guidelines-on-prohibited-artificial-intelligence-practices"><![CDATA[<p>The Regulation (EU) 2024/1689 artificial intelligence (AI) Act aims to promote innovation and uptake of AI while ensuring high protection of health, safety, and fundamental rights. It classifies AI systems into four risk categories which are unacceptable risk, high risk, transparency risk and minimal to no risk.</p>
+  <p>On 4th February 2025, the European Commission issued guidelines on prohibited AI practices established by regulation (EU) 2024/1689 (AI Act). The guidelines are important to organisations and businesses with AI systems in the EU and detail which AI practices are unacceptable.</p>
+  <p>A summary of the eight prohibited AI practices, examples of AI systems to which they apply and systems that are out of scope are listed below.</p>
+  <h2 id="prohibited-ai-practices">Prohibited AI practices:</h2>
+  <h3 id="1-harmful-manipulation-and-deception---article-5-1a">1. Harmful Manipulation and Deception - Article 5 (1)(a):</h3>
+  <p>AI systems that employ subliminal, manipulative, or deceptive techniques that distort behaviour and cause significant harm are prohibited.</p>
+  <ul>
+    <li><strong>Subliminal techniques:</strong> Examples include AI systems that use visual and auditory subliminal messages, subvisual and subaudible cueing and embedded images that can unconsciously influence users.</li>
+    <li><strong>Manipulative techniques:</strong> Examples include AI systems that purposefully manipulate users through background audio or images to induce mood changes such as increased anxiety or mental suffering resulting in significant harm.</li>
+    <li><strong>Deceptive techniques:</strong> Examples include an AI chatbot that impersonates a friend or relative with a synthetic voice leading to scams and significant harm.</li>
+  </ul>
+  <h3 id="2-harmful-exploitation-of-vulnerabilities---article-51b">2. Harmful exploitation of vulnerabilities - Article 5(1)(b):</h3>
+  <p>AI systems that exploit vulnerabilities due to age, disability, or socio-economic situations resulting in distortion of behaviour and significant harm are prohibited.</p>
+  <ul>
+    <li>An example is an AI powered toy that encourages children to complete increasingly risky challenges for digital rewards and virtual praise, potentially leading to dangerous behaviour and physical harm.</li>
+    <li>AI systems that use lawful persuasion rather than manipulation and that are not likely to cause significant harm are outside of the scope of Article 5(1)(a) and (b).
+      <ul>
+        <li>For example, an AI system that uses personalised recommendations based on transparent algorithms and user preferences engages in lawful persuasion.</li>
+        <li>For example, a therapeutic chatbot that uses subliminal techniques to guide users towards a healthier lifestyle and to quit bad habits such as smoking is not likely to cause significant harm even if users experience physical discomfort and psychological stress because of the effort made to quit smoking.</li>
+      </ul>
+    </li>
+  </ul>
+  <h3 id="3-social-scoring---article-51c">3. Social Scoring - Article 5(1)(c)</h3>
+  <p>AI systems that evaluate or classify individuals based on social behaviour or personal characteristics resulting in unjustified treatment are prohibited.</p>
+  <ul>
+    <li>An example is an AI predictive tool that analyses taxpayers’ tax returns to select tax returns for closer inspection. The AI tool uses relevant variables such as yearly income as well as unrelated data such as a taxpayer’ social habits or internet connections to select individuals for closer inspection, leading to potential discrimination.</li>
+    <li>Out of scope legitimate scoring practices include financial credit scoring systems which are used by creditors and credit information agencies to determine a customer’s ability to repay debts by analysing a range of financial data such as the customer’s income and expenses.</li>
+  </ul>
+  <h3 id="4-individual-criminal-offence-risk-assessment-and-prediction---article-51d">4. Individual Criminal Offence Risk Assessment and Prediction - Article 5(1)(d)</h3>
+  <p>AI systems that predict criminal behaviour based solely on profiling or personality traits, without objective human assessment are prohibited.</p>
+  <ul>
+    <li>An example is a law enforcement authority that uses an AI system to predict criminal behaviour based on a personal characteristic such as age, nationality, address and marital status leading to unjust profiling.</li>
+    <li>Out of scope AI systems include predictive policing systems which generate a score for the likelihood of criminality in different neighbourhoods based on previous criminality rates and other supporting information such as street maps, allowing law enforcement to identify areas that require additional police presence.</li>
+  </ul>
+  <h3 id="5-untargeted-scraping-of-facial-images---article-51e">5. Untargeted Scraping of Facial Images - Article 5(1)(e)</h3>
+  <p>Creating or expanding facial recognition databases through untargeted scraping from the internet or CCTV footage is prohibited.</p>
+  <ul>
+    <li>In terms of the internet, if a person has published facial images of themselves on social media it does not mean that the person has given permission for the images to be included in a facial recognition database. An example of scraping images from CCTV is an AI tool that uses images from surveillance cameras in public spaces like airports and streets without consent.</li>
+    <li>Out of scope AI systems include databases that contain facial images but do not associate them with identifiable individuals e.g. datasets used solely for training or testing AI models without any intent to recognise or identify the persons in the images.</li>
+  </ul>
+  <h3 id="6-emotion-recognition---article-51f">6. Emotion Recognition - Article 5(1)(f)</h3>
+  <p>AI systems inferring emotions in workplaces and educational institutions, except for medical or safety reasons are prohibited.</p>
+  <ul>
+    <li>An example of ‘emotion recognition’ is an AI system that infers that an employee is unhappy, sad or angry to customers using body gestures, a frown or the absence of a smile.</li>
+    <li>Out of scope are AI systems that infer emotions not on the basis of biometric data e.g. from written text and AI systems that infer physical states e.g. pain and tiredness.</li>
+  </ul>
+  <h3 id="7-biometric-categorisation---article-51g">7. Biometric Categorisation - Article 5(1)(g)</h3>
+  <p>Categorising individuals based on biometric data to infer sensitive characteristics like race, political opinions, or sexual orientation are prohibited.</p>
+  <ul>
+    <li>An example is an AI system that categorises social media users by their presumed political orientation based on biometric data from uploaded photos to send them targeted political messages.</li>
+    <li>Examples of permissible filtering include the categorisation of patients using images according to skin or eye colour which may be important for a medical diagnosis such as cancer.</li>
+  </ul>
+  <h3 id="8-real-time-remote-biometric-identification-rbi---article-51h">8. Real-time Remote Biometric Identification (RBI) - Article 5(1)(h)</h3>
+  <p>The use of real-time RBI systems in publicly accessible spaces for law enforcement is prohibited with exceptions only for serious threats and criminal investigations.</p>
+  <p>Safeguards and conditions for the exceptions (Article 5(2)-(7) AI Act) are documented in the guidelines which aim to ensure the responsible and ethical use of AI technologies while safeguarding fundamental rights and promoting trust in AI systems.</p>
+  <figure>
+    <img src="/assets/images/content/articles/inline/8-prohibited-ai-practices-diagram.svg" alt="A diagram showing 8 prohibited AI practices.svg" loading="lazy" width="674" height="476" />
+    <figcaption>Overview of Prohibited AI Practices</figcaption>
+  </figure>
+  <h2 id="enforcement-of-article-5-ai-act">Enforcement of Article 5 AI Act</h2>
+  <p>The prohibitions in Article 5 AI Act became applicable after 2 February 2025 and penalties, governance and confidentiality will apply from 2 August 2025.</p>
+  <p>Market Surveillance Authorities are responsible for the enforcement of rules in the AI Act for AI systems including prohibitions. The AI Act employs a tiered response to determine penalties for non-compliance. This system is designed to ensure that the severity of the infringement is appropriately matched with the corresponding penalty. Non-compliance with prohibitions in Article 5 AI Act are classified as the most serious infringement and subject to the highest fine which can be up to EUR 35,000,000 or up to 7% of worldwide turnover for the previous financial year, if the offender is an undertaking, whichever is higher.</p>
+  <h2 id="conclusion">Conclusion</h2>
+  <p>AI in healthcare, such as software as a medical device (SaMD), must be developed with stringent ethical standards to ensure patient safety and protection of fundamental rights. The guidelines remind developers and regulators alike of the importance of maintaining transparency and safeguarding against AI misuse. As the healthcare sector continues to integrate AI into medical devices, these guidelines will serve as a key framework for ensuring that AI-driven solutions prioritise the well-being of patients while promoting innovation and trust in the healthcare system.</p>
+  <p>If you need guidance on navigating AI challenges, <a href="/contact">contact us today to arrange a free, no-obligation discussion</a>.</p>
+  ]]></content><author><name>clare-dixon</name></author><category term="SaMD" /><category term="MDR" /><summary type="html"><![CDATA[Summary of the 8 AI practices prohibited by the EU 2024/1689 artificial intelligence (AI) Act.]]></summary></entry><entry><title type="html">Navigating Non-Conformities in Technical Documentation</title><link href="https://www.mantrasystems.co.uk/articles/navigating-non-conformities-in-technical-documentation" rel="alternate" type="text/html" title="Navigating Non-Conformities in Technical Documentation" /><published>2025-03-12T00:00:00+00:00</published><updated>2025-03-12T11:01:47+00:00</updated><id>https://www.mantrasystems.co.uk/articles/navigating-non-conformities-in-technical-documentation</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/navigating-non-conformities-in-technical-documentation"><![CDATA[<p>This article explores how to effectively manage non-conformities in technical documentation within the context of EU MDR compliance. Learn how to implement corrective and preventive actions (CAPAs) and best practices to enhance product quality and ensure regulatory adherence.</p>
   <p>In the highly regulated world of regulatory affairs, technical documentation serves as a cornerstone for ensuring product compliance, safety, and efficacy. Yet even the most meticulously prepared documents can face non-conformities during reviews.</p>
   <p>Let’s explore how to manage non-conformities effectively and implement corrective and preventive actions (CAPAs) to enhance the quality of technical documentation.</p>
   <h2 id="understanding-non-conformities">Understanding Non-Conformities</h2>
@@ -608,74 +642,4 @@
   <p>Ultimately, GSPR 1 represents a commitment by the medical device industry to uphold the highest standards of safety and quality, fostering trust in devices that are critical to patient health and wellbeing.</p>
   <p>If you’re unsure whether you have the necessary evidence to demonstrate conformity with GSPR requirements, don’t worry – we’re here to help! Contact us today, and our team will provide expert guidance to ensure you’re fully compliant with all relevant GSPRs.</p>
   <p><a href="/contact">Get in touch now</a> for personalised support and peace of mind!</p>
-  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[This regulation emphasizes risk management, durable design & biocompatibility to ensure medical devices are safe and effective. GSPR 1 protects users while driving innovation in medical technology.]]></summary></entry><entry><title type="html">Cybersecurity Vulnerabilities in Medical Devices: FDA Alerts on Contec and Epsimed Monitors</title><link href="https://www.mantrasystems.co.uk/articles/fda-alerts-cybersecurity-vulnerablities-medical-devices-contec-epsimed-monitors" rel="alternate" type="text/html" title="Cybersecurity Vulnerabilities in Medical Devices: FDA Alerts on Contec and Epsimed Monitors" /><published>2025-02-14T00:00:00+00:00</published><updated>2025-02-13T19:42:15+00:00</updated><id>https://www.mantrasystems.co.uk/articles/fda-alerts-cybersecurity-vulnerablities-medical-devices-contec-epsimed-monitors</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/fda-alerts-cybersecurity-vulnerablities-medical-devices-contec-epsimed-monitors"><![CDATA[<p>The FDA recently <a href="https://www.fda.gov/medical-devices/safety-communications/cybersecurity-vulnerabilities-certain-patient-monitors-contec-and-epsimed-fda-safety-communication">issued a safety communication</a> to raise awareness of cybersecurity vulnerabilities in the Contec CMS8000 patient monitor and the Epsimed MN-120 patient monitor which may put patients at risk when connected to the internet.</p>
-  <p>These vulnerabilities, which include a software backdoor, could compromise digital security and pose significant risks to patients when the devices are connected to the internet. As more medical devices become internet-connected, this development underscores the critical importance of robust cybersecurity measures in protecting patient safety and data.</p>
-  <p>While the FDA’s warning highlights the risks, the <a href="https://eur-lex.europa.eu/eli/reg/2017/745/oj/eng">EU Medical Device Regulations (MDR)</a> and <a href="https://eur-lex.europa.eu/eli/reg/2017/746/oj/eng">In-Vitro Diagnostic Medical Device Regulation (IVDR)</a> introduced stricter safety requirements to address such challenges. These regulations apply to medical devices that incorporate electronic programmable systems and software, which are now classified as medical devices themselves. Manufacturers must design and manufacture devices in accordance with the state of the art by applying risk management principles, including information security. Additionally, the regulations establish minimum IT security requirements, including protection against unauthorised access.</p>
-  <p>In this article we discuss cybersecurity requirements of the EU MDR and IVDR and summarise the Medical Device Coordination Group (MDCG) guidance document - <a href="https://health.ec.europa.eu/document/download/b23b362f-8a56-434c-922a-5b3ca4d0a7a1_en">MDCG 2019-16 Rev 1</a>: Guidance on Cybersecurity for medical devices.</p>
-  <h2 id="what-is-cybersecurity">What is cybersecurity?</h2>
-  <p>In ISO 81001-1, cybersecurity is defined as:</p>
-  <!-- TODO:Markup properly -->
-  <blockquote>
-    <p>“<em>a state where information and systems are protected from unauthorised activities, such as access, use, disclosure, disruption, modification, or destruction to a degree that the related risks to confidentiality, integrity, and availability are maintained at an acceptable level throughout the life cycle</em>”.</p>
-  </blockquote>
-  <h2 id="what-guidance-does-the-mdcg-2019-16-rev-1-provide">What guidance does the MDCG 2019-16 Rev 1 provide?</h2>
-  <p>The MDCG 2019-16 Rev 1 provides guidance on fulfilling the general safety and performance requirements of Annex I of the EU MDR and IVDR concerning cybersecurity. It emphasises a “secure by design” approach, integrating cybersecurity into every stage of a medical device’s lifecycle. This includes:</p>
-  <ul>
-    <li><strong>Security Risk Management:</strong> Manufacturers must establish a process to identify, evaluate, and mitigate cybersecurity risks, aligning with the overall risk management system required by the MDR.</li>
-    <li><strong>Security Capabilities:</strong> Devices should incorporate essential security features such as authentication, encryption, and malware protection, tailored to their intended use and operational environment.</li>
-    <li><strong>Minimum IT Requirements:</strong> Manufacturers must define and communicate the minimum IT security requirements for the device’s operating environment, including hardware and network characteristics, to ensure baseline protection.</li>
-  </ul>
-  <p>The guidance also addresses the complex medical device supply chain, providing supplementary considerations for actors other than manufacturers. Additionally, it includes an annex outlining other EU and global legislation and guidance relevant to cybersecurity.</p>
-  <h2 id="what-are-the-cybersecurity-requirements-contained-in-mdr-annex-i">What are the cybersecurity requirements contained in MDR Annex I?</h2>
-  <h3 id="basic-cybersecurity-requirements">Basic Cybersecurity Requirements</h3>
-  <p>Annex I of the MDR and IVDR emphasise the importance of cybersecurity in maintaining the general safety and performance requirements of medical devices with a focus on cybersecurity. The requirements are categorised into three key areas:</p>
-  <ul>
-    <li><strong>IT Security:</strong> Protecting the information technology systems of medical devices is crucial. This includes safeguarding against unauthorised access and ensuring data integrity (referencing sections 17.4, 23.4ab).</li>
-    <li><strong>Operation Security:</strong> Devices must operate securely under all conditions. This involves ensuring that the device functions as intended without compromising safety (referencing sections 14.1, 14.2, 17.1).</li>
-    <li><strong>Information Security:</strong> Protecting sensitive data is a top priority. Medical devices must ensure that patient data and other critical information are secure from breaches (referencing section 17.2).</li>
-  </ul>
-  <h3 id="requirements-for-the-secure-design-and-manufacture-of-medical-devices">Requirements for the Secure Design and Manufacture of Medical Devices</h3>
-  <figure>
-    <img src="/assets/images/content/articles/inline/understanding-cybersecurity-requirements-for-medical-devices.svg" alt="Diagram illustrating the components considered for the cybersecurity of medical devices." loading="lazy" width="800" height="566" />
-    <figcaption>Cybersecurity considerations for the design and manufacturing of medical devices</figcaption>
-  </figure>
-  <p>Cybersecurity must be integrated into every stage of a medical device’s lifecycle. Annex I of the MDR and IVDR highlights several critical aspects of secure design and manufacture:</p>
-  <ul>
-    <li><strong>Risk Management:</strong> Risks must be identified, assessed, and managed throughout the device’s lifecycle (sections 3, 14.4, 14.5, 19.3).</li>
-    <li><strong>Protection Against Risks:</strong> Devices must be designed to protect against risks during both intended use and foreseeable misuse (sections 3c, 8).</li>
-    <li><strong>Unauthorised Access:</strong> Measures must be in place to prevent unauthorised access to the device and its data (sections 17.4, 18.8).</li>
-    <li><strong>Threats and Vulnerabilities:</strong> Manufacturers must identify and address security threats, vulnerabilities, and risks (section 4b).</li>
-    <li><strong>Risk Control Measures:</strong> Effective risk control measures must be established to mitigate identified risks (section 4).</li>
-    <li><strong>Minimum IT Security Requirements:</strong> Devices must meet minimum IT security standards to ensure baseline protection (sections 17.4, 14.5).</li>
-  </ul>
-  <p>A key driver of secure design and manufacturing is the <strong>state of the art</strong> (sections 1, 4, 17.2). Manufacturers should consider the state of the art when designing developing and upgrading medical devices across their life cycle. This involves incorporating the latest advancements, technologies, and best practices into their decision-making processes to address security risks proportionally and appropriately. By aligning with the state of the art, manufacturers can ensure that their devices are not only compliant with regulatory requirements but also resilient against emerging threats, safeguarding patient safety and data security over the long term.</p>
-  <h3 id="how-are-the-cybersecurity-requirements-under-mdr-interrelated-to-the-other-relevant-eu-legislations-cybersecurity-act-gdpr-and-nis">How are the cybersecurity requirements under MDR interrelated to the other relevant EU legislations (Cybersecurity Act, GDPR and NIS)?</h3>
-  <p>Cybersecurity requirements under the MDR are interconnected with other EU legislations, such as the Cybersecurity Act, General Data Protection Regulation (GDPR), and the Network and Information Security (NIS) Directive. While the EU MDR and IVDR focus on the safety and performance of medical devices, these additional legislations address broader aspects of cybersecurity, data protection, and network security. The <a href="https://health.ec.europa.eu/document/download/b23b362f-8a56-434c-922a-5b3ca4d0a7a1_en">MDCG 2019-16 Rev 1</a> guidance provides a detailed discussion of how these requirements overlap and complement each other.</p>
-  <h3 id="what-cybersecurity-activities-does-the-manufacturer-need-to-carry-out-during-the-lifecycle-of-a-medical-device-according-to-mdr">What cybersecurity activities does the manufacturer need to carry out during the lifecycle of a medical device according to MDR?</h3>
-  <p>Pre-market cybersecurity activities include:</p>
-  <ul>
-    <li>Secure Design (Annex I)</li>
-    <li>Risk management (Annex I)</li>
-    <li>Establish Risk Control Measures (Annex I)</li>
-    <li>Validation, Verification, Risk Assessment, Benefit Risk Analysis (Annex I)</li>
-    <li>Technical Documentation (Annex II and III)</li>
-    <li>Conformity Assessment (Article 52)</li>
-    <li>Establish a Post-market Surveillance Plan and Post-market Surveillance System (Article 83 and 84)</li>
-    <li>Clinical evaluation process (Chapter VI)</li>
-  </ul>
-  <p>Post-market activities include:</p>
-  <ul>
-    <li>Risk management (Annex I)</li>
-    <li>Modify Risk Control Measures /Corrective Actions/Patches (Annex I)</li>
-    <li>Validation, Verification, Risk Assessment, Benefit Risk Analysis (Annex I)</li>
-    <li>Maintain and update a Post-market Surveillance Plan and Post-market Surveillance System (Article 83 and 84)</li>
-    <li>Trend Reporting (Article 88)</li>
-    <li>Analysis of Serious Incidents (Article 89)</li>
-    <li>Post-Market Surveillance Report (Article 85)</li>
-    <li>Periodic Safety Update Report (Article 86)</li>
-    <li>Update Technical Documentation (Annex II and III)</li>
-    <li>Inform the Electronic System on Vigilance (Article 92)</li>
-  </ul>
-  <p>Cybersecurity is a critical aspect of ensuring the safety and performance of medical devices under the EU MDR and IVDR. By adopting a secure-by-design approach, prioritising risk management, and maintaining robust post-market surveillance, manufacturers can protect patients from potential threats and ensure compliance with regulatory standards.</p>
-  <p>If you need guidance on EU MDR and IVDR requirements or have concerns about cybersecurity compliance for your medical device, <a href="/contact">contact us today to arrange a free, no-obligation discussion</a>.</p>
-  ]]></content><author><name>clare-dixon</name></author><category term="SaMD" /><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[Patients can be exposed to risks when devices are online. We explore implications for EU MDR/IVDR cybersecurity requirements, including MDCG guidance]]></summary></entry></feed>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[This regulation emphasizes risk management, durable design & biocompatibility to ensure medical devices are safe and effective. GSPR 1 protects users while driving innovation in medical technology.]]></summary></entry></feed>

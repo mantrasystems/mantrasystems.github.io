@@ -1,155 +1,216 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-03-26T17:28:15+00:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Top 5 Common Pitfalls to Avoid During Risk Assessment</title><link href="https://www.mantrasystems.co.uk/articles/top-5-risk-assessment-pitfalls-how-to-avoid-them" rel="alternate" type="text/html" title="Top 5 Common Pitfalls to Avoid During Risk Assessment" /><published>2025-03-26T00:00:00+00:00</published><updated>2025-03-26T10:48:01+00:00</updated><id>https://www.mantrasystems.co.uk/articles/top-5-risk-assessment-pitfalls-how-to-avoid-them</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/top-5-risk-assessment-pitfalls-how-to-avoid-them"><![CDATA[<p>A medical device-specific risk assessment uses the <a href="https://www.iso.org/standard/72704.html">ISO 14971 standard</a>, which provides guidance for producing and maintaining a risk management file.</p>
-      <p>A risk assessment is a process used to identify, analyse, and mitigate risk in the design and development process to enable the sale of safe and successful medical devices. <a href="/eu-mdr-compliance/risk-management">Risk assessment</a> ensures that all potential hazards are identified and mitigated to protect patient safety. However, manufacturers often encounter mistakes along the way that can compromise the effectiveness of the assessment and delay product launch. To help you navigate the risk management process smoothly, here are the <strong>Top 5 Pitfalls</strong> to avoid during the risk assessment of your medical devices.</p>
-      <figure>
-        <img src="/assets/images/content/articles/inline/5-pitfalls-for-risk-assessment.svg" alt="Diagram highlighting the 5 pitfalls for risk assessment." loading="lazy" width="498" height="552" />
-      </figure>
-      <h2 id="1-failing-to-identify-all-potential-hazards">1. Failing to Identify All Potential Hazards</h2>
-      <p>To begin a risk assessment, a comprehensive identification of potential hazards that could arise at any stage of the device’s lifecycle should be conducted. This involves documenting known and foreseeable hazards related to the medical device, considering its intended use, foreseeable misuse, and safety characteristics. A significant pitfall occurs here when manufacturers underestimate these hazards, in turn leading to an incomplete risk assessment.</p>
-      <p><strong>How to avoid this:</strong></p>
-      <p>Ensure cross-disciplinary teams are engaged (e.g., engineering, clinical, regulatory experts). This will ensure a thorough hazard analysis. Consider all potential risks, including those related to device malfunction, misuse, environmental factors, and human error.</p>
-      <h2 id="2-insufficient-documentation-and-traceability">2. Insufficient Documentation and Traceability</h2>
-      <p><a href="/enable-ce-mark/online-video-training-courses/risk-management">Clear documentation</a> of the risk management process is required for regulatory authorities, e.g., Notified Bodies, to review. <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745">Article 10 of the EU MDR</a> requires all manufacturers to establish, document, implement, and maintain a system for Risk Management. A frequent pitfall here is failing to maintain proper documentation of hazard identification, risk analysis, and control measures. This, in turn, will lead to non-compliance and delays.</p>
-      <p><strong>How to avoid this:</strong></p>
-      <p>Confirm that every step of the risk management process is documented in detail. Alongside this, you can use risk management tools, e.g., FMEA or risk matrices, to track the rationale behind each decision. This will allow for full traceability throughout the device lifecycle.</p>
-      <p>Maintaining and updating a Risk Management strategy requires scheduled review and appraisal sessions to analyse system suitability. The clinical evaluation cycle offers an opportunity to assimilate Risk Management data collected and to re-perform a benefit-risk analysis of the device. Any updates or changes to the process must be reflected in documentation and disseminated across the organisation to ensure the changes are implemented.</p>
-      <h2 id="3-underestimating-risk-acceptability-criteria">3. Underestimating Risk Acceptability Criteria</h2>
-      <p>Determining whether a risk is acceptable or not is crucial in risk assessment. During risk evaluation, the manufacturer must assess estimated risks for each hazardous situation and check if they meet the criteria in the risk management plan.</p>
-      <p>Setting inappropriate risk acceptance thresholds can directly impact both patient safety and product timelines. If the acceptable risk is set too high, the device may pose a significant threat to users, leading to potential harm or regulatory non-compliance. On the other hand, being too cautious and lowering the threshold could result in unnecessary design changes or delays in the approval process, even for risks that are statistically insignificant.</p>
-      <p><strong>How to avoid this:</strong></p>
-      <p>Risk acceptance should be based on both regulatory requirements and real-world clinical needs. The criteria should be proportional to the severity and likelihood of the identified risks. A low-risk device may have higher acceptable risk levels, while a high-risk device, such as a life-supporting medical device, must have stringent limits. Tools like risk matrices can help categorise and prioritise risks by their severity and probability, ensuring a rational and evidence-based approach to setting acceptability levels.</p>
-      <h2 id="4-ignoring-post-market-risks">4. Ignoring Post-Market Risks</h2>
-      <p>Many manufacturers place a significant emphasis on pre-market risks, neglecting the post-market risks that may arise once the device is in use by patients or healthcare professionals. The manufacturer must review all collected post-market information, focusing on safety relevance. This aims to identify unrecognised hazards not initially identified, hazardous situations with now-unacceptable estimated risks, and cases where the overall residual risk is no longer acceptable relative to intended use benefits.</p>
-      <p><strong>How to avoid:</strong></p>
-      <p>Ensure you incorporate a robust <a href="/eu-mdr-compliance/post-market-surveillance-pms">post-market surveillance plan</a> into your risk management strategy. As well as this, make sure you set up systems to monitor and track device performance, adverse events, and potential hazards once the product is on the market.</p>
-      <h2 id="5-neglecting-risk-control-and-mitigation-strategies">5. Neglecting Risk Control and Mitigation Strategies</h2>
-      <p>The identification of hazards is just one part of the risk management process. The next critical phase is the implementation of effective risk controls, which is necessary to reduce identified risks to acceptable levels. Failing to implement effective controls or using controls that are impractical or inadequate is a common trap. This can lead to unresolved risks that may jeopardise patient safety, compromise device effectiveness, and increase the likelihood of regulatory non-compliance.</p>
-      <p><strong>How to avoid:</strong></p>
-      <p>To avoid neglecting risk control strategies, it’s essential to follow a structured approach that aligns with recognised best practices and regulatory standards. Here are some practical steps:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-03-28T10:50:44+00:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">MDCG 2020-16 Revision 4: Key Updates on IVDR Classification Rules</title><link href="https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules" rel="alternate" type="text/html" title="MDCG 2020-16 Revision 4: Key Updates on IVDR Classification Rules" /><published>2025-03-28T00:00:00+00:00</published><updated>2025-03-28T10:50:34+00:00</updated><id>https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules"><![CDATA[<p>The <strong>Medical Device Coordination Group (MDCG)</strong> has released <strong>MDCG 2020-16 rev.4 - Guidance on Classification Rules for in vitro Diagnostic Medical Devices under Regulation (EU) 2017/746</strong>.</p>
+      <p>This update released in March 2025 provides comprehensive clarification on the classification rules outlined in <strong>Annex VIII</strong> of the <strong>IVDR</strong>, ensuring that manufacturers, notified bodies, and health institutions have a clear framework for classifying in vitro diagnostic (IVD) devices based on their intended purpose and inherent risk, prior to placing it on the market. Notably, the guidance addresses the classification of medical device software (MDSW) and emphasises the importance of considering devices used in combination.</p>
+      <h2 id="summary-of-key-updates">Summary of Key Updates</h2>
+      <table>
+        <thead>
+          <tr>
+            <th style="text-align: left">Rule</th>
+            <th style="text-align: left">Changes</th>
+            <th style="text-align: left">Details</th>
+            <th style="text-align: left">Impact</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style="text-align: left">Rule 1 – Second Indent</td>
+            <td style="text-align: left">Revision of examples</td>
+            <td style="text-align: left">Updated examples to provide better clarity on the classification of IVD devices.</td>
+            <td style="text-align: left">Ensures more precise classification, reducing ambiguity for manufacturers.</td>
+          </tr>
+          <tr>
+            <td style="text-align: left">Rule 3(m)</td>
+            <td style="text-align: left">Footnote 8 modified</td>
+            <td style="text-align: left">Footnote 8 modified to refine interpretation and applicability.</td>
+            <td style="text-align: left">Improves understanding of specific classification aspects.</td>
+          </tr>
+          <tr>
+            <td style="text-align: left">Rule 4(a)</td>
+            <td style="text-align: left">Revision of examples</td>
+            <td style="text-align: left">Updated examples for self-testing devices, refining classifications based on biomarkers.</td>
+            <td style="text-align: left">Helps manufacturers align with IVDR requirements for self-testing IVDs.</td>
+          </tr>
+          <tr>
+            <td style="text-align: left">Rule 6</td>
+            <td style="text-align: left">Minor modification of the rationale and revision of examples</td>
+            <td style="text-align: left">Minor updates to rationale and refined examples for Class B IVDs.</td>
+            <td style="text-align: left">Provides a clearer framework for determining Class B device classification.</td>
+          </tr>
+          <tr>
+            <td style="text-align: left">Annex 1 and Annex 2</td>
+            <td style="text-align: left">Minor editorial changes</td>
+            <td style="text-align: left">Minor wording and structural refinements for improved readability.</td>
+            <td style="text-align: left">Enhances document clarity without changing regulatory requirements.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="key-considerations-for-manufacturers">Key Considerations for Manufacturers</h2>
+      <p>The <a href="https://health.ec.europa.eu/document/download/12f9756a-1e0d-4aed-9783-d948553f1705_en?filename=md_mdcg_2020_guidance_classification_ivd-md_en.pdf">MDCG 2020-16 rev.4 guidance</a> has significant implications for <strong>IVD manufacturers</strong> as it refines how devices should be classified under IVDR.</p>
       <ul>
-        <li>Start by prioritising the risks that need mitigation based on their severity and probability of occurrence.</li>
-        <li>Evaluate the effectiveness of controls. This can include pre-market validation through clinical trials, in-vitro testing, and failure testing, as well as post-market monitoring to ensure that controls remain effective over time.</li>
-        <li>For each identified risk, provide a rationale for the selected control, how it works to mitigate the hazard, and how its effectiveness will be measured.</li>
+        <li><strong>Accurate Classification Criteria</strong> – The revision of examples under <strong>Rules 1, 4(a), and 6</strong> helps manufacturers correctly classify their IVD devices, reducing uncertainty. Manufacturers must <strong>review and adapt</strong> classifications, ensuring conformity with <strong>IVDR and notified body requirements</strong>.</li>
+        <li><strong>More Precise Risk Assessment</strong> – Manufacturers need to reassess whether their devices fall into a different risk class, impacting regulatory requirements.</li>
+        <li><strong>Improved Compliance with IVDR</strong> – The minor changes provide clarity but do not fundamentally alter the classification process. However, manufacturers should review their classification decisions against the revised examples.</li>
+        <li><strong>Potential Impact on Notified Body Review</strong> – If an IVD device’s classification is affected by the updated examples or rationale, additional <strong>notified body consultation</strong> may be required for conformity assessments.</li>
       </ul>
-      <h2 id="final-thoughts-mastering-risk-assessment">Final Thoughts: Mastering Risk Assessment</h2>
-      <p>By carefully identifying all potential hazards, setting realistic risk acceptability criteria, and implementing robust mitigation strategies, you can significantly reduce the likelihood of regulatory setbacks and safety issues. A proactive and comprehensive approach to risk management not only protects patients but also streamlines the path to market, helping your device succeed in a competitive landscape. Remember, risk assessment is an ongoing process that requires constant vigilance and adaptation, so stay committed to continuous improvement. Please <a href="/contact">contact us if you need any help with risk assessment</a> or any medical device regulation issue.</p>
-      ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[Learn how to sidestep costly mistakes which manufacturers commonly make. From hazard ID to post-market surveillance, we help you improve safety and speed up approvals.]]></summary></entry><entry><title type="html">Labelling 101: A Comprehensive Overview for Medical Device Manufacturers</title><link href="https://www.mantrasystems.co.uk/articles/labelling-101-a-comprehensive-overview-form-medical-device-manufacturers" rel="alternate" type="text/html" title="Labelling 101: A Comprehensive Overview for Medical Device Manufacturers" /><published>2025-03-21T00:00:00+00:00</published><updated>2025-03-20T21:40:34+00:00</updated><id>https://www.mantrasystems.co.uk/articles/labelling-101-a-comprehensive-overview-form-medical-device-manufacturers</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/labelling-101-a-comprehensive-overview-form-medical-device-manufacturers"><![CDATA[<p>Labelling is a crucial aspect of medical device compliance, ensuring that essential information is effectively communicated to users. Labelling includes written, printed, or graphic details on the device itself, its packaging, or accompanying materials such as Instructions for Use (IFU). Regulatory bodies require manufacturers to provide clear and accurate labelling to enhance patient safety, facilitate proper usage, and comply with international standards.</p>
-    <h2 id="medical-device-labelling-standard-iso-15223-12021">Medical Device Labelling Standard: ISO 15223-1:2021</h2>
-    <p><a href="https://www.iso.org/standard/77326.html">ISO 15223-1</a> sets out requirements for symbols used in medical device labelling to communicate information about the safe and effective use of devices. The latest version, ISO 15223-1:2021, includes additional symbols to comply with the requirements of <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32017R0745">EU MDR 2017/745</a>.</p>
-    <p>According to the ISO 15223-1 standard, medical device labelling symbols are organised into seven categories:</p>
-    <ul>
-      <li><strong>Manufacturing:</strong> Symbols related to the manufacturing process of the device.</li>
-      <li><strong>Storage:</strong> Symbols indicating specific storage conditions for the device.</li>
-      <li><strong>Safe use:</strong> Symbols providing information on the safe and proper use of the device.</li>
-      <li><strong>Sterility:</strong> Symbols indicating the sterile condition of the device or instructions related to sterility.</li>
-      <li><strong>IVD specific:</strong> Symbols specific to in vitro diagnostic devices.</li>
-      <li><strong>Transfusion/Infusion:</strong> Symbols related to transfusion or infusion procedures.</li>
-      <li><strong>Others:</strong> Symbols that do not fall into the above categories but are still relevant to medical device labelling.</li>
-    </ul>
-    <p>Standardised symbols help manufacturers effectively communicate vital information to users, enhancing safety and reducing risks of errors or misinterpretation.</p>
-    <p>Regulatory requirements mandate that devices must be clearly identifiable as <a href="https://www.linkedin.com/pulse/my-product-medical-device-mantrasystems-fbjae/">medical devices</a>. The medical device symbol, in accordance with ISO 15223, can be displayed on the label to facilitate recognition and ensure regulatory compliance.</p>
+      <h2 id="final-thoughts">Final Thoughts</h2>
+      <p>The MDCG has provided essential updates to support <strong>IVD manufacturers</strong> in <strong>correctly interpreting classification rules under the IVDR</strong>. By understanding and implementing these refinements, manufacturers can <strong>ensure accurate device classification, strengthen regulatory compliance, and streamline interactions with notified bodies</strong>.</p>
+      <p>For more insights on IVDR compliance and regulatory transitions, you may find these articles helpful:</p>
+      <ul>
+        <li><a href="/articles/understanding-risk-based-classification-of-in-vitro-medical-devices-under-eu-ivdr">Understanding Risk-Based Classifications for IVDs Under the IVDR</a></li>
+        <li><a href="/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period">Transitioning from IVDD to IVDR: Key Considerations</a></li>
+      </ul>
+      <p>Navigating IVDR classification can be challenging. <strong>Mantra Systems</strong> provides <strong>expert regulatory consulting, medical writing, and compliance support</strong> to help manufacturers <strong>interpret and implement</strong> the latest MDCG guidance seamlessly. <a href="/contact">Contact us today</a> for a free, confidential consultation on how we can support your IVDR compliance journey.</p>
+      ]]></content><author><name>chandini-vk</name></author><category term="IVDR" /><summary type="html"><![CDATA[We detail how this revision ensures manufacturers, notified bodies, and health institutions have a clearer regulatory framework.]]></summary></entry><entry><title type="html">Top 5 Common Pitfalls to Avoid During Risk Assessment</title><link href="https://www.mantrasystems.co.uk/articles/top-5-risk-assessment-pitfalls-how-to-avoid-them" rel="alternate" type="text/html" title="Top 5 Common Pitfalls to Avoid During Risk Assessment" /><published>2025-03-26T00:00:00+00:00</published><updated>2025-03-26T10:48:01+00:00</updated><id>https://www.mantrasystems.co.uk/articles/top-5-risk-assessment-pitfalls-how-to-avoid-them</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/top-5-risk-assessment-pitfalls-how-to-avoid-them"><![CDATA[<p>A medical device-specific risk assessment uses the <a href="https://www.iso.org/standard/72704.html">ISO 14971 standard</a>, which provides guidance for producing and maintaining a risk management file.</p>
+    <p>A risk assessment is a process used to identify, analyse, and mitigate risk in the design and development process to enable the sale of safe and successful medical devices. <a href="/eu-mdr-compliance/risk-management">Risk assessment</a> ensures that all potential hazards are identified and mitigated to protect patient safety. However, manufacturers often encounter mistakes along the way that can compromise the effectiveness of the assessment and delay product launch. To help you navigate the risk management process smoothly, here are the <strong>Top 5 Pitfalls</strong> to avoid during the risk assessment of your medical devices.</p>
     <figure>
-      <img src="/assets/images/content/articles/inline/md-logo.svg" alt="Medical Device logo." loading="lazy" width="200" height="137" />
+      <img src="/assets/images/content/articles/inline/5-pitfalls-for-risk-assessment.svg" alt="Diagram highlighting the 5 pitfalls for risk assessment." loading="lazy" width="498" height="552" />
     </figure>
-    <p>Additionally, manufacturers must adhere to labelling regulations outlined in <a href="https://www.linkedin.com/pulse/guide-general-performance-safety-requirements-gsprs-mantrasystems-f69fe/">GSPR</a> 23.1(a) and GSPR 20.1(a). These guidelines specify that certain label information must also be included in the Instructions for Use (IFU), and any symbols used on the label may require an explanation within the IFU.</p>
-    <h2 id="substances-specific-information">Substances Specific Information</h2>
-    <p>The label must also specify if the device contains or incorporates any of the following substances:</p>
-    <figure>
-      <img src="/assets/images/content/articles/inline/substances-for-device.svg" alt="Does the device contain specific substances? decision diagram." loading="lazy" width="556" height="264" />
-    </figure>
-    <h2 id="label-marking-requirements-iso-204172021">Label Marking Requirements (ISO 20417:2021)</h2>
-    <p><a href="https://www.iso.org/standard/67943.html">ISO 20417:2021</a> defines a label as “written, printed, or graphic information appearing on the item itself, on the packaging of each item, or on the packaging of multiple items.” According to this standard, manufacturers must ensure that the device is marked with the relevant information, unless:</p>
+    <h2 id="1-failing-to-identify-all-potential-hazards">1. Failing to Identify All Potential Hazards</h2>
+    <p>To begin a risk assessment, a comprehensive identification of potential hazards that could arise at any stage of the device’s lifecycle should be conducted. This involves documenting known and foreseeable hazards related to the medical device, considering its intended use, foreseeable misuse, and safety characteristics. A significant pitfall occurs here when manufacturers underestimate these hazards, in turn leading to an incomplete risk assessment.</p>
+    <p><strong>How to avoid this:</strong></p>
+    <p>Ensure cross-disciplinary teams are engaged (e.g., engineering, clinical, regulatory experts). This will ensure a thorough hazard analysis. Consider all potential risks, including those related to device malfunction, misuse, environmental factors, and human error.</p>
+    <h2 id="2-insufficient-documentation-and-traceability">2. Insufficient Documentation and Traceability</h2>
+    <p><a href="/enable-ce-mark/online-video-training-courses/risk-management">Clear documentation</a> of the risk management process is required for regulatory authorities, e.g., Notified Bodies, to review. <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745">Article 10 of the EU MDR</a> requires all manufacturers to establish, document, implement, and maintain a system for Risk Management. A frequent pitfall here is failing to maintain proper documentation of hazard identification, risk analysis, and control measures. This, in turn, will lead to non-compliance and delays.</p>
+    <p><strong>How to avoid this:</strong></p>
+    <p>Confirm that every step of the risk management process is documented in detail. Alongside this, you can use risk management tools, e.g., FMEA or risk matrices, to track the rationale behind each decision. This will allow for full traceability throughout the device lifecycle.</p>
+    <p>Maintaining and updating a Risk Management strategy requires scheduled review and appraisal sessions to analyse system suitability. The clinical evaluation cycle offers an opportunity to assimilate Risk Management data collected and to re-perform a benefit-risk analysis of the device. Any updates or changes to the process must be reflected in documentation and disseminated across the organisation to ensure the changes are implemented.</p>
+    <h2 id="3-underestimating-risk-acceptability-criteria">3. Underestimating Risk Acceptability Criteria</h2>
+    <p>Determining whether a risk is acceptable or not is crucial in risk assessment. During risk evaluation, the manufacturer must assess estimated risks for each hazardous situation and check if they meet the criteria in the risk management plan.</p>
+    <p>Setting inappropriate risk acceptance thresholds can directly impact both patient safety and product timelines. If the acceptable risk is set too high, the device may pose a significant threat to users, leading to potential harm or regulatory non-compliance. On the other hand, being too cautious and lowering the threshold could result in unnecessary design changes or delays in the approval process, even for risks that are statistically insignificant.</p>
+    <p><strong>How to avoid this:</strong></p>
+    <p>Risk acceptance should be based on both regulatory requirements and real-world clinical needs. The criteria should be proportional to the severity and likelihood of the identified risks. A low-risk device may have higher acceptable risk levels, while a high-risk device, such as a life-supporting medical device, must have stringent limits. Tools like risk matrices can help categorise and prioritise risks by their severity and probability, ensuring a rational and evidence-based approach to setting acceptability levels.</p>
+    <h2 id="4-ignoring-post-market-risks">4. Ignoring Post-Market Risks</h2>
+    <p>Many manufacturers place a significant emphasis on pre-market risks, neglecting the post-market risks that may arise once the device is in use by patients or healthcare professionals. The manufacturer must review all collected post-market information, focusing on safety relevance. This aims to identify unrecognised hazards not initially identified, hazardous situations with now-unacceptable estimated risks, and cases where the overall residual risk is no longer acceptable relative to intended use benefits.</p>
+    <p><strong>How to avoid:</strong></p>
+    <p>Ensure you incorporate a robust <a href="/eu-mdr-compliance/post-market-surveillance-pms">post-market surveillance plan</a> into your risk management strategy. As well as this, make sure you set up systems to monitor and track device performance, adverse events, and potential hazards once the product is on the market.</p>
+    <h2 id="5-neglecting-risk-control-and-mitigation-strategies">5. Neglecting Risk Control and Mitigation Strategies</h2>
+    <p>The identification of hazards is just one part of the risk management process. The next critical phase is the implementation of effective risk controls, which is necessary to reduce identified risks to acceptable levels. Failing to implement effective controls or using controls that are impractical or inadequate is a common trap. This can lead to unresolved risks that may jeopardise patient safety, compromise device effectiveness, and increase the likelihood of regulatory non-compliance.</p>
+    <p><strong>How to avoid:</strong></p>
+    <p>To avoid neglecting risk control strategies, it’s essential to follow a structured approach that aligns with recognised best practices and regulatory standards. Here are some practical steps:</p>
     <ul>
-      <li>The size of the device does not allow for fixation of the information.</li>
-      <li>The nature of the outer surface of the device does not allow for the information to be fixed.</li>
-      <li>The omission of the markings does not negatively affect the benefit-risk balance as per <a href="https://www.iso.org/standard/72704.html">ISO 14971:2019</a>.</li>
+      <li>Start by prioritising the risks that need mitigation based on their severity and probability of occurrence.</li>
+      <li>Evaluate the effectiveness of controls. This can include pre-market validation through clinical trials, in-vitro testing, and failure testing, as well as post-market monitoring to ensure that controls remain effective over time.</li>
+      <li>For each identified risk, provide a rationale for the selected control, how it works to mitigate the hazard, and how its effectiveness will be measured.</li>
     </ul>
-    <h2 id="packaging-and-sterility-requirements">Packaging and Sterility Requirements</h2>
-    <p>Packaging plays an essential role in ensuring that medical devices remain protected during transport, storage, and handling. <a href="https://www.iso.org/standard/70799.html">ISO 11607</a> specifies requirements for the development and validation of processes for packaging medical devices. Compliance with ISO 11607 helps demonstrate conformity with essential requirements. Similar to the FDA, the EU requires compliance with ISO 10993-1 for the biological evaluation of medical device packaging materials.</p>
-    <p>EU MDR 2017/745 annex I GSPR, specifies the packaging requirements of medical devices. The requirements can be summarised as;</p>
-    <ul>
-      <li>The packaging must protect the device and maintain its integrity, ensuring it remains sterile if applicable.</li>
-      <li>Non-sterile devices must be packaged in a way that maintains their cleanliness and integrity.</li>
-      <li>The packaging must be designed to minimise contamination risks during transportation and storage.</li>
-    </ul>
-    <p>For sterile devices, the packaging must ensure the device remains sterile until the packaging is opened.</p>
-    <ul>
-      <li>The sterile packaging of a device should include the following information:</li>
-      <li>An indication to recognise the packaging as sterile.</li>
-      <li>A declaration that the device is in a sterile condition.</li>
-      <li>The method of sterilisation.</li>
-      <li>Instruction to check the instructions for use on what to do if the sterile packaging is damaged or unintentionally opened before use.</li>
-    </ul>
-    <h2 id="checklist-for-eu-mdr-medical-device-labelling">Checklist for EU MDR Medical Device Labelling</h2>
-    <p>Avoid compliance pitfalls with this checklist of essential labelling requirements for medical devices:</p>
-    <table>
-      <thead>
-        <tr>
-          <th style="text-align: left">Key Requirement</th>
-          <th style="text-align: left">Yes/No</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td style="text-align: left">Product name</td>
-          <td style="text-align: left"> </td>
-        </tr>
-        <tr>
-          <td style="text-align: left">Product’s lot number or serial number</td>
-          <td style="text-align: left"> </td>
-        </tr>
-        <tr>
-          <td style="text-align: left">All details needed for a user to identify the device, the contents of its packaging and the intended purpose of the device</td>
-          <td style="text-align: left"> </td>
-        </tr>
-        <tr>
-          <td style="text-align: left">Contact details of the manufacturer (e.g., name and address)</td>
-          <td style="text-align: left"> </td>
-        </tr>
-        <tr>
-          <td style="text-align: left">In the case of non-EU-based manufacturers, the name and address of their authorised representative</td>
-          <td style="text-align: left"> </td>
-        </tr>
-        <tr>
-          <td style="text-align: left">Where relevant, information per Section 10.4.5. of the MDR</td>
-          <td style="text-align: left"> </td>
-        </tr>
-        <tr>
-          <td style="text-align: left">The <a href="/articles/decoding-udi-ultimate-guide-to-smarter-medical-device-labelling">UDI carrier</a> referred to in Part C of Annex VII of the MDR</td>
-          <td style="text-align: left"> </td>
-        </tr>
-        <tr>
-          <td style="text-align: left">An indication of any special storage or handling conditions</td>
-          <td style="text-align: left"> </td>
-        </tr>
-        <tr>
-          <td style="text-align: left">A clear indication of the time limit for using the device safely, or where this is not applicable – the date of manufacture</td>
-          <td style="text-align: left"> </td>
-        </tr>
-        <tr>
-          <td style="text-align: left">If the product is supplied in a sterile condition, an indication of its sterile state and method of sterilisation</td>
-          <td style="text-align: left"> </td>
-        </tr>
-        <tr>
-          <td style="text-align: left">An indication if the product is for single-use</td>
-          <td style="text-align: left"> </td>
-        </tr>
-        <tr>
-          <td style="text-align: left">An indication if the device is custom-made or intended for clinical investigation only</td>
-          <td style="text-align: left"> </td>
-        </tr>
-        <tr>
-          <td style="text-align: left">Other warnings and precautions to be taken that need to be brought to the user’s immediate attention</td>
-          <td style="text-align: left"> </td>
-        </tr>
-      </tbody>
-    </table>
-    <h2 id="why-is-medical-device-labelling-so-important">Why is medical device labelling so important?</h2>
-    <p>For medical devices to be used safely and effectively, it is crucial that patients, caregivers, and healthcare providers receive clear and concise instructions, guidance, and warnings. Failure to follow these instructions, or mishandling the device, can result in malfunction, injury, or even death. While some mistakes may cause severe harm, even minor errors can impact patient outcomes in significant ways.</p>
-    <p>The well-being of the user must always be the primary concern for those involved in the manufacturing and design of medical devices. Effective labelling is essential in preventing misuse and ensuring proper usage. Moreover, complying with labelling standards isn’t just about safety—it also helps manufacturers meet regulatory requirements, avoiding costly delays, recalls, or legal issues.</p>
-    <h2 id="the-final-stamp-of-approval-on-labelling">The Final Stamp of Approval on Labelling</h2>
-    <p>Labelling and packaging are critical aspects of medical device regulation, ensuring both compliance with the EU MDR and safety for patients and users. Medical device manufacturers must adhere to the extensive labelling requirements, including clear information on the device’s identity, use, storage, and associated risks. Failure to comply with these requirements can lead to regulatory challenges and safety concerns. By adhering to the EU MDR labelling and packaging guidelines, manufacturers can ensure their devices are compliant, safe, and ready for market entry.</p>
-    <p>Need expert guidance on medical device labeling? Mantra Systems is here to help. Our tailored solutions ensure your devices meet all regulatory requirements while streamlining compliance processes. <a href="/contact">Reach out today for tailored solutions!</a></p>
-    ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[Labelling and packaging are critical elements to ensuring safety, compliance, and ease of use.]]></summary></entry><entry><title type="html">European Commission Guidelines on Prohibited Artificial Intelligence Practices</title><link href="https://www.mantrasystems.co.uk/articles/european-commission-guidelines-on-prohibited-artificial-intelligence-practices" rel="alternate" type="text/html" title="European Commission Guidelines on Prohibited Artificial Intelligence Practices" /><published>2025-03-18T00:00:00+00:00</published><updated>2025-03-18T12:16:10+00:00</updated><id>https://www.mantrasystems.co.uk/articles/european-commission-guidelines-on-prohibited-artificial-intelligence-practices</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/european-commission-guidelines-on-prohibited-artificial-intelligence-practices"><![CDATA[<p>The Regulation (EU) 2024/1689 artificial intelligence (AI) Act aims to promote innovation and uptake of AI while ensuring high protection of health, safety, and fundamental rights. It classifies AI systems into four risk categories which are unacceptable risk, high risk, transparency risk and minimal to no risk.</p>
+    <h2 id="final-thoughts-mastering-risk-assessment">Final Thoughts: Mastering Risk Assessment</h2>
+    <p>By carefully identifying all potential hazards, setting realistic risk acceptability criteria, and implementing robust mitigation strategies, you can significantly reduce the likelihood of regulatory setbacks and safety issues. A proactive and comprehensive approach to risk management not only protects patients but also streamlines the path to market, helping your device succeed in a competitive landscape. Remember, risk assessment is an ongoing process that requires constant vigilance and adaptation, so stay committed to continuous improvement. Please <a href="/contact">contact us if you need any help with risk assessment</a> or any medical device regulation issue.</p>
+    ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[Learn how to sidestep costly mistakes which manufacturers commonly make. From hazard ID to post-market surveillance, we help you improve safety and speed up approvals.]]></summary></entry><entry><title type="html">Labelling 101: A Comprehensive Overview for Medical Device Manufacturers</title><link href="https://www.mantrasystems.co.uk/articles/labelling-101-a-comprehensive-overview-form-medical-device-manufacturers" rel="alternate" type="text/html" title="Labelling 101: A Comprehensive Overview for Medical Device Manufacturers" /><published>2025-03-21T00:00:00+00:00</published><updated>2025-03-20T21:40:34+00:00</updated><id>https://www.mantrasystems.co.uk/articles/labelling-101-a-comprehensive-overview-form-medical-device-manufacturers</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/labelling-101-a-comprehensive-overview-form-medical-device-manufacturers"><![CDATA[<p>Labelling is a crucial aspect of medical device compliance, ensuring that essential information is effectively communicated to users. Labelling includes written, printed, or graphic details on the device itself, its packaging, or accompanying materials such as Instructions for Use (IFU). Regulatory bodies require manufacturers to provide clear and accurate labelling to enhance patient safety, facilitate proper usage, and comply with international standards.</p>
+  <h2 id="medical-device-labelling-standard-iso-15223-12021">Medical Device Labelling Standard: ISO 15223-1:2021</h2>
+  <p><a href="https://www.iso.org/standard/77326.html">ISO 15223-1</a> sets out requirements for symbols used in medical device labelling to communicate information about the safe and effective use of devices. The latest version, ISO 15223-1:2021, includes additional symbols to comply with the requirements of <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32017R0745">EU MDR 2017/745</a>.</p>
+  <p>According to the ISO 15223-1 standard, medical device labelling symbols are organised into seven categories:</p>
+  <ul>
+    <li><strong>Manufacturing:</strong> Symbols related to the manufacturing process of the device.</li>
+    <li><strong>Storage:</strong> Symbols indicating specific storage conditions for the device.</li>
+    <li><strong>Safe use:</strong> Symbols providing information on the safe and proper use of the device.</li>
+    <li><strong>Sterility:</strong> Symbols indicating the sterile condition of the device or instructions related to sterility.</li>
+    <li><strong>IVD specific:</strong> Symbols specific to in vitro diagnostic devices.</li>
+    <li><strong>Transfusion/Infusion:</strong> Symbols related to transfusion or infusion procedures.</li>
+    <li><strong>Others:</strong> Symbols that do not fall into the above categories but are still relevant to medical device labelling.</li>
+  </ul>
+  <p>Standardised symbols help manufacturers effectively communicate vital information to users, enhancing safety and reducing risks of errors or misinterpretation.</p>
+  <p>Regulatory requirements mandate that devices must be clearly identifiable as <a href="https://www.linkedin.com/pulse/my-product-medical-device-mantrasystems-fbjae/">medical devices</a>. The medical device symbol, in accordance with ISO 15223, can be displayed on the label to facilitate recognition and ensure regulatory compliance.</p>
+  <figure>
+    <img src="/assets/images/content/articles/inline/md-logo.svg" alt="Medical Device logo." loading="lazy" width="200" height="137" />
+  </figure>
+  <p>Additionally, manufacturers must adhere to labelling regulations outlined in <a href="https://www.linkedin.com/pulse/guide-general-performance-safety-requirements-gsprs-mantrasystems-f69fe/">GSPR</a> 23.1(a) and GSPR 20.1(a). These guidelines specify that certain label information must also be included in the Instructions for Use (IFU), and any symbols used on the label may require an explanation within the IFU.</p>
+  <h2 id="substances-specific-information">Substances Specific Information</h2>
+  <p>The label must also specify if the device contains or incorporates any of the following substances:</p>
+  <figure>
+    <img src="/assets/images/content/articles/inline/substances-for-device.svg" alt="Does the device contain specific substances? decision diagram." loading="lazy" width="556" height="264" />
+  </figure>
+  <h2 id="label-marking-requirements-iso-204172021">Label Marking Requirements (ISO 20417:2021)</h2>
+  <p><a href="https://www.iso.org/standard/67943.html">ISO 20417:2021</a> defines a label as “written, printed, or graphic information appearing on the item itself, on the packaging of each item, or on the packaging of multiple items.” According to this standard, manufacturers must ensure that the device is marked with the relevant information, unless:</p>
+  <ul>
+    <li>The size of the device does not allow for fixation of the information.</li>
+    <li>The nature of the outer surface of the device does not allow for the information to be fixed.</li>
+    <li>The omission of the markings does not negatively affect the benefit-risk balance as per <a href="https://www.iso.org/standard/72704.html">ISO 14971:2019</a>.</li>
+  </ul>
+  <h2 id="packaging-and-sterility-requirements">Packaging and Sterility Requirements</h2>
+  <p>Packaging plays an essential role in ensuring that medical devices remain protected during transport, storage, and handling. <a href="https://www.iso.org/standard/70799.html">ISO 11607</a> specifies requirements for the development and validation of processes for packaging medical devices. Compliance with ISO 11607 helps demonstrate conformity with essential requirements. Similar to the FDA, the EU requires compliance with ISO 10993-1 for the biological evaluation of medical device packaging materials.</p>
+  <p>EU MDR 2017/745 annex I GSPR, specifies the packaging requirements of medical devices. The requirements can be summarised as;</p>
+  <ul>
+    <li>The packaging must protect the device and maintain its integrity, ensuring it remains sterile if applicable.</li>
+    <li>Non-sterile devices must be packaged in a way that maintains their cleanliness and integrity.</li>
+    <li>The packaging must be designed to minimise contamination risks during transportation and storage.</li>
+  </ul>
+  <p>For sterile devices, the packaging must ensure the device remains sterile until the packaging is opened.</p>
+  <ul>
+    <li>The sterile packaging of a device should include the following information:</li>
+    <li>An indication to recognise the packaging as sterile.</li>
+    <li>A declaration that the device is in a sterile condition.</li>
+    <li>The method of sterilisation.</li>
+    <li>Instruction to check the instructions for use on what to do if the sterile packaging is damaged or unintentionally opened before use.</li>
+  </ul>
+  <h2 id="checklist-for-eu-mdr-medical-device-labelling">Checklist for EU MDR Medical Device Labelling</h2>
+  <p>Avoid compliance pitfalls with this checklist of essential labelling requirements for medical devices:</p>
+  <table>
+    <thead>
+      <tr>
+        <th style="text-align: left">Key Requirement</th>
+        <th style="text-align: left">Yes/No</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align: left">Product name</td>
+        <td style="text-align: left"> </td>
+      </tr>
+      <tr>
+        <td style="text-align: left">Product’s lot number or serial number</td>
+        <td style="text-align: left"> </td>
+      </tr>
+      <tr>
+        <td style="text-align: left">All details needed for a user to identify the device, the contents of its packaging and the intended purpose of the device</td>
+        <td style="text-align: left"> </td>
+      </tr>
+      <tr>
+        <td style="text-align: left">Contact details of the manufacturer (e.g., name and address)</td>
+        <td style="text-align: left"> </td>
+      </tr>
+      <tr>
+        <td style="text-align: left">In the case of non-EU-based manufacturers, the name and address of their authorised representative</td>
+        <td style="text-align: left"> </td>
+      </tr>
+      <tr>
+        <td style="text-align: left">Where relevant, information per Section 10.4.5. of the MDR</td>
+        <td style="text-align: left"> </td>
+      </tr>
+      <tr>
+        <td style="text-align: left">The <a href="/articles/decoding-udi-ultimate-guide-to-smarter-medical-device-labelling">UDI carrier</a> referred to in Part C of Annex VII of the MDR</td>
+        <td style="text-align: left"> </td>
+      </tr>
+      <tr>
+        <td style="text-align: left">An indication of any special storage or handling conditions</td>
+        <td style="text-align: left"> </td>
+      </tr>
+      <tr>
+        <td style="text-align: left">A clear indication of the time limit for using the device safely, or where this is not applicable – the date of manufacture</td>
+        <td style="text-align: left"> </td>
+      </tr>
+      <tr>
+        <td style="text-align: left">If the product is supplied in a sterile condition, an indication of its sterile state and method of sterilisation</td>
+        <td style="text-align: left"> </td>
+      </tr>
+      <tr>
+        <td style="text-align: left">An indication if the product is for single-use</td>
+        <td style="text-align: left"> </td>
+      </tr>
+      <tr>
+        <td style="text-align: left">An indication if the device is custom-made or intended for clinical investigation only</td>
+        <td style="text-align: left"> </td>
+      </tr>
+      <tr>
+        <td style="text-align: left">Other warnings and precautions to be taken that need to be brought to the user’s immediate attention</td>
+        <td style="text-align: left"> </td>
+      </tr>
+    </tbody>
+  </table>
+  <h2 id="why-is-medical-device-labelling-so-important">Why is medical device labelling so important?</h2>
+  <p>For medical devices to be used safely and effectively, it is crucial that patients, caregivers, and healthcare providers receive clear and concise instructions, guidance, and warnings. Failure to follow these instructions, or mishandling the device, can result in malfunction, injury, or even death. While some mistakes may cause severe harm, even minor errors can impact patient outcomes in significant ways.</p>
+  <p>The well-being of the user must always be the primary concern for those involved in the manufacturing and design of medical devices. Effective labelling is essential in preventing misuse and ensuring proper usage. Moreover, complying with labelling standards isn’t just about safety—it also helps manufacturers meet regulatory requirements, avoiding costly delays, recalls, or legal issues.</p>
+  <h2 id="the-final-stamp-of-approval-on-labelling">The Final Stamp of Approval on Labelling</h2>
+  <p>Labelling and packaging are critical aspects of medical device regulation, ensuring both compliance with the EU MDR and safety for patients and users. Medical device manufacturers must adhere to the extensive labelling requirements, including clear information on the device’s identity, use, storage, and associated risks. Failure to comply with these requirements can lead to regulatory challenges and safety concerns. By adhering to the EU MDR labelling and packaging guidelines, manufacturers can ensure their devices are compliant, safe, and ready for market entry.</p>
+  <p>Need expert guidance on medical device labeling? Mantra Systems is here to help. Our tailored solutions ensure your devices meet all regulatory requirements while streamlining compliance processes. <a href="/contact">Reach out today for tailored solutions!</a></p>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[Labelling and packaging are critical elements to ensuring safety, compliance, and ease of use.]]></summary></entry><entry><title type="html">European Commission Guidelines on Prohibited Artificial Intelligence Practices</title><link href="https://www.mantrasystems.co.uk/articles/european-commission-guidelines-on-prohibited-artificial-intelligence-practices" rel="alternate" type="text/html" title="European Commission Guidelines on Prohibited Artificial Intelligence Practices" /><published>2025-03-18T00:00:00+00:00</published><updated>2025-03-18T12:16:10+00:00</updated><id>https://www.mantrasystems.co.uk/articles/european-commission-guidelines-on-prohibited-artificial-intelligence-practices</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/european-commission-guidelines-on-prohibited-artificial-intelligence-practices"><![CDATA[<p>The Regulation (EU) 2024/1689 artificial intelligence (AI) Act aims to promote innovation and uptake of AI while ensuring high protection of health, safety, and fundamental rights. It classifies AI systems into four risk categories which are unacceptable risk, high risk, transparency risk and minimal to no risk.</p>
   <p>On 4th February 2025, the European Commission issued guidelines on prohibited AI practices established by regulation (EU) 2024/1689 (AI Act). The guidelines are important to organisations and businesses with AI systems in the EU and detail which AI practices are unacceptable.</p>
   <p>A summary of the eight prohibited AI practices, examples of AI systems to which they apply and systems that are out of scope are listed below.</p>
   <h2 id="prohibited-ai-practices">Prohibited AI practices:</h2>
@@ -611,35 +672,4 @@
   <p>Navigating the evolving landscape of IVDR compliance can be complex. These updated guidelines offer crucial clarity, streamlining the process and ensuring your devices maintain market access. From extended certificate validity to essential documentation, staying informed is key.</p>
   <p>Following these guidelines will help ensure the ongoing safety, quality, and regulatory compliance of your IVD products. To successfully navigate the transition to IVDR, be sure to explore <a href="/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period">our latest article</a> for an in-depth guide on what steps you need to take.</p>
   <p>Stay informed on the latest IVDR updates and their potential impact by subscribing to our newsletter below.</p>
-  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[The EU and the MHRA have extended the validity of IVDD certificates, allowing you more time to transition to the IVDR. We explain what this means for manufacturers.]]></summary></entry><entry><title type="html">GSPR 1: A New Era of Performance with Safety at the Core</title><link href="https://www.mantrasystems.co.uk/articles/gspr-1-a-new-era-of-performance-with-patient-safety-at-the-core" rel="alternate" type="text/html" title="GSPR 1: A New Era of Performance with Safety at the Core" /><published>2025-02-17T00:00:00+00:00</published><updated>2025-02-13T18:39:33+00:00</updated><id>https://www.mantrasystems.co.uk/articles/gspr-1-a-new-era-of-performance-with-patient-safety-at-the-core</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/gspr-1-a-new-era-of-performance-with-patient-safety-at-the-core"><![CDATA[<p>In order to be effective and successful in patient care, the safety and performance of medical devices is paramount. The General Safety and Performance Requirements (GSPRs) are a key aspect of the <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745">Medical Device Regulation (MDR)</a> and <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0746"><em>In Vitro</em> Diagnostic Medical Device Regulation (IVDR)</a>, ensuring that medical devices in the European Union (EU) meet high standards of safety and performance. In our new GSPR series, we will take an in-depth look at each of the GSPRs, outlining the key requirements to ensure compliance.</p>
-  <p>The <a href="https://www.linkedin.com/posts/mantrasystems_medicaldevices-gspr-mdr-activity-7262434101956165632-TaAy">GSPRs</a> specify the essential requirements that medical devices must meet to be placed on the market, and they cover a wide range of topics including design and manufacturing, risk management, labelling, and instructions for use. Compliance with the GSPRs is mandatory, and failure to meet these requirements can result in serious consequences, such as product recalls, fines, or legal action.</p>
-  <p>In the first article of the GSPR series, we will be taking a look at GSPR 1:</p>
-  <!-- TODO: Markup properly -->
-  <blockquote>
-    <p>“<em>Devices shall achieve the performance intended by their manufacturer and shall be designed and manufactured in such a way that, during normal conditions of use, they are suitable for their intended purpose. They shall be safe and effective and shall not compromise the clinical condition or the safety of patients, or the safety and health of users or, where applicable, other persons, provided that any risks which may be associated with their use constitute acceptable risks when weighed against the benefits to the patient and are compatible with a high level of protection of health and safety, taking into account the generally acknowledged state of the art.</em>”</p>
-  </blockquote>
-  <h2 id="understanding-gspr1-the-basics">Understanding GSPR1: The Basics</h2>
-  <p>GSPR 1 is one of the foundational requirements under the <a href="/medical-device-regulatory-consulting-services/ivdr-consulting">IVDR</a>/<a href="/medical-device-regulatory-consulting-services/mdr-consulting">MDR</a>, to regulate the safety and efficacy of medical devices in the EU. It outlines a comprehensive approach to ensuring that medical devices are safe, effective, and of high quality. This specific requirement focuses on ensuring that the design and manufacturing of these devices must prioritise safety in a way that minimises risk to both patients and users.</p>
-  <p>The regulation mandates that manufacturers must design their devices with a comprehensive risk management process in place. This includes identifying potential risks and mitigating them through:</p>
-  <ul>
-    <li><strong>Design:</strong> The design phase involves developing the device in such a way that risks to patient safety and device performance are minimised. This could mean ensuring the device operates effectively under all intended conditions, incorporating fail-safes, or using ergonomic designs that reduce the likelihood of user error.</li>
-    <li><strong>Material selection:</strong> Choosing the right materials is crucial to ensure that the device is safe for its intended use. This includes considering factors such as biocompatibility, durability, and potential for allergic reactions or other adverse events.</li>
-    <li><strong>Testing before the device can be marketed or used on patients:</strong> Extensive testing is required before the device can be marketed. This involves testing to confirm that the device meets the required safety and performance standards. Testing helps to identify any potential issues that may not have been apparent during the design or material selection phases.</li>
-  </ul>
-  <p>These safeguards are proposed to prevent harm in the short and long term.</p>
-  <h2 id="gspr1-core-principles-you-need-to-know">GSPR1: Core Principles You Need to Know</h2>
-  <ul>
-    <li><strong><a href="/enable-ce-mark/online-video-training-courses/risk-management">Risk Management</a></strong> – A robust risk management system lies at the heart of GSPR 1. All possible hazards associated with the device, including any foreseeable misuse, need to be assessed by the manufacturer. These risk assessments must be done throughout the product’s lifetime, from design and development to production and use. One of the key aims is to ensure there is a minimal likelihood of harm, and if risks are identified, they are appropriately mitigated.</li>
-    <li><strong>Quality</strong> – GSPR 1 stresses that the design and manufacturing process should ensure that the device maintains its performance for the duration of its use. The conditions that it is subjected to during its intended use should be withstood by the device, and manufacturers are to ensure its durability.</li>
-    <li><strong>Biocompatibility</strong> – GSPR 1 mandates that the materials used in medical devices must be compatible with the human body, not causing any adverse reactions. Manufacturers must ensure that the material does not provoke harmful immune responses, toxicity, or irritation, regardless of whether the device will have direct or indirect contact with the patient. Biocompatibility testing is essential to verify that the materials used will not negatively affect patients. This is especially important for implantable devices or those that are used over extended periods.</li>
-    <li><strong>Design Considerations</strong> – The design of the device plays a pivotal role in preventing user error. GSPR 1 requires that devices are designed in a way that reduces the risk of incorrect use – whether that be considerations like intuitive user interfaces, clear instructions, or an ergonomic design.</li>
-  </ul>
-  <h2 id="why-gspr1-matters-key-reasons-for-compliance">Why GSPR1 Matters: Key Reasons for Compliance</h2>
-  <p>GSPR 1 serves as a cornerstone of patient and user safety. By ensuring that safety and performance are prioritised from the earliest stages of design and manufacturing, this regulation aims to prevent potential harm before it happens.</p>
-  <p>The requirement also fosters innovation in device design by encouraging manufacturers to continuously evaluate and enhance safety features. With an emphasis on risk management and continual improvement, GSPR 1 not only meets current needs but anticipates future challenges, allowing the medical device industry to respond effectively to evolving healthcare environments and patient needs.</p>
-  <h2 id="the-bottom-line-gspr-1s-impact-on-the-future">The Bottom Line: GSPR 1’s Impact on the Future</h2>
-  <p>GSPR 1 is fundamental within the MDR and IVDR and underscores the importance of designing and manufacturing devices that prioritise the safety and performance of both patients and users of the medical device. Through rigorous risk management, thought-out material selection, and user-centred design, GSPR 1 seeks to ensure that medical devices do not pose harm to those relying on them for care.</p>
-  <p>Ultimately, GSPR 1 represents a commitment by the medical device industry to uphold the highest standards of safety and quality, fostering trust in devices that are critical to patient health and wellbeing.</p>
-  <p>If you’re unsure whether you have the necessary evidence to demonstrate conformity with GSPR requirements, don’t worry – we’re here to help! Contact us today, and our team will provide expert guidance to ensure you’re fully compliant with all relevant GSPRs.</p>
-  <p><a href="/contact">Get in touch now</a> for personalised support and peace of mind!</p>
-  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[This regulation emphasizes risk management, durable design & biocompatibility to ensure medical devices are safe and effective. GSPR 1 protects users while driving innovation in medical technology.]]></summary></entry></feed>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[The EU and the MHRA have extended the validity of IVDD certificates, allowing you more time to transition to the IVDR. We explain what this means for manufacturers.]]></summary></entry></feed>

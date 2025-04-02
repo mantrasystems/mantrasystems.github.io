@@ -1,99 +1,224 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-04-01T17:14:12+01:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">MDCG 2020-16 Revision 4: Key Updates on IVDR Classification Rules</title><link href="https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules" rel="alternate" type="text/html" title="MDCG 2020-16 Revision 4: Key Updates on IVDR Classification Rules" /><published>2025-03-28T00:00:00+00:00</published><updated>2025-03-28T10:50:34+00:00</updated><id>https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules"><![CDATA[<p>The <strong>Medical Device Coordination Group (MDCG)</strong> has released <strong>MDCG 2020-16 rev.4 - Guidance on Classification Rules for in vitro Diagnostic Medical Devices under Regulation (EU) 2017/746</strong>.</p>
-      <p>This update released in March 2025 provides comprehensive clarification on the classification rules outlined in <strong>Annex VIII</strong> of the <strong>IVDR</strong>, ensuring that manufacturers, notified bodies, and health institutions have a clear framework for classifying in vitro diagnostic (IVD) devices based on their intended purpose and inherent risk, prior to placing it on the market. Notably, the guidance addresses the classification of medical device software (MDSW) and emphasises the importance of considering devices used in combination.</p>
-      <h2 id="summary-of-key-updates">Summary of Key Updates</h2>
-      <table>
-        <thead>
-          <tr>
-            <th style="text-align: left">Rule</th>
-            <th style="text-align: left">Changes</th>
-            <th style="text-align: left">Details</th>
-            <th style="text-align: left">Impact</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td style="text-align: left">Rule 1 – Second Indent</td>
-            <td style="text-align: left">Revision of examples</td>
-            <td style="text-align: left">Updated examples to provide better clarity on the classification of IVD devices.</td>
-            <td style="text-align: left">Ensures more precise classification, reducing ambiguity for manufacturers.</td>
-          </tr>
-          <tr>
-            <td style="text-align: left">Rule 3(m)</td>
-            <td style="text-align: left">Footnote 8 modified</td>
-            <td style="text-align: left">Footnote 8 modified to refine interpretation and applicability.</td>
-            <td style="text-align: left">Improves understanding of specific classification aspects.</td>
-          </tr>
-          <tr>
-            <td style="text-align: left">Rule 4(a)</td>
-            <td style="text-align: left">Revision of examples</td>
-            <td style="text-align: left">Updated examples for self-testing devices, refining classifications based on biomarkers.</td>
-            <td style="text-align: left">Helps manufacturers align with IVDR requirements for self-testing IVDs.</td>
-          </tr>
-          <tr>
-            <td style="text-align: left">Rule 6</td>
-            <td style="text-align: left">Minor modification of the rationale and revision of examples</td>
-            <td style="text-align: left">Minor updates to rationale and refined examples for Class B IVDs.</td>
-            <td style="text-align: left">Provides a clearer framework for determining Class B device classification.</td>
-          </tr>
-          <tr>
-            <td style="text-align: left">Annex 1 and Annex 2</td>
-            <td style="text-align: left">Minor editorial changes</td>
-            <td style="text-align: left">Minor wording and structural refinements for improved readability.</td>
-            <td style="text-align: left">Enhances document clarity without changing regulatory requirements.</td>
-          </tr>
-        </tbody>
-      </table>
-      <h2 id="key-considerations-for-manufacturers">Key Considerations for Manufacturers</h2>
-      <p>The <a href="https://health.ec.europa.eu/document/download/12f9756a-1e0d-4aed-9783-d948553f1705_en?filename=md_mdcg_2020_guidance_classification_ivd-md_en.pdf">MDCG 2020-16 rev.4 guidance</a> has significant implications for <strong>IVD manufacturers</strong> as it refines how devices should be classified under IVDR.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-04-02T07:54:36+01:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Clinical Evaluation Masterclass: Overcoming Non-conformities - Episode 1</title><link href="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities" rel="alternate" type="text/html" title="Clinical Evaluation Masterclass: Overcoming Non-conformities - Episode 1" /><published>2025-04-02T00:00:00+01:00</published><updated>2025-04-01T17:44:46+01:00</updated><id>https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities"><![CDATA[<div class="video-wrap full">
+        <div class="video-insert youtube-player" data-id="3iOgkFyk-hc"></div>
+      </div>
+      <p>Clinical Evaluation Plans (CEPs) and Clinical Evaluation Reports (CERs) are critical components of medical device regulatory compliance. However, the reality is that meeting requirements isn’t always plain sailing.</p>
+      <p>Based on our experience with over 250 successful submissions, we’ve identified that overcoming clinical evaluation non-conformities is one of the major challenges manufacturers face during the device approval journey.</p>
+      <h2 id="what-is-a-non-conformity-in-clinical-evaluation">What is a Non-Conformity in Clinical Evaluation?</h2>
+      <p>A non-conformity arises when a CEP or CER fails to meet MDR requirements. Non-conformities signal that the evaluation does not yet adequately demonstrate a medical device’s safety and performance or that full alignment with regulatory obligations has not been shown, requiring correction before approval.</p>
+      <h2 id="the-impact-of-non-conformities-on-manufacturers">The Impact of Non-Conformities on Manufacturers</h2>
+      <p>Non-conformities significantly disrupt the approval process, leading to extended review timelines, increased costs, and mandatory revision cycles. Since notified bodies (NBs) cannot accept a CEP or CER with unresolved non-conformities, addressing them is critical for market access.</p>
+      <h2 id="a-helping-hand">A helping hand</h2>
+      <p>Our new video series applies our deep experience to help manufacturers proactively identify and fix these issues for smoother audits and faster certifications. This series breaks down the most common clinical evaluation non-conformities, explains <em>why</em> they keep happening, and most importantly, shows you <em>how to fix them</em> for good. Each episode provides step-by-step guidance to help you avoid these pitfalls in your CER submissions.</p>
+      <h2 id="episode-1-safety-and-performance-objectives-lack-specific-and-measurable-acceptance-criteria">Episode 1: “Safety and Performance Objectives Lack Specific and Measurable Acceptance Criteria”</h2>
+      <p>This frequently cited regulatory observation typically reflects not an actual safety or performance deficiency, but rather insufficiently defined evaluation parameters. The episode will address:</p>
       <ul>
-        <li><strong>Accurate Classification Criteria</strong> – The revision of examples under <strong>Rules 1, 4(a), and 6</strong> helps manufacturers correctly classify their IVD devices, reducing uncertainty. Manufacturers must <strong>review and adapt</strong> classifications, ensuring conformity with <strong>IVDR and notified body requirements</strong>.</li>
-        <li><strong>More Precise Risk Assessment</strong> – Manufacturers need to reassess whether their devices fall into a different risk class, impacting regulatory requirements.</li>
-        <li><strong>Improved Compliance with IVDR</strong> – The minor changes provide clarity but do not fundamentally alter the classification process. However, manufacturers should review their classification decisions against the revised examples.</li>
-        <li><strong>Potential Impact on Notified Body Review</strong> – If an IVD device’s classification is affected by the updated examples or rationale, additional <strong>notified body consultation</strong> may be required for conformity assessments.</li>
+        <li>Fundamental concepts of safety and performance objectives</li>
+        <li>Deriving safety and performance objectives using weighted values</li>
+        <li>Defining “specific” and “measurable” objectives</li>
+        <li>Practical approaches to establishing and implementing acceptance criteria</li>
       </ul>
-      <h2 id="final-thoughts">Final Thoughts</h2>
-      <p>The MDCG has provided essential updates to support <strong>IVD manufacturers</strong> in <strong>correctly interpreting classification rules under the IVDR</strong>. By understanding and implementing these refinements, manufacturers can <strong>ensure accurate device classification, strengthen regulatory compliance, and streamline interactions with notified bodies</strong>.</p>
-      <p>For more insights on IVDR compliance and regulatory transitions, you may find these articles helpful:</p>
-      <ul>
-        <li><a href="/articles/understanding-risk-based-classification-of-in-vitro-medical-devices-under-eu-ivdr">Understanding Risk-Based Classifications for IVDs Under the IVDR</a></li>
-        <li><a href="/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period">Transitioning from IVDD to IVDR: Key Considerations</a></li>
-      </ul>
-      <p>Navigating IVDR classification can be challenging. <strong>Mantra Systems</strong> provides <strong>expert regulatory consulting, medical writing, and compliance support</strong> to help manufacturers <strong>interpret and implement</strong> the latest MDCG guidance seamlessly. <a href="/contact">Contact us today</a> for a free, confidential consultation on how we can support your IVDR compliance journey.</p>
-      ]]></content><author><name>chandini-vk</name></author><category term="IVDR" /><summary type="html"><![CDATA[We detail how this revision ensures manufacturers, notified bodies, and health institutions have a clearer regulatory framework.]]></summary></entry><entry><title type="html">Top 5 Common Pitfalls to Avoid During Risk Assessment</title><link href="https://www.mantrasystems.co.uk/articles/top-5-risk-assessment-pitfalls-how-to-avoid-them" rel="alternate" type="text/html" title="Top 5 Common Pitfalls to Avoid During Risk Assessment" /><published>2025-03-26T00:00:00+00:00</published><updated>2025-03-26T10:48:01+00:00</updated><id>https://www.mantrasystems.co.uk/articles/top-5-risk-assessment-pitfalls-how-to-avoid-them</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/top-5-risk-assessment-pitfalls-how-to-avoid-them"><![CDATA[<p>A medical device-specific risk assessment uses the <a href="https://www.iso.org/standard/72704.html">ISO 14971 standard</a>, which provides guidance for producing and maintaining a risk management file.</p>
-    <p>A risk assessment is a process used to identify, analyse, and mitigate risk in the design and development process to enable the sale of safe and successful medical devices. <a href="/eu-mdr-compliance/risk-management">Risk assessment</a> ensures that all potential hazards are identified and mitigated to protect patient safety. However, manufacturers often encounter mistakes along the way that can compromise the effectiveness of the assessment and delay product launch. To help you navigate the risk management process smoothly, here are the <strong>Top 5 Pitfalls</strong> to avoid during the risk assessment of your medical devices.</p>
-    <figure>
-      <img src="/assets/images/content/articles/inline/5-pitfalls-for-risk-assessment.svg" alt="Diagram highlighting the 5 pitfalls for risk assessment." loading="lazy" width="498" height="552" />
-    </figure>
-    <h2 id="1-failing-to-identify-all-potential-hazards">1. Failing to Identify All Potential Hazards</h2>
-    <p>To begin a risk assessment, a comprehensive identification of potential hazards that could arise at any stage of the device’s lifecycle should be conducted. This involves documenting known and foreseeable hazards related to the medical device, considering its intended use, foreseeable misuse, and safety characteristics. A significant pitfall occurs here when manufacturers underestimate these hazards, in turn leading to an incomplete risk assessment.</p>
-    <p><strong>How to avoid this:</strong></p>
-    <p>Ensure cross-disciplinary teams are engaged (e.g., engineering, clinical, regulatory experts). This will ensure a thorough hazard analysis. Consider all potential risks, including those related to device malfunction, misuse, environmental factors, and human error.</p>
-    <h2 id="2-insufficient-documentation-and-traceability">2. Insufficient Documentation and Traceability</h2>
-    <p><a href="/enable-ce-mark/online-video-training-courses/risk-management">Clear documentation</a> of the risk management process is required for regulatory authorities, e.g., Notified Bodies, to review. <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745">Article 10 of the EU MDR</a> requires all manufacturers to establish, document, implement, and maintain a system for Risk Management. A frequent pitfall here is failing to maintain proper documentation of hazard identification, risk analysis, and control measures. This, in turn, will lead to non-compliance and delays.</p>
-    <p><strong>How to avoid this:</strong></p>
-    <p>Confirm that every step of the risk management process is documented in detail. Alongside this, you can use risk management tools, e.g., FMEA or risk matrices, to track the rationale behind each decision. This will allow for full traceability throughout the device lifecycle.</p>
-    <p>Maintaining and updating a Risk Management strategy requires scheduled review and appraisal sessions to analyse system suitability. The clinical evaluation cycle offers an opportunity to assimilate Risk Management data collected and to re-perform a benefit-risk analysis of the device. Any updates or changes to the process must be reflected in documentation and disseminated across the organisation to ensure the changes are implemented.</p>
-    <h2 id="3-underestimating-risk-acceptability-criteria">3. Underestimating Risk Acceptability Criteria</h2>
-    <p>Determining whether a risk is acceptable or not is crucial in risk assessment. During risk evaluation, the manufacturer must assess estimated risks for each hazardous situation and check if they meet the criteria in the risk management plan.</p>
-    <p>Setting inappropriate risk acceptance thresholds can directly impact both patient safety and product timelines. If the acceptable risk is set too high, the device may pose a significant threat to users, leading to potential harm or regulatory non-compliance. On the other hand, being too cautious and lowering the threshold could result in unnecessary design changes or delays in the approval process, even for risks that are statistically insignificant.</p>
-    <p><strong>How to avoid this:</strong></p>
-    <p>Risk acceptance should be based on both regulatory requirements and real-world clinical needs. The criteria should be proportional to the severity and likelihood of the identified risks. A low-risk device may have higher acceptable risk levels, while a high-risk device, such as a life-supporting medical device, must have stringent limits. Tools like risk matrices can help categorise and prioritise risks by their severity and probability, ensuring a rational and evidence-based approach to setting acceptability levels.</p>
-    <h2 id="4-ignoring-post-market-risks">4. Ignoring Post-Market Risks</h2>
-    <p>Many manufacturers place a significant emphasis on pre-market risks, neglecting the post-market risks that may arise once the device is in use by patients or healthcare professionals. The manufacturer must review all collected post-market information, focusing on safety relevance. This aims to identify unrecognised hazards not initially identified, hazardous situations with now-unacceptable estimated risks, and cases where the overall residual risk is no longer acceptable relative to intended use benefits.</p>
-    <p><strong>How to avoid:</strong></p>
-    <p>Ensure you incorporate a robust <a href="/eu-mdr-compliance/post-market-surveillance-pms">post-market surveillance plan</a> into your risk management strategy. As well as this, make sure you set up systems to monitor and track device performance, adverse events, and potential hazards once the product is on the market.</p>
-    <h2 id="5-neglecting-risk-control-and-mitigation-strategies">5. Neglecting Risk Control and Mitigation Strategies</h2>
-    <p>The identification of hazards is just one part of the risk management process. The next critical phase is the implementation of effective risk controls, which is necessary to reduce identified risks to acceptable levels. Failing to implement effective controls or using controls that are impractical or inadequate is a common trap. This can lead to unresolved risks that may jeopardise patient safety, compromise device effectiveness, and increase the likelihood of regulatory non-compliance.</p>
-    <p><strong>How to avoid:</strong></p>
-    <p>To avoid neglecting risk control strategies, it’s essential to follow a structured approach that aligns with recognised best practices and regulatory standards. Here are some practical steps:</p>
+      <p>Coming in Episode 2: We’ll tackle another frequent non-conformity, “<em>Appraisal of literature articles has not been conducted appropriately</em>” showing you how to strengthen your literature review process. <a href="/newsletter">Sign up to our newsletter now so you don’t miss out</a>.</p>
+      <hr />
+      <div class="small-text">
+        <strong>Transcript follows:</strong>
+        <p>Okay, hi everyone, it’s Paul here from Mantra Systems. Welcome to a brand new series that we’re running on how to fix <strong>clinical evaluation non-conformities</strong>.</p>
+        <p>The idea behind this series is to equip you with the capability to, first of all, avoid common non-conformities that are seen in medical device clinical evaluations. And then secondly, if you have been unfortunate enough to receive one, by the end of the series you should hopefully have a powerful strategy for correcting them and moving on to full acceptance of your CE.</p>
+        <p>So, just for this first episode, we’re going to cover a few basics, and it’s worth starting with the question: <em>What is a clinical evaluation non-conformity?</em></p>
+        <p>Well, obviously, apart from Class I devices, clinical evaluation plans and clinical evaluation reports need to be submitted for review by a notified body. And a non-conformity — or NC for short — is when conformity with requirements has not been adequately demonstrated. A non-conformity requires correction and then resubmission of the CEP and CER. Resolution — certainly of major non-conformities — is necessary in order for the clinical evaluation to be accepted.</p>
+        <p>So, it is a really important topic, and non-conformities under MDR are quite common. But the problem with non-conformities is that sometimes the questions — which is how they’re often manifest, it’s a question from a reviewer — they can be difficult to interpret. Sometimes it’s not clear exactly what a reviewer means, and it may be unclear how to fully address them as well.</p>
+        <p>A failure to resolve non-conformities in full may lead to a further round of review following yet another resubmission, which is just multiplying costs, losing time, and it leads to stress and worry — because it is anxiety-inducing trying to get a clinical evaluation through approval.</p>
+        <p>Okay, so the aim of the series is to work through common non-conformities one at a time, and to dig deep into what they mean and how to solve or avoid them. The series and the principles within it link over to general principles for optimal conduct of clinical evaluation under the MDR.</p>
+        <p>So, let’s start with our first example non-conformity. This one is a really common one, and it states:</p>
+        <blockquote>
+          <p><em>“Safety and performance objectives do not appear to have specific and measurable acceptance criteria.”</em></p>
+        </blockquote>
+        <p>Breaking that down, we need to understand exactly what the question means and how to address it. It’s possible to break it down into the following bullet points:</p>
+        <ul>
+          <li>What actually are safety and performance objectives?</li>
+          <li>What in this context does “specific and measurable” mean?</li>
+          <li>What are acceptance criteria?</li>
+        </ul>
+        <p>And importantly, of course, it needs to go beyond just knowing what they are but: <strong>How do we derive and analyse them?</strong></p>
+        <p>So, let’s begin with safety and performance objectives. What are safety and performance objectives?</p>
+        <p>Well, these ultimately are benchmark values against which the device under evaluation will be compared. They are derived from the state-of-the-art literature review, which is an essential component of clinical evaluation.</p>
+        <p>Technically speaking, objectives have two components. They’re derived of a clinical outcome parameter — which is a qualitative concept or type of outcome — and then attached to that, there will be a quantitative value that forms the actual objective.</p>
+        <p>As per the non-conformity, safety and performance objectives must be specific and measurable. Now, that covers a lot of ground, so let’s take an example and break this down.</p>
+        <p>An example might be of a completed safety — or in this case a performance — objective:</p>
+        <blockquote>
+          <p>“Increasing walking distance in meters at six weeks post-procedure of 61.46m.”</p>
+        </blockquote>
+        <p>You can see within this the two components: the “increase in walking distance in meters at six weeks” — that’s not a value, okay? It contains a number, but that’s just because we need to compare like with like. That’s not the actual objective.</p>
+        <p>The clinical outcome parameter is a thing, a concept, something you might measure, something to which you might attach a value. And then the second part of it is the actual performance outcome, which is quantitative.</p>
+        <p>These two things together constitute a specific and measurable safety or performance objective.</p>
+        <p>So, how are these derived? Well, they’re derived during the analysis stage of a state-of-the-art literature review. We’re going to go on to a working example in a moment to show exactly how they are derived.</p>
+        <p>Remember, a clinical outcome parameter is a “thing,” and you decide upon those by looking for outcomes that are seen in a comparable form across multiple sources within the state-of-the-art literature review. If you have four, five, six sources all reporting the same type of outcome, it’s a strong candidate for a clinical outcome parameter.</p>
+        <p>In the state-of-the-art protocol, there should be a method for determining what constitutes a clinical outcome parameter. That, of course, would feed into the clinical evaluation plan.</p>
+        <p>Safety and performance objectives then are weighted mean values attached to those parameters. As we’ve seen before, you need both parts.</p>
+        <p>It’s worth at this point just reflecting on the principles of an effective state-of-the-art literature review. Because there’s no point producing state-of-the-art safety or performance outcomes that have not been derived properly.</p>
+        <p>We’ll go into this in another video, but a state-of-the-art literature review requires:</p>
+        <ul>
+          <li>a detailed protocol</li>
+          <li>use of a validated method to define research questions and search terms (one such method is PICCO)</li>
+          <li>a well-documented literature extraction process with recording and justification of all excluded sources,</li>
+          <li>a structured appraisal — which is where we get to be very specific to the production of safety and performance objectives, and</li>
+          <li>the analysis — which is where the actual objectives are produced.</li>
+        </ul>
+        <p>But we cover that in a lot more detail in a separate video.</p>
+        <p>So, let’s look at a working example of how safety and performance objectives are derived.</p>
+        <p>Here is fictional data. Let’s say we’ve done a state-of-the-art literature review, and sticking with the same example, we found four publications that all reported a mean increase in walking distance at six weeks, and they all did it in a comparable way. Here are the mean values from each of those sources.</p>
+        <p>How do we produce a weighted mean?</p>
+        <p>You can see in the table that the way we’re going to weight it is by a representation of the quality of each of these studies, to ensure that greater weighting or prominence is given to results from higher quality studies. In order to do that, we need to produce an appraisal score.</p>
+        <p>Appraisal scores — there are lots of different ways to do this. On the next slide we’ve got, again, a simplified fictional example of how to calculate an appraisal score. You might look at different aspects of the study: you might consider study type, sample size, the use of statistical tests and whether they were appropriate, and the length of follow-up. You’d probably in reality consider other factors as well, but for the purpose of this, this will suffice.</p>
+        <p>You’ve perhaps seen this — usually these manifest as an alphanumeric code, and again, the meaning behind this code should be expressed in the literature search protocol, in the appraisal plan section. So this will all be mapped out.</p>
+        <p>Ultimately, this enables the calculation of a numerical appraisal score for each paper, with a higher number representing a higher quality study. Then those values can be imputed back into the original table with all the other values being the same.</p>
+        <p>Now we have an appraisal score by which we can weight the results from each study. That’s done fairly simply just by multiplying the actual result by the appraisal score. We do that for all of them to produce a weighted value for each study.</p>
+        <p>But we’re not quite done there, because we need to calculate a weighted mean. That’s done by taking the sum of all the weighted values and dividing that by the sum of the appraisal scores.</p>
+        <p>What we’re doing there is making the appraisal scores the denominator — they are the weighting factor that’s being applied across all studies. This means we achieve our objective of moving the weighted mean closest to the values of the highest quality studies.</p>
+        <p>In this case, that means: 3872 / 63, which gives a weighted mean of 61.46.</p>
+        <p>It’s always worth sanity checking these, but if you look at the plain mean values from each study and the appraisal scores, you’d expect it to land around the 60 mark — and that’s where it falls: 61.46.</p>
+        <p>So, that’s a simplified example of how to calculate a weighted mean for the quantitative component of a safety and performance objective.</p>
+        <p>Don’t forget, the non-conformity required that we produce safety and performance objectives that are specific and measurable.</p>
+        <p>Let’s just reflect on what that means:</p>
+        <ul>
+          <li>Specific means unambiguous, clear, and would be consistently interpreted as meaning the same thing.</li>
+          <li>Measurable means it contains a value — a quantitative value — against which another value from another device can be measured.</li>
+        </ul>
+        <p>So we have this in this case. It’s clear that that is both specific and measurable, and that’s why we included reference to six weeks — to ensure we’re comparing like with like.</p>
+        <p>That leaves us to consider the final aspect of the non-conformity, which was reference to acceptance criteria.</p>
+        <p>An acceptance criteria basically defines when safety or performance of the device under evaluation are acceptable in comparison to state-of-the-art.</p>
+        <p>What we’re doing here is setting out a means for comparing the device-under-evaluation outcomes with the state-of-the-art objectives for specified clinical outcome parameters. By now, all of these terms should have a meaning attached to them.</p>
+        <p>So, the clinical evaluation plan needs to contain an analysis plan for how this comparison will be done. Suffice to say that the outcomes for the device under evaluation are calculated by weighted means using a very similar method that we used for the state-of-the-art objectives.</p>
+        <p>And acceptance — this is the key part — acceptance can be defined as showing (statistically) that the outcomes for the device under evaluation are non-inferior to objectives derived from the SOA. We don’t need to show superiority — we’re just showing non-inferiority. That’s a key distinction.</p>
+        <p>Let’s take a final example, then, working this through.</p>
+        <p>We can see:</p>
+        <ul>
+          <li>Increasing walking distance (spelled correctly this time) of 61.46,</li>
+          <li>and in this example there were some other clinical outcome parameters as well:
+            <ul>
+              <li>improvement in pain (VAS, a measure of pain score),</li>
+              <li>and range of motion at six months.</li>
+            </ul>
+          </li>
+        </ul>
+        <p>We have values attached to all of those. Then we also have weighted mean values for the device under evaluation.</p>
+        <p>Remember, the job here is to determine whether the device under evaluation is non-inferior to SOA objectives.</p>
+        <p>For the top one, it’s very easy, because a plain number comparison shows that the device under evaluation did better than the SOA objective. We don’t need to do any fancy tests — it’s obviously non-inferior. That’s a straightforward conclusion.</p>
+        <p>But with the others, on a plain number comparison, the device under evaluation actually looks like it’s done less well than the state-of-the-art objectives. The important thing to understand here is whether that represents true inferiority, or whether these values are statistically non-different.</p>
+        <p>For that reason, conducting a statistical test is relevant. Often a t-test is an appropriate test because it’s a comparison of means, and it generates a p-value denoting significance or non-significance of the difference between these values.</p>
+        <p>Let’s say we conducted a t-test in this case, and these were the p-values that were derived. Generally, significance requires a value of less than 0.05 for the p-value. That’s not what we’re seeing here, and so these differences were non-inferior.</p>
+        <p>According to our acceptance criteria, the device under evaluation has been shown to have appropriate performance in reference to state-of-the-art.</p>
+        <p>So let’s go back to the original non-conformity:</p>
+        <blockquote>
+          <p>“Safety and performance objectives do not appear to have specific and measurable acceptance criteria.”</p>
+        </blockquote>
+        <p>We covered:</p>
+        <ul>
+          <li>what safety and performance objectives are,</li>
+          <li>how to derive them using weighted values following a state-of-the-art literature review,</li>
+          <li>what “specific and measurable” means and how the outlined process generates specific and measurable objectives,</li>
+          <li>and what acceptance criteria are and how to apply them — including through use of statistical testing.</li>
+        </ul>
+        <p>If you need any further support in relation to clinical evaluation or working through non-conformities, Mantra Systems are clinical evaluation specialists. You’re free to contact our team at any time.</p>
+        <p>If you’ve just got some general questions, don’t worry — it’s absolutely fine. More than happy to speak at any time. So feel free to reach out to us if you need any additional support.</p>
+        <p>That concludes the first episode of the Clinical Evaluation Non-Conformity series. I’d like to thank you very much, and if you have any questions or comments, please let me know below the video.</p>
+        <p>Thank you very much.</p>
+      </div>
+      ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[In this series, we work step-by-step through common Non-Conformities to ensure you are always ahead of possible challenges on the way to MDR approval.]]></summary></entry><entry><title type="html">MDCG 2020-16 Revision 4: Key Updates on IVDR Classification Rules</title><link href="https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules" rel="alternate" type="text/html" title="MDCG 2020-16 Revision 4: Key Updates on IVDR Classification Rules" /><published>2025-03-28T00:00:00+00:00</published><updated>2025-03-28T10:50:34+00:00</updated><id>https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules"><![CDATA[<p>The <strong>Medical Device Coordination Group (MDCG)</strong> has released <strong>MDCG 2020-16 rev.4 - Guidance on Classification Rules for in vitro Diagnostic Medical Devices under Regulation (EU) 2017/746</strong>.</p>
+    <p>This update released in March 2025 provides comprehensive clarification on the classification rules outlined in <strong>Annex VIII</strong> of the <strong>IVDR</strong>, ensuring that manufacturers, notified bodies, and health institutions have a clear framework for classifying in vitro diagnostic (IVD) devices based on their intended purpose and inherent risk, prior to placing it on the market. Notably, the guidance addresses the classification of medical device software (MDSW) and emphasises the importance of considering devices used in combination.</p>
+    <h2 id="summary-of-key-updates">Summary of Key Updates</h2>
+    <table>
+      <thead>
+        <tr>
+          <th style="text-align: left">Rule</th>
+          <th style="text-align: left">Changes</th>
+          <th style="text-align: left">Details</th>
+          <th style="text-align: left">Impact</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="text-align: left">Rule 1 – Second Indent</td>
+          <td style="text-align: left">Revision of examples</td>
+          <td style="text-align: left">Updated examples to provide better clarity on the classification of IVD devices.</td>
+          <td style="text-align: left">Ensures more precise classification, reducing ambiguity for manufacturers.</td>
+        </tr>
+        <tr>
+          <td style="text-align: left">Rule 3(m)</td>
+          <td style="text-align: left">Footnote 8 modified</td>
+          <td style="text-align: left">Footnote 8 modified to refine interpretation and applicability.</td>
+          <td style="text-align: left">Improves understanding of specific classification aspects.</td>
+        </tr>
+        <tr>
+          <td style="text-align: left">Rule 4(a)</td>
+          <td style="text-align: left">Revision of examples</td>
+          <td style="text-align: left">Updated examples for self-testing devices, refining classifications based on biomarkers.</td>
+          <td style="text-align: left">Helps manufacturers align with IVDR requirements for self-testing IVDs.</td>
+        </tr>
+        <tr>
+          <td style="text-align: left">Rule 6</td>
+          <td style="text-align: left">Minor modification of the rationale and revision of examples</td>
+          <td style="text-align: left">Minor updates to rationale and refined examples for Class B IVDs.</td>
+          <td style="text-align: left">Provides a clearer framework for determining Class B device classification.</td>
+        </tr>
+        <tr>
+          <td style="text-align: left">Annex 1 and Annex 2</td>
+          <td style="text-align: left">Minor editorial changes</td>
+          <td style="text-align: left">Minor wording and structural refinements for improved readability.</td>
+          <td style="text-align: left">Enhances document clarity without changing regulatory requirements.</td>
+        </tr>
+      </tbody>
+    </table>
+    <h2 id="key-considerations-for-manufacturers">Key Considerations for Manufacturers</h2>
+    <p>The <a href="https://health.ec.europa.eu/document/download/12f9756a-1e0d-4aed-9783-d948553f1705_en?filename=md_mdcg_2020_guidance_classification_ivd-md_en.pdf">MDCG 2020-16 rev.4 guidance</a> has significant implications for <strong>IVD manufacturers</strong> as it refines how devices should be classified under IVDR.</p>
     <ul>
-      <li>Start by prioritising the risks that need mitigation based on their severity and probability of occurrence.</li>
-      <li>Evaluate the effectiveness of controls. This can include pre-market validation through clinical trials, in-vitro testing, and failure testing, as well as post-market monitoring to ensure that controls remain effective over time.</li>
-      <li>For each identified risk, provide a rationale for the selected control, how it works to mitigate the hazard, and how its effectiveness will be measured.</li>
+      <li><strong>Accurate Classification Criteria</strong> – The revision of examples under <strong>Rules 1, 4(a), and 6</strong> helps manufacturers correctly classify their IVD devices, reducing uncertainty. Manufacturers must <strong>review and adapt</strong> classifications, ensuring conformity with <strong>IVDR and notified body requirements</strong>.</li>
+      <li><strong>More Precise Risk Assessment</strong> – Manufacturers need to reassess whether their devices fall into a different risk class, impacting regulatory requirements.</li>
+      <li><strong>Improved Compliance with IVDR</strong> – The minor changes provide clarity but do not fundamentally alter the classification process. However, manufacturers should review their classification decisions against the revised examples.</li>
+      <li><strong>Potential Impact on Notified Body Review</strong> – If an IVD device’s classification is affected by the updated examples or rationale, additional <strong>notified body consultation</strong> may be required for conformity assessments.</li>
     </ul>
-    <h2 id="final-thoughts-mastering-risk-assessment">Final Thoughts: Mastering Risk Assessment</h2>
-    <p>By carefully identifying all potential hazards, setting realistic risk acceptability criteria, and implementing robust mitigation strategies, you can significantly reduce the likelihood of regulatory setbacks and safety issues. A proactive and comprehensive approach to risk management not only protects patients but also streamlines the path to market, helping your device succeed in a competitive landscape. Remember, risk assessment is an ongoing process that requires constant vigilance and adaptation, so stay committed to continuous improvement. Please <a href="/contact">contact us if you need any help with risk assessment</a> or any medical device regulation issue.</p>
-    ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[Learn how to sidestep costly mistakes which manufacturers commonly make. From hazard ID to post-market surveillance, we help you improve safety and speed up approvals.]]></summary></entry><entry><title type="html">Labelling 101: A Comprehensive Overview for Medical Device Manufacturers</title><link href="https://www.mantrasystems.co.uk/articles/labelling-101-a-comprehensive-overview-form-medical-device-manufacturers" rel="alternate" type="text/html" title="Labelling 101: A Comprehensive Overview for Medical Device Manufacturers" /><published>2025-03-21T00:00:00+00:00</published><updated>2025-03-20T21:40:34+00:00</updated><id>https://www.mantrasystems.co.uk/articles/labelling-101-a-comprehensive-overview-form-medical-device-manufacturers</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/labelling-101-a-comprehensive-overview-form-medical-device-manufacturers"><![CDATA[<p>Labelling is a crucial aspect of medical device compliance, ensuring that essential information is effectively communicated to users. Labelling includes written, printed, or graphic details on the device itself, its packaging, or accompanying materials such as Instructions for Use (IFU). Regulatory bodies require manufacturers to provide clear and accurate labelling to enhance patient safety, facilitate proper usage, and comply with international standards.</p>
+    <h2 id="final-thoughts">Final Thoughts</h2>
+    <p>The MDCG has provided essential updates to support <strong>IVD manufacturers</strong> in <strong>correctly interpreting classification rules under the IVDR</strong>. By understanding and implementing these refinements, manufacturers can <strong>ensure accurate device classification, strengthen regulatory compliance, and streamline interactions with notified bodies</strong>.</p>
+    <p>For more insights on IVDR compliance and regulatory transitions, you may find these articles helpful:</p>
+    <ul>
+      <li><a href="/articles/understanding-risk-based-classification-of-in-vitro-medical-devices-under-eu-ivdr">Understanding Risk-Based Classifications for IVDs Under the IVDR</a></li>
+      <li><a href="/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period">Transitioning from IVDD to IVDR: Key Considerations</a></li>
+    </ul>
+    <p>Navigating IVDR classification can be challenging. <strong>Mantra Systems</strong> provides <strong>expert regulatory consulting, medical writing, and compliance support</strong> to help manufacturers <strong>interpret and implement</strong> the latest MDCG guidance seamlessly. <a href="/contact">Contact us today</a> for a free, confidential consultation on how we can support your IVDR compliance journey.</p>
+    ]]></content><author><name>chandini-vk</name></author><category term="IVDR" /><summary type="html"><![CDATA[We detail how this revision ensures manufacturers, notified bodies, and health institutions have a clearer regulatory framework.]]></summary></entry><entry><title type="html">Top 5 Common Pitfalls to Avoid During Risk Assessment</title><link href="https://www.mantrasystems.co.uk/articles/top-5-risk-assessment-pitfalls-how-to-avoid-them" rel="alternate" type="text/html" title="Top 5 Common Pitfalls to Avoid During Risk Assessment" /><published>2025-03-26T00:00:00+00:00</published><updated>2025-03-26T10:48:01+00:00</updated><id>https://www.mantrasystems.co.uk/articles/top-5-risk-assessment-pitfalls-how-to-avoid-them</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/top-5-risk-assessment-pitfalls-how-to-avoid-them"><![CDATA[<p>A medical device-specific risk assessment uses the <a href="https://www.iso.org/standard/72704.html">ISO 14971 standard</a>, which provides guidance for producing and maintaining a risk management file.</p>
+  <p>A risk assessment is a process used to identify, analyse, and mitigate risk in the design and development process to enable the sale of safe and successful medical devices. <a href="/eu-mdr-compliance/risk-management">Risk assessment</a> ensures that all potential hazards are identified and mitigated to protect patient safety. However, manufacturers often encounter mistakes along the way that can compromise the effectiveness of the assessment and delay product launch. To help you navigate the risk management process smoothly, here are the <strong>Top 5 Pitfalls</strong> to avoid during the risk assessment of your medical devices.</p>
+  <figure>
+    <img src="/assets/images/content/articles/inline/5-pitfalls-for-risk-assessment.svg" alt="Diagram highlighting the 5 pitfalls for risk assessment." loading="lazy" width="498" height="552" />
+  </figure>
+  <h2 id="1-failing-to-identify-all-potential-hazards">1. Failing to Identify All Potential Hazards</h2>
+  <p>To begin a risk assessment, a comprehensive identification of potential hazards that could arise at any stage of the device’s lifecycle should be conducted. This involves documenting known and foreseeable hazards related to the medical device, considering its intended use, foreseeable misuse, and safety characteristics. A significant pitfall occurs here when manufacturers underestimate these hazards, in turn leading to an incomplete risk assessment.</p>
+  <p><strong>How to avoid this:</strong></p>
+  <p>Ensure cross-disciplinary teams are engaged (e.g., engineering, clinical, regulatory experts). This will ensure a thorough hazard analysis. Consider all potential risks, including those related to device malfunction, misuse, environmental factors, and human error.</p>
+  <h2 id="2-insufficient-documentation-and-traceability">2. Insufficient Documentation and Traceability</h2>
+  <p><a href="/enable-ce-mark/online-video-training-courses/risk-management">Clear documentation</a> of the risk management process is required for regulatory authorities, e.g., Notified Bodies, to review. <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745">Article 10 of the EU MDR</a> requires all manufacturers to establish, document, implement, and maintain a system for Risk Management. A frequent pitfall here is failing to maintain proper documentation of hazard identification, risk analysis, and control measures. This, in turn, will lead to non-compliance and delays.</p>
+  <p><strong>How to avoid this:</strong></p>
+  <p>Confirm that every step of the risk management process is documented in detail. Alongside this, you can use risk management tools, e.g., FMEA or risk matrices, to track the rationale behind each decision. This will allow for full traceability throughout the device lifecycle.</p>
+  <p>Maintaining and updating a Risk Management strategy requires scheduled review and appraisal sessions to analyse system suitability. The clinical evaluation cycle offers an opportunity to assimilate Risk Management data collected and to re-perform a benefit-risk analysis of the device. Any updates or changes to the process must be reflected in documentation and disseminated across the organisation to ensure the changes are implemented.</p>
+  <h2 id="3-underestimating-risk-acceptability-criteria">3. Underestimating Risk Acceptability Criteria</h2>
+  <p>Determining whether a risk is acceptable or not is crucial in risk assessment. During risk evaluation, the manufacturer must assess estimated risks for each hazardous situation and check if they meet the criteria in the risk management plan.</p>
+  <p>Setting inappropriate risk acceptance thresholds can directly impact both patient safety and product timelines. If the acceptable risk is set too high, the device may pose a significant threat to users, leading to potential harm or regulatory non-compliance. On the other hand, being too cautious and lowering the threshold could result in unnecessary design changes or delays in the approval process, even for risks that are statistically insignificant.</p>
+  <p><strong>How to avoid this:</strong></p>
+  <p>Risk acceptance should be based on both regulatory requirements and real-world clinical needs. The criteria should be proportional to the severity and likelihood of the identified risks. A low-risk device may have higher acceptable risk levels, while a high-risk device, such as a life-supporting medical device, must have stringent limits. Tools like risk matrices can help categorise and prioritise risks by their severity and probability, ensuring a rational and evidence-based approach to setting acceptability levels.</p>
+  <h2 id="4-ignoring-post-market-risks">4. Ignoring Post-Market Risks</h2>
+  <p>Many manufacturers place a significant emphasis on pre-market risks, neglecting the post-market risks that may arise once the device is in use by patients or healthcare professionals. The manufacturer must review all collected post-market information, focusing on safety relevance. This aims to identify unrecognised hazards not initially identified, hazardous situations with now-unacceptable estimated risks, and cases where the overall residual risk is no longer acceptable relative to intended use benefits.</p>
+  <p><strong>How to avoid:</strong></p>
+  <p>Ensure you incorporate a robust <a href="/eu-mdr-compliance/post-market-surveillance-pms">post-market surveillance plan</a> into your risk management strategy. As well as this, make sure you set up systems to monitor and track device performance, adverse events, and potential hazards once the product is on the market.</p>
+  <h2 id="5-neglecting-risk-control-and-mitigation-strategies">5. Neglecting Risk Control and Mitigation Strategies</h2>
+  <p>The identification of hazards is just one part of the risk management process. The next critical phase is the implementation of effective risk controls, which is necessary to reduce identified risks to acceptable levels. Failing to implement effective controls or using controls that are impractical or inadequate is a common trap. This can lead to unresolved risks that may jeopardise patient safety, compromise device effectiveness, and increase the likelihood of regulatory non-compliance.</p>
+  <p><strong>How to avoid:</strong></p>
+  <p>To avoid neglecting risk control strategies, it’s essential to follow a structured approach that aligns with recognised best practices and regulatory standards. Here are some practical steps:</p>
+  <ul>
+    <li>Start by prioritising the risks that need mitigation based on their severity and probability of occurrence.</li>
+    <li>Evaluate the effectiveness of controls. This can include pre-market validation through clinical trials, in-vitro testing, and failure testing, as well as post-market monitoring to ensure that controls remain effective over time.</li>
+    <li>For each identified risk, provide a rationale for the selected control, how it works to mitigate the hazard, and how its effectiveness will be measured.</li>
+  </ul>
+  <h2 id="final-thoughts-mastering-risk-assessment">Final Thoughts: Mastering Risk Assessment</h2>
+  <p>By carefully identifying all potential hazards, setting realistic risk acceptability criteria, and implementing robust mitigation strategies, you can significantly reduce the likelihood of regulatory setbacks and safety issues. A proactive and comprehensive approach to risk management not only protects patients but also streamlines the path to market, helping your device succeed in a competitive landscape. Remember, risk assessment is an ongoing process that requires constant vigilance and adaptation, so stay committed to continuous improvement. Please <a href="/contact">contact us if you need any help with risk assessment</a> or any medical device regulation issue.</p>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[Learn how to sidestep costly mistakes which manufacturers commonly make. From hazard ID to post-market surveillance, we help you improve safety and speed up approvals.]]></summary></entry><entry><title type="html">Labelling 101: A Comprehensive Overview for Medical Device Manufacturers</title><link href="https://www.mantrasystems.co.uk/articles/labelling-101-a-comprehensive-overview-form-medical-device-manufacturers" rel="alternate" type="text/html" title="Labelling 101: A Comprehensive Overview for Medical Device Manufacturers" /><published>2025-03-21T00:00:00+00:00</published><updated>2025-03-20T21:40:34+00:00</updated><id>https://www.mantrasystems.co.uk/articles/labelling-101-a-comprehensive-overview-form-medical-device-manufacturers</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/labelling-101-a-comprehensive-overview-form-medical-device-manufacturers"><![CDATA[<p>Labelling is a crucial aspect of medical device compliance, ensuring that essential information is effectively communicated to users. Labelling includes written, printed, or graphic details on the device itself, its packaging, or accompanying materials such as Instructions for Use (IFU). Regulatory bodies require manufacturers to provide clear and accurate labelling to enhance patient safety, facilitate proper usage, and comply with international standards.</p>
   <h2 id="medical-device-labelling-standard-iso-15223-12021">Medical Device Labelling Standard: ISO 15223-1:2021</h2>
   <p><a href="https://www.iso.org/standard/77326.html">ISO 15223-1</a> sets out requirements for symbols used in medical device labelling to communicate information about the safe and effective use of devices. The latest version, ISO 15223-1:2021, includes additional symbols to comply with the requirements of <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32017R0745">EU MDR 2017/745</a>.</p>
   <p>According to the ISO 15223-1 standard, medical device labelling symbols are organised into seven categories:</p>
@@ -586,89 +711,4 @@
   <h2 id="navigating-the-nuances-final-takeaways-on-samd-vs-simd">Navigating the Nuances: Final Takeaways on SaMD vs. SiMD</h2>
   <p>The rise of <a href="https://www.linkedin.com/posts/mantrasystems_regulatory-consulting-for-software-as-a-medical-activity-7295456626759614464-z-AN">SaMD</a> and SiMD highlights a significant shift in healthcare toward more personalised, accessible, and data-driven care. It reflects the remarkable progress in integrating technology with health while underscoring the critical responsibility to ensure these innovations prioritise patient safety.</p>
   <p>Ultimately, as we continue to explore the evolving landscape of SaMD and SiMD, understanding their complexities and distinctions is more important than ever. As the boundaries between software and medical devices become increasingly intertwined, our focus must remain steadfast on developing safe, effective, and forward-thinking solutions that enhance patient outcomes.</p>
-  ]]></content><author><name>kamiya-crabtree</name></author><category term="SaMD" /><category term="MDR" /><summary type="html"><![CDATA[As software advancements continue, the line between traditional hardware-centric medical devices and software-driven solutions becomes increasingly blurred.]]></summary></entry><entry><title type="html">Extending the Validity of your IVDD Certificates – Key Dates</title><link href="https://www.mantrasystems.co.uk/articles/extending-validity-of-ivdd-certficates-key-dates" rel="alternate" type="text/html" title="Extending the Validity of your IVDD Certificates – Key Dates" /><published>2025-02-19T00:00:00+00:00</published><updated>2025-02-19T09:50:36+00:00</updated><id>https://www.mantrasystems.co.uk/articles/extending-validity-of-ivdd-certficates-key-dates</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/extending-validity-of-ivdd-certficates-key-dates"><![CDATA[<p>The EU and the MHRA have extended the validity of IVDD certificates, allowing you more time to <a href="/medical-device-regulatory-consulting-services/ivdr-consulting">transition to the IVDR</a>. In this article, Kamiya Crabtree explains what this means for you.</p>
-  <p>Recently, <a href="https://health.ec.europa.eu/document/dfd7a1c6-f319-4682-9bac-77bef1165818_en">the EU has extended the validity of EU IVDD</a> (In Vitro Diagnostic Medical Device Directive) certificates and declarations. The EU has updated the timelines for IVD devices to align with the EU In Vitro Diagnostic Devices Regulation (2017/746) (EU IVDR). As a result, devices with EU IVDD certificates will now be allowed to remain on the EU market for a longer period of time.</p>
-  <p>Previously, IVDD CE certificates and declarations of conformity were set to expire on 26th May 2025. Under the updated transitional provisions, the validity of certain certificates and declarations has been extended as follows:</p>
-  <table>
-    <thead>
-      <tr>
-        <th>Device classification</th>
-        <th>New deadline</th>
-        <th>Applies as long as…</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th>Annex II List A devices</th>
-        <td rowspan="4">31st December 2027</td>
-        <td rowspan="3">The CE certificate was issued after 25th May 2017 and was still valid on 26th May 2022.</td>
-      </tr>
-      <tr>
-        <th>Annex II List B devices</th>
-      </tr>
-      <tr>
-        <th>Self-test devices</th>
-      </tr>
-      <tr>
-        <th>General IVD devices that have been upclassified to Class D IVD devices</th>
-        <td rowspan="4">The declaration of conformity was drawn up before 26th May 2022.</td>
-      </tr>
-      <tr>
-        <th>General IVD devices that have been upclassified to Class C IVD devices</th>
-        <td>31st December 2028</td>
-      </tr>
-      <tr>
-        <th>General IVD devices that have been upclassified to Class B IVD devices</th>
-        <td rowspan="2">31st December 2029</td>
-      </tr>
-      <tr>
-        <th>Class A devices placed on the market in a sterile condition</th>
-      </tr>
-    </tbody>
-  </table>
-  <p>Key points to note:</p>
-  <ul>
-    <li>Notified Bodies are not required to change the date on the individual certificates</li>
-    <li>The above dates are subject to meeting the relevant conditions under EU IVDR Article 110(3c)</li>
-    <li>If your device is being placed on both the GB and NI markets, you should upload a single declaration confirming that the Article 110 extended CE certificate validity applies to both markets.</li>
-  </ul>
-  <p>Unsure which IVDR classification applies to your product? <a href="/articles/understanding-risk-based-classification-of-in-vitro-medical-devices-under-eu-ivdr">Find out more about what the new classification system means for you</a>.</p>
-  <h2 id="extended-validity-in-the-uk">Extended validity in the UK</h2>
-  <p>The MHRA (Medicines and Healthcare products Regulatory Agency) <a href="https://www.gov.uk/government/publications/registration-of-in-vitro-diagnostic-devices-with-expiring-ce-certificates/registration-of-certain-in-vitro-diagnostic-devices">has issued new guidance on the impact of these new deadlines on the UK</a>.</p>
-  <h3 id="great-britain-gb--england-wales-and-scotland">Great Britain (GB) – England, Wales, and Scotland</h3>
-  <p>To support the safe supply of medical devices to GB and make the transition to the new regulatory framework smoother, the government has put in place legislation that extends the acceptance of CE-marked IVD devices. This means that CE-marked IVD devices, whether compliant with the EU IVDD or the EU IVDR, can continue to be placed on the GB market until the 30th June 2030 (or until the certificate expires).</p>
-  <p>This is great news because it allows certain devices to stay on the market longer. However, there’s a key limitation: general IVD devices that were previously not required to involve a Notified Body under the EU IVDD will only be allowed on the GB market if they are upclassified (meaning the involvement of a Notified Body is now required under the EU IVDR).</p>
-  <p>It’s also important to note that manufacturers won’t be able to use expired certificates, unless the EU has deemed them valid under specific conditions.</p>
-  <p>So, if you’re relying on an EU IVDD CE certificate with extended validity under Article 110 to place devices on the GB market, be sure to <a href="https://aic.mhra.gov.uk/era/drsystem.nsf/a508926735cb834f802576880054e0c3/0afbc51d01dee249802577f0003861bb">update the MHRA Device Online Registration System</a> as outlined in the guidance. The devices can stay on the market until the 30th June 2030 (or until the certificate expires).</p>
-  <h3 id="northern-ireland-ni">Northern Ireland (NI)</h3>
-  <p>The rules for placing IVD devices on the NI market are different from those for GB. Since 26th May 2022, the EU IVDR has applied in both EU Member States and Northern Ireland.</p>
-  <p>CE certificates with extended validity under the EU IVDR transitional arrangements (Article 110) can still be used to place devices on the NI market, as long as EU IVDD CE-marked medical devices are accepted.</p>
-  <p>For these devices to be valid on the <a href="https://www.gov.uk/guidance/medical-devices-eu-regulations-for-mdr-and-ivdr">NI market</a>, they must meet the conditions set out in Article 110(3c), including:</p>
-  <ul>
-    <li>Continued compliance with Directive 98/79/EC</li>
-    <li>No significant changes to the design or intended purpose</li>
-    <li>No unacceptable risk to the health or safety of patients, users, or others, or to public health protection</li>
-  </ul>
-  <p>Additionally, there are some important steps you must follow:</p>
-  <ul>
-    <li>By 26th May 2025, you’ll need to provide evidence that you’ve implemented a quality management system in accordance with EU IVDR Article 10(8).</li>
-    <li>By 26th May 2025, you’ll also need to provide evidence that you or your authorised representative have made a formal application to a Notified Body.</li>
-    <li>By 26th September 2025, you must provide evidence that both the Notified Body and the manufacturer have signed a written agreement.</li>
-  </ul>
-  <p>If you plan to rely on an EU IVDD CE certificate with extended validity under Article 110 for placing devices on the NI market, the MHRA encourages you to reflect this on the <a href="https://aic.mhra.gov.uk/era/drsystem.nsf/a508926735cb834f802576880054e0c3/0afbc51d01dee249802577f0003861bb">MHRA Device Online Registration System</a>.</p>
-  <h3 id="previously-expired-certificates">Previously expired certificates</h3>
-  <p>If you want to rely on a certificate that expired before 9th July 2024 but was still valid on 26th May 2022, you must upload a letter from the Notified Body. This letter should confirm that they’ve received the manufacturer’s application for conformity assessment and that a written agreement has been finalised.</p>
-  <p>Alternatively, you could upload a completed template instead of the letter, which should declare that the key conditions for extending the certificate under EU IVDR Article 110 have been met. These conditions include:</p>
-  <ul>
-    <li>A signed contract with the Notified Body that was in place before the certificate expired, or</li>
-    <li>If no contract existed at the time of expiry, confirmation that the manufacturer had received a derogation from conformity assessment procedures under Article 54(1) of the EU IVDR, or</li>
-    <li>Confirmation that they were allowed extra time to complete the conformity assessment as per Article 92(1) of the EU IVDR.</li>
-  </ul>
-  <h3 id="certificates-expiring-on-or-after-9th-july-2024">Certificates expiring on or after 9th July 2024</h3>
-  <p>If you intend to rely on a certificate that was valid on 26th May 2022 and has expired on or after 9th July 2024, you must upload a letter from the Notified Body confirming that they have received the manufacturer’s application for conformity assessment and that a written agreement has been finalised.</p>
-  <p>Alternatively, instead of the letter, you can upload a declaration stating that the certificate remains valid under <a href="https://eur-lex.europa.eu/eli/reg/2017/746/oj/eng">EU IVDR Article 110</a>.</p>
-  <h2 id="final-thoughts">Final thoughts</h2>
-  <p>Navigating the evolving landscape of IVDR compliance can be complex. These updated guidelines offer crucial clarity, streamlining the process and ensuring your devices maintain market access. From extended certificate validity to essential documentation, staying informed is key.</p>
-  <p>Following these guidelines will help ensure the ongoing safety, quality, and regulatory compliance of your IVD products. To successfully navigate the transition to IVDR, be sure to explore <a href="/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period">our latest article</a> for an in-depth guide on what steps you need to take.</p>
-  <p>Stay informed on the latest IVDR updates and their potential impact by subscribing to our newsletter below.</p>
-  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[The EU and the MHRA have extended the validity of IVDD certificates, allowing you more time to transition to the IVDR. We explain what this means for manufacturers.]]></summary></entry></feed>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="SaMD" /><category term="MDR" /><summary type="html"><![CDATA[As software advancements continue, the line between traditional hardware-centric medical devices and software-driven solutions becomes increasingly blurred.]]></summary></entry></feed>

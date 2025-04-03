@@ -1,190 +1,234 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-04-02T07:54:36+01:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Clinical Evaluation Masterclass: Overcoming Non-conformities - Episode 1</title><link href="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities" rel="alternate" type="text/html" title="Clinical Evaluation Masterclass: Overcoming Non-conformities - Episode 1" /><published>2025-04-02T00:00:00+01:00</published><updated>2025-04-01T17:44:46+01:00</updated><id>https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities"><![CDATA[<div class="video-wrap full">
-        <div class="video-insert youtube-player" data-id="3iOgkFyk-hc"></div>
-      </div>
-      <p>Clinical Evaluation Plans (CEPs) and Clinical Evaluation Reports (CERs) are critical components of medical device regulatory compliance. However, the reality is that meeting requirements isn’t always plain sailing.</p>
-      <p>Based on our experience with over 250 successful submissions, we’ve identified that overcoming clinical evaluation non-conformities is one of the major challenges manufacturers face during the device approval journey.</p>
-      <h2 id="what-is-a-non-conformity-in-clinical-evaluation">What is a Non-Conformity in Clinical Evaluation?</h2>
-      <p>A non-conformity arises when a CEP or CER fails to meet MDR requirements. Non-conformities signal that the evaluation does not yet adequately demonstrate a medical device’s safety and performance or that full alignment with regulatory obligations has not been shown, requiring correction before approval.</p>
-      <h2 id="the-impact-of-non-conformities-on-manufacturers">The Impact of Non-Conformities on Manufacturers</h2>
-      <p>Non-conformities significantly disrupt the approval process, leading to extended review timelines, increased costs, and mandatory revision cycles. Since notified bodies (NBs) cannot accept a CEP or CER with unresolved non-conformities, addressing them is critical for market access.</p>
-      <h2 id="a-helping-hand">A helping hand</h2>
-      <p>Our new video series applies our deep experience to help manufacturers proactively identify and fix these issues for smoother audits and faster certifications. This series breaks down the most common clinical evaluation non-conformities, explains <em>why</em> they keep happening, and most importantly, shows you <em>how to fix them</em> for good. Each episode provides step-by-step guidance to help you avoid these pitfalls in your CER submissions.</p>
-      <h2 id="episode-1-safety-and-performance-objectives-lack-specific-and-measurable-acceptance-criteria">Episode 1: “Safety and Performance Objectives Lack Specific and Measurable Acceptance Criteria”</h2>
-      <p>This frequently cited regulatory observation typically reflects not an actual safety or performance deficiency, but rather insufficiently defined evaluation parameters. The episode will address:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-04-03T12:47:44+01:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Navigating CAPA Terminology: Key Terms for Medical Device Professionals</title><link href="https://www.mantrasystems.co.uk/articles/navigating-capa-terminology-key-terms-for-medical-device-professionals" rel="alternate" type="text/html" title="Navigating CAPA Terminology: Key Terms for Medical Device Professionals" /><published>2025-04-02T00:00:00+01:00</published><updated>2025-04-03T12:43:18+01:00</updated><id>https://www.mantrasystems.co.uk/articles/navigating-capa-terminology-key-terms-for-medical-device-professionals</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/navigating-capa-terminology-key-terms-for-medical-device-professionals"><![CDATA[<p>The Corrective and Preventive Action (CAPA) process is a central component of <a href="/eu-mdr-compliance/quality-management-system-qms">Quality Management Systems</a> (QMS) and is a mandatory requirement for ISO 13485, MDSAP, <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_%C2%A0VIII">Regulation MDR (EU) 2017/745</a>, and the <a href="/medical-device-regulatory-consulting-services/fda-510k-consulting">US FDA</a>. It is a systematic approach used to identify, address, and prevent the recurrence of problems.</p>
+      <p>A CAPA is a structured process used to identify, resolve, and prevent the recurrence of issues within a system or product. It is essential for ensuring quality, compliance, and continuous improvement in various industries such as healthcare, manufacturing, and pharmaceuticals in the UK. The CAPA process is typically broken down into three main phases: <strong>Identify Problems</strong>, where issues are first recognised and thoroughly assessed; <strong>Address Problems</strong>, where corrective actions are formulated and implemented to fix the immediate problems; and <strong>Prevent Recurrence</strong>, where long-term solutions and preventive measures are established to ensure that the issue does not happen again, ultimately enhancing the reliability and quality of operations.</p>
+      <figure>
+        <img src="/assets/images/content/articles/inline/capa-process-in-quality-management.svg" alt="CAPA Process in Quality Management diagram." loading="lazy" width="520" height="416" />
+        <figcaption>CAPA Process in Quality Management</figcaption>
+      </figure>
+      <h2 id="key-terms">Key terms</h2>
+      <p>Here are some key terms that all medical device professionals should acquaint themselves with:</p>
+      <h3 id="nonconformity--a-deviation-from-a-specification-standard-or-an-expectation">Nonconformity = A deviation from a specification, standard, or an expectation</h3>
+      <p>Nonconformity is the recognition of an issue that deviates from the expected outcome or requirement. These typically appear at the beginning of the process, during identification and investigation stages.</p>
+      <h3 id="capa-trigger--a-predefined-condition-that-leads-to-a-corrective-or-preventative-measure">CAPA Trigger = A predefined condition that leads to a corrective or preventative measure</h3>
+      <p>CAPA triggers can arise from various sources, both internal and external, and typically highlight areas where a product, process, or system does not meet specified standards or expectations. Examples of CAPA triggers include: customer complaints, audit findings, and adverse events or near misses.</p>
+      <h3 id="root-cause-analysis-rca--a-method-to-identify-the-cause-of-a-problem">Root Cause Analysis (RCA) = A method to identify the cause of a problem</h3>
+      <p>The goal of RCA is not just to address the immediate symptoms of a problem, but to discover and resolve the root cause(s) to prevent recurrence. It’s a critical component of the CAPA process, especially in regulated industries like manufacturing, healthcare, and quality control. Tools such as the 5 Whys, Fishbone Diagram, and Failure Mode and Effects Analysis (FMEA) can be used to facilitate RCA.</p>
+      <h3 id="root-cause--the-main-reason-why-a-problem-has-arisenoccurred">Root Cause = The main reason why a problem has arisen/occurred</h3>
+      <p>In any quality management or problem-solving process, identifying the root cause is critical because it allows an organisation to focus its efforts on eliminating the source of the problem, rather than just addressing its symptoms.</p>
+      <h3 id="field-corrective-action-fca--actions-to-address-issues-identified-after-distribution">Field Corrective Action (FCA) = Actions to address issues identified after distribution</h3>
+      <p>FCAs are typically initiated after a product defect, safety concern, or performance failure has been identified in the field, often through customer complaints, product recalls, or post-market surveillance data. They form an important part of the product lifecycle and help in protecting both the end users and the manufacturer’s reputation.</p>
+      <h3 id="supplier-corrective-action-request-scar--a-request-to-a-supplier-to-address-the-problem">Supplier Corrective Action Request (SCAR) = A request to a supplier to address the problem</h3>
+      <p>The SCAR process is used to communicate nonconformities, initiate corrective actions, and ensure that suppliers address the underlying issues causing defects or quality problems. It’s an essential tool in quality management systems. The purpose of SCAR is to improve supplier performance and prevent recurrence of issues that may affect the quality and safety of the end product.</p>
+      <h3 id="capa-plan--a-documented-plan-for-actions-to-address-a-specific-issue">CAPA Plan = A documented plan for actions to address a specific issue</h3>
+      <p>It begins with identifying a problem, conducting a root cause analysis, and implementing corrective actions to resolve the issue. Preventive actions are then put in place to reduce the risk of future occurrences. The plan also includes verifying the effectiveness of these actions, documenting the process, and ensuring continuous monitoring for improvement.</p>
+      <h3 id="capa-review-board--a-group-that-is-responsible-for-overseeing-the-capa-process">CAPA Review Board = A group that is responsible for overseeing the CAPA process</h3>
+      <p>The board ensures that identified issues are appropriately investigated, root causes are thoroughly analysed, and corrective and preventive actions are effectively implemented.</p>
+      <h3 id="risk-assessment--the-process-of-identifying-and-analysing-the-impact-of-potential-issues">Risk Assessment = The process of identifying and analysing the impact of potential issues</h3>
+      <p>In the context of CAPA, risk assessment helps determine the severity and likelihood of an issue reoccurring, allowing companies to implement appropriate actions to mitigate or control these risks. It plays a critical role in ensuring that corrective and preventive measures are effective and proportionate to the identified risks.</p>
+      <h3 id="correction--action-to-fix-a-nonconformity-without-addressing-the-root-issue">Correction = Action to fix a nonconformity without addressing the root issue</h3>
+      <p>Unlike corrective actions, which are aimed at preventing recurrence, corrections focus on resolving the current issue.</p>
+      <h3 id="preventative-action-pa--actions-that-address-the-causes-of-a-potential-nonconformity">Preventative Action (PA) = Actions that address the causes of a potential nonconformity</h3>
+      <p>This process involves analysing trends, risks, or weak points in the system and making improvements to avoid future problems, ensuring ongoing compliance and quality.</p>
+      <h3 id="corrective-action-ca--actions-that-address-the-causes-of-an-existing-nonconformity">Corrective Action (CA) = Actions that address the causes of an existing nonconformity</h3>
+      <p>This process involves investigating the issue, implementing changes to eliminate the cause, and ensuring that similar issues do not arise in the future.</p>
+      <h3 id="verification--checking-that-a-solution-works-as-intended">Verification = Checking that a solution works as intended</h3>
+      <p>Verification is the process of confirming that a product, process, or system meets specific requirements and functions as intended. It involves checking and testing against predetermined criteria to ensure accuracy and compliance before implementation or release.</p>
+      <h3 id="validation--ensuring-that-a-product-or-a-process-meets-its-intended-use">Validation = Ensuring that a product or a process meets its intended use</h3>
+      <p>Validation ensures that a product, process, or system consistently meets its intended purpose and regulatory requirements. It involves testing and documentation to confirm reliability and compliance with standards, ensuring product quality and safety.</p>
+      <h3 id="effectiveness-check-voe--evaluation-to-confirm-the-success-of-a-capa">Effectiveness Check (VoE) = Evaluation to confirm the success of a CAPA</h3>
+      <p>After implementing corrective actions, an Effectiveness Check ensures that the changes have successfully resolved the problem and that the same issue does not reoccur. This check typically involves monitoring the results over a set period, reviewing data, and evaluating the impact of the actions on product quality, performance, or process improvements.</p>
+      <h3 id="disposition--decision-on-how-to-handle-a-nonconforming-product-or-situation">Disposition = Decision on how to handle a nonconforming product or situation</h3>
+      <p>Disposition refers to the decision made regarding nonconforming products, determining whether they should be reworked, used as-is, scrapped, or returned to the supplier. These decisions are based on the severity of the nonconformity and are crucial for maintaining product quality and compliance.</p>
+      <h2 id="mastering-capa-turning-terminology-into-action">Mastering CAPA: Turning Terminology into Action</h2>
+      <p>In conclusion, understanding and navigating CAPA terminology is essential for ensuring compliance and driving continuous improvement within a quality management system. Familiarity with key terms such as root cause analysis, corrective actions, preventive actions, and effectiveness checks will help professionals make informed decisions, streamline processes, and avoid common pitfalls.</p>
+      <p>By staying up-to-date with these critical terms, organisations can strengthen their CAPA processes, improve product quality, and enhance overall regulatory compliance. Empowering teams with the knowledge of CAPA terminology is a key step toward maintaining high-quality standards and ensuring the safety and efficacy of medical devices in the marketplace.</p>
+      <p>Ready to navigate the regulatory process with confidence? With our expert team and 100% notified body approval, we’re here to help you ensure compliance and streamline your medical device journey. <a href="/contact">Contact us today to get started!</a></p>
+      ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[We define and explain the language required to work within a Quality Management System (QMS).]]></summary></entry><entry><title type="html">Clinical Evaluation Masterclass: Overcoming Non-conformities - Episode 1</title><link href="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities" rel="alternate" type="text/html" title="Clinical Evaluation Masterclass: Overcoming Non-conformities - Episode 1" /><published>2025-04-02T00:00:00+01:00</published><updated>2025-04-01T17:44:46+01:00</updated><id>https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities"><![CDATA[<div class="video-wrap full">
+      <div class="video-insert youtube-player" data-id="3iOgkFyk-hc"></div>
+    </div>
+    <p>Clinical Evaluation Plans (CEPs) and Clinical Evaluation Reports (CERs) are critical components of medical device regulatory compliance. However, the reality is that meeting requirements isn’t always plain sailing.</p>
+    <p>Based on our experience with over 250 successful submissions, we’ve identified that overcoming clinical evaluation non-conformities is one of the major challenges manufacturers face during the device approval journey.</p>
+    <h2 id="what-is-a-non-conformity-in-clinical-evaluation">What is a Non-Conformity in Clinical Evaluation?</h2>
+    <p>A non-conformity arises when a CEP or CER fails to meet MDR requirements. Non-conformities signal that the evaluation does not yet adequately demonstrate a medical device’s safety and performance or that full alignment with regulatory obligations has not been shown, requiring correction before approval.</p>
+    <h2 id="the-impact-of-non-conformities-on-manufacturers">The Impact of Non-Conformities on Manufacturers</h2>
+    <p>Non-conformities significantly disrupt the approval process, leading to extended review timelines, increased costs, and mandatory revision cycles. Since notified bodies (NBs) cannot accept a CEP or CER with unresolved non-conformities, addressing them is critical for market access.</p>
+    <h2 id="a-helping-hand">A helping hand</h2>
+    <p>Our new video series applies our deep experience to help manufacturers proactively identify and fix these issues for smoother audits and faster certifications. This series breaks down the most common clinical evaluation non-conformities, explains <em>why</em> they keep happening, and most importantly, shows you <em>how to fix them</em> for good. Each episode provides step-by-step guidance to help you avoid these pitfalls in your CER submissions.</p>
+    <h2 id="episode-1-safety-and-performance-objectives-lack-specific-and-measurable-acceptance-criteria">Episode 1: “Safety and Performance Objectives Lack Specific and Measurable Acceptance Criteria”</h2>
+    <p>This frequently cited regulatory observation typically reflects not an actual safety or performance deficiency, but rather insufficiently defined evaluation parameters. The episode will address:</p>
+    <ul>
+      <li>Fundamental concepts of safety and performance objectives</li>
+      <li>Deriving safety and performance objectives using weighted values</li>
+      <li>Defining “specific” and “measurable” objectives</li>
+      <li>Practical approaches to establishing and implementing acceptance criteria</li>
+    </ul>
+    <p>Coming in Episode 2: We’ll tackle another frequent non-conformity, “<em>Appraisal of literature articles has not been conducted appropriately</em>” showing you how to strengthen your literature review process. <a href="/newsletter">Sign up to our newsletter now so you don’t miss out</a>.</p>
+    <hr />
+    <div class="small-text">
+      <strong>Transcript follows:</strong>
+      <p>Okay, hi everyone, it’s Paul here from Mantra Systems. Welcome to a brand new series that we’re running on how to fix <strong>clinical evaluation non-conformities</strong>.</p>
+      <p>The idea behind this series is to equip you with the capability to, first of all, avoid common non-conformities that are seen in medical device clinical evaluations. And then secondly, if you have been unfortunate enough to receive one, by the end of the series you should hopefully have a powerful strategy for correcting them and moving on to full acceptance of your CE.</p>
+      <p>So, just for this first episode, we’re going to cover a few basics, and it’s worth starting with the question: <em>What is a clinical evaluation non-conformity?</em></p>
+      <p>Well, obviously, apart from Class I devices, clinical evaluation plans and clinical evaluation reports need to be submitted for review by a notified body. And a non-conformity — or NC for short — is when conformity with requirements has not been adequately demonstrated. A non-conformity requires correction and then resubmission of the CEP and CER. Resolution — certainly of major non-conformities — is necessary in order for the clinical evaluation to be accepted.</p>
+      <p>So, it is a really important topic, and non-conformities under MDR are quite common. But the problem with non-conformities is that sometimes the questions — which is how they’re often manifest, it’s a question from a reviewer — they can be difficult to interpret. Sometimes it’s not clear exactly what a reviewer means, and it may be unclear how to fully address them as well.</p>
+      <p>A failure to resolve non-conformities in full may lead to a further round of review following yet another resubmission, which is just multiplying costs, losing time, and it leads to stress and worry — because it is anxiety-inducing trying to get a clinical evaluation through approval.</p>
+      <p>Okay, so the aim of the series is to work through common non-conformities one at a time, and to dig deep into what they mean and how to solve or avoid them. The series and the principles within it link over to general principles for optimal conduct of clinical evaluation under the MDR.</p>
+      <p>So, let’s start with our first example non-conformity. This one is a really common one, and it states:</p>
+      <blockquote>
+        <p><em>“Safety and performance objectives do not appear to have specific and measurable acceptance criteria.”</em></p>
+      </blockquote>
+      <p>Breaking that down, we need to understand exactly what the question means and how to address it. It’s possible to break it down into the following bullet points:</p>
       <ul>
-        <li>Fundamental concepts of safety and performance objectives</li>
-        <li>Deriving safety and performance objectives using weighted values</li>
-        <li>Defining “specific” and “measurable” objectives</li>
-        <li>Practical approaches to establishing and implementing acceptance criteria</li>
+        <li>What actually are safety and performance objectives?</li>
+        <li>What in this context does “specific and measurable” mean?</li>
+        <li>What are acceptance criteria?</li>
       </ul>
-      <p>Coming in Episode 2: We’ll tackle another frequent non-conformity, “<em>Appraisal of literature articles has not been conducted appropriately</em>” showing you how to strengthen your literature review process. <a href="/newsletter">Sign up to our newsletter now so you don’t miss out</a>.</p>
-      <hr />
-      <div class="small-text">
-        <strong>Transcript follows:</strong>
-        <p>Okay, hi everyone, it’s Paul here from Mantra Systems. Welcome to a brand new series that we’re running on how to fix <strong>clinical evaluation non-conformities</strong>.</p>
-        <p>The idea behind this series is to equip you with the capability to, first of all, avoid common non-conformities that are seen in medical device clinical evaluations. And then secondly, if you have been unfortunate enough to receive one, by the end of the series you should hopefully have a powerful strategy for correcting them and moving on to full acceptance of your CE.</p>
-        <p>So, just for this first episode, we’re going to cover a few basics, and it’s worth starting with the question: <em>What is a clinical evaluation non-conformity?</em></p>
-        <p>Well, obviously, apart from Class I devices, clinical evaluation plans and clinical evaluation reports need to be submitted for review by a notified body. And a non-conformity — or NC for short — is when conformity with requirements has not been adequately demonstrated. A non-conformity requires correction and then resubmission of the CEP and CER. Resolution — certainly of major non-conformities — is necessary in order for the clinical evaluation to be accepted.</p>
-        <p>So, it is a really important topic, and non-conformities under MDR are quite common. But the problem with non-conformities is that sometimes the questions — which is how they’re often manifest, it’s a question from a reviewer — they can be difficult to interpret. Sometimes it’s not clear exactly what a reviewer means, and it may be unclear how to fully address them as well.</p>
-        <p>A failure to resolve non-conformities in full may lead to a further round of review following yet another resubmission, which is just multiplying costs, losing time, and it leads to stress and worry — because it is anxiety-inducing trying to get a clinical evaluation through approval.</p>
-        <p>Okay, so the aim of the series is to work through common non-conformities one at a time, and to dig deep into what they mean and how to solve or avoid them. The series and the principles within it link over to general principles for optimal conduct of clinical evaluation under the MDR.</p>
-        <p>So, let’s start with our first example non-conformity. This one is a really common one, and it states:</p>
-        <blockquote>
-          <p><em>“Safety and performance objectives do not appear to have specific and measurable acceptance criteria.”</em></p>
-        </blockquote>
-        <p>Breaking that down, we need to understand exactly what the question means and how to address it. It’s possible to break it down into the following bullet points:</p>
-        <ul>
-          <li>What actually are safety and performance objectives?</li>
-          <li>What in this context does “specific and measurable” mean?</li>
-          <li>What are acceptance criteria?</li>
-        </ul>
-        <p>And importantly, of course, it needs to go beyond just knowing what they are but: <strong>How do we derive and analyse them?</strong></p>
-        <p>So, let’s begin with safety and performance objectives. What are safety and performance objectives?</p>
-        <p>Well, these ultimately are benchmark values against which the device under evaluation will be compared. They are derived from the state-of-the-art literature review, which is an essential component of clinical evaluation.</p>
-        <p>Technically speaking, objectives have two components. They’re derived of a clinical outcome parameter — which is a qualitative concept or type of outcome — and then attached to that, there will be a quantitative value that forms the actual objective.</p>
-        <p>As per the non-conformity, safety and performance objectives must be specific and measurable. Now, that covers a lot of ground, so let’s take an example and break this down.</p>
-        <p>An example might be of a completed safety — or in this case a performance — objective:</p>
-        <blockquote>
-          <p>“Increasing walking distance in meters at six weeks post-procedure of 61.46m.”</p>
-        </blockquote>
-        <p>You can see within this the two components: the “increase in walking distance in meters at six weeks” — that’s not a value, okay? It contains a number, but that’s just because we need to compare like with like. That’s not the actual objective.</p>
-        <p>The clinical outcome parameter is a thing, a concept, something you might measure, something to which you might attach a value. And then the second part of it is the actual performance outcome, which is quantitative.</p>
-        <p>These two things together constitute a specific and measurable safety or performance objective.</p>
-        <p>So, how are these derived? Well, they’re derived during the analysis stage of a state-of-the-art literature review. We’re going to go on to a working example in a moment to show exactly how they are derived.</p>
-        <p>Remember, a clinical outcome parameter is a “thing,” and you decide upon those by looking for outcomes that are seen in a comparable form across multiple sources within the state-of-the-art literature review. If you have four, five, six sources all reporting the same type of outcome, it’s a strong candidate for a clinical outcome parameter.</p>
-        <p>In the state-of-the-art protocol, there should be a method for determining what constitutes a clinical outcome parameter. That, of course, would feed into the clinical evaluation plan.</p>
-        <p>Safety and performance objectives then are weighted mean values attached to those parameters. As we’ve seen before, you need both parts.</p>
-        <p>It’s worth at this point just reflecting on the principles of an effective state-of-the-art literature review. Because there’s no point producing state-of-the-art safety or performance outcomes that have not been derived properly.</p>
-        <p>We’ll go into this in another video, but a state-of-the-art literature review requires:</p>
-        <ul>
-          <li>a detailed protocol</li>
-          <li>use of a validated method to define research questions and search terms (one such method is PICCO)</li>
-          <li>a well-documented literature extraction process with recording and justification of all excluded sources,</li>
-          <li>a structured appraisal — which is where we get to be very specific to the production of safety and performance objectives, and</li>
-          <li>the analysis — which is where the actual objectives are produced.</li>
-        </ul>
-        <p>But we cover that in a lot more detail in a separate video.</p>
-        <p>So, let’s look at a working example of how safety and performance objectives are derived.</p>
-        <p>Here is fictional data. Let’s say we’ve done a state-of-the-art literature review, and sticking with the same example, we found four publications that all reported a mean increase in walking distance at six weeks, and they all did it in a comparable way. Here are the mean values from each of those sources.</p>
-        <p>How do we produce a weighted mean?</p>
-        <p>You can see in the table that the way we’re going to weight it is by a representation of the quality of each of these studies, to ensure that greater weighting or prominence is given to results from higher quality studies. In order to do that, we need to produce an appraisal score.</p>
-        <p>Appraisal scores — there are lots of different ways to do this. On the next slide we’ve got, again, a simplified fictional example of how to calculate an appraisal score. You might look at different aspects of the study: you might consider study type, sample size, the use of statistical tests and whether they were appropriate, and the length of follow-up. You’d probably in reality consider other factors as well, but for the purpose of this, this will suffice.</p>
-        <p>You’ve perhaps seen this — usually these manifest as an alphanumeric code, and again, the meaning behind this code should be expressed in the literature search protocol, in the appraisal plan section. So this will all be mapped out.</p>
-        <p>Ultimately, this enables the calculation of a numerical appraisal score for each paper, with a higher number representing a higher quality study. Then those values can be imputed back into the original table with all the other values being the same.</p>
-        <p>Now we have an appraisal score by which we can weight the results from each study. That’s done fairly simply just by multiplying the actual result by the appraisal score. We do that for all of them to produce a weighted value for each study.</p>
-        <p>But we’re not quite done there, because we need to calculate a weighted mean. That’s done by taking the sum of all the weighted values and dividing that by the sum of the appraisal scores.</p>
-        <p>What we’re doing there is making the appraisal scores the denominator — they are the weighting factor that’s being applied across all studies. This means we achieve our objective of moving the weighted mean closest to the values of the highest quality studies.</p>
-        <p>In this case, that means: 3872 / 63, which gives a weighted mean of 61.46.</p>
-        <p>It’s always worth sanity checking these, but if you look at the plain mean values from each study and the appraisal scores, you’d expect it to land around the 60 mark — and that’s where it falls: 61.46.</p>
-        <p>So, that’s a simplified example of how to calculate a weighted mean for the quantitative component of a safety and performance objective.</p>
-        <p>Don’t forget, the non-conformity required that we produce safety and performance objectives that are specific and measurable.</p>
-        <p>Let’s just reflect on what that means:</p>
-        <ul>
-          <li>Specific means unambiguous, clear, and would be consistently interpreted as meaning the same thing.</li>
-          <li>Measurable means it contains a value — a quantitative value — against which another value from another device can be measured.</li>
-        </ul>
-        <p>So we have this in this case. It’s clear that that is both specific and measurable, and that’s why we included reference to six weeks — to ensure we’re comparing like with like.</p>
-        <p>That leaves us to consider the final aspect of the non-conformity, which was reference to acceptance criteria.</p>
-        <p>An acceptance criteria basically defines when safety or performance of the device under evaluation are acceptable in comparison to state-of-the-art.</p>
-        <p>What we’re doing here is setting out a means for comparing the device-under-evaluation outcomes with the state-of-the-art objectives for specified clinical outcome parameters. By now, all of these terms should have a meaning attached to them.</p>
-        <p>So, the clinical evaluation plan needs to contain an analysis plan for how this comparison will be done. Suffice to say that the outcomes for the device under evaluation are calculated by weighted means using a very similar method that we used for the state-of-the-art objectives.</p>
-        <p>And acceptance — this is the key part — acceptance can be defined as showing (statistically) that the outcomes for the device under evaluation are non-inferior to objectives derived from the SOA. We don’t need to show superiority — we’re just showing non-inferiority. That’s a key distinction.</p>
-        <p>Let’s take a final example, then, working this through.</p>
-        <p>We can see:</p>
-        <ul>
-          <li>Increasing walking distance (spelled correctly this time) of 61.46,</li>
-          <li>and in this example there were some other clinical outcome parameters as well:
-            <ul>
-              <li>improvement in pain (VAS, a measure of pain score),</li>
-              <li>and range of motion at six months.</li>
-            </ul>
-          </li>
-        </ul>
-        <p>We have values attached to all of those. Then we also have weighted mean values for the device under evaluation.</p>
-        <p>Remember, the job here is to determine whether the device under evaluation is non-inferior to SOA objectives.</p>
-        <p>For the top one, it’s very easy, because a plain number comparison shows that the device under evaluation did better than the SOA objective. We don’t need to do any fancy tests — it’s obviously non-inferior. That’s a straightforward conclusion.</p>
-        <p>But with the others, on a plain number comparison, the device under evaluation actually looks like it’s done less well than the state-of-the-art objectives. The important thing to understand here is whether that represents true inferiority, or whether these values are statistically non-different.</p>
-        <p>For that reason, conducting a statistical test is relevant. Often a t-test is an appropriate test because it’s a comparison of means, and it generates a p-value denoting significance or non-significance of the difference between these values.</p>
-        <p>Let’s say we conducted a t-test in this case, and these were the p-values that were derived. Generally, significance requires a value of less than 0.05 for the p-value. That’s not what we’re seeing here, and so these differences were non-inferior.</p>
-        <p>According to our acceptance criteria, the device under evaluation has been shown to have appropriate performance in reference to state-of-the-art.</p>
-        <p>So let’s go back to the original non-conformity:</p>
-        <blockquote>
-          <p>“Safety and performance objectives do not appear to have specific and measurable acceptance criteria.”</p>
-        </blockquote>
-        <p>We covered:</p>
-        <ul>
-          <li>what safety and performance objectives are,</li>
-          <li>how to derive them using weighted values following a state-of-the-art literature review,</li>
-          <li>what “specific and measurable” means and how the outlined process generates specific and measurable objectives,</li>
-          <li>and what acceptance criteria are and how to apply them — including through use of statistical testing.</li>
-        </ul>
-        <p>If you need any further support in relation to clinical evaluation or working through non-conformities, Mantra Systems are clinical evaluation specialists. You’re free to contact our team at any time.</p>
-        <p>If you’ve just got some general questions, don’t worry — it’s absolutely fine. More than happy to speak at any time. So feel free to reach out to us if you need any additional support.</p>
-        <p>That concludes the first episode of the Clinical Evaluation Non-Conformity series. I’d like to thank you very much, and if you have any questions or comments, please let me know below the video.</p>
-        <p>Thank you very much.</p>
-      </div>
-      ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[In this series, we work step-by-step through common Non-Conformities to ensure you are always ahead of possible challenges on the way to MDR approval.]]></summary></entry><entry><title type="html">MDCG 2020-16 Revision 4: Key Updates on IVDR Classification Rules</title><link href="https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules" rel="alternate" type="text/html" title="MDCG 2020-16 Revision 4: Key Updates on IVDR Classification Rules" /><published>2025-03-28T00:00:00+00:00</published><updated>2025-03-28T10:50:34+00:00</updated><id>https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules"><![CDATA[<p>The <strong>Medical Device Coordination Group (MDCG)</strong> has released <strong>MDCG 2020-16 rev.4 - Guidance on Classification Rules for in vitro Diagnostic Medical Devices under Regulation (EU) 2017/746</strong>.</p>
-    <p>This update released in March 2025 provides comprehensive clarification on the classification rules outlined in <strong>Annex VIII</strong> of the <strong>IVDR</strong>, ensuring that manufacturers, notified bodies, and health institutions have a clear framework for classifying in vitro diagnostic (IVD) devices based on their intended purpose and inherent risk, prior to placing it on the market. Notably, the guidance addresses the classification of medical device software (MDSW) and emphasises the importance of considering devices used in combination.</p>
-    <h2 id="summary-of-key-updates">Summary of Key Updates</h2>
-    <table>
-      <thead>
-        <tr>
-          <th style="text-align: left">Rule</th>
-          <th style="text-align: left">Changes</th>
-          <th style="text-align: left">Details</th>
-          <th style="text-align: left">Impact</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td style="text-align: left">Rule 1 – Second Indent</td>
-          <td style="text-align: left">Revision of examples</td>
-          <td style="text-align: left">Updated examples to provide better clarity on the classification of IVD devices.</td>
-          <td style="text-align: left">Ensures more precise classification, reducing ambiguity for manufacturers.</td>
-        </tr>
-        <tr>
-          <td style="text-align: left">Rule 3(m)</td>
-          <td style="text-align: left">Footnote 8 modified</td>
-          <td style="text-align: left">Footnote 8 modified to refine interpretation and applicability.</td>
-          <td style="text-align: left">Improves understanding of specific classification aspects.</td>
-        </tr>
-        <tr>
-          <td style="text-align: left">Rule 4(a)</td>
-          <td style="text-align: left">Revision of examples</td>
-          <td style="text-align: left">Updated examples for self-testing devices, refining classifications based on biomarkers.</td>
-          <td style="text-align: left">Helps manufacturers align with IVDR requirements for self-testing IVDs.</td>
-        </tr>
-        <tr>
-          <td style="text-align: left">Rule 6</td>
-          <td style="text-align: left">Minor modification of the rationale and revision of examples</td>
-          <td style="text-align: left">Minor updates to rationale and refined examples for Class B IVDs.</td>
-          <td style="text-align: left">Provides a clearer framework for determining Class B device classification.</td>
-        </tr>
-        <tr>
-          <td style="text-align: left">Annex 1 and Annex 2</td>
-          <td style="text-align: left">Minor editorial changes</td>
-          <td style="text-align: left">Minor wording and structural refinements for improved readability.</td>
-          <td style="text-align: left">Enhances document clarity without changing regulatory requirements.</td>
-        </tr>
-      </tbody>
-    </table>
-    <h2 id="key-considerations-for-manufacturers">Key Considerations for Manufacturers</h2>
-    <p>The <a href="https://health.ec.europa.eu/document/download/12f9756a-1e0d-4aed-9783-d948553f1705_en?filename=md_mdcg_2020_guidance_classification_ivd-md_en.pdf">MDCG 2020-16 rev.4 guidance</a> has significant implications for <strong>IVD manufacturers</strong> as it refines how devices should be classified under IVDR.</p>
-    <ul>
-      <li><strong>Accurate Classification Criteria</strong> – The revision of examples under <strong>Rules 1, 4(a), and 6</strong> helps manufacturers correctly classify their IVD devices, reducing uncertainty. Manufacturers must <strong>review and adapt</strong> classifications, ensuring conformity with <strong>IVDR and notified body requirements</strong>.</li>
-      <li><strong>More Precise Risk Assessment</strong> – Manufacturers need to reassess whether their devices fall into a different risk class, impacting regulatory requirements.</li>
-      <li><strong>Improved Compliance with IVDR</strong> – The minor changes provide clarity but do not fundamentally alter the classification process. However, manufacturers should review their classification decisions against the revised examples.</li>
-      <li><strong>Potential Impact on Notified Body Review</strong> – If an IVD device’s classification is affected by the updated examples or rationale, additional <strong>notified body consultation</strong> may be required for conformity assessments.</li>
-    </ul>
-    <h2 id="final-thoughts">Final Thoughts</h2>
-    <p>The MDCG has provided essential updates to support <strong>IVD manufacturers</strong> in <strong>correctly interpreting classification rules under the IVDR</strong>. By understanding and implementing these refinements, manufacturers can <strong>ensure accurate device classification, strengthen regulatory compliance, and streamline interactions with notified bodies</strong>.</p>
-    <p>For more insights on IVDR compliance and regulatory transitions, you may find these articles helpful:</p>
-    <ul>
-      <li><a href="/articles/understanding-risk-based-classification-of-in-vitro-medical-devices-under-eu-ivdr">Understanding Risk-Based Classifications for IVDs Under the IVDR</a></li>
-      <li><a href="/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period">Transitioning from IVDD to IVDR: Key Considerations</a></li>
-    </ul>
-    <p>Navigating IVDR classification can be challenging. <strong>Mantra Systems</strong> provides <strong>expert regulatory consulting, medical writing, and compliance support</strong> to help manufacturers <strong>interpret and implement</strong> the latest MDCG guidance seamlessly. <a href="/contact">Contact us today</a> for a free, confidential consultation on how we can support your IVDR compliance journey.</p>
-    ]]></content><author><name>chandini-vk</name></author><category term="IVDR" /><summary type="html"><![CDATA[We detail how this revision ensures manufacturers, notified bodies, and health institutions have a clearer regulatory framework.]]></summary></entry><entry><title type="html">Top 5 Common Pitfalls to Avoid During Risk Assessment</title><link href="https://www.mantrasystems.co.uk/articles/top-5-risk-assessment-pitfalls-how-to-avoid-them" rel="alternate" type="text/html" title="Top 5 Common Pitfalls to Avoid During Risk Assessment" /><published>2025-03-26T00:00:00+00:00</published><updated>2025-03-26T10:48:01+00:00</updated><id>https://www.mantrasystems.co.uk/articles/top-5-risk-assessment-pitfalls-how-to-avoid-them</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/top-5-risk-assessment-pitfalls-how-to-avoid-them"><![CDATA[<p>A medical device-specific risk assessment uses the <a href="https://www.iso.org/standard/72704.html">ISO 14971 standard</a>, which provides guidance for producing and maintaining a risk management file.</p>
+      <p>And importantly, of course, it needs to go beyond just knowing what they are but: <strong>How do we derive and analyse them?</strong></p>
+      <p>So, let’s begin with safety and performance objectives. What are safety and performance objectives?</p>
+      <p>Well, these ultimately are benchmark values against which the device under evaluation will be compared. They are derived from the state-of-the-art literature review, which is an essential component of clinical evaluation.</p>
+      <p>Technically speaking, objectives have two components. They’re derived of a clinical outcome parameter — which is a qualitative concept or type of outcome — and then attached to that, there will be a quantitative value that forms the actual objective.</p>
+      <p>As per the non-conformity, safety and performance objectives must be specific and measurable. Now, that covers a lot of ground, so let’s take an example and break this down.</p>
+      <p>An example might be of a completed safety — or in this case a performance — objective:</p>
+      <blockquote>
+        <p>“Increasing walking distance in meters at six weeks post-procedure of 61.46m.”</p>
+      </blockquote>
+      <p>You can see within this the two components: the “increase in walking distance in meters at six weeks” — that’s not a value, okay? It contains a number, but that’s just because we need to compare like with like. That’s not the actual objective.</p>
+      <p>The clinical outcome parameter is a thing, a concept, something you might measure, something to which you might attach a value. And then the second part of it is the actual performance outcome, which is quantitative.</p>
+      <p>These two things together constitute a specific and measurable safety or performance objective.</p>
+      <p>So, how are these derived? Well, they’re derived during the analysis stage of a state-of-the-art literature review. We’re going to go on to a working example in a moment to show exactly how they are derived.</p>
+      <p>Remember, a clinical outcome parameter is a “thing,” and you decide upon those by looking for outcomes that are seen in a comparable form across multiple sources within the state-of-the-art literature review. If you have four, five, six sources all reporting the same type of outcome, it’s a strong candidate for a clinical outcome parameter.</p>
+      <p>In the state-of-the-art protocol, there should be a method for determining what constitutes a clinical outcome parameter. That, of course, would feed into the clinical evaluation plan.</p>
+      <p>Safety and performance objectives then are weighted mean values attached to those parameters. As we’ve seen before, you need both parts.</p>
+      <p>It’s worth at this point just reflecting on the principles of an effective state-of-the-art literature review. Because there’s no point producing state-of-the-art safety or performance outcomes that have not been derived properly.</p>
+      <p>We’ll go into this in another video, but a state-of-the-art literature review requires:</p>
+      <ul>
+        <li>a detailed protocol</li>
+        <li>use of a validated method to define research questions and search terms (one such method is PICCO)</li>
+        <li>a well-documented literature extraction process with recording and justification of all excluded sources,</li>
+        <li>a structured appraisal — which is where we get to be very specific to the production of safety and performance objectives, and</li>
+        <li>the analysis — which is where the actual objectives are produced.</li>
+      </ul>
+      <p>But we cover that in a lot more detail in a separate video.</p>
+      <p>So, let’s look at a working example of how safety and performance objectives are derived.</p>
+      <p>Here is fictional data. Let’s say we’ve done a state-of-the-art literature review, and sticking with the same example, we found four publications that all reported a mean increase in walking distance at six weeks, and they all did it in a comparable way. Here are the mean values from each of those sources.</p>
+      <p>How do we produce a weighted mean?</p>
+      <p>You can see in the table that the way we’re going to weight it is by a representation of the quality of each of these studies, to ensure that greater weighting or prominence is given to results from higher quality studies. In order to do that, we need to produce an appraisal score.</p>
+      <p>Appraisal scores — there are lots of different ways to do this. On the next slide we’ve got, again, a simplified fictional example of how to calculate an appraisal score. You might look at different aspects of the study: you might consider study type, sample size, the use of statistical tests and whether they were appropriate, and the length of follow-up. You’d probably in reality consider other factors as well, but for the purpose of this, this will suffice.</p>
+      <p>You’ve perhaps seen this — usually these manifest as an alphanumeric code, and again, the meaning behind this code should be expressed in the literature search protocol, in the appraisal plan section. So this will all be mapped out.</p>
+      <p>Ultimately, this enables the calculation of a numerical appraisal score for each paper, with a higher number representing a higher quality study. Then those values can be imputed back into the original table with all the other values being the same.</p>
+      <p>Now we have an appraisal score by which we can weight the results from each study. That’s done fairly simply just by multiplying the actual result by the appraisal score. We do that for all of them to produce a weighted value for each study.</p>
+      <p>But we’re not quite done there, because we need to calculate a weighted mean. That’s done by taking the sum of all the weighted values and dividing that by the sum of the appraisal scores.</p>
+      <p>What we’re doing there is making the appraisal scores the denominator — they are the weighting factor that’s being applied across all studies. This means we achieve our objective of moving the weighted mean closest to the values of the highest quality studies.</p>
+      <p>In this case, that means: 3872 / 63, which gives a weighted mean of 61.46.</p>
+      <p>It’s always worth sanity checking these, but if you look at the plain mean values from each study and the appraisal scores, you’d expect it to land around the 60 mark — and that’s where it falls: 61.46.</p>
+      <p>So, that’s a simplified example of how to calculate a weighted mean for the quantitative component of a safety and performance objective.</p>
+      <p>Don’t forget, the non-conformity required that we produce safety and performance objectives that are specific and measurable.</p>
+      <p>Let’s just reflect on what that means:</p>
+      <ul>
+        <li>Specific means unambiguous, clear, and would be consistently interpreted as meaning the same thing.</li>
+        <li>Measurable means it contains a value — a quantitative value — against which another value from another device can be measured.</li>
+      </ul>
+      <p>So we have this in this case. It’s clear that that is both specific and measurable, and that’s why we included reference to six weeks — to ensure we’re comparing like with like.</p>
+      <p>That leaves us to consider the final aspect of the non-conformity, which was reference to acceptance criteria.</p>
+      <p>An acceptance criteria basically defines when safety or performance of the device under evaluation are acceptable in comparison to state-of-the-art.</p>
+      <p>What we’re doing here is setting out a means for comparing the device-under-evaluation outcomes with the state-of-the-art objectives for specified clinical outcome parameters. By now, all of these terms should have a meaning attached to them.</p>
+      <p>So, the clinical evaluation plan needs to contain an analysis plan for how this comparison will be done. Suffice to say that the outcomes for the device under evaluation are calculated by weighted means using a very similar method that we used for the state-of-the-art objectives.</p>
+      <p>And acceptance — this is the key part — acceptance can be defined as showing (statistically) that the outcomes for the device under evaluation are non-inferior to objectives derived from the SOA. We don’t need to show superiority — we’re just showing non-inferiority. That’s a key distinction.</p>
+      <p>Let’s take a final example, then, working this through.</p>
+      <p>We can see:</p>
+      <ul>
+        <li>Increasing walking distance (spelled correctly this time) of 61.46,</li>
+        <li>and in this example there were some other clinical outcome parameters as well:
+          <ul>
+            <li>improvement in pain (VAS, a measure of pain score),</li>
+            <li>and range of motion at six months.</li>
+          </ul>
+        </li>
+      </ul>
+      <p>We have values attached to all of those. Then we also have weighted mean values for the device under evaluation.</p>
+      <p>Remember, the job here is to determine whether the device under evaluation is non-inferior to SOA objectives.</p>
+      <p>For the top one, it’s very easy, because a plain number comparison shows that the device under evaluation did better than the SOA objective. We don’t need to do any fancy tests — it’s obviously non-inferior. That’s a straightforward conclusion.</p>
+      <p>But with the others, on a plain number comparison, the device under evaluation actually looks like it’s done less well than the state-of-the-art objectives. The important thing to understand here is whether that represents true inferiority, or whether these values are statistically non-different.</p>
+      <p>For that reason, conducting a statistical test is relevant. Often a t-test is an appropriate test because it’s a comparison of means, and it generates a p-value denoting significance or non-significance of the difference between these values.</p>
+      <p>Let’s say we conducted a t-test in this case, and these were the p-values that were derived. Generally, significance requires a value of less than 0.05 for the p-value. That’s not what we’re seeing here, and so these differences were non-inferior.</p>
+      <p>According to our acceptance criteria, the device under evaluation has been shown to have appropriate performance in reference to state-of-the-art.</p>
+      <p>So let’s go back to the original non-conformity:</p>
+      <blockquote>
+        <p>“Safety and performance objectives do not appear to have specific and measurable acceptance criteria.”</p>
+      </blockquote>
+      <p>We covered:</p>
+      <ul>
+        <li>what safety and performance objectives are,</li>
+        <li>how to derive them using weighted values following a state-of-the-art literature review,</li>
+        <li>what “specific and measurable” means and how the outlined process generates specific and measurable objectives,</li>
+        <li>and what acceptance criteria are and how to apply them — including through use of statistical testing.</li>
+      </ul>
+      <p>If you need any further support in relation to clinical evaluation or working through non-conformities, Mantra Systems are clinical evaluation specialists. You’re free to contact our team at any time.</p>
+      <p>If you’ve just got some general questions, don’t worry — it’s absolutely fine. More than happy to speak at any time. So feel free to reach out to us if you need any additional support.</p>
+      <p>That concludes the first episode of the Clinical Evaluation Non-Conformity series. I’d like to thank you very much, and if you have any questions or comments, please let me know below the video.</p>
+      <p>Thank you very much.</p>
+    </div>
+    ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[In this series, we work step-by-step through common Non-Conformities to ensure you are always ahead of possible challenges on the way to MDR approval.]]></summary></entry><entry><title type="html">MDCG 2020-16 Revision 4: Key Updates on IVDR Classification Rules</title><link href="https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules" rel="alternate" type="text/html" title="MDCG 2020-16 Revision 4: Key Updates on IVDR Classification Rules" /><published>2025-03-28T00:00:00+00:00</published><updated>2025-03-28T10:50:34+00:00</updated><id>https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules"><![CDATA[<p>The <strong>Medical Device Coordination Group (MDCG)</strong> has released <strong>MDCG 2020-16 rev.4 - Guidance on Classification Rules for in vitro Diagnostic Medical Devices under Regulation (EU) 2017/746</strong>.</p>
+  <p>This update released in March 2025 provides comprehensive clarification on the classification rules outlined in <strong>Annex VIII</strong> of the <strong>IVDR</strong>, ensuring that manufacturers, notified bodies, and health institutions have a clear framework for classifying in vitro diagnostic (IVD) devices based on their intended purpose and inherent risk, prior to placing it on the market. Notably, the guidance addresses the classification of medical device software (MDSW) and emphasises the importance of considering devices used in combination.</p>
+  <h2 id="summary-of-key-updates">Summary of Key Updates</h2>
+  <table>
+    <thead>
+      <tr>
+        <th style="text-align: left">Rule</th>
+        <th style="text-align: left">Changes</th>
+        <th style="text-align: left">Details</th>
+        <th style="text-align: left">Impact</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align: left">Rule 1 – Second Indent</td>
+        <td style="text-align: left">Revision of examples</td>
+        <td style="text-align: left">Updated examples to provide better clarity on the classification of IVD devices.</td>
+        <td style="text-align: left">Ensures more precise classification, reducing ambiguity for manufacturers.</td>
+      </tr>
+      <tr>
+        <td style="text-align: left">Rule 3(m)</td>
+        <td style="text-align: left">Footnote 8 modified</td>
+        <td style="text-align: left">Footnote 8 modified to refine interpretation and applicability.</td>
+        <td style="text-align: left">Improves understanding of specific classification aspects.</td>
+      </tr>
+      <tr>
+        <td style="text-align: left">Rule 4(a)</td>
+        <td style="text-align: left">Revision of examples</td>
+        <td style="text-align: left">Updated examples for self-testing devices, refining classifications based on biomarkers.</td>
+        <td style="text-align: left">Helps manufacturers align with IVDR requirements for self-testing IVDs.</td>
+      </tr>
+      <tr>
+        <td style="text-align: left">Rule 6</td>
+        <td style="text-align: left">Minor modification of the rationale and revision of examples</td>
+        <td style="text-align: left">Minor updates to rationale and refined examples for Class B IVDs.</td>
+        <td style="text-align: left">Provides a clearer framework for determining Class B device classification.</td>
+      </tr>
+      <tr>
+        <td style="text-align: left">Annex 1 and Annex 2</td>
+        <td style="text-align: left">Minor editorial changes</td>
+        <td style="text-align: left">Minor wording and structural refinements for improved readability.</td>
+        <td style="text-align: left">Enhances document clarity without changing regulatory requirements.</td>
+      </tr>
+    </tbody>
+  </table>
+  <h2 id="key-considerations-for-manufacturers">Key Considerations for Manufacturers</h2>
+  <p>The <a href="https://health.ec.europa.eu/document/download/12f9756a-1e0d-4aed-9783-d948553f1705_en?filename=md_mdcg_2020_guidance_classification_ivd-md_en.pdf">MDCG 2020-16 rev.4 guidance</a> has significant implications for <strong>IVD manufacturers</strong> as it refines how devices should be classified under IVDR.</p>
+  <ul>
+    <li><strong>Accurate Classification Criteria</strong> – The revision of examples under <strong>Rules 1, 4(a), and 6</strong> helps manufacturers correctly classify their IVD devices, reducing uncertainty. Manufacturers must <strong>review and adapt</strong> classifications, ensuring conformity with <strong>IVDR and notified body requirements</strong>.</li>
+    <li><strong>More Precise Risk Assessment</strong> – Manufacturers need to reassess whether their devices fall into a different risk class, impacting regulatory requirements.</li>
+    <li><strong>Improved Compliance with IVDR</strong> – The minor changes provide clarity but do not fundamentally alter the classification process. However, manufacturers should review their classification decisions against the revised examples.</li>
+    <li><strong>Potential Impact on Notified Body Review</strong> – If an IVD device’s classification is affected by the updated examples or rationale, additional <strong>notified body consultation</strong> may be required for conformity assessments.</li>
+  </ul>
+  <h2 id="final-thoughts">Final Thoughts</h2>
+  <p>The MDCG has provided essential updates to support <strong>IVD manufacturers</strong> in <strong>correctly interpreting classification rules under the IVDR</strong>. By understanding and implementing these refinements, manufacturers can <strong>ensure accurate device classification, strengthen regulatory compliance, and streamline interactions with notified bodies</strong>.</p>
+  <p>For more insights on IVDR compliance and regulatory transitions, you may find these articles helpful:</p>
+  <ul>
+    <li><a href="/articles/understanding-risk-based-classification-of-in-vitro-medical-devices-under-eu-ivdr">Understanding Risk-Based Classifications for IVDs Under the IVDR</a></li>
+    <li><a href="/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period">Transitioning from IVDD to IVDR: Key Considerations</a></li>
+  </ul>
+  <p>Navigating IVDR classification can be challenging. <strong>Mantra Systems</strong> provides <strong>expert regulatory consulting, medical writing, and compliance support</strong> to help manufacturers <strong>interpret and implement</strong> the latest MDCG guidance seamlessly. <a href="/contact">Contact us today</a> for a free, confidential consultation on how we can support your IVDR compliance journey.</p>
+  ]]></content><author><name>chandini-vk</name></author><category term="IVDR" /><summary type="html"><![CDATA[We detail how this revision ensures manufacturers, notified bodies, and health institutions have a clearer regulatory framework.]]></summary></entry><entry><title type="html">Top 5 Common Pitfalls to Avoid During Risk Assessment</title><link href="https://www.mantrasystems.co.uk/articles/top-5-risk-assessment-pitfalls-how-to-avoid-them" rel="alternate" type="text/html" title="Top 5 Common Pitfalls to Avoid During Risk Assessment" /><published>2025-03-26T00:00:00+00:00</published><updated>2025-03-26T10:48:01+00:00</updated><id>https://www.mantrasystems.co.uk/articles/top-5-risk-assessment-pitfalls-how-to-avoid-them</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/top-5-risk-assessment-pitfalls-how-to-avoid-them"><![CDATA[<p>A medical device-specific risk assessment uses the <a href="https://www.iso.org/standard/72704.html">ISO 14971 standard</a>, which provides guidance for producing and maintaining a risk management file.</p>
   <p>A risk assessment is a process used to identify, analyse, and mitigate risk in the design and development process to enable the sale of safe and successful medical devices. <a href="/eu-mdr-compliance/risk-management">Risk assessment</a> ensures that all potential hazards are identified and mitigated to protect patient safety. However, manufacturers often encounter mistakes along the way that can compromise the effectiveness of the assessment and delay product launch. To help you navigate the risk management process smoothly, here are the <strong>Top 5 Pitfalls</strong> to avoid during the risk assessment of your medical devices.</p>
   <figure>
     <img src="/assets/images/content/articles/inline/5-pitfalls-for-risk-assessment.svg" alt="Diagram highlighting the 5 pitfalls for risk assessment." loading="lazy" width="498" height="552" />
@@ -670,45 +714,4 @@
   <p>The EU MDR places significant risk management requirements on manufacturers of all medical devices. In order to demonstrate compliance, a detailed, well-documented. procedure-driven approach to all aspects of risk management must be implemented. In addition, risk management procedures must be viewed as an ongoing process throughout the lifetime of a device, rather than a one-off exercise.</p>
   <p>Though risk management compliance may seem daunting for manufacturers, embracing the requirements is an opportunity for manufacturers to support the safety of their device, and to utilise the data gathered to adopt a strong position in the market.</p>
   <p>At Mantra Systems, we have a dedicated team of clinical and regulatory professionals ready to help you with all aspects of risk management for your medical device. Want to learn more? <a href="/contact">Why not book in a consultation with one of our experts today</a>?</p>
-  ]]></content><author><name>peter-boxall</name></author><category term="MDR" /><summary type="html"><![CDATA[This is a cornerstone of EU MDR 2017/745, requiring a continuous, well-documented approach. We unpack key requirements and provide actionable strategies.]]></summary></entry><entry><title type="html">Beyond the Acronyms: Understanding SaMD and SiMD</title><link href="https://www.mantrasystems.co.uk/articles/understanding-samd-simd-beyond-the-acronyms" rel="alternate" type="text/html" title="Beyond the Acronyms: Understanding SaMD and SiMD" /><published>2025-02-24T00:00:00+00:00</published><updated>2025-02-23T22:20:47+00:00</updated><id>https://www.mantrasystems.co.uk/articles/understanding-samd-simd-beyond-the-acronyms</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/understanding-samd-simd-beyond-the-acronyms"><![CDATA[<p>The rapid evolution of medical technology has brought with it a host of innovative devices designed to enhance patient care, improve diagnostics, and streamline treatment processes.</p>
-  <p>As software advancements continue, the line between traditional hardware-centric medical devices and software-driven solutions becomes increasingly blurred. Enter the domains of Software in a Medical Device (SiMD), referring to software that is integral to the functioning of a physical medical device, and <a href="/solutions/regulatory-consulting-for-samd-software-as-a-medical-device">Software as a Medical Device (SaMD)</a>, which operates independently to perform medical functions. These two, while closely linked, serve as distinctive categories in the medical technology landscape.</p>
-  <h2 id="software-as-a-medical-device-samd">Software <em>as a</em> Medical Device (SaMD)</h2>
-  <p>Software as a medical device is defined by the <a href="https://www.imdrf.org/sites/default/files/docs/imdrf/final/technical/imdrf-tech-131209-samd-key-definitions-140901.pdf">International Medical Device Regulators Forum (IMDRF)</a> as:</p>
-  <blockquote>
-    <p>“<em>software intended to be used for one or more medical purposes that perform these purposes without being part of a hardware medical device.</em>”</p>
-  </blockquote>
-  <p>Although this definition offers guidance on what falls under the term SaMD, it’s possible there could still be confusion regarding what constitutes a SaMD product, as applications can integrate with hardware devices without being part of them.</p>
-  <p>Examples Include:</p>
-  <ul>
-    <li>An app that calculates appropriate insulin dosage based on a person’s blood glucose levels.</li>
-    <li>Software that draws data from other digital devices to determine risk factors associated with epileptic seizures</li>
-    <li>Software that uses artificial intelligence to look at MRI images to identify anomalies missed by other diagnostic tools (like an electrocardiogram)</li>
-  </ul>
-  <h2 id="software-in-a-medical-device-simd">Software <em>in a</em> Medical Device (SiMD)</h2>
-  <p>According to the US Food and Drug Administration (FDA), SiMD refers to software that is incorporated into a medical device to control its performance or provide specific functions. SiMD is also known as embedded software, firmware, or microcode. Unlike SaMD, SiMD can’t function independently, and is instead reliant on the associated medical hardware. Since the software contributes to the device’s intended purpose, any malfunction or failure could impact the safety and performance of the entire medical device.</p>
-  <p>Examples Include:</p>
-  <ul>
-    <li>Software embedded in a pacemaker, or defibrillator that monitors heart rhythm, calculates responses, and delivers electrical impulses</li>
-    <li>Software that powers infusion pumps, glucose meters, and smart pens</li>
-    <li>A mobile application that is the primary interface for reading continuous waveform data from an implanted or wearable EKG loop monitor</li>
-  </ul>
-  <h2 id="mdr-in-focus-how-it-applies-to-samd-and-simd">MDR in Focus: How it applies to SaMD and SiMD</h2>
-  <h3 id="samd">SaMD</h3>
-  <p>SaMD is classified under the MDR using a risk-based approach, aligning with its potential impact on patient health and safety. Risk classification is determined based on the level of risk posed to patients, similar to traditional medical devices. SaMD must undergo a conformity assessment in accordance with its risk classification. Higher-risk SaMD oftent require Notified Body (NB) involvement for certification, whereas lower-risk software (e.g., Class I) may only require self-certification.</p>
-  <p>SaMD classification follows MDR Annex VIII, Rule 11:</p>
-  <ul>
-    <li><strong>Class I:</strong> Low-risk software, such as apps for general health tracking.</li>
-    <li><strong>Class IIa:</strong> Medium-risk software that supports decision-making for non-critical conditions.</li>
-    <li><strong>Class IIb:</strong> Higher-risk software, such as diagnostic tools that influence significant treatment decisions.</li>
-    <li><strong>Class III:</strong> High-risk software used in critical or life-threatening situations, such as applications for surgical planning or cancer treatment.</li>
-  </ul>
-  <h3 id="simd">SiMD</h3>
-  <p>SiMD classification differs from SaMD and is typically evaluated within the regulatory framework of the overall medical device it accompanies. As a result, its risk classification is influenced by the combined risk of both the software and the device’s hardware. Consequently, SiMD must undergo a conformity assessment of the entire device. This means that even if the software alone is low risk, it must still meet the same regulatory scrutiny as the physical device, which may require NB involvement depending on the device classification.</p>
-  <p>Despite their differences, Both SaMD and SiMD require rigorous clinical evaluation, risk management, and post-market monitoring, but the MDR treats them distinctly based on how they are used in medical practice.</p>
-  <h2 id="unpacking-the-divide-samd-vs-simd">Unpacking the Divide: SaMD vs. SiMD</h2>
-  <p>Overall, there are a few differences in the safety and efficacy standards that apply to SaMD and SiMD. Compliance around <a href="https://www.iso.org/standard/38421.html">IEC 62304</a> (which outlines requirements for the safe design and maintenance of medical device software throughout its lifecycle), <a href="https://www.iso.org/standard/63179.html">IEC 62366</a> (which focuses on usability engineering to ensure medical devices are safe and effective for users), and <a href="https://www.mantrasystems.co.uk/enable-ce-mark/online-video-training-courses/risk-management">ISO 14971</a> (which provides a framework for identifying, evaluating, and mitigating risks associated with medical devices) are the same.</p>
-  <p>For example, both SaMD and SiMD must be classified according to IEC 62304 as far as class A, B, and C software where A is low-risk software and C is high-risk software. However, SiMD also has to meet additional requirements that concern hardware, and hardware and software integration. Compliance with these regulations ensures the safety and performance of the integrated software as part of the overall medical device.</p>
-  <h2 id="navigating-the-nuances-final-takeaways-on-samd-vs-simd">Navigating the Nuances: Final Takeaways on SaMD vs. SiMD</h2>
-  <p>The rise of <a href="https://www.linkedin.com/posts/mantrasystems_regulatory-consulting-for-software-as-a-medical-activity-7295456626759614464-z-AN">SaMD</a> and SiMD highlights a significant shift in healthcare toward more personalised, accessible, and data-driven care. It reflects the remarkable progress in integrating technology with health while underscoring the critical responsibility to ensure these innovations prioritise patient safety.</p>
-  <p>Ultimately, as we continue to explore the evolving landscape of SaMD and SiMD, understanding their complexities and distinctions is more important than ever. As the boundaries between software and medical devices become increasingly intertwined, our focus must remain steadfast on developing safe, effective, and forward-thinking solutions that enhance patient outcomes.</p>
-  ]]></content><author><name>kamiya-crabtree</name></author><category term="SaMD" /><category term="MDR" /><summary type="html"><![CDATA[As software advancements continue, the line between traditional hardware-centric medical devices and software-driven solutions becomes increasingly blurred.]]></summary></entry></feed>
+  ]]></content><author><name>peter-boxall</name></author><category term="MDR" /><summary type="html"><![CDATA[This is a cornerstone of EU MDR 2017/745, requiring a continuous, well-documented approach. We unpack key requirements and provide actionable strategies.]]></summary></entry></feed>

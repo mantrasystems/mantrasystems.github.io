@@ -1,48 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-04-03T12:47:44+01:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Navigating CAPA Terminology: Key Terms for Medical Device Professionals</title><link href="https://www.mantrasystems.co.uk/articles/navigating-capa-terminology-key-terms-for-medical-device-professionals" rel="alternate" type="text/html" title="Navigating CAPA Terminology: Key Terms for Medical Device Professionals" /><published>2025-04-02T00:00:00+01:00</published><updated>2025-04-03T12:43:18+01:00</updated><id>https://www.mantrasystems.co.uk/articles/navigating-capa-terminology-key-terms-for-medical-device-professionals</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/navigating-capa-terminology-key-terms-for-medical-device-professionals"><![CDATA[<p>The Corrective and Preventive Action (CAPA) process is a central component of <a href="/eu-mdr-compliance/quality-management-system-qms">Quality Management Systems</a> (QMS) and is a mandatory requirement for ISO 13485, MDSAP, <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_%C2%A0VIII">Regulation MDR (EU) 2017/745</a>, and the <a href="/medical-device-regulatory-consulting-services/fda-510k-consulting">US FDA</a>. It is a systematic approach used to identify, address, and prevent the recurrence of problems.</p>
-      <p>A CAPA is a structured process used to identify, resolve, and prevent the recurrence of issues within a system or product. It is essential for ensuring quality, compliance, and continuous improvement in various industries such as healthcare, manufacturing, and pharmaceuticals in the UK. The CAPA process is typically broken down into three main phases: <strong>Identify Problems</strong>, where issues are first recognised and thoroughly assessed; <strong>Address Problems</strong>, where corrective actions are formulated and implemented to fix the immediate problems; and <strong>Prevent Recurrence</strong>, where long-term solutions and preventive measures are established to ensure that the issue does not happen again, ultimately enhancing the reliability and quality of operations.</p>
-      <figure>
-        <img src="/assets/images/content/articles/inline/capa-process-in-quality-management.svg" alt="CAPA Process in Quality Management diagram." loading="lazy" width="520" height="416" />
-        <figcaption>CAPA Process in Quality Management</figcaption>
-      </figure>
-      <h2 id="key-terms">Key terms</h2>
-      <p>Here are some key terms that all medical device professionals should acquaint themselves with:</p>
-      <h3 id="nonconformity--a-deviation-from-a-specification-standard-or-an-expectation">Nonconformity = A deviation from a specification, standard, or an expectation</h3>
-      <p>Nonconformity is the recognition of an issue that deviates from the expected outcome or requirement. These typically appear at the beginning of the process, during identification and investigation stages.</p>
-      <h3 id="capa-trigger--a-predefined-condition-that-leads-to-a-corrective-or-preventative-measure">CAPA Trigger = A predefined condition that leads to a corrective or preventative measure</h3>
-      <p>CAPA triggers can arise from various sources, both internal and external, and typically highlight areas where a product, process, or system does not meet specified standards or expectations. Examples of CAPA triggers include: customer complaints, audit findings, and adverse events or near misses.</p>
-      <h3 id="root-cause-analysis-rca--a-method-to-identify-the-cause-of-a-problem">Root Cause Analysis (RCA) = A method to identify the cause of a problem</h3>
-      <p>The goal of RCA is not just to address the immediate symptoms of a problem, but to discover and resolve the root cause(s) to prevent recurrence. It’s a critical component of the CAPA process, especially in regulated industries like manufacturing, healthcare, and quality control. Tools such as the 5 Whys, Fishbone Diagram, and Failure Mode and Effects Analysis (FMEA) can be used to facilitate RCA.</p>
-      <h3 id="root-cause--the-main-reason-why-a-problem-has-arisenoccurred">Root Cause = The main reason why a problem has arisen/occurred</h3>
-      <p>In any quality management or problem-solving process, identifying the root cause is critical because it allows an organisation to focus its efforts on eliminating the source of the problem, rather than just addressing its symptoms.</p>
-      <h3 id="field-corrective-action-fca--actions-to-address-issues-identified-after-distribution">Field Corrective Action (FCA) = Actions to address issues identified after distribution</h3>
-      <p>FCAs are typically initiated after a product defect, safety concern, or performance failure has been identified in the field, often through customer complaints, product recalls, or post-market surveillance data. They form an important part of the product lifecycle and help in protecting both the end users and the manufacturer’s reputation.</p>
-      <h3 id="supplier-corrective-action-request-scar--a-request-to-a-supplier-to-address-the-problem">Supplier Corrective Action Request (SCAR) = A request to a supplier to address the problem</h3>
-      <p>The SCAR process is used to communicate nonconformities, initiate corrective actions, and ensure that suppliers address the underlying issues causing defects or quality problems. It’s an essential tool in quality management systems. The purpose of SCAR is to improve supplier performance and prevent recurrence of issues that may affect the quality and safety of the end product.</p>
-      <h3 id="capa-plan--a-documented-plan-for-actions-to-address-a-specific-issue">CAPA Plan = A documented plan for actions to address a specific issue</h3>
-      <p>It begins with identifying a problem, conducting a root cause analysis, and implementing corrective actions to resolve the issue. Preventive actions are then put in place to reduce the risk of future occurrences. The plan also includes verifying the effectiveness of these actions, documenting the process, and ensuring continuous monitoring for improvement.</p>
-      <h3 id="capa-review-board--a-group-that-is-responsible-for-overseeing-the-capa-process">CAPA Review Board = A group that is responsible for overseeing the CAPA process</h3>
-      <p>The board ensures that identified issues are appropriately investigated, root causes are thoroughly analysed, and corrective and preventive actions are effectively implemented.</p>
-      <h3 id="risk-assessment--the-process-of-identifying-and-analysing-the-impact-of-potential-issues">Risk Assessment = The process of identifying and analysing the impact of potential issues</h3>
-      <p>In the context of CAPA, risk assessment helps determine the severity and likelihood of an issue reoccurring, allowing companies to implement appropriate actions to mitigate or control these risks. It plays a critical role in ensuring that corrective and preventive measures are effective and proportionate to the identified risks.</p>
-      <h3 id="correction--action-to-fix-a-nonconformity-without-addressing-the-root-issue">Correction = Action to fix a nonconformity without addressing the root issue</h3>
-      <p>Unlike corrective actions, which are aimed at preventing recurrence, corrections focus on resolving the current issue.</p>
-      <h3 id="preventative-action-pa--actions-that-address-the-causes-of-a-potential-nonconformity">Preventative Action (PA) = Actions that address the causes of a potential nonconformity</h3>
-      <p>This process involves analysing trends, risks, or weak points in the system and making improvements to avoid future problems, ensuring ongoing compliance and quality.</p>
-      <h3 id="corrective-action-ca--actions-that-address-the-causes-of-an-existing-nonconformity">Corrective Action (CA) = Actions that address the causes of an existing nonconformity</h3>
-      <p>This process involves investigating the issue, implementing changes to eliminate the cause, and ensuring that similar issues do not arise in the future.</p>
-      <h3 id="verification--checking-that-a-solution-works-as-intended">Verification = Checking that a solution works as intended</h3>
-      <p>Verification is the process of confirming that a product, process, or system meets specific requirements and functions as intended. It involves checking and testing against predetermined criteria to ensure accuracy and compliance before implementation or release.</p>
-      <h3 id="validation--ensuring-that-a-product-or-a-process-meets-its-intended-use">Validation = Ensuring that a product or a process meets its intended use</h3>
-      <p>Validation ensures that a product, process, or system consistently meets its intended purpose and regulatory requirements. It involves testing and documentation to confirm reliability and compliance with standards, ensuring product quality and safety.</p>
-      <h3 id="effectiveness-check-voe--evaluation-to-confirm-the-success-of-a-capa">Effectiveness Check (VoE) = Evaluation to confirm the success of a CAPA</h3>
-      <p>After implementing corrective actions, an Effectiveness Check ensures that the changes have successfully resolved the problem and that the same issue does not reoccur. This check typically involves monitoring the results over a set period, reviewing data, and evaluating the impact of the actions on product quality, performance, or process improvements.</p>
-      <h3 id="disposition--decision-on-how-to-handle-a-nonconforming-product-or-situation">Disposition = Decision on how to handle a nonconforming product or situation</h3>
-      <p>Disposition refers to the decision made regarding nonconforming products, determining whether they should be reworked, used as-is, scrapped, or returned to the supplier. These decisions are based on the severity of the nonconformity and are crucial for maintaining product quality and compliance.</p>
-      <h2 id="mastering-capa-turning-terminology-into-action">Mastering CAPA: Turning Terminology into Action</h2>
-      <p>In conclusion, understanding and navigating CAPA terminology is essential for ensuring compliance and driving continuous improvement within a quality management system. Familiarity with key terms such as root cause analysis, corrective actions, preventive actions, and effectiveness checks will help professionals make informed decisions, streamline processes, and avoid common pitfalls.</p>
-      <p>By staying up-to-date with these critical terms, organisations can strengthen their CAPA processes, improve product quality, and enhance overall regulatory compliance. Empowering teams with the knowledge of CAPA terminology is a key step toward maintaining high-quality standards and ensuring the safety and efficacy of medical devices in the marketplace.</p>
-      <p>Ready to navigate the regulatory process with confidence? With our expert team and 100% notified body approval, we’re here to help you ensure compliance and streamline your medical device journey. <a href="/contact">Contact us today to get started!</a></p>
-      ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[We define and explain the language required to work within a Quality Management System (QMS).]]></summary></entry><entry><title type="html">Clinical Evaluation Masterclass: Overcoming Non-conformities - Episode 1</title><link href="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities" rel="alternate" type="text/html" title="Clinical Evaluation Masterclass: Overcoming Non-conformities - Episode 1" /><published>2025-04-02T00:00:00+01:00</published><updated>2025-04-01T17:44:46+01:00</updated><id>https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities"><![CDATA[<div class="video-wrap full">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-04-09T08:02:26+01:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Clinical Evaluation Masterclass: Appraisal of literature sources has not been conducted properly - Episode 2</title><link href="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-2-appraisal-of-literature-sources-has-not-been-conducted-properly" rel="alternate" type="text/html" title="Clinical Evaluation Masterclass: Appraisal of literature sources has not been conducted properly - Episode 2" /><published>2025-04-09T00:00:00+01:00</published><updated>2025-04-09T08:01:59+01:00</updated><id>https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-2-appraisal-of-literature-sources-has-not-been-conducted-properly</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-2-appraisal-of-literature-sources-has-not-been-conducted-properly"><![CDATA[<div class="video-wrap full">
+        <div class="video-insert youtube-player" data-id="TG6AjCkJCkY"></div>
+      </div>
+      <p>A non-conformity in clinical evaluation arises when a <strong>Clinical Evaluation Plan (CEP) or Report (CER)</strong> fails to meet regulatory standards or Notified Body (NB) expectations.</p>
+      <p>These deficiencies such as incomplete data, unclear safety criteria, or inadequate evidence analysis indicate that the device’s safety and performance are not sufficiently demonstrated, requiring correction before approval.</p>
+      <p>For manufacturers, such non-conformities can result in <strong>delayed approvals, extended review cycles, and costly rework</strong>, as unresolved issues block NB acceptance. Proactively addressing non-conformities helps streamline audits, accelerate certifications, and strengthen regulatory compliance, ensuring smoother market access.</p>
+      <p>This video series breaks down the most common clinical evaluation non-conformities, explains <em>why</em> they keep happening, and most importantly, shows you how to <em><strong>fix (or avoid) them</strong></em> for good.</p>
+      <h2 id="episode-2-appraisal-of-literature-sources-has-not-been-conducted-properly">Episode 2: “Appraisal of literature sources has not been conducted properly”</h2>
+      <p>One of the most frequent reasons for CER rejection is poor appraisal of literature sources. In this episode, we cover:</p>
+      <ul>
+        <li>What <em>‘appraisal’</em> really means and the purpose it serves</li>
+        <li>Key characteristics of an appropriately conducted appraisal process</li>
+        <li>How to practically implement appraisals during clinical evaluation and why it matters</li>
+      </ul>
+      <p>A well-documented appraisal strategy is essential for demonstrating safety and performance through clinical data. Ensuring the appraisal is systematic, objective, and traceable can significantly reduce regulatory pushback.</p>
+      <p>If you missed it, <a href="/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities">be sure to check out Episode 1:”Safety and Performance Objectives Lack Specific and measurable acceptance criteria”</a> where we explore how to define specific, measurable objectives and develop practical acceptance criteria that meet Notified Body expectations.</p>
+      <p>Stay tuned for Episode 3, where tackle another common non-conformity: “<em>It is not clear what systematic search methods were used for the literature review.</em>” We’ll show you how to design and document a compliant search strategy that ensures transparency, traceability, and relevance in your literature review process. <a href="/newsletter">Sign up to our newsletter now so you don’t miss out</a>.</p>
+      ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[Our ongoing series covers one of the most frequent reasons for CER rejection: a poor appraisal of literature sources.]]></summary></entry><entry><title type="html">Clinical Evaluation Masterclass: Overcoming Non-conformities - Episode 1</title><link href="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities" rel="alternate" type="text/html" title="Clinical Evaluation Masterclass: Overcoming Non-conformities - Episode 1" /><published>2025-04-02T00:00:00+01:00</published><updated>2025-04-01T17:44:46+01:00</updated><id>https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities"><![CDATA[<div class="video-wrap full">
       <div class="video-insert youtube-player" data-id="3iOgkFyk-hc"></div>
     </div>
     <p>Clinical Evaluation Plans (CEPs) and Clinical Evaluation Reports (CERs) are critical components of medical device regulatory compliance. However, the reality is that meeting requirements isn’t always plain sailing.</p>
@@ -167,7 +140,51 @@
       <p>That concludes the first episode of the Clinical Evaluation Non-Conformity series. I’d like to thank you very much, and if you have any questions or comments, please let me know below the video.</p>
       <p>Thank you very much.</p>
     </div>
-    ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[In this series, we work step-by-step through common Non-Conformities to ensure you are always ahead of possible challenges on the way to MDR approval.]]></summary></entry><entry><title type="html">MDCG 2020-16 Revision 4: Key Updates on IVDR Classification Rules</title><link href="https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules" rel="alternate" type="text/html" title="MDCG 2020-16 Revision 4: Key Updates on IVDR Classification Rules" /><published>2025-03-28T00:00:00+00:00</published><updated>2025-03-28T10:50:34+00:00</updated><id>https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules"><![CDATA[<p>The <strong>Medical Device Coordination Group (MDCG)</strong> has released <strong>MDCG 2020-16 rev.4 - Guidance on Classification Rules for in vitro Diagnostic Medical Devices under Regulation (EU) 2017/746</strong>.</p>
+    ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[In this series, we work step-by-step through common Non-Conformities to ensure you are always ahead of possible challenges on the way to MDR approval.]]></summary></entry><entry><title type="html">Navigating CAPA Terminology: Key Terms for Medical Device Professionals</title><link href="https://www.mantrasystems.co.uk/articles/navigating-capa-terminology-key-terms-for-medical-device-professionals" rel="alternate" type="text/html" title="Navigating CAPA Terminology: Key Terms for Medical Device Professionals" /><published>2025-04-02T00:00:00+01:00</published><updated>2025-04-03T12:43:18+01:00</updated><id>https://www.mantrasystems.co.uk/articles/navigating-capa-terminology-key-terms-for-medical-device-professionals</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/navigating-capa-terminology-key-terms-for-medical-device-professionals"><![CDATA[<p>The Corrective and Preventive Action (CAPA) process is a central component of <a href="/eu-mdr-compliance/quality-management-system-qms">Quality Management Systems</a> (QMS) and is a mandatory requirement for ISO 13485, MDSAP, <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_%C2%A0VIII">Regulation MDR (EU) 2017/745</a>, and the <a href="/medical-device-regulatory-consulting-services/fda-510k-consulting">US FDA</a>. It is a systematic approach used to identify, address, and prevent the recurrence of problems.</p>
+  <p>A CAPA is a structured process used to identify, resolve, and prevent the recurrence of issues within a system or product. It is essential for ensuring quality, compliance, and continuous improvement in various industries such as healthcare, manufacturing, and pharmaceuticals in the UK. The CAPA process is typically broken down into three main phases: <strong>Identify Problems</strong>, where issues are first recognised and thoroughly assessed; <strong>Address Problems</strong>, where corrective actions are formulated and implemented to fix the immediate problems; and <strong>Prevent Recurrence</strong>, where long-term solutions and preventive measures are established to ensure that the issue does not happen again, ultimately enhancing the reliability and quality of operations.</p>
+  <figure>
+    <img src="/assets/images/content/articles/inline/capa-process-in-quality-management.svg" alt="CAPA Process in Quality Management diagram." loading="lazy" width="520" height="416" />
+    <figcaption>CAPA Process in Quality Management</figcaption>
+  </figure>
+  <h2 id="key-terms">Key terms</h2>
+  <p>Here are some key terms that all medical device professionals should acquaint themselves with:</p>
+  <h3 id="nonconformity--a-deviation-from-a-specification-standard-or-an-expectation">Nonconformity = A deviation from a specification, standard, or an expectation</h3>
+  <p>Nonconformity is the recognition of an issue that deviates from the expected outcome or requirement. These typically appear at the beginning of the process, during identification and investigation stages.</p>
+  <h3 id="capa-trigger--a-predefined-condition-that-leads-to-a-corrective-or-preventative-measure">CAPA Trigger = A predefined condition that leads to a corrective or preventative measure</h3>
+  <p>CAPA triggers can arise from various sources, both internal and external, and typically highlight areas where a product, process, or system does not meet specified standards or expectations. Examples of CAPA triggers include: customer complaints, audit findings, and adverse events or near misses.</p>
+  <h3 id="root-cause-analysis-rca--a-method-to-identify-the-cause-of-a-problem">Root Cause Analysis (RCA) = A method to identify the cause of a problem</h3>
+  <p>The goal of RCA is not just to address the immediate symptoms of a problem, but to discover and resolve the root cause(s) to prevent recurrence. It’s a critical component of the CAPA process, especially in regulated industries like manufacturing, healthcare, and quality control. Tools such as the 5 Whys, Fishbone Diagram, and Failure Mode and Effects Analysis (FMEA) can be used to facilitate RCA.</p>
+  <h3 id="root-cause--the-main-reason-why-a-problem-has-arisenoccurred">Root Cause = The main reason why a problem has arisen/occurred</h3>
+  <p>In any quality management or problem-solving process, identifying the root cause is critical because it allows an organisation to focus its efforts on eliminating the source of the problem, rather than just addressing its symptoms.</p>
+  <h3 id="field-corrective-action-fca--actions-to-address-issues-identified-after-distribution">Field Corrective Action (FCA) = Actions to address issues identified after distribution</h3>
+  <p>FCAs are typically initiated after a product defect, safety concern, or performance failure has been identified in the field, often through customer complaints, product recalls, or post-market surveillance data. They form an important part of the product lifecycle and help in protecting both the end users and the manufacturer’s reputation.</p>
+  <h3 id="supplier-corrective-action-request-scar--a-request-to-a-supplier-to-address-the-problem">Supplier Corrective Action Request (SCAR) = A request to a supplier to address the problem</h3>
+  <p>The SCAR process is used to communicate nonconformities, initiate corrective actions, and ensure that suppliers address the underlying issues causing defects or quality problems. It’s an essential tool in quality management systems. The purpose of SCAR is to improve supplier performance and prevent recurrence of issues that may affect the quality and safety of the end product.</p>
+  <h3 id="capa-plan--a-documented-plan-for-actions-to-address-a-specific-issue">CAPA Plan = A documented plan for actions to address a specific issue</h3>
+  <p>It begins with identifying a problem, conducting a root cause analysis, and implementing corrective actions to resolve the issue. Preventive actions are then put in place to reduce the risk of future occurrences. The plan also includes verifying the effectiveness of these actions, documenting the process, and ensuring continuous monitoring for improvement.</p>
+  <h3 id="capa-review-board--a-group-that-is-responsible-for-overseeing-the-capa-process">CAPA Review Board = A group that is responsible for overseeing the CAPA process</h3>
+  <p>The board ensures that identified issues are appropriately investigated, root causes are thoroughly analysed, and corrective and preventive actions are effectively implemented.</p>
+  <h3 id="risk-assessment--the-process-of-identifying-and-analysing-the-impact-of-potential-issues">Risk Assessment = The process of identifying and analysing the impact of potential issues</h3>
+  <p>In the context of CAPA, risk assessment helps determine the severity and likelihood of an issue reoccurring, allowing companies to implement appropriate actions to mitigate or control these risks. It plays a critical role in ensuring that corrective and preventive measures are effective and proportionate to the identified risks.</p>
+  <h3 id="correction--action-to-fix-a-nonconformity-without-addressing-the-root-issue">Correction = Action to fix a nonconformity without addressing the root issue</h3>
+  <p>Unlike corrective actions, which are aimed at preventing recurrence, corrections focus on resolving the current issue.</p>
+  <h3 id="preventative-action-pa--actions-that-address-the-causes-of-a-potential-nonconformity">Preventative Action (PA) = Actions that address the causes of a potential nonconformity</h3>
+  <p>This process involves analysing trends, risks, or weak points in the system and making improvements to avoid future problems, ensuring ongoing compliance and quality.</p>
+  <h3 id="corrective-action-ca--actions-that-address-the-causes-of-an-existing-nonconformity">Corrective Action (CA) = Actions that address the causes of an existing nonconformity</h3>
+  <p>This process involves investigating the issue, implementing changes to eliminate the cause, and ensuring that similar issues do not arise in the future.</p>
+  <h3 id="verification--checking-that-a-solution-works-as-intended">Verification = Checking that a solution works as intended</h3>
+  <p>Verification is the process of confirming that a product, process, or system meets specific requirements and functions as intended. It involves checking and testing against predetermined criteria to ensure accuracy and compliance before implementation or release.</p>
+  <h3 id="validation--ensuring-that-a-product-or-a-process-meets-its-intended-use">Validation = Ensuring that a product or a process meets its intended use</h3>
+  <p>Validation ensures that a product, process, or system consistently meets its intended purpose and regulatory requirements. It involves testing and documentation to confirm reliability and compliance with standards, ensuring product quality and safety.</p>
+  <h3 id="effectiveness-check-voe--evaluation-to-confirm-the-success-of-a-capa">Effectiveness Check (VoE) = Evaluation to confirm the success of a CAPA</h3>
+  <p>After implementing corrective actions, an Effectiveness Check ensures that the changes have successfully resolved the problem and that the same issue does not reoccur. This check typically involves monitoring the results over a set period, reviewing data, and evaluating the impact of the actions on product quality, performance, or process improvements.</p>
+  <h3 id="disposition--decision-on-how-to-handle-a-nonconforming-product-or-situation">Disposition = Decision on how to handle a nonconforming product or situation</h3>
+  <p>Disposition refers to the decision made regarding nonconforming products, determining whether they should be reworked, used as-is, scrapped, or returned to the supplier. These decisions are based on the severity of the nonconformity and are crucial for maintaining product quality and compliance.</p>
+  <h2 id="mastering-capa-turning-terminology-into-action">Mastering CAPA: Turning Terminology into Action</h2>
+  <p>In conclusion, understanding and navigating CAPA terminology is essential for ensuring compliance and driving continuous improvement within a quality management system. Familiarity with key terms such as root cause analysis, corrective actions, preventive actions, and effectiveness checks will help professionals make informed decisions, streamline processes, and avoid common pitfalls.</p>
+  <p>By staying up-to-date with these critical terms, organisations can strengthen their CAPA processes, improve product quality, and enhance overall regulatory compliance. Empowering teams with the knowledge of CAPA terminology is a key step toward maintaining high-quality standards and ensuring the safety and efficacy of medical devices in the marketplace.</p>
+  <p>Ready to navigate the regulatory process with confidence? With our expert team and 100% notified body approval, we’re here to help you ensure compliance and streamline your medical device journey. <a href="/contact">Contact us today to get started!</a></p>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[We define and explain the language required to work within a Quality Management System (QMS).]]></summary></entry><entry><title type="html">MDCG 2020-16 Revision 4: Key Updates on IVDR Classification Rules</title><link href="https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules" rel="alternate" type="text/html" title="MDCG 2020-16 Revision 4: Key Updates on IVDR Classification Rules" /><published>2025-03-28T00:00:00+00:00</published><updated>2025-03-28T10:50:34+00:00</updated><id>https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules"><![CDATA[<p>The <strong>Medical Device Coordination Group (MDCG)</strong> has released <strong>MDCG 2020-16 rev.4 - Guidance on Classification Rules for in vitro Diagnostic Medical Devices under Regulation (EU) 2017/746</strong>.</p>
   <p>This update released in March 2025 provides comprehensive clarification on the classification rules outlined in <strong>Annex VIII</strong> of the <strong>IVDR</strong>, ensuring that manufacturers, notified bodies, and health institutions have a clear framework for classifying in vitro diagnostic (IVD) devices based on their intended purpose and inherent risk, prior to placing it on the market. Notably, the guidance addresses the classification of medical device software (MDSW) and emphasises the importance of considering devices used in combination.</p>
   <h2 id="summary-of-key-updates">Summary of Key Updates</h2>
   <table>
@@ -569,149 +586,4 @@
   <h2 id="conclusion">Conclusion</h2>
   <p>eIFUs offer many benefits to both manufacturers and users. They are often easier to access, reduce physical IFU production costs, and can be updated far more quickly than paper IFUs. They are, however, limited by poor internet access and user interface design challenges.</p>
   <p>The future of IFUs is digital, delivering cost savings, faster updates, and improved accessibility. Navigating the regulatory landscape can be challenging, but with Mantra Systems, you can move forward with confidence. <a href="/contact">Act now — partner with us</a> to ensure your eIFUs are compliant and your devices are approved without delay.</p>
-  ]]></content><author><name>william-brambley</name></author><category term="MDR" /><summary type="html"><![CDATA[Electronic Instructions for Use (eIFUs) are set to revolutionise how medical device instructions are delivered. We explore what this means for you.]]></summary></entry><entry><title type="html">Navigating Risk Management Requirements under the EU MDR</title><link href="https://www.mantrasystems.co.uk/articles/navigating-risk-management-requirements-under-eu-mdr" rel="alternate" type="text/html" title="Navigating Risk Management Requirements under the EU MDR" /><published>2025-02-26T00:00:00+00:00</published><updated>2025-02-26T10:59:18+00:00</updated><id>https://www.mantrasystems.co.uk/articles/navigating-risk-management-requirements-under-eu-mdr</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/navigating-risk-management-requirements-under-eu-mdr"><![CDATA[<p>Risk management is a cornerstone of EU MDR 2017/745, requiring a continuous, well-documented approach to ensure patient safety. This article unpacks the key requirements and provides actionable strategies for compliance.</p>
-  <p><a href="/eu-mdr-compliance/risk-management">Risk management</a> is a significant component of the <a href="https://eur-lex.europa.eu/eli/reg/2017/745/oj/eng">EU MDR 2017/745</a> and is vital to ensure the safety of patients and medical device users. A thorough approach to risk management activities is essential for medical device manufacturers to demonstrate conformity with the requirements of the EU MDR. In this article, we will explore the requirements placed on medical device manufacturers by the EU MDR and provide an overview on how to address them.</p>
-  <h2 id="what-are-the-requirements">What are the requirements?</h2>
-  <p>Article 10, point 2 of the EU MDR stipulates that manufacturers are required to establish, document, implement and maintain a system for risk management. It can therefore be clearly interpreted that risk management must be an ongoing process throughout the lifecycle of a device, rather than a ‘one-off’ exercise. A continuous approach to risk management is pivotal in ensuring compliance with regulatory complaints and, moreover, safeguarding patients and device users from avoidable harm.</p>
-  <p>A more detailed breakdown of risk management requirements can be found in Annex I, points 2-8 of the EU MDR. In summary, the points stipulate that manufacturers must:</p>
-  <ul>
-    <li>Reduce risks as far as possible without negatively affecting the benefit/risk profile of a device.</li>
-    <li>Establish, document, implement and maintain a risk management system throughout the entire lifecycle of a device. This process includes:
-      <ul>
-        <li>Development of a risk management plan</li>
-        <li>Identification of known and foreseeable hazards associated with the device</li>
-        <li>Evaluation of risks associated with the device during intended and reasonably foreseeable misuse</li>
-        <li>Implementation of measures to control or eliminate identified risks</li>
-        <li>Incorporation of information gathered during device production and <a href="/eu-mdr-compliance/post-market-surveillance-pms">post-market surveillance (PMS)</a> regarding the frequency of identified risks</li>
-        <li>Implementation/amendment of risk control measures to address new risks, or risks with greater frequency than initially forecast, based on information obtained through PMS activities.</li>
-      </ul>
-    </li>
-    <li>Manage risks to an extent that the residual risk associated with each hazard, and the overall residual risk of a device, is acceptable.</li>
-    <li>Inform users of any residual risks</li>
-    <li>Reduce or eliminate risks relating to user error</li>
-    <li>Ensure that the safety of patients and device users is not affected by the impact of stresses and environmental factors on device performance under normal conditions of use throughout the lifetime of the device.</li>
-    <li>Design, manufacture and package devices in a manner that ensures their characteristics and performance are not affected during storage and transport.</li>
-    <li>Ensure that all foreseeable risks and undesirable side effects are reduced as far as possible and deemed acceptable when weighed against the benefit of a device to patients and users.</li>
-  </ul>
-  <p>Annex I, point 9 refers to the requirement for devices without an intended medical purpose, as outlined in Annex XVI, to present no risk at all or a risk that is no greater than the maximum acceptable risk related to the device’s use. Interpretation of this statement would infer that, for devices without an intended medical purpose that remain governed by MDR, the level of acceptable risk is minimal. Devices falling under this bracket include:</p>
-  <ul>
-    <li>Contact lenses and other products intended to be introduced onto or into the eye</li>
-    <li>Products intended to be totally or partially inserted into the body through surgically invasive means for modifying anatomy or the fixation of body parts, excluding tattooing products and piercings</li>
-    <li>Facial, dermal or mucous membrane fillers</li>
-    <li>Equipment for the destruction, reduction of removal of adipose tissue, such as those used in liposuction and lipolysis</li>
-    <li>Equipment emitting high-intensity electromagnetic radiation for use on the human body, such as lasers and pulsed light equipment used in skin resurfacing, tattoo or hair removal</li>
-    <li>Equipment intended to modify neuronal activity in the brain by applying electrical currents or magnetic or electromagnetic fields that penetrate the cranium</li>
-  </ul>
-  <h2 id="how-do-we-meet-the-requirements">How do we meet the requirements?</h2>
-  <p>One approach to meeting the requirements for risk management is to align risk management procedures with <a href="https://www.linkedin.com/pulse/quick-guide-iso-14971-risk-management-mantrasystems-xwtne/">BS EN ISO 14971</a>, since the standard is aligned with the General Safety and Performance Requirements of the EU MDR.</p>
-  <p>BS EN ISO 14971 describes 6 distinct steps in the overall risk management process, as demonstrated below:</p>
-  <figure>
-    <img src="/assets/images/content/articles/inline/risk-management-processes.svg" alt="A diagram of a risk management process" loading="lazy" width="520" height="416" />
-    <figcaption>A risk management process</figcaption>
-  </figure>
-  <h2 id="risk-management-plan">Risk Management Plan</h2>
-  <p>It is essential that all activities conducted during risk management are planned and that this plan is documented. A robust risk management plan will describe the following:</p>
-  <ul>
-    <li>Assignment of responsibilities and authorities for risk management processes.</li>
-    <li>A roadmap for risk management activities to be conducted, based on the 6 defined process steps in BS EN ISO 14971.</li>
-    <li>A procedure for the identification and analysis of risks associated with the device throughout its lifetime.</li>
-    <li>Criteria for determination of risk acceptability.</li>
-    <li>A procedure for the identification and implementation of appropriate risk control measures.</li>
-  </ul>
-  <p>A procedure for the evaluation of individual and overall residual risks following the implementation of risk control measures.</p>
-  <p>A process for the collection and review of production and post-production information.</p>
-  <h2 id="risk-assessment">Risk Assessment</h2>
-  <p>Risk assessment involves the analysis of risks by identifying all relevant hazards, hazardous situations and harms, and estimating the probability and severity of identified risks. In order to provide a framework for the identification of risks, it is beneficial to consider the following:</p>
-  <ul>
-    <li>Definition of intended use:
-      <ul>
-        <li>Intended medical indication and target medical condition</li>
-        <li>Target patient population
-          <ul>
-            <li>Demographics</li>
-            <li>Disease state and stage</li>
-          </ul>
-        </li>
-        <li>Part of body/type of tissue the device interacts with</li>
-        <li>Device user profile
-          <ul>
-            <li>Age</li>
-            <li>Medical professionals and/or laypersons</li>
-          </ul>
-        </li>
-        <li>Use environment</li>
-      </ul>
-    </li>
-    <li>Definition of reasonably foreseeable misuse:
-      <ul>
-        <li>Accidental use error</li>
-        <li>Use under the wrong conditions</li>
-        <li>Impact of intentional misuse</li>
-        <li>Use for non-intended clinical indications</li>
-      </ul>
-    </li>
-    <li>Characteristics related to safety</li>
-  </ul>
-  <p>A comprehensive list of hazards, hazardous situations and associated harms can be identified following the definition of intended use, reasonably foreseeable misuse and characteristics related to safety. According to the definitions in BS EN ISO 14971, a hazard cannot result in harm until a sequence of events or circumstances (including normal use and reasonably foreseeable misuse) leads to a hazardous situation. Each hazard (e.g. device size too small) can be associated with several hazardous situations (e.g. pressure of device against skin), each associated with several potential harms (e.g. skin abrasion). Once a risk has been followed through from hazard to harm, it can be assessed by estimating both severity and probability of occurrence of harm that could result. A pre-determined criteria of risk acceptability, as documented in the risk management plan, can then be applied based on the estimated risk probability and severity.</p>
-  <h2 id="risk-control">Risk control</h2>
-  <p>The application of appropriate risk control measures to reduce the probability and/or severity of each identified potential harm, regardless of initial evaluation of acceptability, is required. This process ensures that each identified risk has been reduced as far as possible, without negatively affecting the overall benefit-risk profile of the device.</p>
-  <p><a href="/enable-ce-mark/online-video-training-courses/risk-management">BS EN ISO 14971</a> sets out 3 broad risk control options for medical device manufacturers, in descending order of effectiveness, as described below:</p>
-  <ul>
-    <li>Elimination of risk through design of the device. Examples include:
-      <ul>
-        <li>Design without sharp edges</li>
-        <li>Make dangerous electrical equipment inaccessible</li>
-      </ul>
-    </li>
-    <li>Reduction of risk through the addition of protective measures in the medical device itself or in the manufacturing process. Examples include:
-      <ul>
-        <li>Alarms</li>
-        <li>Protective covers</li>
-      </ul>
-    </li>
-    <li>Reduction of risk through the provision of information for the safety of device users/operators. Examples include:
-      <ul>
-        <li>Warnings/precautions</li>
-        <li>Promotion of use of protective equipment</li>
-        <li>Instructions for use</li>
-      </ul>
-    </li>
-  </ul>
-  <h2 id="evaluation-of-residual-risk">Evaluation of Residual Risk</h2>
-  <p>Following the implementation of control measures to each identified risk, the probability and severity of each individual risk can be re-estimated, and the previously documented risk acceptability criteria re-applied to determine individual residual risks.</p>
-  <p>Risk management requirements under the EU MDR place an onus on manufacturers to also assess overall residual risk, whereby the acceptability of all residual risks taken together must be determined.  As is the case when determining the acceptability of individual risks, a pre-determined criteria of acceptability must be documented and followed when evaluating overall residual risk. The assessment of overall residual risk should consider the distribution of individual residual risks by acceptability category. For example, even in the absence of any unacceptable individual risks, if a significant proportion of individual risks are considered ‘borderline’ the overall residual risk associated with a device may be deemed unacceptable. If this is the case, manufacturers must implement additional risk control measures, consider modifying the device design and manufacturing process, or place restrictions on the intended use or users, before re-evaluating individual and overall residual risks.</p>
-  <p>Manufacturers are required to disclose any significant residual risks by providing relevant information in the device labelling and Instructions for Use documentation. The disclosure of residual risks should not be confused with information for safety, which forms part of the risk control process. The disclosure of residual risk does not in itself provide information which can reduce the probability or severity of a given risk, instead providing users with an overview of the risks associated with a device that remain after risk control measures have been implemented. Further guidance on the disclosure of residual risk, and information for safety, can be found in ISO/TR 24971.</p>
-  <h2 id="risk-management-review">Risk Management Review</h2>
-  <p>Once all the risk management activities described above have completed, manufacturers are required to conduct a risk management review. The review must assess whether all procedures in the Risk Management Plan were adhered to and a robust conclusion that the overall residual risk of the device is acceptable must be made. Finally, practices for the collection and assessment of production and post-production information relating to the risk of the device must be decided on and documented. The processes and conclusions of the risk management review must be documented in a Risk Management Report.</p>
-  <h2 id="production-and-post-production-activities">Production and Post-Production Activities</h2>
-  <p>BS EN ISO 14971 describes the requirement for manufacturers to implement, document and maintain a system to collect and analyse information relating to the safety of a medical device during its production and post-production phases.</p>
-  <p>The collection of relevant information should encompass feedback and data from a variety of sources, including:</p>
-  <ul>
-    <li>Information from the supply chain relating to production and distribution of the device.</li>
-    <li>Information gathered during the production process.</li>
-    <li>Information from those responsible for installation and maintenance of the device.</li>
-    <li>Information from users of the device.</li>
-    <li>Information relating to the device or similar devices which is publicly available.</li>
-    <li>Information regarding updates to the state of the art.</li>
-  </ul>
-  <p>When the relevant information has been collected, it must be subject to a formal review, with a focus on relevance of the information to the safety of the subject device. The review should identify the following:</p>
-  <ul>
-    <li>Any hazards or hazardous situations that were not addressed during initial risk management procedures.</li>
-    <li>Previously addressed hazardous situations which have become unacceptable due to the impact of collected information.</li>
-    <li>If the overall residual risk remains acceptable or is now unacceptable.</li>
-    <li>Updates to the acknowledged state of the art which may impact the safety profile of the device.</li>
-  </ul>
-  <p>Following a review of information gathered during production and post-production activities, manufacturers must determine whether any action is required. This process should include:</p>
-  <ul>
-    <li>Review of the risk management file and reassessment of previously identified risks for appropriateness of the estimated severity and probability.</li>
-    <li>Evaluation of new identified risks with a determination of risk acceptability, implementation of risk control measures and assessment of residual risk as previously carried out.</li>
-    <li>Reassessment of overall residual risk of the device.</li>
-    <li>Determination of whether actions related to already marketed devices, such as device recall, are required based on new information.</li>
-    <li>Evaluation of the impact of new information on previous risk management activities.</li>
-    <li>A determination of the suitability of risk management procedures by top management.</li>
-  </ul>
-  <h2 id="conclusion">Conclusion</h2>
-  <p>The EU MDR places significant risk management requirements on manufacturers of all medical devices. In order to demonstrate compliance, a detailed, well-documented. procedure-driven approach to all aspects of risk management must be implemented. In addition, risk management procedures must be viewed as an ongoing process throughout the lifetime of a device, rather than a one-off exercise.</p>
-  <p>Though risk management compliance may seem daunting for manufacturers, embracing the requirements is an opportunity for manufacturers to support the safety of their device, and to utilise the data gathered to adopt a strong position in the market.</p>
-  <p>At Mantra Systems, we have a dedicated team of clinical and regulatory professionals ready to help you with all aspects of risk management for your medical device. Want to learn more? <a href="/contact">Why not book in a consultation with one of our experts today</a>?</p>
-  ]]></content><author><name>peter-boxall</name></author><category term="MDR" /><summary type="html"><![CDATA[This is a cornerstone of EU MDR 2017/745, requiring a continuous, well-documented approach. We unpack key requirements and provide actionable strategies.]]></summary></entry></feed>
+  ]]></content><author><name>william-brambley</name></author><category term="MDR" /><summary type="html"><![CDATA[Electronic Instructions for Use (eIFUs) are set to revolutionise how medical device instructions are delivered. We explore what this means for you.]]></summary></entry></feed>

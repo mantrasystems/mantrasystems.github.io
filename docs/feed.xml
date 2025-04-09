@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-04-09T08:02:26+01:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Clinical Evaluation Masterclass: Appraisal of literature sources has not been conducted properly - Episode 2</title><link href="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-2-appraisal-of-literature-sources-has-not-been-conducted-properly" rel="alternate" type="text/html" title="Clinical Evaluation Masterclass: Appraisal of literature sources has not been conducted properly - Episode 2" /><published>2025-04-09T00:00:00+01:00</published><updated>2025-04-09T08:01:59+01:00</updated><id>https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-2-appraisal-of-literature-sources-has-not-been-conducted-properly</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-2-appraisal-of-literature-sources-has-not-been-conducted-properly"><![CDATA[<div class="video-wrap full">
-        <div class="video-insert youtube-player" data-id="TG6AjCkJCkY"></div>
-      </div>
-      <p>A non-conformity in clinical evaluation arises when a <strong>Clinical Evaluation Plan (CEP) or Report (CER)</strong> fails to meet regulatory standards or Notified Body (NB) expectations.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-04-09T12:48:06+01:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Clinical Evaluation Masterclass: Appraisal of literature sources has not been conducted properly - Episode 2</title><link href="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-2-appraisal-of-literature-sources-has-not-been-conducted-properly" rel="alternate" type="text/html" title="Clinical Evaluation Masterclass: Appraisal of literature sources has not been conducted properly - Episode 2" /><published>2025-04-09T00:00:00+01:00</published><updated>2025-04-09T12:47:28+01:00</updated><id>https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-2-appraisal-of-literature-sources-has-not-been-conducted-properly</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-2-appraisal-of-literature-sources-has-not-been-conducted-properly"><![CDATA[<p>A non-conformity in clinical evaluation arises when a <strong>Clinical Evaluation Plan (CEP) or Report (CER)</strong> fails to meet regulatory standards or Notified Body (NB) expectations.</p>
       <p>These deficiencies such as incomplete data, unclear safety criteria, or inadequate evidence analysis indicate that the device’s safety and performance are not sufficiently demonstrated, requiring correction before approval.</p>
       <p>For manufacturers, such non-conformities can result in <strong>delayed approvals, extended review cycles, and costly rework</strong>, as unresolved issues block NB acceptance. Proactively addressing non-conformities helps streamline audits, accelerate certifications, and strengthen regulatory compliance, ensuring smoother market access.</p>
       <p>This video series breaks down the most common clinical evaluation non-conformities, explains <em>why</em> they keep happening, and most importantly, shows you how to <em><strong>fix (or avoid) them</strong></em> for good.</p>
@@ -15,10 +12,197 @@
       <p>A well-documented appraisal strategy is essential for demonstrating safety and performance through clinical data. Ensuring the appraisal is systematic, objective, and traceable can significantly reduce regulatory pushback.</p>
       <p>If you missed it, <a href="/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities">be sure to check out Episode 1:”Safety and Performance Objectives Lack Specific and measurable acceptance criteria”</a> where we explore how to define specific, measurable objectives and develop practical acceptance criteria that meet Notified Body expectations.</p>
       <p>Stay tuned for Episode 3, where tackle another common non-conformity: “<em>It is not clear what systematic search methods were used for the literature review.</em>” We’ll show you how to design and document a compliant search strategy that ensures transparency, traceability, and relevance in your literature review process. <a href="/newsletter">Sign up to our newsletter now so you don’t miss out</a>.</p>
-      ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[Our ongoing series covers one of the most frequent reasons for CER rejection: a poor appraisal of literature sources.]]></summary></entry><entry><title type="html">Clinical Evaluation Masterclass: Overcoming Non-conformities - Episode 1</title><link href="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities" rel="alternate" type="text/html" title="Clinical Evaluation Masterclass: Overcoming Non-conformities - Episode 1" /><published>2025-04-02T00:00:00+01:00</published><updated>2025-04-01T17:44:46+01:00</updated><id>https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities"><![CDATA[<div class="video-wrap full">
-      <div class="video-insert youtube-player" data-id="3iOgkFyk-hc"></div>
-    </div>
-    <p>Clinical Evaluation Plans (CEPs) and Clinical Evaluation Reports (CERs) are critical components of medical device regulatory compliance. However, the reality is that meeting requirements isn’t always plain sailing.</p>
+      <hr />
+      <div class="small-text">
+        <strong>Transcript follows:</strong>
+        <p>It’s Paul from Mantra Systems here, and welcome to episode two of our series on how to fix clinical evaluation non-conformances.</p>
+        <p>If you didn’t see the first part in the series, I’ll put a link to that post in the description below this video.</p>
+        <p>But otherwise, let’s get on with episode two.</p>
+        <hr />
+        <p>Non-conformances following submission of a clinical evaluation are quite common under the EU MDR, basically because the standard for submissions is now so high.</p>
+        <p>But the problem is that:</p>
+        <ul>
+          <li>Resolution of non-conformances is necessary for the clinical evaluation to be accepted.</li>
+          <li>Nonconformities can be quite difficult to interpret.</li>
+          <li>It may not always be clear how to fully address them.</li>
+          <li>A failure to resolve non-conformances may lead to:
+            <ul>
+              <li>A further round of review,</li>
+              <li>Increased costs,</li>
+              <li>Lost time,</li>
+              <li>Stress and worry.</li>
+            </ul>
+          </li>
+        </ul>
+        <p>The aim of this series is to work through commonly seen nonconformities one at a time, and dig deep into what they mean and how to solve—or preferably avoid—them in the first place.</p>
+        <p>The context behind this is to link into general principles for optimal conduct of medical device clinical evaluation.</p>
+        <p><strong>Nonconformity Number Two.</strong> The one we’re going to look at is this:</p>
+        <blockquote>
+          <p><strong>‘Appraisal of literature articles has not been conducted appropriately.’</strong></p>
+        </blockquote>
+        <p>This is one we see a lot. To explore it—and ensure that you don’t fall foul of it—we’ve broken our approach down into three steps:</p>
+        <ol>
+          <li>Consider what appraisal actually means and what purpose it serves within the context of a clinical evaluation.</li>
+          <li>Look at the characteristics of an appropriate appraisal framework.</li>
+          <li>Consider how appraisal should be applied during clinical evaluation.</li>
+        </ol>
+        <p><strong>What Is Appraisal?</strong> Appraisal is:</p>
+        <ul>
+          <li>A <strong>structured and systematic evaluation</strong> of:
+            <ul>
+              <li>The <strong>quality</strong> of individual studies within a literature review or a clinical evaluation, and</li>
+              <li>The <strong>relevance</strong> of each source to the clinical evaluation.</li>
+            </ul>
+          </li>
+        </ul>
+        <p>If applied correctly, appraisal enables <strong>systematic weighting</strong> of study outcomes according to quality and relevance.</p>
+        <p>The basic idea:</p>
+        <blockquote>
+          <p>The better the study, and the more relevant it is, the greater weighting is given to its results compared with lower-quality studies of lower relevance.</p>
+        </blockquote>
+        <p>The MEDDEV guideline 2.7/1 revision 4—although somewhat outdated—places appraisal effectively into context.</p>
+        <ul>
+          <li>Clinical evaluation is split into four stages: 0, 1, 2, and 3.</li>
+          <li><strong>Appraisal is stage 2</strong>, which:
+            <ul>
+              <li>Comes after identification of pertinent data,</li>
+              <li>Leads into appropriate analysis,</li>
+              <li>Emphasizes that you can’t properly analyze data until you’ve appraised it.</li>
+            </ul>
+          </li>
+        </ul>
+        <p><strong>Designing an Appraisal Framework</strong>. There is <strong>no universally defined appraisal system</strong>. Some systems are <strong>broadly accepted</strong>, such as the Oxford scheme, but:</p>
+        <ul>
+          <li>These can be limited. For example, the Oxford scheme only considers study type, overlooking other relevant factors.</li>
+          <li>Therefore, <strong>justification of your chosen method is key</strong>.</li>
+        </ul>
+        <p>Appraisal should:</p>
+        <ul>
+          <li>Consider a <strong>range of factors</strong> related to study quality and relevance.</li>
+          <li>Avoid being based on <strong>just one or two</strong> elements.</li>
+        </ul>
+        <blockquote>
+          <p>The most common pitfall: <strong>doing nothing</strong> with the appraisal.</p>
+        </blockquote>
+        <p>The objective is to produce an <strong>appraisal score for each source</strong> that actively influences outcomes.</p>
+        <p>This score becomes a <strong>mathematical weighting factor</strong> applied to results from individual sources.</p>
+        <p><strong>Characteristics of a Compliant Appraisal Framework</strong>. There’s no universally accepted method, but an appraisal scheme may consider:</p>
+        <ul>
+          <li><strong>Study type</strong>
+            <ul>
+              <li>RCTs typically score higher than cohort studies or case series.</li>
+            </ul>
+          </li>
+          <li><strong>Sample size</strong>
+            <ul>
+              <li>Larger sample sizes increase reliability and therefore the score.</li>
+            </ul>
+          </li>
+          <li><strong>Use of statistics</strong>
+            <ul>
+              <li>Includes whether the study shows statistical significance.</li>
+              <li>Well-designed statistical analysis increases score.</li>
+            </ul>
+          </li>
+          <li><strong>Length of follow-up</strong>
+            <ul>
+              <li>Longer follow-up captures more of the clinical journey.</li>
+            </ul>
+          </li>
+          <li><strong>Devices used within studies</strong>
+            <ul>
+              <li>Subject device: highest score</li>
+              <li>Equivalent device: slightly lower</li>
+              <li>Similar device: lower still</li>
+              <li>Unrelated device: lowest score</li>
+            </ul>
+          </li>
+        </ul>
+        <p>The key is <strong>justification</strong>—explain to the reviewer why your approach is appropriate.</p>
+        <p><strong>Example Scoring Framework.</strong> In your <strong>appraisal protocol</strong>, you might use a system like this:</p>
+        <ul>
+          <li>Characteristics listed on the left</li>
+          <li>Descriptions and alpha-numeric grading on the right</li>
+          <li>Higher numbers = better scores</li>
+        </ul>
+        <p>Example:</p>
+        <ul>
+          <li>A randomized control trial might be scored <code class="language-plaintext highlighter-rouge">R4</code>.</li>
+          <li>A case series might be scored <code class="language-plaintext highlighter-rouge">R1</code>.</li>
+        </ul>
+        <p>You can build a table with these scores and apply it to each study. This allows a study to be:</p>
+        <ul>
+          <li>Strong in one area,</li>
+          <li>Weak in another.</li>
+        </ul>
+        <p>This <strong>combined appraisal system</strong> accounts for nuance.</p>
+        <p>To produce the <strong>overall appraisal score</strong>, add the numbers in each row.</p>
+        <p>Example (hypothetical data):</p>
+        <p>For ‘Jones et al’:<br />
+          R3 (3) + 2 + 1 + 3 + 3 = <strong>12</strong></p>
+        <p><strong>Applying the Appraisal.</strong> Once you have appraisal scores:</p>
+        <ol>
+          <li>List the studies and their appraisal scores.</li>
+          <li>Add an outcome parameter (e.g., reduction in pain VAS).</li>
+        </ol>
+        <p>To calculate the <strong>weighted mean</strong>:</p>
+        <ul>
+          <li>Multiply the <strong>outcome value</strong> by the <strong>appraisal score</strong>.</li>
+          <li>Example for Jones et al:
+            <ul>
+              <li>Outcome: 4.5</li>
+              <li>Appraisal score: 12</li>
+              <li>Weighted value: 4.5 × 12 = 54</li>
+            </ul>
+          </li>
+        </ul>
+        <p>Repeat for each source.</p>
+        <p>Then:</p>
+        <ul>
+          <li>Sum the appraisal scores: <strong>61</strong></li>
+          <li>Sum the weighted values: <strong>226.7</strong></li>
+          <li>Divide the total weighted values by the total appraisal scores:</li>
+        </ul>
+        <pre><code class="language-math">Weighted mean = 226.7 / 61 = 3.72
+</code></pre>
+        <p>This gives <strong>greater weight to better quality studies</strong>, which is the essence of how appraisal is expressed in a compliant clinical evaluation.</p>
+        <p><strong>Summary of an Effective appraisal:</strong></p>
+        <ul>
+          <li>Uses systematic methods to evaluate quality and relevance.</li>
+          <li>Considers a range of factors.</li>
+          <li>Produces a score to enable mathematical weighting of results.</li>
+          <li>Must be:
+            <ul>
+              <li>Justified,</li>
+              <li>Conducted according to a clear, advance plan.</li>
+            </ul>
+          </li>
+          <li>Applies to literature for both:
+            <ul>
+              <li>Subject devices,</li>
+              <li>State-of-the-art comparisons.</li>
+            </ul>
+          </li>
+        </ul>
+        <p><strong>Recap of Episode Two: Nonconformity #2: Appraisal of literature articles has not been conducted appropriately</strong></p>
+        <p>In this episode, we’ve:</p>
+        <ul>
+          <li>Looked at what appraisal is and what purpose it serves.</li>
+          <li>Considered characteristics of an appropriately conducted appraisal process.</li>
+          <li>Looked at how appraisal should be applied during clinical evaluation and the effect it has on outcomes.</li>
+        </ul>
+        <hr />
+        <p>Don’t forget that <strong>Mantra Systems offers a comprehensive clinical evaluation service</strong>. One of the most common reasons we’re engaged is to help with resolution of non-conformities.</p>
+        <ul>
+          <li>All initial conversations are <strong>completely free</strong>.</li>
+          <li>We have a <strong>really friendly team</strong>.</li>
+          <li>Give us a call or send us an email if you’d like to discuss anything.</li>
+        </ul>
+        <p>That concludes episode two in this non-conformity series.</p>
+        <p><strong>Please share</strong> if you found this video useful, and I look forward to seeing you in the next part of the series.</p>
+        <p><strong>Thank you very much!</strong></p>
+      </div>
+      ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[Our ongoing series covers one of the most frequent reasons for CER rejection: a poor appraisal of literature sources.]]></summary></entry><entry><title type="html">Clinical Evaluation Masterclass: Overcoming Non-conformities - Episode 1</title><link href="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities" rel="alternate" type="text/html" title="Clinical Evaluation Masterclass: Overcoming Non-conformities - Episode 1" /><published>2025-04-02T00:00:00+01:00</published><updated>2025-04-09T12:26:25+01:00</updated><id>https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities"><![CDATA[<p>Clinical Evaluation Plans (CEPs) and Clinical Evaluation Reports (CERs) are critical components of medical device regulatory compliance. However, the reality is that meeting requirements isn’t always plain sailing.</p>
     <p>Based on our experience with over 250 successful submissions, we’ve identified that overcoming clinical evaluation non-conformities is one of the major challenges manufacturers face during the device approval journey.</p>
     <h2 id="what-is-a-non-conformity-in-clinical-evaluation">What is a Non-Conformity in Clinical Evaluation?</h2>
     <p>A non-conformity arises when a CEP or CER fails to meet MDR requirements. Non-conformities signal that the evaluation does not yet adequately demonstrate a medical device’s safety and performance or that full alignment with regulatory obligations has not been shown, requiring correction before approval.</p>

@@ -1,315 +1,326 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-04-22T17:14:58+01:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Unlocking the Secrets of Effective IVD Device Performance Evaluation</title><link href="https://www.mantrasystems.co.uk/articles/unlocking-the-secrets-of-effective-ivd-device-performance-evaluation" rel="alternate" type="text/html" title="Unlocking the Secrets of Effective IVD Device Performance Evaluation" /><published>2025-04-16T00:00:00+01:00</published><updated>2025-04-15T18:49:24+01:00</updated><id>https://www.mantrasystems.co.uk/articles/unlocking-the-secrets-of-effective-ivd-device-performance-evaluation</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/unlocking-the-secrets-of-effective-ivd-device-performance-evaluation"><![CDATA[<p>Performance evaluation is a critical requirement for in vitro diagnostic (IVD) devices and forms part of the technical documentation necessary for placing an IVD device on the EU market. The requirements for performance evaluation are described within Chapter VI of the Regulation on <em>in vitro</em> diagnostic medical devices <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0746#anx_XIII">(EU 2017/746) (IVDR)</a> and supported by Annexes I, II, III and XIII.</p>
-      <h2 id="understanding-performance-evaluation-what-you-need-to-know">Understanding Performance Evaluation: What You Need to Know</h2>
-      <p>Chapter VI of the IVDR states:</p>
-      <blockquote>
-        <p>“<em>A performance evaluation shall follow a defined and methodologically sound procedure for the demonstration of the following, in accordance with this Article and with Part A of Annex XIII</em>:</p>
-        <ul>
-          <li><em>scientific validity;</em></li>
-          <li><em>analytical performance;</em></li>
-          <li><em>clinical performance;</em></li>
-        </ul>
-      </blockquote>
-      <figure>
-        <img src="/assets/images/content/articles/inline/ivd-performance-evaluation-1.png" alt="" loading="lazy" width="442" height="322" />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-04-23T14:23:11+01:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">IEC 62366-1:2015 Demystified – Essential Usability Testing for Medical Devices</title><link href="https://www.mantrasystems.co.uk/articles/essential-usability-testing-for-medical-devices-iec-62366-1-2015-demystified" rel="alternate" type="text/html" title="IEC 62366-1:2015 Demystified – Essential Usability Testing for Medical Devices" /><published>2025-04-23T00:00:00+01:00</published><updated>2025-04-23T14:22:57+01:00</updated><id>https://www.mantrasystems.co.uk/articles/essential-usability-testing-for-medical-devices-iec-62366-1-2015-demystified</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/essential-usability-testing-for-medical-devices-iec-62366-1-2015-demystified"><![CDATA[<p>Creating a usability file is a crucial part of the product development process for medical devices, including <a href="/solutions/regulatory-consulting-for-samd-software-as-a-medical-device">Software as a Medical Device (SaMD)</a>, to ensure user-centred design and safety. IEC 62366-1 provides a structured approach to ensure that devices are designed with the user in mind and that potential risks associated with their use are identified and mitigated.</p>
+      <h2 id="what-is-iec-62366-a-crucial-standard-for-medical-device-usability">What is IEC 62366? A Crucial Standard for Medical Device Usability</h2>
+      <p><a href="https://www.iso.org/standard/63179.html">According to ISO</a>, ‘<q>IEC 62366 specifies a process for a manufacturer to analyse, specify, develop and evaluate the useability of a medical device as it relates to safety. The first edition of IEC 62366-1, together with the first edition of IEC 62366-2, cancels and replaces the first edition of IEC 62366 published in 2007 and its Amendment 1 (2014)</q>’</p>
+      <ol>
+        <li>IEC 62366-1 — Application of usability engineering to medical devices</li>
+        <li>IEC 62366-2 — Guidance on the application of usability to engineering to medical devices</li>
+      </ol>
+      <p>This guideline provides medical device manufacturers with a structured approach to integrate human factors, supporting them in assessing, defining, creating, and testing the usability of their medical devices.</p>
+      <h2 id="navigating-the-process-key-steps-in-writing-your-usability-file">Navigating the Process: Key Steps in Writing Your Usability File</h2>
+      <p>What exactly should be included in a Usability Engineering File? How can you ensure that all the requirements outlined in the standard are met? What steps do you need to take to ensure compliance? These are common questions that many people face when beginning to create their usability files. By understanding the essential components and requirements, you’ll be well-equipped to develop a comprehensive Usability Engineering File that meets all necessary standards and helps ensure your medical device is both safe and effective for use.</p>
+      <figure class="intrinsic">
+        <img src="/assets/images/content/articles/inline/define-the-scope-of-your-usability-file.png" alt="A diagram showing the IEC 62366 process." loading="lazy" width="400" height="670" />
       </figure>
-      <p>The clinical evidence derived from the <a href="/medical-device-regulatory-consulting-services/ivdr-consulting">performance evaluation</a> shall provide scientifically valid assurance that the relevant general safety and performance requirements (GSPRs) set out in Annex I are fulfilled under normal conditions of use.</p>
-      <h2 id="a-closer-look-at-article-56">A Closer Look at Article 56</h2>
-      <p>Article 56 of the IVDR refers to the GSPRs set out in Annex I, specifically relating to the performance characteristics described in Chapter I and Section 9 of Annex I. It also addresses the acceptability of the benefit-risk ratio, as outlined in Sections 1 and 8 of Annex I, which is based on the scientific validity, analytical performance, and clinical performance of the IVD. Annex XIII specifies how IVD manufacturers must plan, conduct, and document the performance evaluation.</p>
-      <p>Manufacturers are required to establish a standard operating procedure (SOP) for IVD performance evaluations, ensuring that it covers the entire device lifecycle. The IVDR defines performance evaluation as a continuous process that closely interfaces with risk management, as referenced in Annex VII, Section 4.5.4, and Annex XIII, Section 1.1.</p>
-      <h2 id="mastering-the-performance-evaluation-plan">Mastering the Performance Evaluation Plan</h2>
-      <p>A device-specific Performance Evaluation Plan (PEP) must be prepared in accordance with Annex XIII, Section 1.1 of the IVDR. The PEP should outline the current state of the art in relation to the medical, diagnostic, and technology-related fields relevant to the device. It must also reference applicable standards, common specifications, guidelines, or best practice documents.</p>
-      <p>The PEP should define the intended purpose and characteristics of the device, including the analyte or biomarker it detects, its intended use, target user, and indications for use. Additionally, it must outline how the device demonstrates compliance with the GSPRs through its performance evaluation. The plan should also briefly describe the methods used to assess the device’s analytical and clinical performance, benefit-risk considerations, and the Post-Market Performance Follow-up (PMPF) plan.</p>
-      <h2 id="scientific-validity-explained">Scientific Validity Explained</h2>
-      <p>Scientific validity refers to the association between the analyte measured by the device and the clinical condition or physiological state. This association is documented in a Scientific Validity Report (SVR). The SVR should establish the device as state-of-the-art and demonstrate its clinical benefit. It should provide evidence of the clinical background, the clinical condition, the significance of the analyte, currently-used diagnostic options, similar and/or equivalent devices, and recommendations from professional societies to support the IVD’s performance and intended use.</p>
-      <figure>
-        <img src="/assets/images/content/articles/inline/ivd-performance-evaluation-2.png" alt="" loading="lazy" width="442" height="322" />
-      </figure>
-      <h2 id="navigating-analytical-performance">Navigating Analytical Performance</h2>
-      <p>Section 9.1 of Annex I outlines the analytical performance requirements. However, as it is not possible to anticipate all scenarios regarding device types and intended purposes, the responsibility lies with the manufacturer to provide a rationale for any characteristics that are not applicable to their device. <a href="https://www.iso.org/standard/79868.html">EN ISO 18113-3:2022</a>, <em>In vitro diagnostic medical devices — Information supplied by the manufacturer (labelling) — Part 3: In vitro diagnostic instruments for professional use</em>, offers guidance on performance characteristics that should be included in the labelling for instruments. Analytical performance must always be demonstrated through analytical performance studies, either using existing data or generating new evidence.</p>
-      <figure>
-        <img src="/assets/images/content/articles/inline/ivd-performance-evaluation-3.png" alt="" loading="lazy" width="442" height="322" />
-      </figure>
-      <h2 id="clinical-performance-uncovered">Clinical Performance Uncovered</h2>
-      <p>Clinical performance is the “<em>ability of a device to yield results which are correlated with a defined clinical/physiological/pathological condition or state following the target population and intended user</em>”. Clinical performance provides evidence of how effectively the IVD device delivers results, diagnoses, or guides treatment decisions. Annex XIII, Section 1.2.3 of the IVDR outlines multiple options for gathering clinical performance data to substantiate the clinical evidence of the device.</p>
-      <p>For devices measuring analytes that are associated with a clinical condition that have medical decision points, clinical performance data is required and should form part of the clinical performance report (CPR). Typical clinical performance data could be diagnostic sensitivity and specificity, area under the curve, negative predictive value, and positive predictive value.</p>
-      <p>For devices measuring analytes without clear medical decision points or for devices measuring analytes that are not (yet) associated with a clinical condition, clinical performance may be defined as correlation with a physiological state, or a justification for omission of clinical performance studies may be considered. Typical data presented in the CPR would be negative percent agreement and positive percent agreement.</p>
-      <p>Demonstration of the clinical performance of a device is based on one or a combination of the following sources:</p>
-      <figure>
-        <img src="/assets/images/content/articles/inline/ivd-performance-evaluation-4.png" alt="" loading="lazy" width="442" height="322" />
-      </figure>
-      <h2 id="the-key-steps-in-crafting-a-performance-evaluation-report">The Key Steps in Crafting a Performance Evaluation Report</h2>
-      <p>In the Performance Evaluation Report (PER), you will need to summarise all the results related to Scientific Validity, Analytical Performance, and Clinical Performance to demonstrate conformity with the relevant GSPRs for your device, as referred to in Annex I of the IVDR. In the PER, you should evaluate the clinical evidence in light of the current state of the art in medicine, technology, the intended purpose, and the device’s positive benefit-risk ratio.</p>
-      <p> Annex VIII, Part A (1.3.2) of the IVDR outlines the specific components of the PER and specifies that it must include:</p>
+      <h3 id="step-1-define-the-scope">Step 1: Define the Scope</h3>
+      <p>This encompasses the specific user group, the intended purpose, and the context in which the device will be utilised.</p>
+      <p><strong>Intended Users:</strong> Who will be using the device? This could include healthcare professionals, patients, or other relevant parties.</p>
+      <p><strong>Intended Use:</strong> What is the device designed to accomplish? This refers to the specific tasks the device is intended for, such as monitoring, diagnosing, or therapeutic applications.</p>
+      <p><strong>Use Environment:</strong> Where will the device be used? The setting can significantly influence the device’s usability, whether it’s intended for use in a home environment or a clinical/hospital setting.</p>
+      <h3 id="step-2-conducting-a-risk-analysis">Step 2: Conducting a Risk Analysis</h3>
+      <p>IEC 62366-1 mandates that you perform a comprehensive risk analysis to identify potential use-related hazards—situations where user errors may lead to harm or malfunction of the device.</p>
+      <p><strong>Hazard Identification:</strong> Identify potential hazards that may result from user errors or design flaws. For example, in a medical device like a ventilator, if the user interface is poorly designed, a healthcare professional could mistakenly adjust the settings, leading to inappropriate ventilation rates for the patient. This could result in either hypoventilation (insufficient oxygen delivery) or hyperventilation (excessive oxygen delivery), both of which could cause severe harm to the patient.</p>
+      <p><strong>Risk Assessment:</strong> Assess the likelihood and severity of harm associated with each identified hazard. This involves evaluating whether a specific user action could result in patient harm, an incorrect diagnosis, or delayed treatment, ensuring that risks are appropriately managed and mitigated.</p>
+      <h3 id="step-3-define-user-interface-ui-design-requirements">Step 3: Define User Interface (UI) Design Requirements</h3>
+      <p>Following the analysis of user needs and risks, the next crucial step is to establish UI design requirements tailored to the target user group. Chapter 5.2. requires you to identify, as part of the risk analysis, all parts and characteristics of the User Interface that are related to the safety of the medical device.</p>
+      <p><strong>User Capabilities:</strong> Consider the cognitive, physical, and sensory abilities of the users. For instance, if the device is intended for elderly patients, ensure the interface is intuitive, with large text and simplified navigation.</p>
+      <p><strong>Design Guidelines:</strong> These should focus on clear labelling, well-organised controls, alarms, and instructions for use (IFU). Specific adaptations may be necessary for certain groups, such as non-professional users or individuals with visual impairments.</p>
+      <p><strong>Task Optimisation:</strong> Structure the UI to reduce the likelihood of user error. Important tasks should be straightforward to access and perform, eliminating unnecessary steps that could lead to mistakes.</p>
+      <h3 id="step-4-formative-evaluations">Step 4: Formative Evaluations</h3>
+      <p>The formative evaluation section involves the testing of early prototypes or even design concepts with users in order to identify any potential problems prior to the final design being confirmed and completed. Once risks are identified, this process will repeat until these are mitigated.</p>
+      <p><strong>User Testing:</strong> Carry out usability testing with representative users to assess the device’s interface and interaction design. This could involve techniques such as cognitive walkthroughs, task analysis, and heuristic evaluations to identify potential issues and areas for improvement.</p>
+      <p>Were critical use errors found? Are further product improvements necessary? If you have answered “yes” to either of these questions at this point, go back as far as necessary in the Usability Engineering process and iterate through it from this point on until no new and critical problems occur during use. If this is the case, you are ready for the last big step: performing the summative evaluation.</p>
+      <h3 id="step-5-summative-evaluation">Step 5: Summative Evaluation</h3>
+      <p>The goal is to prove that the medical device (and its Interface) can be used without unacceptable residual risks for users, patients, and third parties. The hazard-related use scenarios previously defined are tested.</p>
+      <p>The summative evaluation focuses on validating the final design to ensure that the device meets the defined usability goals and operates safely and effectively in real-world conditions.</p>
+      <p><strong>Final Usability Testing:</strong> Conduct usability testing on the final version of the device to confirm that it functions as expected and that users can interact with it safely. This typically involves more realistic use scenarios, which may take place in clinical or home environments.</p>
+      <p><strong>Task Performance Metrics:</strong> Evaluate whether users can complete key tasks successfully, such as using the device without errors, interpreting information accurately, and following safety instructions correctly. These metrics help ensure the device’s usability and overall safety in practical use.</p>
+      <h3 id="step-6-post-market-surveillance-pms-and-usability-monitoring">Step 6: Post-Market Surveillance (PMS) and Usability Monitoring</h3>
+      <p>Once the product has been released to the market, ongoing monitoring of its usability is crucial. Post-market surveillance helps to identify any emerging issues or areas where improvements can be made.</p>
+      <p><strong>Incident Reporting:</strong> Set up a system to collect feedback and reports related to user issues. This should include complaints, adverse events, or any usability failures encountered by users.</p>
+      <p><strong>Usability Improvements:</strong> If usability issues are identified after the product has been launched, they should be addressed through iterative improvements or design updates to enhance performance and user experience.</p>
+      <h3 id="step-7-compiling-the-usability-file">Step 7: Compiling the Usability File</h3>
+      <p>The Usability Engineering File should provide a thorough and organised record of the entire usability process, from initial risk analysis and design specifications to testing and post-market surveillance. It is essential that the file demonstrates full compliance with the usability requirements of IEC 62366-1, showing that every step has been taken to guarantee the device’s safety and effectiveness.</p>
+      <p>The file should include:</p>
       <ul>
-        <li>the justification for the approach taken to gather the clinical evidence;</li>
-        <li>the literature search methodology and the literature search protocol and literature search report of a literature review;</li>
-        <li>the technology on which the device is based, the intended purpose of the device, and any claims made about the device’s performance or safety;</li>
-        <li>the nature and extent of the scientific validity and the analytical and clinical performance data that has been evaluated;</li>
-        <li>the clinical evidence as the acceptable performances against the state of the art in medicine;</li>
-        <li>any new conclusions derived from PMPF reports</li>
+        <li>The device’s scope and intended use</li>
+        <li>A detailed hazard analysis and risk assessment</li>
+        <li>Clear design specifications and user interface requirements</li>
+        <li>Results from formative and summative testing</li>
+        <li>A post-market plan for ongoing usability monitoring</li>
       </ul>
-      <p>PERs for Class C and D devices must be updated at least annually, whereas PERs for Class A and B devices should be updated as needed, although at least a three-year review cycle would be recommended. As this document is multi-disciplinary, it is crucial that the manufacturer organises the writing and maintenance of this document and fully integrates it into the infrastructure of the quality management system (QMS).</p>
-      <h2 id="ensuring-ongoing-success-with-post-market-performance-follow-up">Ensuring Ongoing Success with Post-Market Performance Follow-Up</h2>
-      <p>Post-Market Performance Follow-Up (PMPF) is defined in Part B of Annex XIII as ‘a continuous process that updates the performance evaluation’ and goes on to state ‘<em>with the aim of confirming the safety, performance and scientific validity throughout the expected lifetime of the device, of ensuring the continued acceptability of the benefit-risk ratio and of detecting emerging risks on the basis of factual evidence</em>’.</p>
-      <p>PMPF essentially serves to continue supporting the PEP/PER throughout the device’s lifecycle and is particularly useful for monitoring scientific or clinical developments that may impact the device’s performance and safety.</p>
-      <p>Outputs from PMPF are written in the PMPF evaluation report, where it is then determined if those outputs result in:</p>
+      <h2 id="your-path-to-iec-62366-compliance-key-takeaways">Your Path to IEC 62366 Compliance: Key Takeaways</h2>
+      <p>The Usability Engineering process, as meticulously outlined in IEC 62366-1, plays a crucial role in ensuring the safety and effectiveness of medical devices. By closely integrating with Risk Management, this process helps manufacturers identify and address potential use-related hazards that could jeopardise user safety, patient health, or device performance. Effective implementation, alongside comprehensive documentation, is not only vital for regulatory compliance but also for minimising the risks associated with human error. Ultimately, the goal is to create devices that are intuitive, safe, and reliable and that can stand up to real-world challenges. Following the steps of the Usability Engineering process ensures that these objectives are met and that safety is prioritised in every phase of development.</p>
+      <p>Standards like IEC 62366-1:2015 are just one part of the increasingly complex regulatory landscape facing medical device companies. At Mantra Systems, we specialise in helping you navigate these challenges with clarity and confidence.</p>
+      <p>Whether you’re preparing a technical file, responding to questions from a notified body, or working toward approval, our team provides practical, tailored support at every stage. We offer strategic guidance across regulatory frameworks, assist with technical documentation, and help you stay aligned with evolving requirements.</p>
+      <p>If you’re looking for a trusted partner to take the pressure out of compliance, <a href="/contact">get in touch with Mantra Systems today</a>.</p>
+      ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><category term="SaMD" /><summary type="html"><![CDATA[What should be included in a Usability Engineering File? What steps do you need to take to ensure compliance and meet standards?]]></summary></entry><entry><title type="html">Unlocking the Secrets of Effective IVD Device Performance Evaluation</title><link href="https://www.mantrasystems.co.uk/articles/unlocking-the-secrets-of-effective-ivd-device-performance-evaluation" rel="alternate" type="text/html" title="Unlocking the Secrets of Effective IVD Device Performance Evaluation" /><published>2025-04-16T00:00:00+01:00</published><updated>2025-04-22T17:15:24+01:00</updated><id>https://www.mantrasystems.co.uk/articles/unlocking-the-secrets-of-effective-ivd-device-performance-evaluation</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/unlocking-the-secrets-of-effective-ivd-device-performance-evaluation"><![CDATA[<p>Performance evaluation is a critical requirement for in vitro diagnostic (IVD) devices and forms part of the technical documentation necessary for placing an IVD device on the EU market. The requirements for performance evaluation are described within Chapter VI of the Regulation on <em>in vitro</em> diagnostic medical devices <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0746#anx_XIII">(EU 2017/746) (IVDR)</a> and supported by Annexes I, II, III and XIII.</p>
+    <h2 id="understanding-performance-evaluation-what-you-need-to-know">Understanding Performance Evaluation: What You Need to Know</h2>
+    <p>Chapter VI of the IVDR states:</p>
+    <blockquote>
+      <p>“<em>A performance evaluation shall follow a defined and methodologically sound procedure for the demonstration of the following, in accordance with this Article and with Part A of Annex XIII</em>:</p>
       <ul>
-        <li>An update to the associated performance evaluation documentation and a revision of the risk management reports</li>
-        <li>A CAPA being raised</li>
-        <li>Further PMPF studies being conducted</li>
+        <li><em>scientific validity;</em></li>
+        <li><em>analytical performance;</em></li>
+        <li><em>clinical performance;</em></li>
       </ul>
-      <h2 id="ensuring-ivd-success-key-takeaways-for-performance-evaluation">Ensuring IVD Success: Key Takeaways for Performance Evaluation</h2>
-      <p>Conducting a performance evaluation for IVDs is a critical step in ensuring their safety, reliability, and effectiveness. By following a structured process—starting with understanding regulatory requirements, defining intended use, and conducting rigorous analytical and clinical testing—you can demonstrate that your IVD meets the necessary standards for market approval. Continuous post-market surveillance further ensures that the device continues to deliver value and contributes to better patient outcomes.</p>
-      <p>At Mantra Systems, we simplify the process, ensuring your device meets all regulatory requirements for EU market access. Let us take the complexity out of performance evaluation so you can focus on delivering safe, effective solutions. <a href="/contact">Book a call today</a>.</p>
-      ]]></content><author><name>kamiya-crabtree</name></author><category term="IVDR" /><summary type="html"><![CDATA[Whether preparing for a new EU market submission or strengthening existing documentation, this guide is your overview of performance evaluation under IVDR.]]></summary></entry><entry><title type="html">Clinical Evaluation Masterclass: Appraisal of literature sources has not been conducted properly - Episode 2</title><link href="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-2-appraisal-of-literature-sources-has-not-been-conducted-properly" rel="alternate" type="text/html" title="Clinical Evaluation Masterclass: Appraisal of literature sources has not been conducted properly - Episode 2" /><published>2025-04-09T00:00:00+01:00</published><updated>2025-04-09T12:47:28+01:00</updated><id>https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-2-appraisal-of-literature-sources-has-not-been-conducted-properly</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-2-appraisal-of-literature-sources-has-not-been-conducted-properly"><![CDATA[<p>A non-conformity in clinical evaluation arises when a <strong>Clinical Evaluation Plan (CEP) or Report (CER)</strong> fails to meet regulatory standards or Notified Body (NB) expectations.</p>
-    <p>These deficiencies such as incomplete data, unclear safety criteria, or inadequate evidence analysis indicate that the device’s safety and performance are not sufficiently demonstrated, requiring correction before approval.</p>
-    <p>For manufacturers, such non-conformities can result in <strong>delayed approvals, extended review cycles, and costly rework</strong>, as unresolved issues block NB acceptance. Proactively addressing non-conformities helps streamline audits, accelerate certifications, and strengthen regulatory compliance, ensuring smoother market access.</p>
-    <p>This video series breaks down the most common clinical evaluation non-conformities, explains <em>why</em> they keep happening, and most importantly, shows you how to <em><strong>fix (or avoid) them</strong></em> for good.</p>
-    <h2 id="episode-2-appraisal-of-literature-sources-has-not-been-conducted-properly">Episode 2: “Appraisal of literature sources has not been conducted properly”</h2>
-    <p>One of the most frequent reasons for CER rejection is poor appraisal of literature sources. In this episode, we cover:</p>
+    </blockquote>
+    <figure>
+      <img src="/assets/images/content/articles/inline/ivd-performance-evaluation-1.png" alt="" loading="lazy" width="442" height="322" />
+    </figure>
+    <p>The clinical evidence derived from the <a href="/medical-device-regulatory-consulting-services/ivdr-consulting">performance evaluation</a> shall provide scientifically valid assurance that the relevant general safety and performance requirements (GSPRs) set out in Annex I are fulfilled under normal conditions of use.</p>
+    <h2 id="a-closer-look-at-article-56">A Closer Look at Article 56</h2>
+    <p>Article 56 of the IVDR refers to the GSPRs set out in Annex I, specifically relating to the performance characteristics described in Chapter I and Section 9 of Annex I. It also addresses the acceptability of the benefit-risk ratio, as outlined in Sections 1 and 8 of Annex I, which is based on the scientific validity, analytical performance, and clinical performance of the IVD. Annex XIII specifies how IVD manufacturers must plan, conduct, and document the performance evaluation.</p>
+    <p>Manufacturers are required to establish a standard operating procedure (SOP) for IVD performance evaluations, ensuring that it covers the entire device lifecycle. The IVDR defines performance evaluation as a continuous process that closely interfaces with risk management, as referenced in Annex VII, Section 4.5.4, and Annex XIII, Section 1.1.</p>
+    <h2 id="mastering-the-performance-evaluation-plan">Mastering the Performance Evaluation Plan</h2>
+    <p>A device-specific Performance Evaluation Plan (PEP) must be prepared in accordance with Annex XIII, Section 1.1 of the IVDR. The PEP should outline the current state of the art in relation to the medical, diagnostic, and technology-related fields relevant to the device. It must also reference applicable standards, common specifications, guidelines, or best practice documents.</p>
+    <p>The PEP should define the intended purpose and characteristics of the device, including the analyte or biomarker it detects, its intended use, target user, and indications for use. Additionally, it must outline how the device demonstrates compliance with the GSPRs through its performance evaluation. The plan should also briefly describe the methods used to assess the device’s analytical and clinical performance, benefit-risk considerations, and the Post-Market Performance Follow-up (PMPF) plan.</p>
+    <h2 id="scientific-validity-explained">Scientific Validity Explained</h2>
+    <p>Scientific validity refers to the association between the analyte measured by the device and the clinical condition or physiological state. This association is documented in a Scientific Validity Report (SVR). The SVR should establish the device as state-of-the-art and demonstrate its clinical benefit. It should provide evidence of the clinical background, the clinical condition, the significance of the analyte, currently-used diagnostic options, similar and/or equivalent devices, and recommendations from professional societies to support the IVD’s performance and intended use.</p>
+    <figure>
+      <img src="/assets/images/content/articles/inline/ivd-performance-evaluation-2.png" alt="" loading="lazy" width="442" height="322" />
+    </figure>
+    <h2 id="navigating-analytical-performance">Navigating Analytical Performance</h2>
+    <p>Section 9.1 of Annex I outlines the analytical performance requirements. However, as it is not possible to anticipate all scenarios regarding device types and intended purposes, the responsibility lies with the manufacturer to provide a rationale for any characteristics that are not applicable to their device. <a href="https://www.iso.org/standard/79868.html">EN ISO 18113-3:2022</a>, <em>In vitro diagnostic medical devices — Information supplied by the manufacturer (labelling) — Part 3: In vitro diagnostic instruments for professional use</em>, offers guidance on performance characteristics that should be included in the labelling for instruments. Analytical performance must always be demonstrated through analytical performance studies, either using existing data or generating new evidence.</p>
+    <figure>
+      <img src="/assets/images/content/articles/inline/ivd-performance-evaluation-3.png" alt="" loading="lazy" width="442" height="322" />
+    </figure>
+    <h2 id="clinical-performance-uncovered">Clinical Performance Uncovered</h2>
+    <p>Clinical performance is the “<em>ability of a device to yield results which are correlated with a defined clinical/physiological/pathological condition or state following the target population and intended user</em>”. Clinical performance provides evidence of how effectively the IVD device delivers results, diagnoses, or guides treatment decisions. Annex XIII, Section 1.2.3 of the IVDR outlines multiple options for gathering clinical performance data to substantiate the clinical evidence of the device.</p>
+    <p>For devices measuring analytes that are associated with a clinical condition that have medical decision points, clinical performance data is required and should form part of the clinical performance report (CPR). Typical clinical performance data could be diagnostic sensitivity and specificity, area under the curve, negative predictive value, and positive predictive value.</p>
+    <p>For devices measuring analytes without clear medical decision points or for devices measuring analytes that are not (yet) associated with a clinical condition, clinical performance may be defined as correlation with a physiological state, or a justification for omission of clinical performance studies may be considered. Typical data presented in the CPR would be negative percent agreement and positive percent agreement.</p>
+    <p>Demonstration of the clinical performance of a device is based on one or a combination of the following sources:</p>
+    <figure>
+      <img src="/assets/images/content/articles/inline/ivd-performance-evaluation-4.png" alt="" loading="lazy" width="442" height="322" />
+    </figure>
+    <h2 id="the-key-steps-in-crafting-a-performance-evaluation-report">The Key Steps in Crafting a Performance Evaluation Report</h2>
+    <p>In the Performance Evaluation Report (PER), you will need to summarise all the results related to Scientific Validity, Analytical Performance, and Clinical Performance to demonstrate conformity with the relevant GSPRs for your device, as referred to in Annex I of the IVDR. In the PER, you should evaluate the clinical evidence in light of the current state of the art in medicine, technology, the intended purpose, and the device’s positive benefit-risk ratio.</p>
+    <p> Annex VIII, Part A (1.3.2) of the IVDR outlines the specific components of the PER and specifies that it must include:</p>
     <ul>
-      <li>What <em>‘appraisal’</em> really means and the purpose it serves</li>
-      <li>Key characteristics of an appropriately conducted appraisal process</li>
-      <li>How to practically implement appraisals during clinical evaluation and why it matters</li>
+      <li>the justification for the approach taken to gather the clinical evidence;</li>
+      <li>the literature search methodology and the literature search protocol and literature search report of a literature review;</li>
+      <li>the technology on which the device is based, the intended purpose of the device, and any claims made about the device’s performance or safety;</li>
+      <li>the nature and extent of the scientific validity and the analytical and clinical performance data that has been evaluated;</li>
+      <li>the clinical evidence as the acceptable performances against the state of the art in medicine;</li>
+      <li>any new conclusions derived from PMPF reports</li>
     </ul>
-    <p>A well-documented appraisal strategy is essential for demonstrating safety and performance through clinical data. Ensuring the appraisal is systematic, objective, and traceable can significantly reduce regulatory pushback.</p>
-    <p>If you missed it, <a href="/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities">be sure to check out Episode 1:”Safety and Performance Objectives Lack Specific and measurable acceptance criteria”</a> where we explore how to define specific, measurable objectives and develop practical acceptance criteria that meet Notified Body expectations.</p>
-    <p>Stay tuned for Episode 3, where tackle another common non-conformity: “<em>It is not clear what systematic search methods were used for the literature review.</em>” We’ll show you how to design and document a compliant search strategy that ensures transparency, traceability, and relevance in your literature review process. <a href="/newsletter">Sign up to our newsletter now so you don’t miss out</a>.</p>
+    <p>PERs for Class C and D devices must be updated at least annually, whereas PERs for Class A and B devices should be updated as needed, although at least a three-year review cycle would be recommended. As this document is multi-disciplinary, it is crucial that the manufacturer organises the writing and maintenance of this document and fully integrates it into the infrastructure of the quality management system (QMS).</p>
+    <h2 id="ensuring-ongoing-success-with-post-market-performance-follow-up">Ensuring Ongoing Success with Post-Market Performance Follow-Up</h2>
+    <p>Post-Market Performance Follow-Up (PMPF) is defined in Part B of Annex XIII as ‘a continuous process that updates the performance evaluation’ and goes on to state ‘<em>with the aim of confirming the safety, performance and scientific validity throughout the expected lifetime of the device, of ensuring the continued acceptability of the benefit-risk ratio and of detecting emerging risks on the basis of factual evidence</em>’.</p>
+    <p>PMPF essentially serves to continue supporting the PEP/PER throughout the device’s lifecycle and is particularly useful for monitoring scientific or clinical developments that may impact the device’s performance and safety.</p>
+    <p>Outputs from PMPF are written in the PMPF evaluation report, where it is then determined if those outputs result in:</p>
+    <ul>
+      <li>An update to the associated performance evaluation documentation and a revision of the risk management reports</li>
+      <li>A CAPA being raised</li>
+      <li>Further PMPF studies being conducted</li>
+    </ul>
+    <h2 id="ensuring-ivd-success-key-takeaways-for-performance-evaluation">Ensuring IVD Success: Key Takeaways for Performance Evaluation</h2>
+    <p>Conducting a performance evaluation for IVDs is a critical step in ensuring their safety, reliability, and effectiveness. By following a structured process—starting with understanding regulatory requirements, defining intended use, and conducting rigorous analytical and clinical testing—you can demonstrate that your IVD meets the necessary standards for market approval. Continuous post-market surveillance further ensures that the device continues to deliver value and contributes to better patient outcomes.</p>
+    <p>At Mantra Systems, we simplify the process, ensuring your device meets all regulatory requirements for EU market access. Let us take the complexity out of performance evaluation so you can focus on delivering safe, effective solutions. <a href="/contact">Book a call today</a>.</p>
+    ]]></content><author><name>kamiya-crabtree</name></author><category term="IVDR" /><summary type="html"><![CDATA[Whether preparing for a new EU market submission or strengthening existing documentation, this guide is your overview of performance evaluation under IVDR.]]></summary></entry><entry><title type="html">Clinical Evaluation Masterclass: Appraisal of literature sources has not been conducted properly - Episode 2</title><link href="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-2-appraisal-of-literature-sources-has-not-been-conducted-properly" rel="alternate" type="text/html" title="Clinical Evaluation Masterclass: Appraisal of literature sources has not been conducted properly - Episode 2" /><published>2025-04-09T00:00:00+01:00</published><updated>2025-04-09T12:47:28+01:00</updated><id>https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-2-appraisal-of-literature-sources-has-not-been-conducted-properly</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-2-appraisal-of-literature-sources-has-not-been-conducted-properly"><![CDATA[<p>A non-conformity in clinical evaluation arises when a <strong>Clinical Evaluation Plan (CEP) or Report (CER)</strong> fails to meet regulatory standards or Notified Body (NB) expectations.</p>
+  <p>These deficiencies such as incomplete data, unclear safety criteria, or inadequate evidence analysis indicate that the device’s safety and performance are not sufficiently demonstrated, requiring correction before approval.</p>
+  <p>For manufacturers, such non-conformities can result in <strong>delayed approvals, extended review cycles, and costly rework</strong>, as unresolved issues block NB acceptance. Proactively addressing non-conformities helps streamline audits, accelerate certifications, and strengthen regulatory compliance, ensuring smoother market access.</p>
+  <p>This video series breaks down the most common clinical evaluation non-conformities, explains <em>why</em> they keep happening, and most importantly, shows you how to <em><strong>fix (or avoid) them</strong></em> for good.</p>
+  <h2 id="episode-2-appraisal-of-literature-sources-has-not-been-conducted-properly">Episode 2: “Appraisal of literature sources has not been conducted properly”</h2>
+  <p>One of the most frequent reasons for CER rejection is poor appraisal of literature sources. In this episode, we cover:</p>
+  <ul>
+    <li>What <em>‘appraisal’</em> really means and the purpose it serves</li>
+    <li>Key characteristics of an appropriately conducted appraisal process</li>
+    <li>How to practically implement appraisals during clinical evaluation and why it matters</li>
+  </ul>
+  <p>A well-documented appraisal strategy is essential for demonstrating safety and performance through clinical data. Ensuring the appraisal is systematic, objective, and traceable can significantly reduce regulatory pushback.</p>
+  <p>If you missed it, <a href="/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities">be sure to check out Episode 1:”Safety and Performance Objectives Lack Specific and measurable acceptance criteria”</a> where we explore how to define specific, measurable objectives and develop practical acceptance criteria that meet Notified Body expectations.</p>
+  <p>Stay tuned for Episode 3, where tackle another common non-conformity: “<em>It is not clear what systematic search methods were used for the literature review.</em>” We’ll show you how to design and document a compliant search strategy that ensures transparency, traceability, and relevance in your literature review process. <a href="/newsletter">Sign up to our newsletter now so you don’t miss out</a>.</p>
+  <hr />
+  <div class="small-text">
+    <strong>Transcript follows:</strong>
+    <p>It’s Paul from Mantra Systems here, and welcome to episode two of our series on how to fix clinical evaluation non-conformances.</p>
+    <p>If you didn’t see the first part in the series, I’ll put a link to that post in the description below this video.</p>
+    <p>But otherwise, let’s get on with episode two.</p>
     <hr />
-    <div class="small-text">
-      <strong>Transcript follows:</strong>
-      <p>It’s Paul from Mantra Systems here, and welcome to episode two of our series on how to fix clinical evaluation non-conformances.</p>
-      <p>If you didn’t see the first part in the series, I’ll put a link to that post in the description below this video.</p>
-      <p>But otherwise, let’s get on with episode two.</p>
-      <hr />
-      <p>Non-conformances following submission of a clinical evaluation are quite common under the EU MDR, basically because the standard for submissions is now so high.</p>
-      <p>But the problem is that:</p>
-      <ul>
-        <li>Resolution of non-conformances is necessary for the clinical evaluation to be accepted.</li>
-        <li>Nonconformities can be quite difficult to interpret.</li>
-        <li>It may not always be clear how to fully address them.</li>
-        <li>A failure to resolve non-conformances may lead to:
-          <ul>
-            <li>A further round of review,</li>
-            <li>Increased costs,</li>
-            <li>Lost time,</li>
-            <li>Stress and worry.</li>
-          </ul>
-        </li>
-      </ul>
-      <p>The aim of this series is to work through commonly seen nonconformities one at a time, and dig deep into what they mean and how to solve—or preferably avoid—them in the first place.</p>
-      <p>The context behind this is to link into general principles for optimal conduct of medical device clinical evaluation.</p>
-      <p><strong>Nonconformity Number Two.</strong> The one we’re going to look at is this:</p>
-      <blockquote>
-        <p><strong>‘Appraisal of literature articles has not been conducted appropriately.’</strong></p>
-      </blockquote>
-      <p>This is one we see a lot. To explore it—and ensure that you don’t fall foul of it—we’ve broken our approach down into three steps:</p>
-      <ol>
-        <li>Consider what appraisal actually means and what purpose it serves within the context of a clinical evaluation.</li>
-        <li>Look at the characteristics of an appropriate appraisal framework.</li>
-        <li>Consider how appraisal should be applied during clinical evaluation.</li>
-      </ol>
-      <p><strong>What Is Appraisal?</strong> Appraisal is:</p>
-      <ul>
-        <li>A <strong>structured and systematic evaluation</strong> of:
-          <ul>
-            <li>The <strong>quality</strong> of individual studies within a literature review or a clinical evaluation, and</li>
-            <li>The <strong>relevance</strong> of each source to the clinical evaluation.</li>
-          </ul>
-        </li>
-      </ul>
-      <p>If applied correctly, appraisal enables <strong>systematic weighting</strong> of study outcomes according to quality and relevance.</p>
-      <p>The basic idea:</p>
-      <blockquote>
-        <p>The better the study, and the more relevant it is, the greater weighting is given to its results compared with lower-quality studies of lower relevance.</p>
-      </blockquote>
-      <p>The MEDDEV guideline 2.7/1 revision 4—although somewhat outdated—places appraisal effectively into context.</p>
-      <ul>
-        <li>Clinical evaluation is split into four stages: 0, 1, 2, and 3.</li>
-        <li><strong>Appraisal is stage 2</strong>, which:
-          <ul>
-            <li>Comes after identification of pertinent data,</li>
-            <li>Leads into appropriate analysis,</li>
-            <li>Emphasizes that you can’t properly analyze data until you’ve appraised it.</li>
-          </ul>
-        </li>
-      </ul>
-      <p><strong>Designing an Appraisal Framework</strong>. There is <strong>no universally defined appraisal system</strong>. Some systems are <strong>broadly accepted</strong>, such as the Oxford scheme, but:</p>
-      <ul>
-        <li>These can be limited. For example, the Oxford scheme only considers study type, overlooking other relevant factors.</li>
-        <li>Therefore, <strong>justification of your chosen method is key</strong>.</li>
-      </ul>
-      <p>Appraisal should:</p>
-      <ul>
-        <li>Consider a <strong>range of factors</strong> related to study quality and relevance.</li>
-        <li>Avoid being based on <strong>just one or two</strong> elements.</li>
-      </ul>
-      <blockquote>
-        <p>The most common pitfall: <strong>doing nothing</strong> with the appraisal.</p>
-      </blockquote>
-      <p>The objective is to produce an <strong>appraisal score for each source</strong> that actively influences outcomes.</p>
-      <p>This score becomes a <strong>mathematical weighting factor</strong> applied to results from individual sources.</p>
-      <p><strong>Characteristics of a Compliant Appraisal Framework</strong>. There’s no universally accepted method, but an appraisal scheme may consider:</p>
-      <ul>
-        <li><strong>Study type</strong>
-          <ul>
-            <li>RCTs typically score higher than cohort studies or case series.</li>
-          </ul>
-        </li>
-        <li><strong>Sample size</strong>
-          <ul>
-            <li>Larger sample sizes increase reliability and therefore the score.</li>
-          </ul>
-        </li>
-        <li><strong>Use of statistics</strong>
-          <ul>
-            <li>Includes whether the study shows statistical significance.</li>
-            <li>Well-designed statistical analysis increases score.</li>
-          </ul>
-        </li>
-        <li><strong>Length of follow-up</strong>
-          <ul>
-            <li>Longer follow-up captures more of the clinical journey.</li>
-          </ul>
-        </li>
-        <li><strong>Devices used within studies</strong>
-          <ul>
-            <li>Subject device: highest score</li>
-            <li>Equivalent device: slightly lower</li>
-            <li>Similar device: lower still</li>
-            <li>Unrelated device: lowest score</li>
-          </ul>
-        </li>
-      </ul>
-      <p>The key is <strong>justification</strong>—explain to the reviewer why your approach is appropriate.</p>
-      <p><strong>Example Scoring Framework.</strong> In your <strong>appraisal protocol</strong>, you might use a system like this:</p>
-      <ul>
-        <li>Characteristics listed on the left</li>
-        <li>Descriptions and alpha-numeric grading on the right</li>
-        <li>Higher numbers = better scores</li>
-      </ul>
-      <p>Example:</p>
-      <ul>
-        <li>A randomized control trial might be scored <code class="language-plaintext highlighter-rouge">R4</code>.</li>
-        <li>A case series might be scored <code class="language-plaintext highlighter-rouge">R1</code>.</li>
-      </ul>
-      <p>You can build a table with these scores and apply it to each study. This allows a study to be:</p>
-      <ul>
-        <li>Strong in one area,</li>
-        <li>Weak in another.</li>
-      </ul>
-      <p>This <strong>combined appraisal system</strong> accounts for nuance.</p>
-      <p>To produce the <strong>overall appraisal score</strong>, add the numbers in each row.</p>
-      <p>Example (hypothetical data):</p>
-      <p>For ‘Jones et al’:<br />
-        R3 (3) + 2 + 1 + 3 + 3 = <strong>12</strong></p>
-      <p><strong>Applying the Appraisal.</strong> Once you have appraisal scores:</p>
-      <ol>
-        <li>List the studies and their appraisal scores.</li>
-        <li>Add an outcome parameter (e.g., reduction in pain VAS).</li>
-      </ol>
-      <p>To calculate the <strong>weighted mean</strong>:</p>
-      <ul>
-        <li>Multiply the <strong>outcome value</strong> by the <strong>appraisal score</strong>.</li>
-        <li>Example for Jones et al:
-          <ul>
-            <li>Outcome: 4.5</li>
-            <li>Appraisal score: 12</li>
-            <li>Weighted value: 4.5 × 12 = 54</li>
-          </ul>
-        </li>
-      </ul>
-      <p>Repeat for each source.</p>
-      <p>Then:</p>
-      <ul>
-        <li>Sum the appraisal scores: <strong>61</strong></li>
-        <li>Sum the weighted values: <strong>226.7</strong></li>
-        <li>Divide the total weighted values by the total appraisal scores:</li>
-      </ul>
-      <pre><code class="language-math">Weighted mean = 226.7 / 61 = 3.72
+    <p>Non-conformances following submission of a clinical evaluation are quite common under the EU MDR, basically because the standard for submissions is now so high.</p>
+    <p>But the problem is that:</p>
+    <ul>
+      <li>Resolution of non-conformances is necessary for the clinical evaluation to be accepted.</li>
+      <li>Nonconformities can be quite difficult to interpret.</li>
+      <li>It may not always be clear how to fully address them.</li>
+      <li>A failure to resolve non-conformances may lead to:
+        <ul>
+          <li>A further round of review,</li>
+          <li>Increased costs,</li>
+          <li>Lost time,</li>
+          <li>Stress and worry.</li>
+        </ul>
+      </li>
+    </ul>
+    <p>The aim of this series is to work through commonly seen nonconformities one at a time, and dig deep into what they mean and how to solve—or preferably avoid—them in the first place.</p>
+    <p>The context behind this is to link into general principles for optimal conduct of medical device clinical evaluation.</p>
+    <p><strong>Nonconformity Number Two.</strong> The one we’re going to look at is this:</p>
+    <blockquote>
+      <p><strong>‘Appraisal of literature articles has not been conducted appropriately.’</strong></p>
+    </blockquote>
+    <p>This is one we see a lot. To explore it—and ensure that you don’t fall foul of it—we’ve broken our approach down into three steps:</p>
+    <ol>
+      <li>Consider what appraisal actually means and what purpose it serves within the context of a clinical evaluation.</li>
+      <li>Look at the characteristics of an appropriate appraisal framework.</li>
+      <li>Consider how appraisal should be applied during clinical evaluation.</li>
+    </ol>
+    <p><strong>What Is Appraisal?</strong> Appraisal is:</p>
+    <ul>
+      <li>A <strong>structured and systematic evaluation</strong> of:
+        <ul>
+          <li>The <strong>quality</strong> of individual studies within a literature review or a clinical evaluation, and</li>
+          <li>The <strong>relevance</strong> of each source to the clinical evaluation.</li>
+        </ul>
+      </li>
+    </ul>
+    <p>If applied correctly, appraisal enables <strong>systematic weighting</strong> of study outcomes according to quality and relevance.</p>
+    <p>The basic idea:</p>
+    <blockquote>
+      <p>The better the study, and the more relevant it is, the greater weighting is given to its results compared with lower-quality studies of lower relevance.</p>
+    </blockquote>
+    <p>The MEDDEV guideline 2.7/1 revision 4—although somewhat outdated—places appraisal effectively into context.</p>
+    <ul>
+      <li>Clinical evaluation is split into four stages: 0, 1, 2, and 3.</li>
+      <li><strong>Appraisal is stage 2</strong>, which:
+        <ul>
+          <li>Comes after identification of pertinent data,</li>
+          <li>Leads into appropriate analysis,</li>
+          <li>Emphasizes that you can’t properly analyze data until you’ve appraised it.</li>
+        </ul>
+      </li>
+    </ul>
+    <p><strong>Designing an Appraisal Framework</strong>. There is <strong>no universally defined appraisal system</strong>. Some systems are <strong>broadly accepted</strong>, such as the Oxford scheme, but:</p>
+    <ul>
+      <li>These can be limited. For example, the Oxford scheme only considers study type, overlooking other relevant factors.</li>
+      <li>Therefore, <strong>justification of your chosen method is key</strong>.</li>
+    </ul>
+    <p>Appraisal should:</p>
+    <ul>
+      <li>Consider a <strong>range of factors</strong> related to study quality and relevance.</li>
+      <li>Avoid being based on <strong>just one or two</strong> elements.</li>
+    </ul>
+    <blockquote>
+      <p>The most common pitfall: <strong>doing nothing</strong> with the appraisal.</p>
+    </blockquote>
+    <p>The objective is to produce an <strong>appraisal score for each source</strong> that actively influences outcomes.</p>
+    <p>This score becomes a <strong>mathematical weighting factor</strong> applied to results from individual sources.</p>
+    <p><strong>Characteristics of a Compliant Appraisal Framework</strong>. There’s no universally accepted method, but an appraisal scheme may consider:</p>
+    <ul>
+      <li><strong>Study type</strong>
+        <ul>
+          <li>RCTs typically score higher than cohort studies or case series.</li>
+        </ul>
+      </li>
+      <li><strong>Sample size</strong>
+        <ul>
+          <li>Larger sample sizes increase reliability and therefore the score.</li>
+        </ul>
+      </li>
+      <li><strong>Use of statistics</strong>
+        <ul>
+          <li>Includes whether the study shows statistical significance.</li>
+          <li>Well-designed statistical analysis increases score.</li>
+        </ul>
+      </li>
+      <li><strong>Length of follow-up</strong>
+        <ul>
+          <li>Longer follow-up captures more of the clinical journey.</li>
+        </ul>
+      </li>
+      <li><strong>Devices used within studies</strong>
+        <ul>
+          <li>Subject device: highest score</li>
+          <li>Equivalent device: slightly lower</li>
+          <li>Similar device: lower still</li>
+          <li>Unrelated device: lowest score</li>
+        </ul>
+      </li>
+    </ul>
+    <p>The key is <strong>justification</strong>—explain to the reviewer why your approach is appropriate.</p>
+    <p><strong>Example Scoring Framework.</strong> In your <strong>appraisal protocol</strong>, you might use a system like this:</p>
+    <ul>
+      <li>Characteristics listed on the left</li>
+      <li>Descriptions and alpha-numeric grading on the right</li>
+      <li>Higher numbers = better scores</li>
+    </ul>
+    <p>Example:</p>
+    <ul>
+      <li>A randomized control trial might be scored <code class="language-plaintext highlighter-rouge">R4</code>.</li>
+      <li>A case series might be scored <code class="language-plaintext highlighter-rouge">R1</code>.</li>
+    </ul>
+    <p>You can build a table with these scores and apply it to each study. This allows a study to be:</p>
+    <ul>
+      <li>Strong in one area,</li>
+      <li>Weak in another.</li>
+    </ul>
+    <p>This <strong>combined appraisal system</strong> accounts for nuance.</p>
+    <p>To produce the <strong>overall appraisal score</strong>, add the numbers in each row.</p>
+    <p>Example (hypothetical data):</p>
+    <p>For ‘Jones et al’:<br />
+      R3 (3) + 2 + 1 + 3 + 3 = <strong>12</strong></p>
+    <p><strong>Applying the Appraisal.</strong> Once you have appraisal scores:</p>
+    <ol>
+      <li>List the studies and their appraisal scores.</li>
+      <li>Add an outcome parameter (e.g., reduction in pain VAS).</li>
+    </ol>
+    <p>To calculate the <strong>weighted mean</strong>:</p>
+    <ul>
+      <li>Multiply the <strong>outcome value</strong> by the <strong>appraisal score</strong>.</li>
+      <li>Example for Jones et al:
+        <ul>
+          <li>Outcome: 4.5</li>
+          <li>Appraisal score: 12</li>
+          <li>Weighted value: 4.5 × 12 = 54</li>
+        </ul>
+      </li>
+    </ul>
+    <p>Repeat for each source.</p>
+    <p>Then:</p>
+    <ul>
+      <li>Sum the appraisal scores: <strong>61</strong></li>
+      <li>Sum the weighted values: <strong>226.7</strong></li>
+      <li>Divide the total weighted values by the total appraisal scores:</li>
+    </ul>
+    <pre><code class="language-math">Weighted mean = 226.7 / 61 = 3.72
 </code></pre>
-      <p>This gives <strong>greater weight to better quality studies</strong>, which is the essence of how appraisal is expressed in a compliant clinical evaluation.</p>
-      <p><strong>Summary of an Effective appraisal:</strong></p>
-      <ul>
-        <li>Uses systematic methods to evaluate quality and relevance.</li>
-        <li>Considers a range of factors.</li>
-        <li>Produces a score to enable mathematical weighting of results.</li>
-        <li>Must be:
-          <ul>
-            <li>Justified,</li>
-            <li>Conducted according to a clear, advance plan.</li>
-          </ul>
-        </li>
-        <li>Applies to literature for both:
-          <ul>
-            <li>Subject devices,</li>
-            <li>State-of-the-art comparisons.</li>
-          </ul>
-        </li>
-      </ul>
-      <p><strong>Recap of Episode Two: Nonconformity #2: Appraisal of literature articles has not been conducted appropriately</strong></p>
-      <p>In this episode, we’ve:</p>
-      <ul>
-        <li>Looked at what appraisal is and what purpose it serves.</li>
-        <li>Considered characteristics of an appropriately conducted appraisal process.</li>
-        <li>Looked at how appraisal should be applied during clinical evaluation and the effect it has on outcomes.</li>
-      </ul>
-      <hr />
-      <p>Don’t forget that <strong>Mantra Systems offers a comprehensive clinical evaluation service</strong>. One of the most common reasons we’re engaged is to help with resolution of non-conformities.</p>
-      <ul>
-        <li>All initial conversations are <strong>completely free</strong>.</li>
-        <li>We have a <strong>really friendly team</strong>.</li>
-        <li>Give us a call or send us an email if you’d like to discuss anything.</li>
-      </ul>
-      <p>That concludes episode two in this non-conformity series.</p>
-      <p><strong>Please share</strong> if you found this video useful, and I look forward to seeing you in the next part of the series.</p>
-      <p><strong>Thank you very much!</strong></p>
-    </div>
-    ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[Our ongoing series covers one of the most frequent reasons for CER rejection: a poor appraisal of literature sources.]]></summary></entry><entry><title type="html">Navigating CAPA Terminology: Key Terms for Medical Device Professionals</title><link href="https://www.mantrasystems.co.uk/articles/navigating-capa-terminology-key-terms-for-medical-device-professionals" rel="alternate" type="text/html" title="Navigating CAPA Terminology: Key Terms for Medical Device Professionals" /><published>2025-04-02T00:00:00+01:00</published><updated>2025-04-03T12:43:18+01:00</updated><id>https://www.mantrasystems.co.uk/articles/navigating-capa-terminology-key-terms-for-medical-device-professionals</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/navigating-capa-terminology-key-terms-for-medical-device-professionals"><![CDATA[<p>The Corrective and Preventive Action (CAPA) process is a central component of <a href="/eu-mdr-compliance/quality-management-system-qms">Quality Management Systems</a> (QMS) and is a mandatory requirement for ISO 13485, MDSAP, <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_%C2%A0VIII">Regulation MDR (EU) 2017/745</a>, and the <a href="/medical-device-regulatory-consulting-services/fda-510k-consulting">US FDA</a>. It is a systematic approach used to identify, address, and prevent the recurrence of problems.</p>
-  <p>A CAPA is a structured process used to identify, resolve, and prevent the recurrence of issues within a system or product. It is essential for ensuring quality, compliance, and continuous improvement in various industries such as healthcare, manufacturing, and pharmaceuticals in the UK. The CAPA process is typically broken down into three main phases: <strong>Identify Problems</strong>, where issues are first recognised and thoroughly assessed; <strong>Address Problems</strong>, where corrective actions are formulated and implemented to fix the immediate problems; and <strong>Prevent Recurrence</strong>, where long-term solutions and preventive measures are established to ensure that the issue does not happen again, ultimately enhancing the reliability and quality of operations.</p>
-  <figure>
-    <img src="/assets/images/content/articles/inline/capa-process-in-quality-management.svg" alt="CAPA Process in Quality Management diagram." loading="lazy" width="520" height="416" />
-    <figcaption>CAPA Process in Quality Management</figcaption>
-  </figure>
-  <h2 id="key-terms">Key terms</h2>
-  <p>Here are some key terms that all medical device professionals should acquaint themselves with:</p>
-  <h3 id="nonconformity--a-deviation-from-a-specification-standard-or-an-expectation">Nonconformity = A deviation from a specification, standard, or an expectation</h3>
-  <p>Nonconformity is the recognition of an issue that deviates from the expected outcome or requirement. These typically appear at the beginning of the process, during identification and investigation stages.</p>
-  <h3 id="capa-trigger--a-predefined-condition-that-leads-to-a-corrective-or-preventative-measure">CAPA Trigger = A predefined condition that leads to a corrective or preventative measure</h3>
-  <p>CAPA triggers can arise from various sources, both internal and external, and typically highlight areas where a product, process, or system does not meet specified standards or expectations. Examples of CAPA triggers include: customer complaints, audit findings, and adverse events or near misses.</p>
-  <h3 id="root-cause-analysis-rca--a-method-to-identify-the-cause-of-a-problem">Root Cause Analysis (RCA) = A method to identify the cause of a problem</h3>
-  <p>The goal of RCA is not just to address the immediate symptoms of a problem, but to discover and resolve the root cause(s) to prevent recurrence. It’s a critical component of the CAPA process, especially in regulated industries like manufacturing, healthcare, and quality control. Tools such as the 5 Whys, Fishbone Diagram, and Failure Mode and Effects Analysis (FMEA) can be used to facilitate RCA.</p>
-  <h3 id="root-cause--the-main-reason-why-a-problem-has-arisenoccurred">Root Cause = The main reason why a problem has arisen/occurred</h3>
-  <p>In any quality management or problem-solving process, identifying the root cause is critical because it allows an organisation to focus its efforts on eliminating the source of the problem, rather than just addressing its symptoms.</p>
-  <h3 id="field-corrective-action-fca--actions-to-address-issues-identified-after-distribution">Field Corrective Action (FCA) = Actions to address issues identified after distribution</h3>
-  <p>FCAs are typically initiated after a product defect, safety concern, or performance failure has been identified in the field, often through customer complaints, product recalls, or post-market surveillance data. They form an important part of the product lifecycle and help in protecting both the end users and the manufacturer’s reputation.</p>
-  <h3 id="supplier-corrective-action-request-scar--a-request-to-a-supplier-to-address-the-problem">Supplier Corrective Action Request (SCAR) = A request to a supplier to address the problem</h3>
-  <p>The SCAR process is used to communicate nonconformities, initiate corrective actions, and ensure that suppliers address the underlying issues causing defects or quality problems. It’s an essential tool in quality management systems. The purpose of SCAR is to improve supplier performance and prevent recurrence of issues that may affect the quality and safety of the end product.</p>
-  <h3 id="capa-plan--a-documented-plan-for-actions-to-address-a-specific-issue">CAPA Plan = A documented plan for actions to address a specific issue</h3>
-  <p>It begins with identifying a problem, conducting a root cause analysis, and implementing corrective actions to resolve the issue. Preventive actions are then put in place to reduce the risk of future occurrences. The plan also includes verifying the effectiveness of these actions, documenting the process, and ensuring continuous monitoring for improvement.</p>
-  <h3 id="capa-review-board--a-group-that-is-responsible-for-overseeing-the-capa-process">CAPA Review Board = A group that is responsible for overseeing the CAPA process</h3>
-  <p>The board ensures that identified issues are appropriately investigated, root causes are thoroughly analysed, and corrective and preventive actions are effectively implemented.</p>
-  <h3 id="risk-assessment--the-process-of-identifying-and-analysing-the-impact-of-potential-issues">Risk Assessment = The process of identifying and analysing the impact of potential issues</h3>
-  <p>In the context of CAPA, risk assessment helps determine the severity and likelihood of an issue reoccurring, allowing companies to implement appropriate actions to mitigate or control these risks. It plays a critical role in ensuring that corrective and preventive measures are effective and proportionate to the identified risks.</p>
-  <h3 id="correction--action-to-fix-a-nonconformity-without-addressing-the-root-issue">Correction = Action to fix a nonconformity without addressing the root issue</h3>
-  <p>Unlike corrective actions, which are aimed at preventing recurrence, corrections focus on resolving the current issue.</p>
-  <h3 id="preventative-action-pa--actions-that-address-the-causes-of-a-potential-nonconformity">Preventative Action (PA) = Actions that address the causes of a potential nonconformity</h3>
-  <p>This process involves analysing trends, risks, or weak points in the system and making improvements to avoid future problems, ensuring ongoing compliance and quality.</p>
-  <h3 id="corrective-action-ca--actions-that-address-the-causes-of-an-existing-nonconformity">Corrective Action (CA) = Actions that address the causes of an existing nonconformity</h3>
-  <p>This process involves investigating the issue, implementing changes to eliminate the cause, and ensuring that similar issues do not arise in the future.</p>
-  <h3 id="verification--checking-that-a-solution-works-as-intended">Verification = Checking that a solution works as intended</h3>
-  <p>Verification is the process of confirming that a product, process, or system meets specific requirements and functions as intended. It involves checking and testing against predetermined criteria to ensure accuracy and compliance before implementation or release.</p>
-  <h3 id="validation--ensuring-that-a-product-or-a-process-meets-its-intended-use">Validation = Ensuring that a product or a process meets its intended use</h3>
-  <p>Validation ensures that a product, process, or system consistently meets its intended purpose and regulatory requirements. It involves testing and documentation to confirm reliability and compliance with standards, ensuring product quality and safety.</p>
-  <h3 id="effectiveness-check-voe--evaluation-to-confirm-the-success-of-a-capa">Effectiveness Check (VoE) = Evaluation to confirm the success of a CAPA</h3>
-  <p>After implementing corrective actions, an Effectiveness Check ensures that the changes have successfully resolved the problem and that the same issue does not reoccur. This check typically involves monitoring the results over a set period, reviewing data, and evaluating the impact of the actions on product quality, performance, or process improvements.</p>
-  <h3 id="disposition--decision-on-how-to-handle-a-nonconforming-product-or-situation">Disposition = Decision on how to handle a nonconforming product or situation</h3>
-  <p>Disposition refers to the decision made regarding nonconforming products, determining whether they should be reworked, used as-is, scrapped, or returned to the supplier. These decisions are based on the severity of the nonconformity and are crucial for maintaining product quality and compliance.</p>
-  <h2 id="mastering-capa-turning-terminology-into-action">Mastering CAPA: Turning Terminology into Action</h2>
-  <p>In conclusion, understanding and navigating CAPA terminology is essential for ensuring compliance and driving continuous improvement within a quality management system. Familiarity with key terms such as root cause analysis, corrective actions, preventive actions, and effectiveness checks will help professionals make informed decisions, streamline processes, and avoid common pitfalls.</p>
-  <p>By staying up-to-date with these critical terms, organisations can strengthen their CAPA processes, improve product quality, and enhance overall regulatory compliance. Empowering teams with the knowledge of CAPA terminology is a key step toward maintaining high-quality standards and ensuring the safety and efficacy of medical devices in the marketplace.</p>
-  <p>Ready to navigate the regulatory process with confidence? With our expert team and 100% notified body approval, we’re here to help you ensure compliance and streamline your medical device journey. <a href="/contact">Contact us today to get started!</a></p>
-  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[We define and explain the language required to work within a Quality Management System (QMS).]]></summary></entry><entry><title type="html">Clinical Evaluation Masterclass: Overcoming Non-conformities - Episode 1</title><link href="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities" rel="alternate" type="text/html" title="Clinical Evaluation Masterclass: Overcoming Non-conformities - Episode 1" /><published>2025-04-02T00:00:00+01:00</published><updated>2025-04-09T12:26:25+01:00</updated><id>https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities"><![CDATA[<p>Clinical Evaluation Plans (CEPs) and Clinical Evaluation Reports (CERs) are critical components of medical device regulatory compliance. However, the reality is that meeting requirements isn’t always plain sailing.</p>
+    <p>This gives <strong>greater weight to better quality studies</strong>, which is the essence of how appraisal is expressed in a compliant clinical evaluation.</p>
+    <p><strong>Summary of an Effective appraisal:</strong></p>
+    <ul>
+      <li>Uses systematic methods to evaluate quality and relevance.</li>
+      <li>Considers a range of factors.</li>
+      <li>Produces a score to enable mathematical weighting of results.</li>
+      <li>Must be:
+        <ul>
+          <li>Justified,</li>
+          <li>Conducted according to a clear, advance plan.</li>
+        </ul>
+      </li>
+      <li>Applies to literature for both:
+        <ul>
+          <li>Subject devices,</li>
+          <li>State-of-the-art comparisons.</li>
+        </ul>
+      </li>
+    </ul>
+    <p><strong>Recap of Episode Two: Nonconformity #2: Appraisal of literature articles has not been conducted appropriately</strong></p>
+    <p>In this episode, we’ve:</p>
+    <ul>
+      <li>Looked at what appraisal is and what purpose it serves.</li>
+      <li>Considered characteristics of an appropriately conducted appraisal process.</li>
+      <li>Looked at how appraisal should be applied during clinical evaluation and the effect it has on outcomes.</li>
+    </ul>
+    <hr />
+    <p>Don’t forget that <strong>Mantra Systems offers a comprehensive clinical evaluation service</strong>. One of the most common reasons we’re engaged is to help with resolution of non-conformities.</p>
+    <ul>
+      <li>All initial conversations are <strong>completely free</strong>.</li>
+      <li>We have a <strong>really friendly team</strong>.</li>
+      <li>Give us a call or send us an email if you’d like to discuss anything.</li>
+    </ul>
+    <p>That concludes episode two in this non-conformity series.</p>
+    <p><strong>Please share</strong> if you found this video useful, and I look forward to seeing you in the next part of the series.</p>
+    <p><strong>Thank you very much!</strong></p>
+  </div>
+  ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[Our ongoing series covers one of the most frequent reasons for CER rejection: a poor appraisal of literature sources.]]></summary></entry><entry><title type="html">Clinical Evaluation Masterclass: Overcoming Non-conformities - Episode 1</title><link href="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities" rel="alternate" type="text/html" title="Clinical Evaluation Masterclass: Overcoming Non-conformities - Episode 1" /><published>2025-04-02T00:00:00+01:00</published><updated>2025-04-09T12:26:25+01:00</updated><id>https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities"><![CDATA[<p>Clinical Evaluation Plans (CEPs) and Clinical Evaluation Reports (CERs) are critical components of medical device regulatory compliance. However, the reality is that meeting requirements isn’t always plain sailing.</p>
   <p>Based on our experience with over 250 successful submissions, we’ve identified that overcoming clinical evaluation non-conformities is one of the major challenges manufacturers face during the device approval journey.</p>
   <h2 id="what-is-a-non-conformity-in-clinical-evaluation">What is a Non-Conformity in Clinical Evaluation?</h2>
   <p>A non-conformity arises when a CEP or CER fails to meet MDR requirements. Non-conformities signal that the evaluation does not yet adequately demonstrate a medical device’s safety and performance or that full alignment with regulatory obligations has not been shown, requiring correction before approval.</p>
@@ -431,7 +442,51 @@
     <p>That concludes the first episode of the Clinical Evaluation Non-Conformity series. I’d like to thank you very much, and if you have any questions or comments, please let me know below the video.</p>
     <p>Thank you very much.</p>
   </div>
-  ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[In this series, we work step-by-step through common Non-Conformities to ensure you are always ahead of possible challenges on the way to MDR approval.]]></summary></entry><entry><title type="html">MDCG 2020-16 Revision 4: Key Updates on IVDR Classification Rules</title><link href="https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules" rel="alternate" type="text/html" title="MDCG 2020-16 Revision 4: Key Updates on IVDR Classification Rules" /><published>2025-03-28T00:00:00+00:00</published><updated>2025-03-28T10:50:34+00:00</updated><id>https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules"><![CDATA[<p>The <strong>Medical Device Coordination Group (MDCG)</strong> has released <strong>MDCG 2020-16 rev.4 - Guidance on Classification Rules for in vitro Diagnostic Medical Devices under Regulation (EU) 2017/746</strong>.</p>
+  ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[In this series, we work step-by-step through common Non-Conformities to ensure you are always ahead of possible challenges on the way to MDR approval.]]></summary></entry><entry><title type="html">Navigating CAPA Terminology: Key Terms for Medical Device Professionals</title><link href="https://www.mantrasystems.co.uk/articles/navigating-capa-terminology-key-terms-for-medical-device-professionals" rel="alternate" type="text/html" title="Navigating CAPA Terminology: Key Terms for Medical Device Professionals" /><published>2025-04-02T00:00:00+01:00</published><updated>2025-04-03T12:43:18+01:00</updated><id>https://www.mantrasystems.co.uk/articles/navigating-capa-terminology-key-terms-for-medical-device-professionals</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/navigating-capa-terminology-key-terms-for-medical-device-professionals"><![CDATA[<p>The Corrective and Preventive Action (CAPA) process is a central component of <a href="/eu-mdr-compliance/quality-management-system-qms">Quality Management Systems</a> (QMS) and is a mandatory requirement for ISO 13485, MDSAP, <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_%C2%A0VIII">Regulation MDR (EU) 2017/745</a>, and the <a href="/medical-device-regulatory-consulting-services/fda-510k-consulting">US FDA</a>. It is a systematic approach used to identify, address, and prevent the recurrence of problems.</p>
+  <p>A CAPA is a structured process used to identify, resolve, and prevent the recurrence of issues within a system or product. It is essential for ensuring quality, compliance, and continuous improvement in various industries such as healthcare, manufacturing, and pharmaceuticals in the UK. The CAPA process is typically broken down into three main phases: <strong>Identify Problems</strong>, where issues are first recognised and thoroughly assessed; <strong>Address Problems</strong>, where corrective actions are formulated and implemented to fix the immediate problems; and <strong>Prevent Recurrence</strong>, where long-term solutions and preventive measures are established to ensure that the issue does not happen again, ultimately enhancing the reliability and quality of operations.</p>
+  <figure>
+    <img src="/assets/images/content/articles/inline/capa-process-in-quality-management.svg" alt="CAPA Process in Quality Management diagram." loading="lazy" width="520" height="416" />
+    <figcaption>CAPA Process in Quality Management</figcaption>
+  </figure>
+  <h2 id="key-terms">Key terms</h2>
+  <p>Here are some key terms that all medical device professionals should acquaint themselves with:</p>
+  <h3 id="nonconformity--a-deviation-from-a-specification-standard-or-an-expectation">Nonconformity = A deviation from a specification, standard, or an expectation</h3>
+  <p>Nonconformity is the recognition of an issue that deviates from the expected outcome or requirement. These typically appear at the beginning of the process, during identification and investigation stages.</p>
+  <h3 id="capa-trigger--a-predefined-condition-that-leads-to-a-corrective-or-preventative-measure">CAPA Trigger = A predefined condition that leads to a corrective or preventative measure</h3>
+  <p>CAPA triggers can arise from various sources, both internal and external, and typically highlight areas where a product, process, or system does not meet specified standards or expectations. Examples of CAPA triggers include: customer complaints, audit findings, and adverse events or near misses.</p>
+  <h3 id="root-cause-analysis-rca--a-method-to-identify-the-cause-of-a-problem">Root Cause Analysis (RCA) = A method to identify the cause of a problem</h3>
+  <p>The goal of RCA is not just to address the immediate symptoms of a problem, but to discover and resolve the root cause(s) to prevent recurrence. It’s a critical component of the CAPA process, especially in regulated industries like manufacturing, healthcare, and quality control. Tools such as the 5 Whys, Fishbone Diagram, and Failure Mode and Effects Analysis (FMEA) can be used to facilitate RCA.</p>
+  <h3 id="root-cause--the-main-reason-why-a-problem-has-arisenoccurred">Root Cause = The main reason why a problem has arisen/occurred</h3>
+  <p>In any quality management or problem-solving process, identifying the root cause is critical because it allows an organisation to focus its efforts on eliminating the source of the problem, rather than just addressing its symptoms.</p>
+  <h3 id="field-corrective-action-fca--actions-to-address-issues-identified-after-distribution">Field Corrective Action (FCA) = Actions to address issues identified after distribution</h3>
+  <p>FCAs are typically initiated after a product defect, safety concern, or performance failure has been identified in the field, often through customer complaints, product recalls, or post-market surveillance data. They form an important part of the product lifecycle and help in protecting both the end users and the manufacturer’s reputation.</p>
+  <h3 id="supplier-corrective-action-request-scar--a-request-to-a-supplier-to-address-the-problem">Supplier Corrective Action Request (SCAR) = A request to a supplier to address the problem</h3>
+  <p>The SCAR process is used to communicate nonconformities, initiate corrective actions, and ensure that suppliers address the underlying issues causing defects or quality problems. It’s an essential tool in quality management systems. The purpose of SCAR is to improve supplier performance and prevent recurrence of issues that may affect the quality and safety of the end product.</p>
+  <h3 id="capa-plan--a-documented-plan-for-actions-to-address-a-specific-issue">CAPA Plan = A documented plan for actions to address a specific issue</h3>
+  <p>It begins with identifying a problem, conducting a root cause analysis, and implementing corrective actions to resolve the issue. Preventive actions are then put in place to reduce the risk of future occurrences. The plan also includes verifying the effectiveness of these actions, documenting the process, and ensuring continuous monitoring for improvement.</p>
+  <h3 id="capa-review-board--a-group-that-is-responsible-for-overseeing-the-capa-process">CAPA Review Board = A group that is responsible for overseeing the CAPA process</h3>
+  <p>The board ensures that identified issues are appropriately investigated, root causes are thoroughly analysed, and corrective and preventive actions are effectively implemented.</p>
+  <h3 id="risk-assessment--the-process-of-identifying-and-analysing-the-impact-of-potential-issues">Risk Assessment = The process of identifying and analysing the impact of potential issues</h3>
+  <p>In the context of CAPA, risk assessment helps determine the severity and likelihood of an issue reoccurring, allowing companies to implement appropriate actions to mitigate or control these risks. It plays a critical role in ensuring that corrective and preventive measures are effective and proportionate to the identified risks.</p>
+  <h3 id="correction--action-to-fix-a-nonconformity-without-addressing-the-root-issue">Correction = Action to fix a nonconformity without addressing the root issue</h3>
+  <p>Unlike corrective actions, which are aimed at preventing recurrence, corrections focus on resolving the current issue.</p>
+  <h3 id="preventative-action-pa--actions-that-address-the-causes-of-a-potential-nonconformity">Preventative Action (PA) = Actions that address the causes of a potential nonconformity</h3>
+  <p>This process involves analysing trends, risks, or weak points in the system and making improvements to avoid future problems, ensuring ongoing compliance and quality.</p>
+  <h3 id="corrective-action-ca--actions-that-address-the-causes-of-an-existing-nonconformity">Corrective Action (CA) = Actions that address the causes of an existing nonconformity</h3>
+  <p>This process involves investigating the issue, implementing changes to eliminate the cause, and ensuring that similar issues do not arise in the future.</p>
+  <h3 id="verification--checking-that-a-solution-works-as-intended">Verification = Checking that a solution works as intended</h3>
+  <p>Verification is the process of confirming that a product, process, or system meets specific requirements and functions as intended. It involves checking and testing against predetermined criteria to ensure accuracy and compliance before implementation or release.</p>
+  <h3 id="validation--ensuring-that-a-product-or-a-process-meets-its-intended-use">Validation = Ensuring that a product or a process meets its intended use</h3>
+  <p>Validation ensures that a product, process, or system consistently meets its intended purpose and regulatory requirements. It involves testing and documentation to confirm reliability and compliance with standards, ensuring product quality and safety.</p>
+  <h3 id="effectiveness-check-voe--evaluation-to-confirm-the-success-of-a-capa">Effectiveness Check (VoE) = Evaluation to confirm the success of a CAPA</h3>
+  <p>After implementing corrective actions, an Effectiveness Check ensures that the changes have successfully resolved the problem and that the same issue does not reoccur. This check typically involves monitoring the results over a set period, reviewing data, and evaluating the impact of the actions on product quality, performance, or process improvements.</p>
+  <h3 id="disposition--decision-on-how-to-handle-a-nonconforming-product-or-situation">Disposition = Decision on how to handle a nonconforming product or situation</h3>
+  <p>Disposition refers to the decision made regarding nonconforming products, determining whether they should be reworked, used as-is, scrapped, or returned to the supplier. These decisions are based on the severity of the nonconformity and are crucial for maintaining product quality and compliance.</p>
+  <h2 id="mastering-capa-turning-terminology-into-action">Mastering CAPA: Turning Terminology into Action</h2>
+  <p>In conclusion, understanding and navigating CAPA terminology is essential for ensuring compliance and driving continuous improvement within a quality management system. Familiarity with key terms such as root cause analysis, corrective actions, preventive actions, and effectiveness checks will help professionals make informed decisions, streamline processes, and avoid common pitfalls.</p>
+  <p>By staying up-to-date with these critical terms, organisations can strengthen their CAPA processes, improve product quality, and enhance overall regulatory compliance. Empowering teams with the knowledge of CAPA terminology is a key step toward maintaining high-quality standards and ensuring the safety and efficacy of medical devices in the marketplace.</p>
+  <p>Ready to navigate the regulatory process with confidence? With our expert team and 100% notified body approval, we’re here to help you ensure compliance and streamline your medical device journey. <a href="/contact">Contact us today to get started!</a></p>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[We define and explain the language required to work within a Quality Management System (QMS).]]></summary></entry><entry><title type="html">MDCG 2020-16 Revision 4: Key Updates on IVDR Classification Rules</title><link href="https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules" rel="alternate" type="text/html" title="MDCG 2020-16 Revision 4: Key Updates on IVDR Classification Rules" /><published>2025-03-28T00:00:00+00:00</published><updated>2025-03-28T10:50:34+00:00</updated><id>https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules"><![CDATA[<p>The <strong>Medical Device Coordination Group (MDCG)</strong> has released <strong>MDCG 2020-16 rev.4 - Guidance on Classification Rules for in vitro Diagnostic Medical Devices under Regulation (EU) 2017/746</strong>.</p>
   <p>This update released in March 2025 provides comprehensive clarification on the classification rules outlined in <strong>Annex VIII</strong> of the <strong>IVDR</strong>, ensuring that manufacturers, notified bodies, and health institutions have a clear framework for classifying in vitro diagnostic (IVD) devices based on their intended purpose and inherent risk, prior to placing it on the market. Notably, the guidance addresses the classification of medical device software (MDSW) and emphasises the importance of considering devices used in combination.</p>
   <h2 id="summary-of-key-updates">Summary of Key Updates</h2>
   <table>
@@ -755,41 +810,4 @@
     <li><strong>Leverage Corrective Action Requests (CARs) for Improvement:</strong> View CARs as opportunities to refine processes. Analysing non-conformance trends can reveal systemic issues that require long-term solutions.</li>
   </ul>
   <p>In the fast-evolving regulatory landscape, maintaining robust processes for handling non-conformities is a critical skill for any regulatory professional. Let’s embrace these challenges as opportunities to build stronger, more compliant systems. <a href="/contact">Get in touch</a> for tailored solutions that ensure your technical documentation meets the latest standards.</p>
-  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[We explore how to manage non-conformities effectively and implement Corrective and Preventive Actions (CAPAs).]]></summary></entry><entry><title type="html">Mastering the EU MDR: Essential Steps for Compliance-Ready Docs</title><link href="https://www.mantrasystems.co.uk/articles/mastering-eu-mdr-essential-steps-for-compliance-ready-docs" rel="alternate" type="text/html" title="Mastering the EU MDR: Essential Steps for Compliance-Ready Docs" /><published>2025-03-07T00:00:00+00:00</published><updated>2025-04-01T00:02:42+01:00</updated><id>https://www.mantrasystems.co.uk/articles/mastering-eu-mdr-essential-steps-for-compliance-ready-docs</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/mastering-eu-mdr-essential-steps-for-compliance-ready-docs"><![CDATA[<p>In today’s ever-evolving Medical Device regulatory landscape, staying compliant with the <a href="/medical-device-regulatory-consulting-services/mdr-consulting">European Union Medical Device Regulations</a> (EU MDR) is crucial for businesses operating in or with the EU. However, navigating its complex and ever-changing framework can feel like a maze.</p>
-  <p>If you’re uncertain about the readiness of your EU MDR documentation, this article provides an overview of the essential steps to ensure you’re on track, from understanding key regulations to identifying potential gaps in your compliance process.</p>
-  <h2 id="grasping-the-essentials-key-eu-mdr-requirements-you-need-to-know">Grasping the Essentials: Key EU MDR Requirements You Need to Know</h2>
-  <p>Compliance is accomplished by demonstrating conformity of your device with all relevant aspects of the EU MDR. Manufacturers are required demonstrate this compliance to gain regulatory approval for their medical devices.</p>
-  <p>Medical devices must be designed, manufactured, distributed, and tracked according to EU MDR requirements, and manufacturers must develop a suite of compliant regulatory systems, processes, and documents to continually monitor the safety and performance of their products.</p>
-  <p>This process <a href="/eu-mdr-compliance">begins with a detailed understanding of the regulation and the obligations it imposes upon manufacturers</a>. A key part of demonstrating compliance is ensuring that your technical file includes everything required under the regulation. This consists of clinical evaluations, risk management documentation, and information on manufacturing processes. Being thorough at this stage ensures you don’t run into roadblocks later.</p>
-  <h2 id="conquering-your-technical-documentation-a-thorough-review-is-essential">Conquering Your Technical Documentation: A Thorough Review is Essential</h2>
-  <p>One of the most essential aspects of EU MDR compliance is your technical documentation. The regulation requires manufacturers to maintain detailed files that provide evidence of the safety, performance, and risk management of their products. These files must be available for review by Notified Bodies during audits and inspections.</p>
-  <p>Regulatory systems, processes, and documents required for compliance are more extensive than those necessary under the outgoing Medical Device Directive (MDD). Those required for MDR Compliance include the following:</p>
-  <ul>
-    <li><strong>Quality Management System (<a href="/eu-mdr-compliance/quality-management-system-qms">QMS</a>)</strong> covering the activities of the entire organisation</li>
-    <li><strong>Post-Market Surveillance (<a href="/eu-mdr-compliance/post-market-surveillance-pms">PMS</a>)</strong> system monitoring safety and performance of each device following release onto the market</li>
-    <li><strong>Post-Market Clinical Follow-up (<a href="/eu-mdr-compliance/post-market-clinical-follow-up-pmcf">PMCF</a>)</strong> and <strong>Vigilance system</strong> for each device</li>
-    <li><strong>Risk Management system</strong> to the standard in <a href="https://www.iso.org/standard/72704.html">ISO 14971:2019</a> or equivalent</li>
-    <li><strong>Clinical Evaluation</strong> process for every medical device, documented as a State-of-the-Art Report (SOTA), Clinical Evaluation Report (CEP), and a Clinical Evaluation Report (CER) which must be continuously updated at appropriate intervals</li>
-  </ul>
-  <p>Carefully reviewing each section of your technical file is essential. Missing even a small piece of documentation can cause delays or, worse, non-compliance. Successful compliance is demonstrated by the application of a CE-mark to the device.</p>
-  <p>Class I manufacturers (except for devices that are sterile or have a measuring function) may self-apply a CE-mark after producing a declaration of conformity. For all other classes of medical devices, a CE-mark may only be affixed once a Notified Body has issued a certificate of conformity following a regulatory review according to rules in Chapter IV of the MDR.</p>
-  <h2 id="navigating-special-cases-ensuring-conformity-with-eu-mdr-requirements">Navigating Special Cases: Ensuring Conformity with EU MDR Requirements</h2>
-  <p>Certain devices, particularly those that include medicinal substances or components of animal or human origin, have additional requirements under the EU MDR. These special cases require detailed documentation to ensure compliance with stricter regulations. It’s important to identify if your device falls under these categories and ensure that you are meeting the additional regulatory requirements.</p>
-  <p>This can often be a challenging aspect of compliance. For example, if your device uses a medicinal substance or has biological components, it may be subject to additional testing and reporting obligations, e.g., a medicinal dossier. Understanding these specifics early on in the process can save you time and prevent future compliance hurdles.</p>
-  <h2 id="stay-compliant-the-importance-of-regularly-updating-your-documentation">Stay Compliant: The Importance of Regularly Updating Your Documentation</h2>
-  <p>EU MDR compliance is an ongoing process. It’s not enough to simply submit your documentation and wait for approval. Once your device is on the market, continuous monitoring through PMS and PMCF is required. You must regularly update your technical file to reflect any changes, including modifications to the device, new clinical data, or updates to regulatory requirements.</p>
-  <p>Additionally, your clinical evaluations should be regularly reviewed to ensure that new evidence supports the ongoing safety and performance of your device.</p>
-  <figure>
-    <img src="/assets/images/content/articles/inline/mdr-technical-file.png" alt="MDR Technical file relationship diagram." loading="lazy" width="520" height="416" />
-  </figure>
-  <h2 id="ensuring-youre-ready-how-to-close-the-gaps">Ensuring You’re Ready: How to Close the Gaps</h2>
-  <p>With so many requirements and details involved, it can be easy to feel unsure about whether your documentation is truly ready for submission. Even the most diligent teams can miss critical elements or overlook specific areas of compliance.</p>
-  <p>This is where an automated tool can be a game-changer. An EU MDR compliance checker can help you quickly identify any gaps or discrepancies in your technical documentation. By conducting a comprehensive review of your files, you ensure that your submission is as complete and accurate as possible.</p>
-  <h3 id="no-technical-file-no-ce-mark-no-access-to-the-eu-market">No Technical File, no CE mark, no access to the EU market.</h3>
-  <p><a href="/enable-ce-mark/technical-document-templates/mdr-compliance-checker-gap-analysis-tool">Mantra Systems’ EU MDR Compliance Checker</a> is built to take the guesswork out of the process. It flags any discrepancies and offers a report card for compliance gaps, providing you with reassurance that your documentation is aligned with EU standards.</p>
-  <p>It covers all key components, from General Requirements needed across documents to ensuring GSPR Conformity. The checker also supports robust Post-Market Surveillance (PMS) and Post-Market Clinical Follow-Up (PMCF) processes, ensuring your products remain compliant even after they hit the market. Additionally, it assists with Clinical Evaluation and Risk Management, two crucial elements of your compliance strategy. Our checker is also equipped to handle Other Regulatory Processes and the preparation of Annex II Technical Documents, ensuring no detail is overlooked. Plus, it can help navigate Special Cases, making it the ultimate tool for comprehensive EU MDR compliance. With all these components integrated into one solution, you can be confident in your ability to meet the ever-evolving regulatory standards.</p>
-  <p>With <a href="/enable-ce-mark/technical-document-templates/mdr-compliance-checker-gap-analysis-tool">our free EU MDR Compliance Checker</a>, you can simplify the complexities of regulatory compliance and ensure your products meet the highest standards. Stay ahead of the curve and safeguard your business by making compliance effortless and efficient every step of the way. <a href="/enable-ce-mark/technical-document-templates/mdr-compliance-checker-gap-analysis-tool">Download it free today.</a></p>
-  <h2 id="flat-monthly-fee-regulatory-consulting">Flat Monthly Fee Regulatory Consulting</h2>
-  <p>With Mantra Systems’ flexible regulatory consulting options, we can tailor pricing to suit your MDR compliance needs. As well as traditional Fixed Fee Consulting, we also offer a <a href="/medical-device-regulatory-consulting-servicesfractional-regulatory-consulting">Fractional Regulatory Consulting</a> option for companies that would prefer lower initial costs and no long-term commitment.</p>
-  <p><a href="/medical-device-regulatory-consulting-services/fractional-regulatory-consulting#contact">Book a free consultation</a> to discuss this alongside your regulatory needs with our team.</p>
-  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[If you're uncertain about the readiness of your EU MDR documentation, this article provides an overview of the essential steps to ensure you’re on track.]]></summary></entry></feed>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[We explore how to manage non-conformities effectively and implement Corrective and Preventive Actions (CAPAs).]]></summary></entry></feed>

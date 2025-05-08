@@ -1,128 +1,353 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-05-07T14:03:51+01:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Regulatory Writing Deadlines: The Pressure to Get It Right the First Time</title><link href="https://www.mantrasystems.co.uk/articles/regulatory-writing-deadlines-the-pressure-to-get-it-right-the-first-time" rel="alternate" type="text/html" title="Regulatory Writing Deadlines: The Pressure to Get It Right the First Time" /><published>2025-04-30T00:00:00+01:00</published><updated>2025-04-29T19:07:17+01:00</updated><id>https://www.mantrasystems.co.uk/articles/regulatory-writing-deadlines-the-pressure-to-get-it-right-the-first-time</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/regulatory-writing-deadlines-the-pressure-to-get-it-right-the-first-time"><![CDATA[<p>Anyone who’s worked in the medical device industry knows that regulatory deadlines aren’t just part of the process—they define it.</p>
-      <p>Whether you’re drafting a <a href="/medical-device-regulatory-consulting-services/mdr-consulting/clinical-evaluation">Clinical Evaluation Report</a> (CER) or preparing an <a href="medical-device-regulatory-consulting-services/ivdr-consulting">IVDR</a> or <a href="/medical-device-regulatory-consulting-services/mdr-consulting/">MDR submission</a>, there’s one golden rule everyone learns quickly: you feel the pressure to get it right the first time, because in this field, second chances are rare—and costly.</p>
-      <p>And that pressure? It doesn’t just come from the clock. It comes from the complexity of the content, the coordination required across teams, and the ever-present reality that regulators aren’t grading on a curve.</p>
-      <h2 id="why-the-clock-is-always-ticking-and-coordinating-moving-pieces">Why the Clock Is Always Ticking and Coordinating Moving Pieces</h2>
-      <p>In regulatory writing, time is always a pressure point. While the device may be ready, the trial complete, and the data in hand, without well-aligned and structured documentation, the product can’t move forward. Writing typically happens late in the development cycle, and the responsibility to wrap it up quickly falls squarely on the regulatory team.</p>
-      <p>Revisions might be allowed, but delays can have significant consequences, pushing back launch dates, sales forecasts, and patient access. In a competitive market, even a few weeks’ delay can make a huge impact.</p>
-      <p>In other words, the sooner it’s done, the sooner it’s in the hands of the people who need it.</p>
-      <p>Take the Clinical Evaluation Report (CER), for example. It requires input from clinical, risk, and quality teams, each working on different timelines. If one team is delayed or key data is missing, the regulatory writer is left to fill in the gaps. Yet the final document still needs to be clear, compliant, and scientifically sound. Managing these moving parts under intense time pressure is where the real challenge lies.</p>
-      <p>And despite all this, the report must be coherent. It must make sense to regulators, and it must do so in language that’s both technically precise and easy to follow. Balancing scientific depth with regulatory clarity, while coordinating teams and racing deadlines, is what makes regulatory writing uniquely demanding.</p>
-      <h2 id="time-pressure--technical-complexity--a-tough-combo">Time Pressure + Technical Complexity = A Tough Combo</h2>
-      <p>Regulatory writing is anything but straightforward. It’s high-pressure work that requires interpreting complex data, aligning with evolving guidelines, and managing competing timelines. You’re expected to translate clinical, safety, or performance data into documents that meet both internal and regulatory expectations.</p>
-      <p>Timelines are rarely in your favour, and last-minute data, shifting guidance, and delayed inputs from other teams are common. Yet, the final document still has to be accurate and on time.</p>
-      <p>Under pressure, shortcuts can be tempting: citing claims without solid evidence, glossing over exclusions, or relying on unchecked references. These might seem small, but regulators spot them instantly. One inconsistency can spark a chain of questions, delaying approval. The internal cost involves pulling teams back into work they thought was finished, creating stress and draining resources.</p>
-      <h2 id="how-to-manage-the-pressure">How To Manage the Pressure</h2>
-      <p>While the pressure may never disappear entirely, you can develop strategies to manage it effectively and deliver strong submissions consistently. Here’s how:</p>
-      <h3 id="1-build-time-buffers-wherever-possible-and-stick-to-them">1. Build Time Buffers Wherever Possible (and Stick to Them)</h3>
-      <p>Time buffers aren’t just a luxury, they’re a necessity as things will go wrong. A key staff member will be on leave, a literature search might surface late-breaking studies, or a formatting requirement will change mid-review. Planning for the unexpected is what keeps your timeline intact.</p>
-      <p>How to do it:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-05-08T10:08:08+01:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Clinical Evaluation Masterclass: It is not clear that any systematic search methods were used for the literature review – Episode 3</title><link href="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-3-not-clear-that-any-systematic-search-methods-were-used-for-the-literature-review" rel="alternate" type="text/html" title="Clinical Evaluation Masterclass: It is not clear that any systematic search methods were used for the literature review – Episode 3" /><published>2025-05-08T00:00:00+01:00</published><updated>2025-05-07T15:31:50+01:00</updated><id>https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-3-not-clear-that-any-systematic-search-methods-were-used-for-the-literature-review</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-3-not-clear-that-any-systematic-search-methods-were-used-for-the-literature-review"><![CDATA[<p>Clinical evaluation is a cornerstone of compliance under the EU Medical Device Regulation (MDR), directly tied to the safety and performance of a medical device throughout its lifecycle.</p>
+      <p>Yet, despite its importance, non-conformities in clinical evaluation reports remain one of the most common reasons for delays, rejections, and costly remediation work during conformity assessment.</p>
+      <p>When a clinical evaluation falls short - whether due to vague safety and performance objectives, inadequate literature appraisal, or poorly documented search methods - manufacturers face serious consequences. These may include prolonged Notified Body reviews, increased regulatory scrutiny, and even market withdrawal of devices.</p>
+      <p>Addressing clinical evaluation non-conformities isn’t just about avoiding negative outcomes; it’s about building a robust, evidence-based foundation that demonstrates your device meets essential safety and performance requirements. For manufacturers, mastering this process means faster approvals, fewer surprises during conformity assessments, and ultimately, safer outcomes for patients.</p>
+      <p>This video series breaks down the most common clinical evaluation non-conformities, explains <em>why</em> they keep happening, and most importantly, shows you how to <strong><em>fix (or avoid) them for</em></strong> good.</p>
+      <h2 id="episode-3-it-is-not-clear-that-systematic-search-methods-have-been-used-for-the-literature-review">Episode 3: “It is not clear that systematic search methods have been used for the literature review”</h2>
+      <p>Whether you’re new to clinical evaluation or refining an existing process, this video will help you design a robust and transparent search strategy that aligns with MDR expectations.</p>
+      <p>In this episode, we’ll break down:</p>
       <ul>
-        <li>Create internal deadlines at least 3–5 working days before submission.</li>
-        <li>Schedule a formal buffer period at the end of the review cycle for last-minute fixes, formatting, or unanticipated input.</li>
-        <li>Use a Gantt chart or timeline visual to map dependencies and highlight bottlenecks early.</li>
+        <li>What a <strong>systematic search method</strong> is</li>
+        <li>Key components of a systematic search</li>
+        <li>How systematic search methodology should be <strong>applied during Clinical Evaluation</strong></li>
       </ul>
-      <p><em>Tip: Treat internal deadlines like external ones. Lock them in calendars, send reminders, and keep them visible in team trackers so they’re taken just as seriously.</em></p>
-      <h3 id="2-use-templates-and-checklists-to-reduce-cognitive-load">2. Use Templates and Checklists to Reduce Cognitive Load</h3>
-      <p>Regulatory writing isn’t just about words, it’s about structure, traceability, and completeness. Using <a href="/enable-ce-mark/technical-document-templates/">well-maintained templates</a>, <a href="/eu-mdr-compliance">guides</a>, and <a href="/enable-ce-mark/technical-document-templates/mdr-compliance-checker-gap-analysis-tool">submission checklists</a> allows writers to focus on content rather than reformatting or double-checking document layout.</p>
-      <p>Best practices:</p>
+      <p>By the end of the episode, you’ll be able to confidently design and implement a systematic literature search for both State-of-the-art (SOTA) devices and the Device Under Evaluation (DUE) when conducting Clinical Evaluations.</p>
+      <p>At <em>Mantra Systems</em>, we specialise in delivering high-quality, MDR-compliant Clinical Evaluation Reports that stand up to Notified Body scrutiny. Whether you need a full CER, a literature review strategy, or expert input on addressing non-conformities, our team is here to help. <a href="/contact">Contact us today for a free, no obligation consultation</a> on how we can support your clinical evaluation needs.</p>
+      <p>Missed previous episodes? Catch up here:</p>
       <ul>
-        <li>Maintain validated templates for CERs, PMS Plans, SSCPs, and more.</li>
-        <li>Create a library of pre-approved justifications, definitions, and citations.</li>
-        <li>Use trackers or collaborative SharePoint folders to keep everything in one place.</li>
+        <li><a href="/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities">Episode 1: “Safety and Performance objectives lack specific and measurable acceptance criteria”</a></li>
+        <li><a href="/articles/clinical-evaluation-masterclass-2-appraisal-of-literature-sources-has-not-been-conducted-properly">Episode 2: “Appraisal of literature sources has not been conducted properly”</a></li>
       </ul>
-      <p><em>Tip: Maintain a document library with pre-approved phrasing for recurring justifications, definitions, and regulatory language to speed up writing and ensure consistency.</em></p>
-      <h3 id="3-clarify-the-why-behind-every-section">3. Clarify the “Why” Behind Every Section</h3>
-      <p>When working fast, it’s easy to fall into the trap of filling sections with text that sounds right but lacks substance. Writers who stay close to the underlying intent of each section, whether it’s explaining benefit-risk, post-market follow-up, or equivalence, are better positioned to write persuasively and pass regulatory scrutiny.</p>
-      <p><em>Tip: Before writing each section, note down the question you’re answering. For example: “What is the clinical benefit of this device, and how is it supported by evidence?” Then answer that clearly and directly.</em></p>
-      <h3 id="4-align-stakeholders-early">4. Align Stakeholders Early</h3>
-      <p>Regulatory writing relies on input from clinical, risk, and quality teams. When these inputs arrive late or out of sync, the whole writing timeline suffers.</p>
-      <p>How to improve:</p>
-      <ul>
-        <li>Hold a project kick-off call to align timelines and expectations across teams.</li>
-        <li>Share a high-level plan with key stakeholders early, especially if input will be staggered.</li>
-        <li>Confirm who’s reviewing what, and when, to avoid overlaps or gaps.</li>
-      </ul>
-      <p>Example: For an MDR CER, a short cross-functional alignment meeting early in the project avoided weeks of back-and-forth during the review phase.</p>
-      <h3 id="5-break-big-tasks-into-smaller-wins">5. Break Big Tasks into Smaller Wins</h3>
-      <p>Large documents like CERs or SSCPs, and especially full Technical Files can feel overwhelming. Breaking the work into logical sections and setting mini-deadlines helps manage workload and keep momentum.</p>
-      <p>What works:</p>
-      <ul>
-        <li>Set internal milestones for key sections (e.g. clinical data, Annex II documents, risk-benefit).</li>
-        <li>Track progress visibly so the team stays motivated and aligned.</li>
-        <li>Divide the document by section (e.g. clinical background, state of the art, risk-benefit analysis, PMS summary) and assign clear ownership where possible.</li>
-      </ul>
-      <p><em>Tip: Celebrate section sign-offs as mini-successes—they build confidence and maintain pace. Also, create a visual dashboard (even a basic traffic-light tracker in Excel) to show section status, e.g., red for in progress, amber for under review, green for approved. It helps everyone see at a glance where things stand and what needs focus next.</em></p>
-      <p><strong>Bonus benefit:</strong> Smaller chunks are also easier to quality check, making it more likely that errors or inconsistencies are spotted early—before they snowball into regulatory queries.</p>
-      <h3 id="6-learn-from-every-submission">6. Learn from Every Submission</h3>
-      <p>Every regulatory submission, whether smooth, delayed, or somewhere in between, is packed with lessons. The key is capturing those insights while they’re still fresh and feeding them back into future projects. That’s how teams evolve from “just getting it done” to building consistently efficient, high-quality submissions.</p>
-      <p>How to do it:</p>
-      <ul>
-        <li>Hold post-submission meetings: Within a week or two of submitting, schedule a short debrief session. Ask: What went well? What slowed us down? What could we do differently next time?</li>
-        <li>Involve everyone: Writers, project managers, and any contributors should have a voice. Often, the people managing literature, quality checks, or stakeholder feedback have the best insights into where time was lost, or saved.</li>
-        <li>Document and apply learnings: Keep a running log of tips, regulatory feedback, time-saving methods, and submission pitfalls.</li>
-      </ul>
-      <h2 id="conclusion-high-pressure-high-standardsmanageable-with-the-right-tools">Conclusion: High Pressure, High Standards—Manageable with the Right Tools</h2>
-      <p>There’s no denying that writing regulatory documents under tight deadlines can be intense. The expectations are high, the work is technical, and the timelines are often compressed. But by planning strategically, working collaboratively, and using the right tools and frameworks, you can consistently produce documents that meet both internal expectations and regulatory requirements.</p>
-      <p>The key is not to chase perfection, but to build processes that support quality from the very start. Because getting it right the first time might not always be possible, but it should always be the goal.</p>
-      <p>When everything comes together, when the data aligns, the document flows, and the submission is accepted without question, there’s a distinct sense of pride that accompanies the moment.</p>
-      <p>Whether you’re preparing a technical file, responding to questions from a notified body, or working toward approval, our team provides practical, tailored support at every stage. We offer strategic guidance across regulatory frameworks, assist with technical documentation, and help you stay aligned with evolving requirements.</p>
-      <p>If you’re looking for a trusted partner to take the pressure out of compliance, <a href="/contact">get in touch with Mantra Systems today</a>.</p>
-      ]]></content><author><name>kamiya-crabtree</name></author><category term="Clinical Evaluation" /><category term="MDR" /><category term="SaMD" /><summary type="html"><![CDATA[Anyone who’s worked in the medical device industry knows that regulatory deadlines aren’t just part of the process—they define it.]]></summary></entry><entry><title type="html">IEC 62366-1:2015 Demystified – Essential Usability Testing for Medical Devices</title><link href="https://www.mantrasystems.co.uk/articles/essential-usability-testing-for-medical-devices-iec-62366-1-2015-demystified" rel="alternate" type="text/html" title="IEC 62366-1:2015 Demystified – Essential Usability Testing for Medical Devices" /><published>2025-04-23T00:00:00+01:00</published><updated>2025-04-23T14:28:13+01:00</updated><id>https://www.mantrasystems.co.uk/articles/essential-usability-testing-for-medical-devices-iec-62366-1-2015-demystified</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/essential-usability-testing-for-medical-devices-iec-62366-1-2015-demystified"><![CDATA[<p>Creating a usability file is a crucial part of the product development process for medical devices, including <a href="/solutions/regulatory-consulting-for-samd-software-as-a-medical-device">Software as a Medical Device (SaMD)</a>, to ensure user-centred design and safety. IEC 62366-1 provides a structured approach to ensure that devices are designed with the user in mind and that potential risks associated with their use are identified and mitigated.</p>
-    <h2 id="what-is-iec-62366-a-crucial-standard-for-medical-device-usability">What is IEC 62366? A Crucial Standard for Medical Device Usability</h2>
-    <p><a href="https://www.iso.org/standard/63179.html">According to ISO</a>, ‘<q>IEC 62366 specifies a process for a manufacturer to analyse, specify, develop and evaluate the useability of a medical device as it relates to safety. The first edition of IEC 62366-1, together with the first edition of IEC 62366-2, cancels and replaces the first edition of IEC 62366 published in 2007 and its Amendment 1 (2014)</q>’</p>
-    <ol>
-      <li>IEC 62366-1 — Application of usability engineering to medical devices</li>
-      <li>IEC 62366-2 — Guidance on the application of usability to engineering to medical devices</li>
-    </ol>
-    <p>This guideline provides medical device manufacturers with a structured approach to integrate human factors, supporting them in assessing, defining, creating, and testing the usability of their medical devices.</p>
-    <h2 id="navigating-the-process-key-steps-in-writing-your-usability-file">Navigating the Process: Key Steps in Writing Your Usability File</h2>
-    <p>What exactly should be included in a Usability Engineering File? How can you ensure that all the requirements outlined in the standard are met? What steps do you need to take to ensure compliance? These are common questions that many people face when beginning to create their usability files. By understanding the essential components and requirements, you’ll be well-equipped to develop a comprehensive Usability Engineering File that meets all necessary standards and helps ensure your medical device is both safe and effective for use.</p>
-    <figure class="intrinsic">
-      <img src="/assets/images/content/articles/inline/define-the-scope-of-your-usability-file.png" alt="A diagram showing the IEC 62366 process." loading="lazy" width="400" height="670" />
-    </figure>
-    <h3 id="step-1-define-the-scope">Step 1: Define the Scope</h3>
-    <p>This encompasses the specific user group, the intended purpose, and the context in which the device will be utilised.</p>
-    <p><strong>Intended Users:</strong> Who will be using the device? This could include healthcare professionals, patients, or other relevant parties.</p>
-    <p><strong>Intended Use:</strong> What is the device designed to accomplish? This refers to the specific tasks the device is intended for, such as monitoring, diagnosing, or therapeutic applications.</p>
-    <p><strong>Use Environment:</strong> Where will the device be used? The setting can significantly influence the device’s usability, whether it’s intended for use in a home environment or a clinical/hospital setting.</p>
-    <h3 id="step-2-conducting-a-risk-analysis">Step 2: Conducting a Risk Analysis</h3>
-    <p>IEC 62366-1 mandates that you perform a comprehensive risk analysis to identify potential use-related hazards—situations where user errors may lead to harm or malfunction of the device.</p>
-    <p><strong>Hazard Identification:</strong> Identify potential hazards that may result from user errors or design flaws. For example, in a medical device like a ventilator, if the user interface is poorly designed, a healthcare professional could mistakenly adjust the settings, leading to inappropriate ventilation rates for the patient. This could result in either hypoventilation (insufficient oxygen delivery) or hyperventilation (excessive oxygen delivery), both of which could cause severe harm to the patient.</p>
-    <p><strong>Risk Assessment:</strong> Assess the likelihood and severity of harm associated with each identified hazard. This involves evaluating whether a specific user action could result in patient harm, an incorrect diagnosis, or delayed treatment, ensuring that risks are appropriately managed and mitigated.</p>
-    <h3 id="step-3-define-user-interface-ui-design-requirements">Step 3: Define User Interface (UI) Design Requirements</h3>
-    <p>Following the analysis of user needs and risks, the next crucial step is to establish UI design requirements tailored to the target user group. Chapter 5.2. requires you to identify, as part of the risk analysis, all parts and characteristics of the User Interface that are related to the safety of the medical device.</p>
-    <p><strong>User Capabilities:</strong> Consider the cognitive, physical, and sensory abilities of the users. For instance, if the device is intended for elderly patients, ensure the interface is intuitive, with large text and simplified navigation.</p>
-    <p><strong>Design Guidelines:</strong> These should focus on clear labelling, well-organised controls, alarms, and instructions for use (IFU). Specific adaptations may be necessary for certain groups, such as non-professional users or individuals with visual impairments.</p>
-    <p><strong>Task Optimisation:</strong> Structure the UI to reduce the likelihood of user error. Important tasks should be straightforward to access and perform, eliminating unnecessary steps that could lead to mistakes.</p>
-    <h3 id="step-4-formative-evaluations">Step 4: Formative Evaluations</h3>
-    <p>The formative evaluation section involves the testing of early prototypes or even design concepts with users in order to identify any potential problems prior to the final design being confirmed and completed. Once risks are identified, this process will repeat until these are mitigated.</p>
-    <p><strong>User Testing:</strong> Carry out usability testing with representative users to assess the device’s interface and interaction design. This could involve techniques such as cognitive walkthroughs, task analysis, and heuristic evaluations to identify potential issues and areas for improvement.</p>
-    <p>Were critical use errors found? Are further product improvements necessary? If you have answered “yes” to either of these questions at this point, go back as far as necessary in the Usability Engineering process and iterate through it from this point on until no new and critical problems occur during use. If this is the case, you are ready for the last big step: performing the summative evaluation.</p>
-    <h3 id="step-5-summative-evaluation">Step 5: Summative Evaluation</h3>
-    <p>The goal is to prove that the medical device (and its Interface) can be used without unacceptable residual risks for users, patients, and third parties. The hazard-related use scenarios previously defined are tested.</p>
-    <p>The summative evaluation focuses on validating the final design to ensure that the device meets the defined usability goals and operates safely and effectively in real-world conditions.</p>
-    <p><strong>Final Usability Testing:</strong> Conduct usability testing on the final version of the device to confirm that it functions as expected and that users can interact with it safely. This typically involves more realistic use scenarios, which may take place in clinical or home environments.</p>
-    <p><strong>Task Performance Metrics:</strong> Evaluate whether users can complete key tasks successfully, such as using the device without errors, interpreting information accurately, and following safety instructions correctly. These metrics help ensure the device’s usability and overall safety in practical use.</p>
-    <h3 id="step-6-post-market-surveillance-pms-and-usability-monitoring">Step 6: Post-Market Surveillance (PMS) and Usability Monitoring</h3>
-    <p>Once the product has been released to the market, ongoing monitoring of its usability is crucial. Post-market surveillance helps to identify any emerging issues or areas where improvements can be made.</p>
-    <p><strong>Incident Reporting:</strong> Set up a system to collect feedback and reports related to user issues. This should include complaints, adverse events, or any usability failures encountered by users.</p>
-    <p><strong>Usability Improvements:</strong> If usability issues are identified after the product has been launched, they should be addressed through iterative improvements or design updates to enhance performance and user experience.</p>
-    <h3 id="step-7-compiling-the-usability-file">Step 7: Compiling the Usability File</h3>
-    <p>The Usability Engineering File should provide a thorough and organised record of the entire usability process, from initial risk analysis and design specifications to testing and post-market surveillance. It is essential that the file demonstrates full compliance with the usability requirements of IEC 62366-1, showing that every step has been taken to guarantee the device’s safety and effectiveness.</p>
-    <p>The file should include:</p>
+      <hr />
+      <div class="small-text">
+        <strong>Transcript follows:</strong>
+        <p>Okay. Hi everyone and welcome to episode three in our ongoing series on how to fix clinical evaluation nonconformities. It’s Paul here from Mantra Systems. It’s my pleasure to take you through this latest installment of the series and uh let’s get to it.</p>
+        <p>So um as a reminder, this series is focused on addressing a key problem in um achieving success following submission of a clinical evaluation and that’s that nonconformities are actually very common under the MDR. But although it’s necessary to ensure that nonconformities are resolved, um they can be quite difficult to interpret and it may not always be clear how to fully address any nonconformities which arise, which in turn can lead to further rounds of review with increased costs, loss, time, stress, and worry.</p>
+        <p>And this series is intended to help you avoid common reasons for nonconformities. So, episode by episode, we’re working through common non-conformities one at a time and digging deep into what they mean and importantly, how to solve or avoid them in the first place. And where possible we tried to link to general principles for optimal conduct of clinical evaluation.</p>
+        <hr />
+        <p><strong>The Nonconformity in Focus</strong></p>
+        <p>So this is episode three and this time we’re going to look at the following nonconformity:</p>
+        <blockquote>
+          <p>It is not clear that systematic search methods have been used for the literature review.</p>
+        </blockquote>
+        <p>So in order to unpack this one, we need to consider:</p>
+        <ol>
+          <li>What is a systematic search method?</li>
+          <li>What are the components of a systematic search?</li>
+          <li>How should systematic search methodology be applied during clinical evaluation?</li>
+        </ol>
+        <p>Understanding those areas will help avoid this non-conformity arising.</p>
+        <hr />
+        <p><strong>What Is a Systematic Search Method?</strong></p>
+        <p>Well, it is a structured and planned approach to finding relevant sources for literature reviews. And in this case we’re talking about its application to clinical evaluation.</p>
+        <p>From a clinical evaluation perspective, it’s relevant in two sectors:</p>
+        <ul>
+          <li>The literature search that’s conducted for the state-of-the-art.</li>
+          <li>The search that needs to be done for the device under evaluation.</li>
+        </ul>
+        <p>Ideally, they are two separate searches, documented and recorded separately.</p>
+        <hr />
+        <p><strong>Why It Matters</strong></p>
+        <p>A systematic search method applied correctly helps ensure several things:</p>
+        <ul>
+          <li>Literature searches are conducted according to a validated prespecified plan. In other words, you’re not making it up as you go along.</li>
+          <li>Literature searches have considered all relevant factors to ensure full coverage of clinical use of either state-of-the-art devices or the device under evaluation.</li>
+          <li>Searches are reproducible so they can be conducted more than once and result in the same outcome.</li>
+          <li>Bias and the risk of accidentally excluding relevant sources are minimized.</li>
+        </ul>
+        <hr />
+        <p><strong>The Three Key Stages</strong></p>
+        <p>On a very basic level, there are three key stages to a systematic literature search:</p>
+        <ol>
+          <li><strong>Intended purpose</strong></li>
+          <li><strong>Research questions</strong></li>
+          <li><strong>Search terms</strong></li>
+        </ol>
+        <hr />
+        <p><strong>Intended Purpose</strong></p>
+        <p>The intended purpose places the literature search into context and helps form an input to the definition of research questions.</p>
+        <p>Spending time on the intended purpose helps map out:</p>
+        <ul>
+          <li>The types of patients and conditions that fall under the scope of the search,</li>
+          <li>The context of clinical use, and so on.</li>
+        </ul>
+        <p>It is a vital input to the scope of the literature search and also shows traceability to how the device is used and applied in clinical practice. So it is an important albeit rather basic stage from the perspective of a literature search. But don’t skip it.</p>
+        <hr />
+        <p><strong>Research Questions</strong></p>
+        <p>The next stage is to begin crafting research questions.</p>
+        <p>There’s lots of ways to do this, but ultimately a research question or a set of research questions just reduces what you want to achieve from the search to a list of simple questions. And it’s generally preferred that a validated format is used. PICO is one of them. We’re going to take a look at PICO in a moment.</p>
+        <p>It’s a good stage to explore and refine the scope of the search.</p>
+        <blockquote>
+          <p>It’s very easy to change research questions—much easier than changing search terms.</p>
+        </blockquote>
+        <p>Because with search terms, you have to rerun a search each time you change it, and that can be quite labor-intensive, especially if you’ve already started with inclusion/exclusion screening.</p>
+        <p>So research questions are worth spending time on because they form a vital input to the specific searches that you’ll run.</p>
+        <hr />
+        <p><strong>The PICO Framework</strong></p>
+        <p>Let’s have a quick look at one validated method—it’s not the only one—but PICO is an important one.</p>
+        <p><strong>PICO</strong> stands for:</p>
+        <ul>
+          <li><strong>P</strong>atient</li>
+          <li><strong>I</strong>ntervention</li>
+          <li><strong>C</strong>omparator</li>
+          <li><strong>O</strong>utcome</li>
+        </ul>
+        <p>It’s just a way of breaking down the search or the scope of search into these specific stages.</p>
+        <p>Example:</p>
+        <ul>
+          <li><strong>Patients</strong>: Patients with osteoarthritis of the hip who are candidates for total hip replacement surgery.</li>
+          <li><strong>Intervention</strong>: Ceramic-on-ceramic hip implants.</li>
+          <li><strong>Comparators</strong>: Metal-on-metal or metal-on-polyester hip implants.</li>
+          <li><strong>Outcomes</strong>: Pain VAS and range of motion.</li>
+        </ul>
+        <p>That’s just one way of framing research questions using the PICO system.</p>
+        <hr />
+        <p><strong>Stage Three: Search Terms</strong></p>
+        <p>What we’ve got here is a series of screen grabs just doing an example search on PubMed.</p>
+        <p>Example breakdown:</p>
+        <ul>
+          <li>Search 18: Osteoarthritis (produces many results)</li>
+          <li>Search 19: Total hip replacement or hip arthroplasty</li>
+          <li>Search 20: THR (abbreviation of total hip replacement)</li>
+        </ul>
+        <blockquote>
+          <p>You want to avoid repeating the same term over and over again, especially when using boolean AND, because it will look for multiple instances unnecessarily.</p>
+        </blockquote>
+        <p>In PubMed’s advanced search:</p>
+        <ul>
+          <li>You can combine individual searches using boolean operators.</li>
+          <li>Click the three dots next to a search and select ‘Add query’.</li>
+          <li>Combine subsequent searches using <strong>AND</strong>.</li>
+        </ul>
+        <p>Result:</p>
+        <ul>
+          <li>A refined composite search that significantly narrows down the results (e.g., to 51 highly relevant studies).</li>
+        </ul>
+        <hr />
+        <p><strong>Additional Systematic Search Considerations</strong></p>
+        <p><strong>1. Database Specification</strong></p>
+        <p>State in advance which databases will be used in your search protocol.</p>
+        <p>Examples:</p>
+        <ul>
+          <li>PubMed</li>
+          <li>Google Scholar</li>
+          <li>Embase</li>
+          <li>Cochrane</li>
+          <li>WDI</li>
+        </ul>
+        <blockquote>
+          <p>Usually, using a minimum of two is best practice. Otherwise, it may suggest bias.</p>
+        </blockquote>
+        <hr />
+        <p><strong>2. Inclusion/Exclusion Screening</strong></p>
+        <p>Refine your results to only those that are relevant.</p>
+        <ul>
+          <li>Define exclusion criteria in advance and document them in the search protocol.</li>
+          <li>Prevents designing criteria reactively to include only favorable results.</li>
+        </ul>
+        <p>Example:</p>
+        <ul>
+          <li>Code E1: Exclude in vitro, pre-clinical, or animal studies because their results may not transfer to humans.</li>
+        </ul>
+        <p>This ensures every excluded result has a justification.</p>
+        <hr />
+        <p><strong>3. Handling Duplicate Results</strong></p>
+        <p>Problems:</p>
+        <ul>
+          <li>Same study found more than once.</li>
+          <li>Same dataset appearing in multiple publications.</li>
+        </ul>
+        <p>Risks increase when including <strong>systematic reviews</strong>, which:</p>
+        <ul>
+          <li>May duplicate primary data sources.</li>
+          <li>Can create overlap and confusion.</li>
+        </ul>
+        <p>Tactics:</p>
+        <ul>
+          <li>Look out for recurring author names, shared recruitment techniques, and subsidiary publications.</li>
+          <li>Consider excluding systematic reviews and focus on primary sources.</li>
+        </ul>
+        <blockquote>
+          <p>Including duplicates risks skewing your analysis by over-weighting repeated data.</p>
+        </blockquote>
+        <hr />
+        <p><strong>4. Use of Filters</strong></p>
+        <p>Search databases offer filters, but:</p>
+        <ul>
+          <li>Use with caution.</li>
+          <li>Carefully justify their use.</li>
+          <li>Filters vary across databases.</li>
+        </ul>
+        <p>Common justifiable filter: <strong>time limits</strong>, especially for <strong>state-of-the-art</strong> searches.</p>
+        <blockquote>
+          <p>For fast-evolving fields like software as a medical device, old studies may no longer be relevant.</p>
+        </blockquote>
+        <hr />
+        <p><strong>5. Reproducibility</strong></p>
+        <p>Another person should be able to:</p>
+        <ul>
+          <li>Rerun the search,</li>
+          <li>Achieve the same results.</li>
+        </ul>
+        <hr />
+        <p><strong>Application to Clinical Evaluation</strong></p>
+        <ul>
+          <li>Create a detailed <strong>search protocol</strong> for both the <strong>SOT</strong> and <strong>device-specific</strong> reviews.</li>
+          <li>Document:
+            <ul>
+              <li>Research questions</li>
+              <li>Search terms</li>
+              <li>Exclusion criteria and justifications</li>
+            </ul>
+          </li>
+          <li>Justify use of filters.</li>
+          <li>Remove duplicate results.</li>
+          <li>Use validated methods.</li>
+          <li>Ensure full <strong>reproducibility</strong>.</li>
+        </ul>
+        <hr />
+        <p>In summary, for <strong>Nonconformity Number Three</strong>, we’ve covered:</p>
+        <ul>
+          <li>What a systematic search method is,</li>
+          <li>The components of a systematic search,</li>
+          <li>How systematic search methodology should be applied during clinical evaluation.</li>
+        </ul>
+        <hr />
+        <p>As a reminder, Mantra Systems is a clinical evaluation specialist.</p>
+        <ul>
+          <li>Extensive experience across the market,</li>
+          <li>Clinical evaluations for all classes of medical device,</li>
+          <li>A current 100% submission success record.</li>
+        </ul>
+        <p>Feel free to reach out to us if you have any questions about clinical evaluation or you’d like to speak with any of our specialists with regard to your own.</p>
+        <p>That concludes episode three of this non-conformity series.</p>
+        <p>Many thank yous for your kind attention.</p>
+      </div>
+      ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[Addressing non-conformities isn’t just about avoiding negative outcomes; it’s about building a robust, evidence-based foundation.]]></summary></entry><entry><title type="html">Regulatory Writing Deadlines: The Pressure to Get It Right the First Time</title><link href="https://www.mantrasystems.co.uk/articles/regulatory-writing-deadlines-the-pressure-to-get-it-right-the-first-time" rel="alternate" type="text/html" title="Regulatory Writing Deadlines: The Pressure to Get It Right the First Time" /><published>2025-04-30T00:00:00+01:00</published><updated>2025-04-29T19:07:17+01:00</updated><id>https://www.mantrasystems.co.uk/articles/regulatory-writing-deadlines-the-pressure-to-get-it-right-the-first-time</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/regulatory-writing-deadlines-the-pressure-to-get-it-right-the-first-time"><![CDATA[<p>Anyone who’s worked in the medical device industry knows that regulatory deadlines aren’t just part of the process—they define it.</p>
+    <p>Whether you’re drafting a <a href="/medical-device-regulatory-consulting-services/mdr-consulting/clinical-evaluation">Clinical Evaluation Report</a> (CER) or preparing an <a href="medical-device-regulatory-consulting-services/ivdr-consulting">IVDR</a> or <a href="/medical-device-regulatory-consulting-services/mdr-consulting/">MDR submission</a>, there’s one golden rule everyone learns quickly: you feel the pressure to get it right the first time, because in this field, second chances are rare—and costly.</p>
+    <p>And that pressure? It doesn’t just come from the clock. It comes from the complexity of the content, the coordination required across teams, and the ever-present reality that regulators aren’t grading on a curve.</p>
+    <h2 id="why-the-clock-is-always-ticking-and-coordinating-moving-pieces">Why the Clock Is Always Ticking and Coordinating Moving Pieces</h2>
+    <p>In regulatory writing, time is always a pressure point. While the device may be ready, the trial complete, and the data in hand, without well-aligned and structured documentation, the product can’t move forward. Writing typically happens late in the development cycle, and the responsibility to wrap it up quickly falls squarely on the regulatory team.</p>
+    <p>Revisions might be allowed, but delays can have significant consequences, pushing back launch dates, sales forecasts, and patient access. In a competitive market, even a few weeks’ delay can make a huge impact.</p>
+    <p>In other words, the sooner it’s done, the sooner it’s in the hands of the people who need it.</p>
+    <p>Take the Clinical Evaluation Report (CER), for example. It requires input from clinical, risk, and quality teams, each working on different timelines. If one team is delayed or key data is missing, the regulatory writer is left to fill in the gaps. Yet the final document still needs to be clear, compliant, and scientifically sound. Managing these moving parts under intense time pressure is where the real challenge lies.</p>
+    <p>And despite all this, the report must be coherent. It must make sense to regulators, and it must do so in language that’s both technically precise and easy to follow. Balancing scientific depth with regulatory clarity, while coordinating teams and racing deadlines, is what makes regulatory writing uniquely demanding.</p>
+    <h2 id="time-pressure--technical-complexity--a-tough-combo">Time Pressure + Technical Complexity = A Tough Combo</h2>
+    <p>Regulatory writing is anything but straightforward. It’s high-pressure work that requires interpreting complex data, aligning with evolving guidelines, and managing competing timelines. You’re expected to translate clinical, safety, or performance data into documents that meet both internal and regulatory expectations.</p>
+    <p>Timelines are rarely in your favour, and last-minute data, shifting guidance, and delayed inputs from other teams are common. Yet, the final document still has to be accurate and on time.</p>
+    <p>Under pressure, shortcuts can be tempting: citing claims without solid evidence, glossing over exclusions, or relying on unchecked references. These might seem small, but regulators spot them instantly. One inconsistency can spark a chain of questions, delaying approval. The internal cost involves pulling teams back into work they thought was finished, creating stress and draining resources.</p>
+    <h2 id="how-to-manage-the-pressure">How To Manage the Pressure</h2>
+    <p>While the pressure may never disappear entirely, you can develop strategies to manage it effectively and deliver strong submissions consistently. Here’s how:</p>
+    <h3 id="1-build-time-buffers-wherever-possible-and-stick-to-them">1. Build Time Buffers Wherever Possible (and Stick to Them)</h3>
+    <p>Time buffers aren’t just a luxury, they’re a necessity as things will go wrong. A key staff member will be on leave, a literature search might surface late-breaking studies, or a formatting requirement will change mid-review. Planning for the unexpected is what keeps your timeline intact.</p>
+    <p>How to do it:</p>
     <ul>
-      <li>The device’s scope and intended use</li>
-      <li>A detailed hazard analysis and risk assessment</li>
-      <li>Clear design specifications and user interface requirements</li>
-      <li>Results from formative and summative testing</li>
-      <li>A post-market plan for ongoing usability monitoring</li>
+      <li>Create internal deadlines at least 3–5 working days before submission.</li>
+      <li>Schedule a formal buffer period at the end of the review cycle for last-minute fixes, formatting, or unanticipated input.</li>
+      <li>Use a Gantt chart or timeline visual to map dependencies and highlight bottlenecks early.</li>
     </ul>
-    <h2 id="your-path-to-iec-62366-compliance-key-takeaways">Your Path to IEC 62366 Compliance: Key Takeaways</h2>
-    <p>The Usability Engineering process, as meticulously outlined in IEC 62366-1, plays a crucial role in ensuring the safety and effectiveness of medical devices. By closely integrating with Risk Management, this process helps manufacturers identify and address potential use-related hazards that could jeopardise user safety, patient health, or device performance. Effective implementation, alongside comprehensive documentation, is not only vital for regulatory compliance but also for minimising the risks associated with human error. Ultimately, the goal is to create devices that are intuitive, safe, and reliable and that can stand up to real-world challenges. Following the steps of the Usability Engineering process ensures that these objectives are met and that safety is prioritised in every phase of development.</p>
-    <p>Standards like IEC 62366-1:2015 are just one part of the increasingly complex regulatory landscape facing medical device companies. At Mantra Systems, we specialise in helping you navigate these challenges with clarity and confidence.</p>
+    <p><em>Tip: Treat internal deadlines like external ones. Lock them in calendars, send reminders, and keep them visible in team trackers so they’re taken just as seriously.</em></p>
+    <h3 id="2-use-templates-and-checklists-to-reduce-cognitive-load">2. Use Templates and Checklists to Reduce Cognitive Load</h3>
+    <p>Regulatory writing isn’t just about words, it’s about structure, traceability, and completeness. Using <a href="/enable-ce-mark/technical-document-templates/">well-maintained templates</a>, <a href="/eu-mdr-compliance">guides</a>, and <a href="/enable-ce-mark/technical-document-templates/mdr-compliance-checker-gap-analysis-tool">submission checklists</a> allows writers to focus on content rather than reformatting or double-checking document layout.</p>
+    <p>Best practices:</p>
+    <ul>
+      <li>Maintain validated templates for CERs, PMS Plans, SSCPs, and more.</li>
+      <li>Create a library of pre-approved justifications, definitions, and citations.</li>
+      <li>Use trackers or collaborative SharePoint folders to keep everything in one place.</li>
+    </ul>
+    <p><em>Tip: Maintain a document library with pre-approved phrasing for recurring justifications, definitions, and regulatory language to speed up writing and ensure consistency.</em></p>
+    <h3 id="3-clarify-the-why-behind-every-section">3. Clarify the “Why” Behind Every Section</h3>
+    <p>When working fast, it’s easy to fall into the trap of filling sections with text that sounds right but lacks substance. Writers who stay close to the underlying intent of each section, whether it’s explaining benefit-risk, post-market follow-up, or equivalence, are better positioned to write persuasively and pass regulatory scrutiny.</p>
+    <p><em>Tip: Before writing each section, note down the question you’re answering. For example: “What is the clinical benefit of this device, and how is it supported by evidence?” Then answer that clearly and directly.</em></p>
+    <h3 id="4-align-stakeholders-early">4. Align Stakeholders Early</h3>
+    <p>Regulatory writing relies on input from clinical, risk, and quality teams. When these inputs arrive late or out of sync, the whole writing timeline suffers.</p>
+    <p>How to improve:</p>
+    <ul>
+      <li>Hold a project kick-off call to align timelines and expectations across teams.</li>
+      <li>Share a high-level plan with key stakeholders early, especially if input will be staggered.</li>
+      <li>Confirm who’s reviewing what, and when, to avoid overlaps or gaps.</li>
+    </ul>
+    <p>Example: For an MDR CER, a short cross-functional alignment meeting early in the project avoided weeks of back-and-forth during the review phase.</p>
+    <h3 id="5-break-big-tasks-into-smaller-wins">5. Break Big Tasks into Smaller Wins</h3>
+    <p>Large documents like CERs or SSCPs, and especially full Technical Files can feel overwhelming. Breaking the work into logical sections and setting mini-deadlines helps manage workload and keep momentum.</p>
+    <p>What works:</p>
+    <ul>
+      <li>Set internal milestones for key sections (e.g. clinical data, Annex II documents, risk-benefit).</li>
+      <li>Track progress visibly so the team stays motivated and aligned.</li>
+      <li>Divide the document by section (e.g. clinical background, state of the art, risk-benefit analysis, PMS summary) and assign clear ownership where possible.</li>
+    </ul>
+    <p><em>Tip: Celebrate section sign-offs as mini-successes—they build confidence and maintain pace. Also, create a visual dashboard (even a basic traffic-light tracker in Excel) to show section status, e.g., red for in progress, amber for under review, green for approved. It helps everyone see at a glance where things stand and what needs focus next.</em></p>
+    <p><strong>Bonus benefit:</strong> Smaller chunks are also easier to quality check, making it more likely that errors or inconsistencies are spotted early—before they snowball into regulatory queries.</p>
+    <h3 id="6-learn-from-every-submission">6. Learn from Every Submission</h3>
+    <p>Every regulatory submission, whether smooth, delayed, or somewhere in between, is packed with lessons. The key is capturing those insights while they’re still fresh and feeding them back into future projects. That’s how teams evolve from “just getting it done” to building consistently efficient, high-quality submissions.</p>
+    <p>How to do it:</p>
+    <ul>
+      <li>Hold post-submission meetings: Within a week or two of submitting, schedule a short debrief session. Ask: What went well? What slowed us down? What could we do differently next time?</li>
+      <li>Involve everyone: Writers, project managers, and any contributors should have a voice. Often, the people managing literature, quality checks, or stakeholder feedback have the best insights into where time was lost, or saved.</li>
+      <li>Document and apply learnings: Keep a running log of tips, regulatory feedback, time-saving methods, and submission pitfalls.</li>
+    </ul>
+    <h2 id="conclusion-high-pressure-high-standardsmanageable-with-the-right-tools">Conclusion: High Pressure, High Standards—Manageable with the Right Tools</h2>
+    <p>There’s no denying that writing regulatory documents under tight deadlines can be intense. The expectations are high, the work is technical, and the timelines are often compressed. But by planning strategically, working collaboratively, and using the right tools and frameworks, you can consistently produce documents that meet both internal expectations and regulatory requirements.</p>
+    <p>The key is not to chase perfection, but to build processes that support quality from the very start. Because getting it right the first time might not always be possible, but it should always be the goal.</p>
+    <p>When everything comes together, when the data aligns, the document flows, and the submission is accepted without question, there’s a distinct sense of pride that accompanies the moment.</p>
     <p>Whether you’re preparing a technical file, responding to questions from a notified body, or working toward approval, our team provides practical, tailored support at every stage. We offer strategic guidance across regulatory frameworks, assist with technical documentation, and help you stay aligned with evolving requirements.</p>
     <p>If you’re looking for a trusted partner to take the pressure out of compliance, <a href="/contact">get in touch with Mantra Systems today</a>.</p>
-    ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><category term="SaMD" /><summary type="html"><![CDATA[What should be included in a Usability Engineering File? What steps do you need to take to ensure compliance and meet standards?]]></summary></entry><entry><title type="html">Unlocking the Secrets of Effective IVD Device Performance Evaluation</title><link href="https://www.mantrasystems.co.uk/articles/unlocking-the-secrets-of-effective-ivd-device-performance-evaluation" rel="alternate" type="text/html" title="Unlocking the Secrets of Effective IVD Device Performance Evaluation" /><published>2025-04-16T00:00:00+01:00</published><updated>2025-04-23T14:28:13+01:00</updated><id>https://www.mantrasystems.co.uk/articles/unlocking-the-secrets-of-effective-ivd-device-performance-evaluation</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/unlocking-the-secrets-of-effective-ivd-device-performance-evaluation"><![CDATA[<p>Performance evaluation is a critical requirement for in vitro diagnostic (IVD) devices and forms part of the technical documentation necessary for placing an IVD device on the EU market. The requirements for performance evaluation are described within Chapter VI of the Regulation on <em>in vitro</em> diagnostic medical devices <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0746#anx_XIII">(EU 2017/746) (IVDR)</a> and supported by Annexes I, II, III and XIII.</p>
+    ]]></content><author><name>kamiya-crabtree</name></author><category term="Clinical Evaluation" /><category term="MDR" /><category term="SaMD" /><summary type="html"><![CDATA[Anyone who’s worked in the medical device industry knows that regulatory deadlines aren’t just part of the process—they define it.]]></summary></entry><entry><title type="html">IEC 62366-1:2015 Demystified – Essential Usability Testing for Medical Devices</title><link href="https://www.mantrasystems.co.uk/articles/essential-usability-testing-for-medical-devices-iec-62366-1-2015-demystified" rel="alternate" type="text/html" title="IEC 62366-1:2015 Demystified – Essential Usability Testing for Medical Devices" /><published>2025-04-23T00:00:00+01:00</published><updated>2025-04-23T14:28:13+01:00</updated><id>https://www.mantrasystems.co.uk/articles/essential-usability-testing-for-medical-devices-iec-62366-1-2015-demystified</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/essential-usability-testing-for-medical-devices-iec-62366-1-2015-demystified"><![CDATA[<p>Creating a usability file is a crucial part of the product development process for medical devices, including <a href="/solutions/regulatory-consulting-for-samd-software-as-a-medical-device">Software as a Medical Device (SaMD)</a>, to ensure user-centred design and safety. IEC 62366-1 provides a structured approach to ensure that devices are designed with the user in mind and that potential risks associated with their use are identified and mitigated.</p>
+  <h2 id="what-is-iec-62366-a-crucial-standard-for-medical-device-usability">What is IEC 62366? A Crucial Standard for Medical Device Usability</h2>
+  <p><a href="https://www.iso.org/standard/63179.html">According to ISO</a>, ‘<q>IEC 62366 specifies a process for a manufacturer to analyse, specify, develop and evaluate the useability of a medical device as it relates to safety. The first edition of IEC 62366-1, together with the first edition of IEC 62366-2, cancels and replaces the first edition of IEC 62366 published in 2007 and its Amendment 1 (2014)</q>’</p>
+  <ol>
+    <li>IEC 62366-1 — Application of usability engineering to medical devices</li>
+    <li>IEC 62366-2 — Guidance on the application of usability to engineering to medical devices</li>
+  </ol>
+  <p>This guideline provides medical device manufacturers with a structured approach to integrate human factors, supporting them in assessing, defining, creating, and testing the usability of their medical devices.</p>
+  <h2 id="navigating-the-process-key-steps-in-writing-your-usability-file">Navigating the Process: Key Steps in Writing Your Usability File</h2>
+  <p>What exactly should be included in a Usability Engineering File? How can you ensure that all the requirements outlined in the standard are met? What steps do you need to take to ensure compliance? These are common questions that many people face when beginning to create their usability files. By understanding the essential components and requirements, you’ll be well-equipped to develop a comprehensive Usability Engineering File that meets all necessary standards and helps ensure your medical device is both safe and effective for use.</p>
+  <figure class="intrinsic">
+    <img src="/assets/images/content/articles/inline/define-the-scope-of-your-usability-file.png" alt="A diagram showing the IEC 62366 process." loading="lazy" width="400" height="670" />
+  </figure>
+  <h3 id="step-1-define-the-scope">Step 1: Define the Scope</h3>
+  <p>This encompasses the specific user group, the intended purpose, and the context in which the device will be utilised.</p>
+  <p><strong>Intended Users:</strong> Who will be using the device? This could include healthcare professionals, patients, or other relevant parties.</p>
+  <p><strong>Intended Use:</strong> What is the device designed to accomplish? This refers to the specific tasks the device is intended for, such as monitoring, diagnosing, or therapeutic applications.</p>
+  <p><strong>Use Environment:</strong> Where will the device be used? The setting can significantly influence the device’s usability, whether it’s intended for use in a home environment or a clinical/hospital setting.</p>
+  <h3 id="step-2-conducting-a-risk-analysis">Step 2: Conducting a Risk Analysis</h3>
+  <p>IEC 62366-1 mandates that you perform a comprehensive risk analysis to identify potential use-related hazards—situations where user errors may lead to harm or malfunction of the device.</p>
+  <p><strong>Hazard Identification:</strong> Identify potential hazards that may result from user errors or design flaws. For example, in a medical device like a ventilator, if the user interface is poorly designed, a healthcare professional could mistakenly adjust the settings, leading to inappropriate ventilation rates for the patient. This could result in either hypoventilation (insufficient oxygen delivery) or hyperventilation (excessive oxygen delivery), both of which could cause severe harm to the patient.</p>
+  <p><strong>Risk Assessment:</strong> Assess the likelihood and severity of harm associated with each identified hazard. This involves evaluating whether a specific user action could result in patient harm, an incorrect diagnosis, or delayed treatment, ensuring that risks are appropriately managed and mitigated.</p>
+  <h3 id="step-3-define-user-interface-ui-design-requirements">Step 3: Define User Interface (UI) Design Requirements</h3>
+  <p>Following the analysis of user needs and risks, the next crucial step is to establish UI design requirements tailored to the target user group. Chapter 5.2. requires you to identify, as part of the risk analysis, all parts and characteristics of the User Interface that are related to the safety of the medical device.</p>
+  <p><strong>User Capabilities:</strong> Consider the cognitive, physical, and sensory abilities of the users. For instance, if the device is intended for elderly patients, ensure the interface is intuitive, with large text and simplified navigation.</p>
+  <p><strong>Design Guidelines:</strong> These should focus on clear labelling, well-organised controls, alarms, and instructions for use (IFU). Specific adaptations may be necessary for certain groups, such as non-professional users or individuals with visual impairments.</p>
+  <p><strong>Task Optimisation:</strong> Structure the UI to reduce the likelihood of user error. Important tasks should be straightforward to access and perform, eliminating unnecessary steps that could lead to mistakes.</p>
+  <h3 id="step-4-formative-evaluations">Step 4: Formative Evaluations</h3>
+  <p>The formative evaluation section involves the testing of early prototypes or even design concepts with users in order to identify any potential problems prior to the final design being confirmed and completed. Once risks are identified, this process will repeat until these are mitigated.</p>
+  <p><strong>User Testing:</strong> Carry out usability testing with representative users to assess the device’s interface and interaction design. This could involve techniques such as cognitive walkthroughs, task analysis, and heuristic evaluations to identify potential issues and areas for improvement.</p>
+  <p>Were critical use errors found? Are further product improvements necessary? If you have answered “yes” to either of these questions at this point, go back as far as necessary in the Usability Engineering process and iterate through it from this point on until no new and critical problems occur during use. If this is the case, you are ready for the last big step: performing the summative evaluation.</p>
+  <h3 id="step-5-summative-evaluation">Step 5: Summative Evaluation</h3>
+  <p>The goal is to prove that the medical device (and its Interface) can be used without unacceptable residual risks for users, patients, and third parties. The hazard-related use scenarios previously defined are tested.</p>
+  <p>The summative evaluation focuses on validating the final design to ensure that the device meets the defined usability goals and operates safely and effectively in real-world conditions.</p>
+  <p><strong>Final Usability Testing:</strong> Conduct usability testing on the final version of the device to confirm that it functions as expected and that users can interact with it safely. This typically involves more realistic use scenarios, which may take place in clinical or home environments.</p>
+  <p><strong>Task Performance Metrics:</strong> Evaluate whether users can complete key tasks successfully, such as using the device without errors, interpreting information accurately, and following safety instructions correctly. These metrics help ensure the device’s usability and overall safety in practical use.</p>
+  <h3 id="step-6-post-market-surveillance-pms-and-usability-monitoring">Step 6: Post-Market Surveillance (PMS) and Usability Monitoring</h3>
+  <p>Once the product has been released to the market, ongoing monitoring of its usability is crucial. Post-market surveillance helps to identify any emerging issues or areas where improvements can be made.</p>
+  <p><strong>Incident Reporting:</strong> Set up a system to collect feedback and reports related to user issues. This should include complaints, adverse events, or any usability failures encountered by users.</p>
+  <p><strong>Usability Improvements:</strong> If usability issues are identified after the product has been launched, they should be addressed through iterative improvements or design updates to enhance performance and user experience.</p>
+  <h3 id="step-7-compiling-the-usability-file">Step 7: Compiling the Usability File</h3>
+  <p>The Usability Engineering File should provide a thorough and organised record of the entire usability process, from initial risk analysis and design specifications to testing and post-market surveillance. It is essential that the file demonstrates full compliance with the usability requirements of IEC 62366-1, showing that every step has been taken to guarantee the device’s safety and effectiveness.</p>
+  <p>The file should include:</p>
+  <ul>
+    <li>The device’s scope and intended use</li>
+    <li>A detailed hazard analysis and risk assessment</li>
+    <li>Clear design specifications and user interface requirements</li>
+    <li>Results from formative and summative testing</li>
+    <li>A post-market plan for ongoing usability monitoring</li>
+  </ul>
+  <h2 id="your-path-to-iec-62366-compliance-key-takeaways">Your Path to IEC 62366 Compliance: Key Takeaways</h2>
+  <p>The Usability Engineering process, as meticulously outlined in IEC 62366-1, plays a crucial role in ensuring the safety and effectiveness of medical devices. By closely integrating with Risk Management, this process helps manufacturers identify and address potential use-related hazards that could jeopardise user safety, patient health, or device performance. Effective implementation, alongside comprehensive documentation, is not only vital for regulatory compliance but also for minimising the risks associated with human error. Ultimately, the goal is to create devices that are intuitive, safe, and reliable and that can stand up to real-world challenges. Following the steps of the Usability Engineering process ensures that these objectives are met and that safety is prioritised in every phase of development.</p>
+  <p>Standards like IEC 62366-1:2015 are just one part of the increasingly complex regulatory landscape facing medical device companies. At Mantra Systems, we specialise in helping you navigate these challenges with clarity and confidence.</p>
+  <p>Whether you’re preparing a technical file, responding to questions from a notified body, or working toward approval, our team provides practical, tailored support at every stage. We offer strategic guidance across regulatory frameworks, assist with technical documentation, and help you stay aligned with evolving requirements.</p>
+  <p>If you’re looking for a trusted partner to take the pressure out of compliance, <a href="/contact">get in touch with Mantra Systems today</a>.</p>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><category term="SaMD" /><summary type="html"><![CDATA[What should be included in a Usability Engineering File? What steps do you need to take to ensure compliance and meet standards?]]></summary></entry><entry><title type="html">Unlocking the Secrets of Effective IVD Device Performance Evaluation</title><link href="https://www.mantrasystems.co.uk/articles/unlocking-the-secrets-of-effective-ivd-device-performance-evaluation" rel="alternate" type="text/html" title="Unlocking the Secrets of Effective IVD Device Performance Evaluation" /><published>2025-04-16T00:00:00+01:00</published><updated>2025-04-23T14:28:13+01:00</updated><id>https://www.mantrasystems.co.uk/articles/unlocking-the-secrets-of-effective-ivd-device-performance-evaluation</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/unlocking-the-secrets-of-effective-ivd-device-performance-evaluation"><![CDATA[<p>Performance evaluation is a critical requirement for in vitro diagnostic (IVD) devices and forms part of the technical documentation necessary for placing an IVD device on the EU market. The requirements for performance evaluation are described within Chapter VI of the Regulation on <em>in vitro</em> diagnostic medical devices <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0746#anx_XIII">(EU 2017/746) (IVDR)</a> and supported by Annexes I, II, III and XIII.</p>
   <h2 id="understanding-performance-evaluation-what-you-need-to-know">Understanding Performance Evaluation: What You Need to Know</h2>
   <p>Chapter VI of the IVDR states:</p>
   <blockquote>
@@ -389,7 +614,51 @@
     <p><strong>Please share</strong> if you found this video useful, and I look forward to seeing you in the next part of the series.</p>
     <p><strong>Thank you very much!</strong></p>
   </div>
-  ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[Our ongoing series covers one of the most frequent reasons for CER rejection: a poor appraisal of literature sources.]]></summary></entry><entry><title type="html">Clinical Evaluation Masterclass: Overcoming Non-conformities - Episode 1</title><link href="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities" rel="alternate" type="text/html" title="Clinical Evaluation Masterclass: Overcoming Non-conformities - Episode 1" /><published>2025-04-02T00:00:00+01:00</published><updated>2025-04-09T12:26:25+01:00</updated><id>https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities"><![CDATA[<p>Clinical Evaluation Plans (CEPs) and Clinical Evaluation Reports (CERs) are critical components of medical device regulatory compliance. However, the reality is that meeting requirements isn’t always plain sailing.</p>
+  ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[Our ongoing series covers one of the most frequent reasons for CER rejection: a poor appraisal of literature sources.]]></summary></entry><entry><title type="html">Navigating CAPA Terminology: Key Terms for Medical Device Professionals</title><link href="https://www.mantrasystems.co.uk/articles/navigating-capa-terminology-key-terms-for-medical-device-professionals" rel="alternate" type="text/html" title="Navigating CAPA Terminology: Key Terms for Medical Device Professionals" /><published>2025-04-02T00:00:00+01:00</published><updated>2025-04-03T12:43:18+01:00</updated><id>https://www.mantrasystems.co.uk/articles/navigating-capa-terminology-key-terms-for-medical-device-professionals</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/navigating-capa-terminology-key-terms-for-medical-device-professionals"><![CDATA[<p>The Corrective and Preventive Action (CAPA) process is a central component of <a href="/eu-mdr-compliance/quality-management-system-qms">Quality Management Systems</a> (QMS) and is a mandatory requirement for ISO 13485, MDSAP, <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_%C2%A0VIII">Regulation MDR (EU) 2017/745</a>, and the <a href="/medical-device-regulatory-consulting-services/fda-510k-consulting">US FDA</a>. It is a systematic approach used to identify, address, and prevent the recurrence of problems.</p>
+  <p>A CAPA is a structured process used to identify, resolve, and prevent the recurrence of issues within a system or product. It is essential for ensuring quality, compliance, and continuous improvement in various industries such as healthcare, manufacturing, and pharmaceuticals in the UK. The CAPA process is typically broken down into three main phases: <strong>Identify Problems</strong>, where issues are first recognised and thoroughly assessed; <strong>Address Problems</strong>, where corrective actions are formulated and implemented to fix the immediate problems; and <strong>Prevent Recurrence</strong>, where long-term solutions and preventive measures are established to ensure that the issue does not happen again, ultimately enhancing the reliability and quality of operations.</p>
+  <figure>
+    <img src="/assets/images/content/articles/inline/capa-process-in-quality-management.svg" alt="CAPA Process in Quality Management diagram." loading="lazy" width="520" height="416" />
+    <figcaption>CAPA Process in Quality Management</figcaption>
+  </figure>
+  <h2 id="key-terms">Key terms</h2>
+  <p>Here are some key terms that all medical device professionals should acquaint themselves with:</p>
+  <h3 id="nonconformity--a-deviation-from-a-specification-standard-or-an-expectation">Nonconformity = A deviation from a specification, standard, or an expectation</h3>
+  <p>Nonconformity is the recognition of an issue that deviates from the expected outcome or requirement. These typically appear at the beginning of the process, during identification and investigation stages.</p>
+  <h3 id="capa-trigger--a-predefined-condition-that-leads-to-a-corrective-or-preventative-measure">CAPA Trigger = A predefined condition that leads to a corrective or preventative measure</h3>
+  <p>CAPA triggers can arise from various sources, both internal and external, and typically highlight areas where a product, process, or system does not meet specified standards or expectations. Examples of CAPA triggers include: customer complaints, audit findings, and adverse events or near misses.</p>
+  <h3 id="root-cause-analysis-rca--a-method-to-identify-the-cause-of-a-problem">Root Cause Analysis (RCA) = A method to identify the cause of a problem</h3>
+  <p>The goal of RCA is not just to address the immediate symptoms of a problem, but to discover and resolve the root cause(s) to prevent recurrence. It’s a critical component of the CAPA process, especially in regulated industries like manufacturing, healthcare, and quality control. Tools such as the 5 Whys, Fishbone Diagram, and Failure Mode and Effects Analysis (FMEA) can be used to facilitate RCA.</p>
+  <h3 id="root-cause--the-main-reason-why-a-problem-has-arisenoccurred">Root Cause = The main reason why a problem has arisen/occurred</h3>
+  <p>In any quality management or problem-solving process, identifying the root cause is critical because it allows an organisation to focus its efforts on eliminating the source of the problem, rather than just addressing its symptoms.</p>
+  <h3 id="field-corrective-action-fca--actions-to-address-issues-identified-after-distribution">Field Corrective Action (FCA) = Actions to address issues identified after distribution</h3>
+  <p>FCAs are typically initiated after a product defect, safety concern, or performance failure has been identified in the field, often through customer complaints, product recalls, or post-market surveillance data. They form an important part of the product lifecycle and help in protecting both the end users and the manufacturer’s reputation.</p>
+  <h3 id="supplier-corrective-action-request-scar--a-request-to-a-supplier-to-address-the-problem">Supplier Corrective Action Request (SCAR) = A request to a supplier to address the problem</h3>
+  <p>The SCAR process is used to communicate nonconformities, initiate corrective actions, and ensure that suppliers address the underlying issues causing defects or quality problems. It’s an essential tool in quality management systems. The purpose of SCAR is to improve supplier performance and prevent recurrence of issues that may affect the quality and safety of the end product.</p>
+  <h3 id="capa-plan--a-documented-plan-for-actions-to-address-a-specific-issue">CAPA Plan = A documented plan for actions to address a specific issue</h3>
+  <p>It begins with identifying a problem, conducting a root cause analysis, and implementing corrective actions to resolve the issue. Preventive actions are then put in place to reduce the risk of future occurrences. The plan also includes verifying the effectiveness of these actions, documenting the process, and ensuring continuous monitoring for improvement.</p>
+  <h3 id="capa-review-board--a-group-that-is-responsible-for-overseeing-the-capa-process">CAPA Review Board = A group that is responsible for overseeing the CAPA process</h3>
+  <p>The board ensures that identified issues are appropriately investigated, root causes are thoroughly analysed, and corrective and preventive actions are effectively implemented.</p>
+  <h3 id="risk-assessment--the-process-of-identifying-and-analysing-the-impact-of-potential-issues">Risk Assessment = The process of identifying and analysing the impact of potential issues</h3>
+  <p>In the context of CAPA, risk assessment helps determine the severity and likelihood of an issue reoccurring, allowing companies to implement appropriate actions to mitigate or control these risks. It plays a critical role in ensuring that corrective and preventive measures are effective and proportionate to the identified risks.</p>
+  <h3 id="correction--action-to-fix-a-nonconformity-without-addressing-the-root-issue">Correction = Action to fix a nonconformity without addressing the root issue</h3>
+  <p>Unlike corrective actions, which are aimed at preventing recurrence, corrections focus on resolving the current issue.</p>
+  <h3 id="preventative-action-pa--actions-that-address-the-causes-of-a-potential-nonconformity">Preventative Action (PA) = Actions that address the causes of a potential nonconformity</h3>
+  <p>This process involves analysing trends, risks, or weak points in the system and making improvements to avoid future problems, ensuring ongoing compliance and quality.</p>
+  <h3 id="corrective-action-ca--actions-that-address-the-causes-of-an-existing-nonconformity">Corrective Action (CA) = Actions that address the causes of an existing nonconformity</h3>
+  <p>This process involves investigating the issue, implementing changes to eliminate the cause, and ensuring that similar issues do not arise in the future.</p>
+  <h3 id="verification--checking-that-a-solution-works-as-intended">Verification = Checking that a solution works as intended</h3>
+  <p>Verification is the process of confirming that a product, process, or system meets specific requirements and functions as intended. It involves checking and testing against predetermined criteria to ensure accuracy and compliance before implementation or release.</p>
+  <h3 id="validation--ensuring-that-a-product-or-a-process-meets-its-intended-use">Validation = Ensuring that a product or a process meets its intended use</h3>
+  <p>Validation ensures that a product, process, or system consistently meets its intended purpose and regulatory requirements. It involves testing and documentation to confirm reliability and compliance with standards, ensuring product quality and safety.</p>
+  <h3 id="effectiveness-check-voe--evaluation-to-confirm-the-success-of-a-capa">Effectiveness Check (VoE) = Evaluation to confirm the success of a CAPA</h3>
+  <p>After implementing corrective actions, an Effectiveness Check ensures that the changes have successfully resolved the problem and that the same issue does not reoccur. This check typically involves monitoring the results over a set period, reviewing data, and evaluating the impact of the actions on product quality, performance, or process improvements.</p>
+  <h3 id="disposition--decision-on-how-to-handle-a-nonconforming-product-or-situation">Disposition = Decision on how to handle a nonconforming product or situation</h3>
+  <p>Disposition refers to the decision made regarding nonconforming products, determining whether they should be reworked, used as-is, scrapped, or returned to the supplier. These decisions are based on the severity of the nonconformity and are crucial for maintaining product quality and compliance.</p>
+  <h2 id="mastering-capa-turning-terminology-into-action">Mastering CAPA: Turning Terminology into Action</h2>
+  <p>In conclusion, understanding and navigating CAPA terminology is essential for ensuring compliance and driving continuous improvement within a quality management system. Familiarity with key terms such as root cause analysis, corrective actions, preventive actions, and effectiveness checks will help professionals make informed decisions, streamline processes, and avoid common pitfalls.</p>
+  <p>By staying up-to-date with these critical terms, organisations can strengthen their CAPA processes, improve product quality, and enhance overall regulatory compliance. Empowering teams with the knowledge of CAPA terminology is a key step toward maintaining high-quality standards and ensuring the safety and efficacy of medical devices in the marketplace.</p>
+  <p>Ready to navigate the regulatory process with confidence? With our expert team and 100% notified body approval, we’re here to help you ensure compliance and streamline your medical device journey. <a href="/contact">Contact us today to get started!</a></p>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[We define and explain the language required to work within a Quality Management System (QMS).]]></summary></entry><entry><title type="html">Clinical Evaluation Masterclass: Overcoming Non-conformities - Episode 1</title><link href="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities" rel="alternate" type="text/html" title="Clinical Evaluation Masterclass: Overcoming Non-conformities - Episode 1" /><published>2025-04-02T00:00:00+01:00</published><updated>2025-04-09T12:26:25+01:00</updated><id>https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities"><![CDATA[<p>Clinical Evaluation Plans (CEPs) and Clinical Evaluation Reports (CERs) are critical components of medical device regulatory compliance. However, the reality is that meeting requirements isn’t always plain sailing.</p>
   <p>Based on our experience with over 250 successful submissions, we’ve identified that overcoming clinical evaluation non-conformities is one of the major challenges manufacturers face during the device approval journey.</p>
   <h2 id="what-is-a-non-conformity-in-clinical-evaluation">What is a Non-Conformity in Clinical Evaluation?</h2>
   <p>A non-conformity arises when a CEP or CER fails to meet MDR requirements. Non-conformities signal that the evaluation does not yet adequately demonstrate a medical device’s safety and performance or that full alignment with regulatory obligations has not been shown, requiring correction before approval.</p>
@@ -511,51 +780,7 @@
     <p>That concludes the first episode of the Clinical Evaluation Non-Conformity series. I’d like to thank you very much, and if you have any questions or comments, please let me know below the video.</p>
     <p>Thank you very much.</p>
   </div>
-  ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[In this series, we work step-by-step through common Non-Conformities to ensure you are always ahead of possible challenges on the way to MDR approval.]]></summary></entry><entry><title type="html">Navigating CAPA Terminology: Key Terms for Medical Device Professionals</title><link href="https://www.mantrasystems.co.uk/articles/navigating-capa-terminology-key-terms-for-medical-device-professionals" rel="alternate" type="text/html" title="Navigating CAPA Terminology: Key Terms for Medical Device Professionals" /><published>2025-04-02T00:00:00+01:00</published><updated>2025-04-03T12:43:18+01:00</updated><id>https://www.mantrasystems.co.uk/articles/navigating-capa-terminology-key-terms-for-medical-device-professionals</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/navigating-capa-terminology-key-terms-for-medical-device-professionals"><![CDATA[<p>The Corrective and Preventive Action (CAPA) process is a central component of <a href="/eu-mdr-compliance/quality-management-system-qms">Quality Management Systems</a> (QMS) and is a mandatory requirement for ISO 13485, MDSAP, <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_%C2%A0VIII">Regulation MDR (EU) 2017/745</a>, and the <a href="/medical-device-regulatory-consulting-services/fda-510k-consulting">US FDA</a>. It is a systematic approach used to identify, address, and prevent the recurrence of problems.</p>
-  <p>A CAPA is a structured process used to identify, resolve, and prevent the recurrence of issues within a system or product. It is essential for ensuring quality, compliance, and continuous improvement in various industries such as healthcare, manufacturing, and pharmaceuticals in the UK. The CAPA process is typically broken down into three main phases: <strong>Identify Problems</strong>, where issues are first recognised and thoroughly assessed; <strong>Address Problems</strong>, where corrective actions are formulated and implemented to fix the immediate problems; and <strong>Prevent Recurrence</strong>, where long-term solutions and preventive measures are established to ensure that the issue does not happen again, ultimately enhancing the reliability and quality of operations.</p>
-  <figure>
-    <img src="/assets/images/content/articles/inline/capa-process-in-quality-management.svg" alt="CAPA Process in Quality Management diagram." loading="lazy" width="520" height="416" />
-    <figcaption>CAPA Process in Quality Management</figcaption>
-  </figure>
-  <h2 id="key-terms">Key terms</h2>
-  <p>Here are some key terms that all medical device professionals should acquaint themselves with:</p>
-  <h3 id="nonconformity--a-deviation-from-a-specification-standard-or-an-expectation">Nonconformity = A deviation from a specification, standard, or an expectation</h3>
-  <p>Nonconformity is the recognition of an issue that deviates from the expected outcome or requirement. These typically appear at the beginning of the process, during identification and investigation stages.</p>
-  <h3 id="capa-trigger--a-predefined-condition-that-leads-to-a-corrective-or-preventative-measure">CAPA Trigger = A predefined condition that leads to a corrective or preventative measure</h3>
-  <p>CAPA triggers can arise from various sources, both internal and external, and typically highlight areas where a product, process, or system does not meet specified standards or expectations. Examples of CAPA triggers include: customer complaints, audit findings, and adverse events or near misses.</p>
-  <h3 id="root-cause-analysis-rca--a-method-to-identify-the-cause-of-a-problem">Root Cause Analysis (RCA) = A method to identify the cause of a problem</h3>
-  <p>The goal of RCA is not just to address the immediate symptoms of a problem, but to discover and resolve the root cause(s) to prevent recurrence. It’s a critical component of the CAPA process, especially in regulated industries like manufacturing, healthcare, and quality control. Tools such as the 5 Whys, Fishbone Diagram, and Failure Mode and Effects Analysis (FMEA) can be used to facilitate RCA.</p>
-  <h3 id="root-cause--the-main-reason-why-a-problem-has-arisenoccurred">Root Cause = The main reason why a problem has arisen/occurred</h3>
-  <p>In any quality management or problem-solving process, identifying the root cause is critical because it allows an organisation to focus its efforts on eliminating the source of the problem, rather than just addressing its symptoms.</p>
-  <h3 id="field-corrective-action-fca--actions-to-address-issues-identified-after-distribution">Field Corrective Action (FCA) = Actions to address issues identified after distribution</h3>
-  <p>FCAs are typically initiated after a product defect, safety concern, or performance failure has been identified in the field, often through customer complaints, product recalls, or post-market surveillance data. They form an important part of the product lifecycle and help in protecting both the end users and the manufacturer’s reputation.</p>
-  <h3 id="supplier-corrective-action-request-scar--a-request-to-a-supplier-to-address-the-problem">Supplier Corrective Action Request (SCAR) = A request to a supplier to address the problem</h3>
-  <p>The SCAR process is used to communicate nonconformities, initiate corrective actions, and ensure that suppliers address the underlying issues causing defects or quality problems. It’s an essential tool in quality management systems. The purpose of SCAR is to improve supplier performance and prevent recurrence of issues that may affect the quality and safety of the end product.</p>
-  <h3 id="capa-plan--a-documented-plan-for-actions-to-address-a-specific-issue">CAPA Plan = A documented plan for actions to address a specific issue</h3>
-  <p>It begins with identifying a problem, conducting a root cause analysis, and implementing corrective actions to resolve the issue. Preventive actions are then put in place to reduce the risk of future occurrences. The plan also includes verifying the effectiveness of these actions, documenting the process, and ensuring continuous monitoring for improvement.</p>
-  <h3 id="capa-review-board--a-group-that-is-responsible-for-overseeing-the-capa-process">CAPA Review Board = A group that is responsible for overseeing the CAPA process</h3>
-  <p>The board ensures that identified issues are appropriately investigated, root causes are thoroughly analysed, and corrective and preventive actions are effectively implemented.</p>
-  <h3 id="risk-assessment--the-process-of-identifying-and-analysing-the-impact-of-potential-issues">Risk Assessment = The process of identifying and analysing the impact of potential issues</h3>
-  <p>In the context of CAPA, risk assessment helps determine the severity and likelihood of an issue reoccurring, allowing companies to implement appropriate actions to mitigate or control these risks. It plays a critical role in ensuring that corrective and preventive measures are effective and proportionate to the identified risks.</p>
-  <h3 id="correction--action-to-fix-a-nonconformity-without-addressing-the-root-issue">Correction = Action to fix a nonconformity without addressing the root issue</h3>
-  <p>Unlike corrective actions, which are aimed at preventing recurrence, corrections focus on resolving the current issue.</p>
-  <h3 id="preventative-action-pa--actions-that-address-the-causes-of-a-potential-nonconformity">Preventative Action (PA) = Actions that address the causes of a potential nonconformity</h3>
-  <p>This process involves analysing trends, risks, or weak points in the system and making improvements to avoid future problems, ensuring ongoing compliance and quality.</p>
-  <h3 id="corrective-action-ca--actions-that-address-the-causes-of-an-existing-nonconformity">Corrective Action (CA) = Actions that address the causes of an existing nonconformity</h3>
-  <p>This process involves investigating the issue, implementing changes to eliminate the cause, and ensuring that similar issues do not arise in the future.</p>
-  <h3 id="verification--checking-that-a-solution-works-as-intended">Verification = Checking that a solution works as intended</h3>
-  <p>Verification is the process of confirming that a product, process, or system meets specific requirements and functions as intended. It involves checking and testing against predetermined criteria to ensure accuracy and compliance before implementation or release.</p>
-  <h3 id="validation--ensuring-that-a-product-or-a-process-meets-its-intended-use">Validation = Ensuring that a product or a process meets its intended use</h3>
-  <p>Validation ensures that a product, process, or system consistently meets its intended purpose and regulatory requirements. It involves testing and documentation to confirm reliability and compliance with standards, ensuring product quality and safety.</p>
-  <h3 id="effectiveness-check-voe--evaluation-to-confirm-the-success-of-a-capa">Effectiveness Check (VoE) = Evaluation to confirm the success of a CAPA</h3>
-  <p>After implementing corrective actions, an Effectiveness Check ensures that the changes have successfully resolved the problem and that the same issue does not reoccur. This check typically involves monitoring the results over a set period, reviewing data, and evaluating the impact of the actions on product quality, performance, or process improvements.</p>
-  <h3 id="disposition--decision-on-how-to-handle-a-nonconforming-product-or-situation">Disposition = Decision on how to handle a nonconforming product or situation</h3>
-  <p>Disposition refers to the decision made regarding nonconforming products, determining whether they should be reworked, used as-is, scrapped, or returned to the supplier. These decisions are based on the severity of the nonconformity and are crucial for maintaining product quality and compliance.</p>
-  <h2 id="mastering-capa-turning-terminology-into-action">Mastering CAPA: Turning Terminology into Action</h2>
-  <p>In conclusion, understanding and navigating CAPA terminology is essential for ensuring compliance and driving continuous improvement within a quality management system. Familiarity with key terms such as root cause analysis, corrective actions, preventive actions, and effectiveness checks will help professionals make informed decisions, streamline processes, and avoid common pitfalls.</p>
-  <p>By staying up-to-date with these critical terms, organisations can strengthen their CAPA processes, improve product quality, and enhance overall regulatory compliance. Empowering teams with the knowledge of CAPA terminology is a key step toward maintaining high-quality standards and ensuring the safety and efficacy of medical devices in the marketplace.</p>
-  <p>Ready to navigate the regulatory process with confidence? With our expert team and 100% notified body approval, we’re here to help you ensure compliance and streamline your medical device journey. <a href="/contact">Contact us today to get started!</a></p>
-  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[We define and explain the language required to work within a Quality Management System (QMS).]]></summary></entry><entry><title type="html">MDCG 2020-16 Revision 4: Key Updates on IVDR Classification Rules</title><link href="https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules" rel="alternate" type="text/html" title="MDCG 2020-16 Revision 4: Key Updates on IVDR Classification Rules" /><published>2025-03-28T00:00:00+00:00</published><updated>2025-03-28T10:50:34+00:00</updated><id>https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules"><![CDATA[<p>The <strong>Medical Device Coordination Group (MDCG)</strong> has released <strong>MDCG 2020-16 rev.4 - Guidance on Classification Rules for in vitro Diagnostic Medical Devices under Regulation (EU) 2017/746</strong>.</p>
+  ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[In this series, we work step-by-step through common Non-Conformities to ensure you are always ahead of possible challenges on the way to MDR approval.]]></summary></entry><entry><title type="html">MDCG 2020-16 Revision 4: Key Updates on IVDR Classification Rules</title><link href="https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules" rel="alternate" type="text/html" title="MDCG 2020-16 Revision 4: Key Updates on IVDR Classification Rules" /><published>2025-03-28T00:00:00+00:00</published><updated>2025-03-28T10:50:34+00:00</updated><id>https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules"><![CDATA[<p>The <strong>Medical Device Coordination Group (MDCG)</strong> has released <strong>MDCG 2020-16 rev.4 - Guidance on Classification Rules for in vitro Diagnostic Medical Devices under Regulation (EU) 2017/746</strong>.</p>
   <p>This update released in March 2025 provides comprehensive clarification on the classification rules outlined in <strong>Annex VIII</strong> of the <strong>IVDR</strong>, ensuring that manufacturers, notified bodies, and health institutions have a clear framework for classifying in vitro diagnostic (IVD) devices based on their intended purpose and inherent risk, prior to placing it on the market. Notably, the guidance addresses the classification of medical device software (MDSW) and emphasises the importance of considering devices used in combination.</p>
   <h2 id="summary-of-key-updates">Summary of Key Updates</h2>
   <table>
@@ -767,69 +992,4 @@
   <h2 id="the-final-stamp-of-approval-on-labelling">The Final Stamp of Approval on Labelling</h2>
   <p>Labelling and packaging are critical aspects of medical device regulation, ensuring both compliance with the EU MDR and safety for patients and users. Medical device manufacturers must adhere to the extensive labelling requirements, including clear information on the device’s identity, use, storage, and associated risks. Failure to comply with these requirements can lead to regulatory challenges and safety concerns. By adhering to the EU MDR labelling and packaging guidelines, manufacturers can ensure their devices are compliant, safe, and ready for market entry.</p>
   <p>Need expert guidance on medical device labeling? Mantra Systems is here to help. Our tailored solutions ensure your devices meet all regulatory requirements while streamlining compliance processes. <a href="/contact">Reach out today for tailored solutions!</a></p>
-  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[Labelling and packaging are critical elements to ensuring safety, compliance, and ease of use.]]></summary></entry><entry><title type="html">European Commission Guidelines on Prohibited Artificial Intelligence Practices</title><link href="https://www.mantrasystems.co.uk/articles/european-commission-guidelines-on-prohibited-artificial-intelligence-practices" rel="alternate" type="text/html" title="European Commission Guidelines on Prohibited Artificial Intelligence Practices" /><published>2025-03-18T00:00:00+00:00</published><updated>2025-03-18T12:16:10+00:00</updated><id>https://www.mantrasystems.co.uk/articles/european-commission-guidelines-on-prohibited-artificial-intelligence-practices</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/european-commission-guidelines-on-prohibited-artificial-intelligence-practices"><![CDATA[<p>The Regulation (EU) 2024/1689 artificial intelligence (AI) Act aims to promote innovation and uptake of AI while ensuring high protection of health, safety, and fundamental rights. It classifies AI systems into four risk categories which are unacceptable risk, high risk, transparency risk and minimal to no risk.</p>
-  <p>On 4th February 2025, the European Commission issued guidelines on prohibited AI practices established by regulation (EU) 2024/1689 (AI Act). The guidelines are important to organisations and businesses with AI systems in the EU and detail which AI practices are unacceptable.</p>
-  <p>A summary of the eight prohibited AI practices, examples of AI systems to which they apply and systems that are out of scope are listed below.</p>
-  <h2 id="prohibited-ai-practices">Prohibited AI practices:</h2>
-  <h3 id="1-harmful-manipulation-and-deception---article-5-1a">1. Harmful Manipulation and Deception - Article 5 (1)(a):</h3>
-  <p>AI systems that employ subliminal, manipulative, or deceptive techniques that distort behaviour and cause significant harm are prohibited.</p>
-  <ul>
-    <li><strong>Subliminal techniques:</strong> Examples include AI systems that use visual and auditory subliminal messages, subvisual and subaudible cueing and embedded images that can unconsciously influence users.</li>
-    <li><strong>Manipulative techniques:</strong> Examples include AI systems that purposefully manipulate users through background audio or images to induce mood changes such as increased anxiety or mental suffering resulting in significant harm.</li>
-    <li><strong>Deceptive techniques:</strong> Examples include an AI chatbot that impersonates a friend or relative with a synthetic voice leading to scams and significant harm.</li>
-  </ul>
-  <h3 id="2-harmful-exploitation-of-vulnerabilities---article-51b">2. Harmful exploitation of vulnerabilities - Article 5(1)(b):</h3>
-  <p>AI systems that exploit vulnerabilities due to age, disability, or socio-economic situations resulting in distortion of behaviour and significant harm are prohibited.</p>
-  <ul>
-    <li>An example is an AI powered toy that encourages children to complete increasingly risky challenges for digital rewards and virtual praise, potentially leading to dangerous behaviour and physical harm.</li>
-    <li>AI systems that use lawful persuasion rather than manipulation and that are not likely to cause significant harm are outside of the scope of Article 5(1)(a) and (b).
-      <ul>
-        <li>For example, an AI system that uses personalised recommendations based on transparent algorithms and user preferences engages in lawful persuasion.</li>
-        <li>For example, a therapeutic chatbot that uses subliminal techniques to guide users towards a healthier lifestyle and to quit bad habits such as smoking is not likely to cause significant harm even if users experience physical discomfort and psychological stress because of the effort made to quit smoking.</li>
-      </ul>
-    </li>
-  </ul>
-  <h3 id="3-social-scoring---article-51c">3. Social Scoring - Article 5(1)(c)</h3>
-  <p>AI systems that evaluate or classify individuals based on social behaviour or personal characteristics resulting in unjustified treatment are prohibited.</p>
-  <ul>
-    <li>An example is an AI predictive tool that analyses taxpayers’ tax returns to select tax returns for closer inspection. The AI tool uses relevant variables such as yearly income as well as unrelated data such as a taxpayer’ social habits or internet connections to select individuals for closer inspection, leading to potential discrimination.</li>
-    <li>Out of scope legitimate scoring practices include financial credit scoring systems which are used by creditors and credit information agencies to determine a customer’s ability to repay debts by analysing a range of financial data such as the customer’s income and expenses.</li>
-  </ul>
-  <h3 id="4-individual-criminal-offence-risk-assessment-and-prediction---article-51d">4. Individual Criminal Offence Risk Assessment and Prediction - Article 5(1)(d)</h3>
-  <p>AI systems that predict criminal behaviour based solely on profiling or personality traits, without objective human assessment are prohibited.</p>
-  <ul>
-    <li>An example is a law enforcement authority that uses an AI system to predict criminal behaviour based on a personal characteristic such as age, nationality, address and marital status leading to unjust profiling.</li>
-    <li>Out of scope AI systems include predictive policing systems which generate a score for the likelihood of criminality in different neighbourhoods based on previous criminality rates and other supporting information such as street maps, allowing law enforcement to identify areas that require additional police presence.</li>
-  </ul>
-  <h3 id="5-untargeted-scraping-of-facial-images---article-51e">5. Untargeted Scraping of Facial Images - Article 5(1)(e)</h3>
-  <p>Creating or expanding facial recognition databases through untargeted scraping from the internet or CCTV footage is prohibited.</p>
-  <ul>
-    <li>In terms of the internet, if a person has published facial images of themselves on social media it does not mean that the person has given permission for the images to be included in a facial recognition database. An example of scraping images from CCTV is an AI tool that uses images from surveillance cameras in public spaces like airports and streets without consent.</li>
-    <li>Out of scope AI systems include databases that contain facial images but do not associate them with identifiable individuals e.g. datasets used solely for training or testing AI models without any intent to recognise or identify the persons in the images.</li>
-  </ul>
-  <h3 id="6-emotion-recognition---article-51f">6. Emotion Recognition - Article 5(1)(f)</h3>
-  <p>AI systems inferring emotions in workplaces and educational institutions, except for medical or safety reasons are prohibited.</p>
-  <ul>
-    <li>An example of ‘emotion recognition’ is an AI system that infers that an employee is unhappy, sad or angry to customers using body gestures, a frown or the absence of a smile.</li>
-    <li>Out of scope are AI systems that infer emotions not on the basis of biometric data e.g. from written text and AI systems that infer physical states e.g. pain and tiredness.</li>
-  </ul>
-  <h3 id="7-biometric-categorisation---article-51g">7. Biometric Categorisation - Article 5(1)(g)</h3>
-  <p>Categorising individuals based on biometric data to infer sensitive characteristics like race, political opinions, or sexual orientation are prohibited.</p>
-  <ul>
-    <li>An example is an AI system that categorises social media users by their presumed political orientation based on biometric data from uploaded photos to send them targeted political messages.</li>
-    <li>Examples of permissible filtering include the categorisation of patients using images according to skin or eye colour which may be important for a medical diagnosis such as cancer.</li>
-  </ul>
-  <h3 id="8-real-time-remote-biometric-identification-rbi---article-51h">8. Real-time Remote Biometric Identification (RBI) - Article 5(1)(h)</h3>
-  <p>The use of real-time RBI systems in publicly accessible spaces for law enforcement is prohibited with exceptions only for serious threats and criminal investigations.</p>
-  <p>Safeguards and conditions for the exceptions (Article 5(2)-(7) AI Act) are documented in the guidelines which aim to ensure the responsible and ethical use of AI technologies while safeguarding fundamental rights and promoting trust in AI systems.</p>
-  <figure>
-    <img src="/assets/images/content/articles/inline/8-prohibited-ai-practices-diagram.svg" alt="A diagram showing 8 prohibited AI practices.svg" loading="lazy" width="674" height="476" />
-    <figcaption>Overview of Prohibited AI Practices</figcaption>
-  </figure>
-  <h2 id="enforcement-of-article-5-ai-act">Enforcement of Article 5 AI Act</h2>
-  <p>The prohibitions in Article 5 AI Act became applicable after 2 February 2025 and penalties, governance and confidentiality will apply from 2 August 2025.</p>
-  <p>Market Surveillance Authorities are responsible for the enforcement of rules in the AI Act for AI systems including prohibitions. The AI Act employs a tiered response to determine penalties for non-compliance. This system is designed to ensure that the severity of the infringement is appropriately matched with the corresponding penalty. Non-compliance with prohibitions in Article 5 AI Act are classified as the most serious infringement and subject to the highest fine which can be up to EUR 35,000,000 or up to 7% of worldwide turnover for the previous financial year, if the offender is an undertaking, whichever is higher.</p>
-  <h2 id="conclusion">Conclusion</h2>
-  <p>AI in healthcare, such as software as a medical device (SaMD), must be developed with stringent ethical standards to ensure patient safety and protection of fundamental rights. The guidelines remind developers and regulators alike of the importance of maintaining transparency and safeguarding against AI misuse. As the healthcare sector continues to integrate AI into medical devices, these guidelines will serve as a key framework for ensuring that AI-driven solutions prioritise the well-being of patients while promoting innovation and trust in the healthcare system.</p>
-  <p>If you need guidance on navigating AI challenges, <a href="/contact">contact us today to arrange a free, no-obligation discussion</a>.</p>
-  ]]></content><author><name>clare-dixon</name></author><category term="SaMD" /><category term="MDR" /><summary type="html"><![CDATA[Summary of the 8 AI practices prohibited by the EU 2024/1689 artificial intelligence (AI) Act.]]></summary></entry></feed>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[Labelling and packaging are critical elements to ensuring safety, compliance, and ease of use.]]></summary></entry></feed>

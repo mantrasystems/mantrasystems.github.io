@@ -1,265 +1,294 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-05-12T10:16:24+01:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">SOTA Exclusions: The Ongoing Quest for Clarity</title><link href="https://www.mantrasystems.co.uk/articles/sota-exclusions-ongoing-quest-for-clarity" rel="alternate" type="text/html" title="SOTA Exclusions: The Ongoing Quest for Clarity" /><published>2025-05-12T00:00:00+01:00</published><updated>2025-05-09T11:11:28+01:00</updated><id>https://www.mantrasystems.co.uk/articles/sota-exclusions-ongoing-quest-for-clarity</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/sota-exclusions-ongoing-quest-for-clarity"><![CDATA[<p>Anyone who’s worked on a <a href="/medical-device-regulatory-consulting-services/mdr-consulting/clinical-evaluation">Clinical Evaluation</a> knows the drill by now: you’re deep into the narrative, you’ve built a clear clinical picture, the literature is supporting your claims, and then you hit the <a href="/articles/literature-search-sota-review-and-clinical-evaluation">State of the Art (SOTA) section</a>.</p>
-      <p>It’s one of the most deceptively complex parts of the Clinical Evaluation. The SOTA section, at its core, is about establishing the clinical context of your device. You’re identifying technologies, treatments, and medical devices that are comparable or similar to yours and demonstrating how your device measures up against them. In theory, this sounds straightforward, but here’s where things get complicated. While you’re focused on proving your device stands up to clinical scrutiny, regulators are equally interested in what you’re not including, and more importantly, <strong>why</strong>.</p>
-      <h2 id="the-real-challenge-what-you-leave-out-matters-just-as-much">The Real Challenge: What You Leave Out Matters Just As Much</h2>
-      <p>SOTA exclusions aren’t just a box-ticking exercise, they’re a true test of your reasoning and your ability to defend your choices with confidence. If you exclude devices, alternative technologies, or treatment options that seem relevant without a solid justification in place, the regulators will notice. It’s not enough to say, “This device isn’t comparable”, you need to explain why. Is it the indication? The mechanism of action? The patient population? Is there insufficient clinical evidence? Every exclusion must be logical, traceable, and transparent.</p>
-      <h2 id="why-this-keeps-coming-up">Why This Keeps Coming Up</h2>
-      <p>This isn’t just a one-off issue, as it’s seen across many submissions. Most teams feel confident about what they’ve included in their SOTA, but the rationale for exclusions often ends up vague, underdeveloped, or missing entirely. The truth is, SOTA requires interpretation, and that’s exactly why it’s so frequently dissected. If a seemingly relevant comparator or treatment is left out without a strong explanation, it stands out.</p>
-      <p>Regulators don’t just want to see what you included, they want to understand why you didn’t include something else. Without that clarity, they may assume the exclusion was unintentional or that your review wasn’t comprehensive. In short, it keeps coming up because exclusions are easy to challenge and hard to justify unless you’ve done the thinking and documented it clearly.</p>
-      <figure class="intrinsic">
-        <img src="/assets/images/content/articles/inline/sota-quest.png" alt="How to Overcome the SOTA Exclusion Trap process diagram." loading="lazy" width="400" height="428" />
-        <figcaption>How to Overcome the SOTA Exclusion Trap</figcaption>
-      </figure>
-      <h3 id="1-start-with-a-broad-landscape-then-narrow-it-down">1. Start with a broad landscape, then narrow it down</h3>
-      <p>Don’t begin with what you want to exclude; start with everything that could be relevant. List out all comparable technologies, treatments, and devices, even those you know won’t make the final cut. From there, document your rationale for keeping or excluding each one.</p>
-      <p><em>Tip: <a href="https://www.medical-device-regulation.eu/wp-content/uploads/2019/05/2_7_1_rev4_en.pdf">MedDev 2.7/1 rev 4</a> requires the use of carefully formulated inclusion / exclusion criteria, augmented by an objective, non-biased, systematic screening and review process such as PICO (patient characteristics, type of intervention, control, and outcome queries), or PRISMA (The Preferred Reporting Items for Systematic Reviews and Meta-Analyses).</em></p>
-      <h3 id="2-be-specific-in-your-exclusions">2. Be specific in your exclusions</h3>
-      <p>Vague justifications are one of the fastest ways to undermine an otherwise strong Clinical Evaluation. A sentence like “This technology was excluded due to differences in application” is almost guaranteed to prompt questions. Instead, give clear, defensible reasons tied to your device’s design, function, and clinical use. Examples of strong justifications:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-05-19T10:18:06+01:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">UK Medical Device Regulations Set for Major 2026 Update</title><link href="https://www.mantrasystems.co.uk/articles/uk-medical-device-regulations-set-for-major-2026-update" rel="alternate" type="text/html" title="UK Medical Device Regulations Set for Major 2026 Update" /><published>2025-05-19T00:00:00+01:00</published><updated>2025-05-15T17:39:19+01:00</updated><id>https://www.mantrasystems.co.uk/articles/uk-medical-device-regulations-set-for-major-2026-update</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/uk-medical-device-regulations-set-for-major-2026-update"><![CDATA[<p>The UK government is preparing to introduce a second major update to the regulatory framework for medical devices, with new pre-market requirements expected to come into effect in 2026.</p>
+      <p>These changes form part of a broader reform effort that has been underway for several years. In 2022, the UK government published its <em><a href="https://assets.publishing.service.gov.uk/media/62b577f6d3bf7f0b00165a32/Government_response_to_consultation_on_the_future_regulation_of_medical_devices_in_the_United_Kingdom.pdf">Government response to consultation on the future regulation of medical devices in the United Kingdom</a></em>, setting out a phased approach to overhaul the UK Medical Devices Regulations (UK MDR).</p>
+      <p>In December 2024, the MHRA published a <em><a href="https://assets.publishing.service.gov.uk/media/6759a8827e419d6e07ce2b21/Med_Tech_Regulatory_Roadmap_V2_December_2024.pdf">Medical Devices Regulatory Reform roadmap </a></em> providing an update on the intended timelines for implementing future UK medical device regulations. This roadmap is structured around four key areas:</p>
+      <ol>
+        <li>Post-market surveillance (PMS) requirements</li>
+        <li>Pre-market requirements</li>
+        <li>Broader policy development (including an IVD roadmap and <a href="https://www.gov.uk/guidance/exceptional-use-authorisation">exceptional use authorisations</a>)</li>
+        <li>Software, including AI and digital mental health products.</li>
+      </ol>
+      <h2 id="post-market-amendment">Post-market amendment</h2>
+      <p>On the 16th of December 2024 the UK Government published <em><a href="https://www.legislation.gov.uk/uksi/2024/1368/made">The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024</a></em>.</p>
+      <p>This legislation, which comes into effect on 16th June 2025, introduces strengthened PMS requirements for medical device manufacturers. For an in-depth overview of the changes, <a href="https://www.mantrasystems.co.uk/articles/overview-of-uk-2024-post-market-surveillance-update">see our dedicated  article on this topic</a>.</p>
+      <p>This legislation marks the first formal update to the UK MDR.</p>
+      <h2 id="pre-market-amendment">Pre-market amendment</h2>
+      <p>Following the PMS update to the UK MDR, the UK government has consulted on a second major update - <em><a href="https://www.gov.uk/government/publications/implementation-of-the-future-regulation-of-medical-devices/implementation-of-the-future-regulations#futurecore-regulations">Routes to market and in vitro diagnostic devices</a></em> - which aims to implement new regulations for pre-market requirements.</p>
+      <p>In a <a href="https://hansard.parliament.uk/Lords/2025-05-06/debates/745FFAA1-DEB8-4B79-84FC-4F6656F2DB8C/MedicalDevices(Amendment)(GreatBritain)Regulations2025">recent House of Lords motion</a>, Baroness Merron mentioned that this major update is expected to come into force in 2026.</p>
+      <p>Many of the changes introduced with this legislative amendment will have the effect of bringing the UK MDR in closer alignment with the EU MDR. Below we highlight some of the changes that we might expect to see:</p>
       <ul>
-        <li>Article reporting outcomes or clinical scenarios entirely unrelated to the subject matter.</li>
-        <li>Not related to the intended purpose of the subject device. For example, an article focused on wound closure techniques would be an inappropriate focus when the subject matter of a review is the safety or performance of a hip implant.</li>
-        <li>The literature contains unsubstantiated opinions</li>
+        <li>Up-classification of <a href="/solutions/regulatory-consulting-for-samd-software-as-a-medical-device">Software as a Medical Device (SaMD)</a> and implantable medical devices, resulting in stricter requirements for both device categories</li>
+        <li>Introduction of a framework for international recognition</li>
+        <li>Alignment of the UK MDR Essential Requirements (ERs) with the EU MDR General</li>
+        <li>Safety and Performance Requirements (GSPRs)</li>
+        <li>Updated classification rules for In-Vitro Diagnostic (IVD) medical devices</li>
+        <li>Introduction of implant cards and Unique Device Identifiers (UDI)</li>
+        <li>Strengthened technical documentation requirements</li>
       </ul>
-      <p><em>Tip: If you’re unsure how specific to be, err on the side of more. Specificity signals competence and confidence.</em></p>
-      <h3 id="3-link-exclusions-back-to-the-devices-intended-purpose">3. Link exclusions back to the device’s intended purpose</h3>
-      <p>The <a href="/articles/a-medical-devices-intended-purpose-what-is-the-point">intended purpose isn’t just regulatory terminology</a>, it’s your compass. Every inclusion or exclusion should align with it. If something is excluded because it falls outside your indication, say so. If your device is single-use and another is reusable, that difference might be clinically meaningful.</p>
-      <p><em>Tip: Write your intended purpose in plain language and keep it visible during writing and editing. Use it as a live reference point when making decisions on what to include or exclude.</em></p>
-      <h3 id="4-document-the-process-and-justification-not-just-the-outcome">4. Document the process and justification (not just the outcome)</h3>
-      <p>A polished summary is important, but so is the trail you took to get there. Regulators don’t just want to see the final result; they want to know you followed a systematic process to get there.</p>
-      <p>It may be helpful to use exclusion codes to codify reasons for exclusions (which may include, for example, “unrelated topic” or “article not available in English,” etc).</p>
-      <p><em>Tip: Save your search strings, selection criteria, and full extractions of literature from your databases. Include a short methods section describing how you determine exclusions. This small step can prevent a lot of back-and-forth during review.</em></p>
-      <h3 id="5-avoid-over-exclusion">5. Avoid over-exclusion</h3>
-      <p>While it’s important to justify exclusions, it’s equally important not to exclude too many devices or treatments, as an overly narrow SOTA can look suspicious to regulators. Try to keep the scope broad, including all potentially relevant comparators, and only exclude those with a well-supported rationale.</p>
-      <p><em>Tip: Aim for a balance. Make sure your exclusions are justified, but ensure that your SOTA still includes a reasonable number of relevant sources, where deemed appropriate. It demonstrates thoroughness and strengthens your argument for your device’s clinical positioning.</em></p>
-      <h2 id="final-thought-clarity-and-transparency-will-always-be-your-strongest-defence">Final Thought: Clarity and Transparency Will Always Be Your Strongest Defence</h2>
-      <p>SOTA exclusions will likely remain one of the more complex aspects of a Clinical Evaluation submission. However, with a well-structured approach, <a href="/eu-mdr-compliance/literature-search-protocol-sota-review">the right tools</a>, and a strong focus on clinical reasoning, you can turn this challenge into an opportunity. Clarity in the rationale for exclusions can enhance the strength of your submission by demonstrating thoroughness, transparency, and attention to detail.</p>
-      <p>By articulating your exclusions in a manner that’s easy to follow and backed by solid evidence, you make it easier for regulators to see your reasoning, leading to smoother reviews and fewer questions along the way. Navigating exclusions doesn’t have to be daunting, but it does require precision, thorough documentation, and a clear understanding of both clinical and regulatory expectations.</p>
-      <p>If you’re feeling uncertain about your SOTA exclusions or finding it difficult to manage the comparator landscape, <a href="/contact">don’t hesitate to reach out to Mantra Systems</a>. We offer tailored support to guide you through the process, ensuring your Clinical Evaluation is both comprehensive and compliant. Let us help you get it right the first time.</p>
-      ]]></content><author><name>kamiya-crabtree</name></author><category term="Clinical Evaluation" /><summary type="html"><![CDATA[SOTA exclusions aren’t just a box-ticking exercise, they’re a true test of your reasoning and your ability to defend your choices with confidence.]]></summary></entry><entry><title type="html">Clinical Evaluation Masterclass: It is not clear that any systematic search methods were used for the literature review – Episode 3</title><link href="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-3-not-clear-that-any-systematic-search-methods-were-used-for-the-literature-review" rel="alternate" type="text/html" title="Clinical Evaluation Masterclass: It is not clear that any systematic search methods were used for the literature review – Episode 3" /><published>2025-05-08T00:00:00+01:00</published><updated>2025-05-07T15:31:50+01:00</updated><id>https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-3-not-clear-that-any-systematic-search-methods-were-used-for-the-literature-review</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-3-not-clear-that-any-systematic-search-methods-were-used-for-the-literature-review"><![CDATA[<p>Clinical evaluation is a cornerstone of compliance under the EU Medical Device Regulation (MDR), directly tied to the safety and performance of a medical device throughout its lifecycle.</p>
-    <p>Yet, despite its importance, non-conformities in clinical evaluation reports remain one of the most common reasons for delays, rejections, and costly remediation work during conformity assessment.</p>
-    <p>When a clinical evaluation falls short - whether due to vague safety and performance objectives, inadequate literature appraisal, or poorly documented search methods - manufacturers face serious consequences. These may include prolonged Notified Body reviews, increased regulatory scrutiny, and even market withdrawal of devices.</p>
-    <p>Addressing clinical evaluation non-conformities isn’t just about avoiding negative outcomes; it’s about building a robust, evidence-based foundation that demonstrates your device meets essential safety and performance requirements. For manufacturers, mastering this process means faster approvals, fewer surprises during conformity assessments, and ultimately, safer outcomes for patients.</p>
-    <p>This video series breaks down the most common clinical evaluation non-conformities, explains <em>why</em> they keep happening, and most importantly, shows you how to <strong><em>fix (or avoid) them for</em></strong> good.</p>
-    <h2 id="episode-3-it-is-not-clear-that-systematic-search-methods-have-been-used-for-the-literature-review">Episode 3: “It is not clear that systematic search methods have been used for the literature review”</h2>
-    <p>Whether you’re new to clinical evaluation or refining an existing process, this video will help you design a robust and transparent search strategy that aligns with MDR expectations.</p>
-    <p>In this episode, we’ll break down:</p>
+      <h2 id="conclusion">Conclusion</h2>
+      <p>The forthcoming updates to the UK Medical Devices Regulations represent a significant shift in the country’s regulatory landscape, aiming to enhance patient safety, foster innovation, and improve international alignment. While manufacturers already compliant with the EU MDR will find many of the anticipated changes familiar, UK-based manufacturers who have not yet adapted to similar frameworks should begin preparations. Early planning and a thorough understanding of the new requirements will be essential to maintaining market access and avoiding disruption. With the new pre-market requirements expected to come into force in 2026, the time to act is now.</p>
+      <p>Unsure how upcoming regulatory changes might affect your device? <a href="/contact">Contact us today for a free, no-obligation discussion</a>.</p>
+      ]]></content><author><name>simon-cumiskey</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[The UK government is preparing to introduce a second major update to the regulatory framework for medical devices, with new pre-market requirements expected to come into effect in 2026.]]></summary></entry><entry><title type="html">SOTA Exclusions: The Ongoing Quest for Clarity</title><link href="https://www.mantrasystems.co.uk/articles/sota-exclusions-ongoing-quest-for-clarity" rel="alternate" type="text/html" title="SOTA Exclusions: The Ongoing Quest for Clarity" /><published>2025-05-12T00:00:00+01:00</published><updated>2025-05-15T17:39:27+01:00</updated><id>https://www.mantrasystems.co.uk/articles/sota-exclusions-ongoing-quest-for-clarity</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/sota-exclusions-ongoing-quest-for-clarity"><![CDATA[<p>Anyone who’s worked on a <a href="/medical-device-regulatory-consulting-services/mdr-consulting/clinical-evaluation">Clinical Evaluation</a> knows the drill by now: you’re deep into the narrative, you’ve built a clear clinical picture, the literature is supporting your claims, and then you hit the <a href="/articles/literature-search-sota-review-and-clinical-evaluation">State of the Art (SOTA) section</a>.</p>
+    <p>It’s one of the most deceptively complex parts of the Clinical Evaluation. The SOTA section, at its core, is about establishing the clinical context of your device. You’re identifying technologies, treatments, and medical devices that are comparable or similar to yours and demonstrating how your device measures up against them. In theory, this sounds straightforward, but here’s where things get complicated. While you’re focused on proving your device stands up to clinical scrutiny, regulators are equally interested in what you’re not including, and more importantly, <strong>why</strong>.</p>
+    <h2 id="the-real-challenge-what-you-leave-out-matters-just-as-much">The Real Challenge: What You Leave Out Matters Just As Much</h2>
+    <p>SOTA exclusions aren’t just a box-ticking exercise, they’re a true test of your reasoning and your ability to defend your choices with confidence. If you exclude devices, alternative technologies, or treatment options that seem relevant without a solid justification in place, the regulators will notice. It’s not enough to say, “This device isn’t comparable”, you need to explain why. Is it the indication? The mechanism of action? The patient population? Is there insufficient clinical evidence? Every exclusion must be logical, traceable, and transparent.</p>
+    <h2 id="why-this-keeps-coming-up">Why This Keeps Coming Up</h2>
+    <p>This isn’t just a one-off issue, as it’s seen across many submissions. Most teams feel confident about what they’ve included in their SOTA, but the rationale for exclusions often ends up vague, underdeveloped, or missing entirely. The truth is, SOTA requires interpretation, and that’s exactly why it’s so frequently dissected. If a seemingly relevant comparator or treatment is left out without a strong explanation, it stands out.</p>
+    <p>Regulators don’t just want to see what you included, they want to understand why you didn’t include something else. Without that clarity, they may assume the exclusion was unintentional or that your review wasn’t comprehensive. In short, it keeps coming up because exclusions are easy to challenge and hard to justify unless you’ve done the thinking and documented it clearly.</p>
+    <figure class="intrinsic">
+      <img src="/assets/images/content/articles/inline/sota-quest.png" alt="How to Overcome the SOTA Exclusion Trap process diagram." loading="lazy" width="400" height="428" />
+      <figcaption>How to Overcome the SOTA Exclusion Trap</figcaption>
+    </figure>
+    <h3 id="1-start-with-a-broad-landscape-then-narrow-it-down">1. Start with a broad landscape, then narrow it down</h3>
+    <p>Don’t begin with what you want to exclude; start with everything that could be relevant. List out all comparable technologies, treatments, and devices, even those you know won’t make the final cut. From there, document your rationale for keeping or excluding each one.</p>
+    <p><em>Tip: <a href="https://www.medical-device-regulation.eu/wp-content/uploads/2019/05/2_7_1_rev4_en.pdf">MedDev 2.7/1 rev 4</a> requires the use of carefully formulated inclusion / exclusion criteria, augmented by an objective, non-biased, systematic screening and review process such as PICO (patient characteristics, type of intervention, control, and outcome queries), or PRISMA (The Preferred Reporting Items for Systematic Reviews and Meta-Analyses).</em></p>
+    <h3 id="2-be-specific-in-your-exclusions">2. Be specific in your exclusions</h3>
+    <p>Vague justifications are one of the fastest ways to undermine an otherwise strong Clinical Evaluation. A sentence like “This technology was excluded due to differences in application” is almost guaranteed to prompt questions. Instead, give clear, defensible reasons tied to your device’s design, function, and clinical use. Examples of strong justifications:</p>
     <ul>
-      <li>What a <strong>systematic search method</strong> is</li>
-      <li>Key components of a systematic search</li>
-      <li>How systematic search methodology should be <strong>applied during Clinical Evaluation</strong></li>
+      <li>Article reporting outcomes or clinical scenarios entirely unrelated to the subject matter.</li>
+      <li>Not related to the intended purpose of the subject device. For example, an article focused on wound closure techniques would be an inappropriate focus when the subject matter of a review is the safety or performance of a hip implant.</li>
+      <li>The literature contains unsubstantiated opinions</li>
     </ul>
-    <p>By the end of the episode, you’ll be able to confidently design and implement a systematic literature search for both State-of-the-art (SOTA) devices and the Device Under Evaluation (DUE) when conducting Clinical Evaluations.</p>
-    <p>At <em>Mantra Systems</em>, we specialise in delivering high-quality, MDR-compliant Clinical Evaluation Reports that stand up to Notified Body scrutiny. Whether you need a full CER, a literature review strategy, or expert input on addressing non-conformities, our team is here to help. <a href="/contact">Contact us today for a free, no obligation consultation</a> on how we can support your clinical evaluation needs.</p>
-    <p>Missed previous episodes? Catch up here:</p>
+    <p><em>Tip: If you’re unsure how specific to be, err on the side of more. Specificity signals competence and confidence.</em></p>
+    <h3 id="3-link-exclusions-back-to-the-devices-intended-purpose">3. Link exclusions back to the device’s intended purpose</h3>
+    <p>The <a href="/articles/a-medical-devices-intended-purpose-what-is-the-point">intended purpose isn’t just regulatory terminology</a>, it’s your compass. Every inclusion or exclusion should align with it. If something is excluded because it falls outside your indication, say so. If your device is single-use and another is reusable, that difference might be clinically meaningful.</p>
+    <p><em>Tip: Write your intended purpose in plain language and keep it visible during writing and editing. Use it as a live reference point when making decisions on what to include or exclude.</em></p>
+    <h3 id="4-document-the-process-and-justification-not-just-the-outcome">4. Document the process and justification (not just the outcome)</h3>
+    <p>A polished summary is important, but so is the trail you took to get there. Regulators don’t just want to see the final result; they want to know you followed a systematic process to get there.</p>
+    <p>It may be helpful to use exclusion codes to codify reasons for exclusions (which may include, for example, “unrelated topic” or “article not available in English,” etc).</p>
+    <p><em>Tip: Save your search strings, selection criteria, and full extractions of literature from your databases. Include a short methods section describing how you determine exclusions. This small step can prevent a lot of back-and-forth during review.</em></p>
+    <h3 id="5-avoid-over-exclusion">5. Avoid over-exclusion</h3>
+    <p>While it’s important to justify exclusions, it’s equally important not to exclude too many devices or treatments, as an overly narrow SOTA can look suspicious to regulators. Try to keep the scope broad, including all potentially relevant comparators, and only exclude those with a well-supported rationale.</p>
+    <p><em>Tip: Aim for a balance. Make sure your exclusions are justified, but ensure that your SOTA still includes a reasonable number of relevant sources, where deemed appropriate. It demonstrates thoroughness and strengthens your argument for your device’s clinical positioning.</em></p>
+    <h2 id="final-thought-clarity-and-transparency-will-always-be-your-strongest-defence">Final Thought: Clarity and Transparency Will Always Be Your Strongest Defence</h2>
+    <p>SOTA exclusions will likely remain one of the more complex aspects of a Clinical Evaluation submission. However, with a well-structured approach, <a href="/eu-mdr-compliance/literature-search-protocol-sota-review">the right tools</a>, and a strong focus on clinical reasoning, you can turn this challenge into an opportunity. Clarity in the rationale for exclusions can enhance the strength of your submission by demonstrating thoroughness, transparency, and attention to detail.</p>
+    <p>By articulating your exclusions in a manner that’s easy to follow and backed by solid evidence, you make it easier for regulators to see your reasoning, leading to smoother reviews and fewer questions along the way. Navigating exclusions doesn’t have to be daunting, but it does require precision, thorough documentation, and a clear understanding of both clinical and regulatory expectations.</p>
+    <p>If you’re feeling uncertain about your SOTA exclusions or finding it difficult to manage the comparator landscape, <a href="/contact">don’t hesitate to reach out to Mantra Systems</a>. We offer tailored support to guide you through the process, ensuring your Clinical Evaluation is both comprehensive and compliant. Let us help you get it right the first time.</p>
+    ]]></content><author><name>kamiya-crabtree</name></author><category term="Clinical Evaluation" /><summary type="html"><![CDATA[SOTA exclusions aren’t just a box-ticking exercise, they’re a true test of your reasoning and your ability to defend your choices with confidence.]]></summary></entry><entry><title type="html">Clinical Evaluation Masterclass: It is not clear that any systematic search methods were used for the literature review – Episode 3</title><link href="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-3-not-clear-that-any-systematic-search-methods-were-used-for-the-literature-review" rel="alternate" type="text/html" title="Clinical Evaluation Masterclass: It is not clear that any systematic search methods were used for the literature review – Episode 3" /><published>2025-05-08T00:00:00+01:00</published><updated>2025-05-07T15:31:50+01:00</updated><id>https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-3-not-clear-that-any-systematic-search-methods-were-used-for-the-literature-review</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-3-not-clear-that-any-systematic-search-methods-were-used-for-the-literature-review"><![CDATA[<p>Clinical evaluation is a cornerstone of compliance under the EU Medical Device Regulation (MDR), directly tied to the safety and performance of a medical device throughout its lifecycle.</p>
+  <p>Yet, despite its importance, non-conformities in clinical evaluation reports remain one of the most common reasons for delays, rejections, and costly remediation work during conformity assessment.</p>
+  <p>When a clinical evaluation falls short - whether due to vague safety and performance objectives, inadequate literature appraisal, or poorly documented search methods - manufacturers face serious consequences. These may include prolonged Notified Body reviews, increased regulatory scrutiny, and even market withdrawal of devices.</p>
+  <p>Addressing clinical evaluation non-conformities isn’t just about avoiding negative outcomes; it’s about building a robust, evidence-based foundation that demonstrates your device meets essential safety and performance requirements. For manufacturers, mastering this process means faster approvals, fewer surprises during conformity assessments, and ultimately, safer outcomes for patients.</p>
+  <p>This video series breaks down the most common clinical evaluation non-conformities, explains <em>why</em> they keep happening, and most importantly, shows you how to <strong><em>fix (or avoid) them for</em></strong> good.</p>
+  <h2 id="episode-3-it-is-not-clear-that-systematic-search-methods-have-been-used-for-the-literature-review">Episode 3: “It is not clear that systematic search methods have been used for the literature review”</h2>
+  <p>Whether you’re new to clinical evaluation or refining an existing process, this video will help you design a robust and transparent search strategy that aligns with MDR expectations.</p>
+  <p>In this episode, we’ll break down:</p>
+  <ul>
+    <li>What a <strong>systematic search method</strong> is</li>
+    <li>Key components of a systematic search</li>
+    <li>How systematic search methodology should be <strong>applied during Clinical Evaluation</strong></li>
+  </ul>
+  <p>By the end of the episode, you’ll be able to confidently design and implement a systematic literature search for both State-of-the-art (SOTA) devices and the Device Under Evaluation (DUE) when conducting Clinical Evaluations.</p>
+  <p>At <em>Mantra Systems</em>, we specialise in delivering high-quality, MDR-compliant Clinical Evaluation Reports that stand up to Notified Body scrutiny. Whether you need a full CER, a literature review strategy, or expert input on addressing non-conformities, our team is here to help. <a href="/contact">Contact us today for a free, no obligation consultation</a> on how we can support your clinical evaluation needs.</p>
+  <p>Missed previous episodes? Catch up here:</p>
+  <ul>
+    <li><a href="/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities">Episode 1: “Safety and Performance objectives lack specific and measurable acceptance criteria”</a></li>
+    <li><a href="/articles/clinical-evaluation-masterclass-2-appraisal-of-literature-sources-has-not-been-conducted-properly">Episode 2: “Appraisal of literature sources has not been conducted properly”</a></li>
+  </ul>
+  <hr />
+  <div class="small-text">
+    <strong>Transcript follows:</strong>
+    <p>Okay. Hi everyone and welcome to episode three in our ongoing series on how to fix clinical evaluation nonconformities. It’s Paul here from Mantra Systems. It’s my pleasure to take you through this latest installment of the series and uh let’s get to it.</p>
+    <p>So um as a reminder, this series is focused on addressing a key problem in um achieving success following submission of a clinical evaluation and that’s that nonconformities are actually very common under the MDR. But although it’s necessary to ensure that nonconformities are resolved, um they can be quite difficult to interpret and it may not always be clear how to fully address any nonconformities which arise, which in turn can lead to further rounds of review with increased costs, loss, time, stress, and worry.</p>
+    <p>And this series is intended to help you avoid common reasons for nonconformities. So, episode by episode, we’re working through common non-conformities one at a time and digging deep into what they mean and importantly, how to solve or avoid them in the first place. And where possible we tried to link to general principles for optimal conduct of clinical evaluation.</p>
+    <hr />
+    <p><strong>The Nonconformity in Focus</strong></p>
+    <p>So this is episode three and this time we’re going to look at the following nonconformity:</p>
+    <blockquote>
+      <p>It is not clear that systematic search methods have been used for the literature review.</p>
+    </blockquote>
+    <p>So in order to unpack this one, we need to consider:</p>
+    <ol>
+      <li>What is a systematic search method?</li>
+      <li>What are the components of a systematic search?</li>
+      <li>How should systematic search methodology be applied during clinical evaluation?</li>
+    </ol>
+    <p>Understanding those areas will help avoid this non-conformity arising.</p>
+    <hr />
+    <p><strong>What Is a Systematic Search Method?</strong></p>
+    <p>Well, it is a structured and planned approach to finding relevant sources for literature reviews. And in this case we’re talking about its application to clinical evaluation.</p>
+    <p>From a clinical evaluation perspective, it’s relevant in two sectors:</p>
     <ul>
-      <li><a href="/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities">Episode 1: “Safety and Performance objectives lack specific and measurable acceptance criteria”</a></li>
-      <li><a href="/articles/clinical-evaluation-masterclass-2-appraisal-of-literature-sources-has-not-been-conducted-properly">Episode 2: “Appraisal of literature sources has not been conducted properly”</a></li>
+      <li>The literature search that’s conducted for the state-of-the-art.</li>
+      <li>The search that needs to be done for the device under evaluation.</li>
+    </ul>
+    <p>Ideally, they are two separate searches, documented and recorded separately.</p>
+    <hr />
+    <p><strong>Why It Matters</strong></p>
+    <p>A systematic search method applied correctly helps ensure several things:</p>
+    <ul>
+      <li>Literature searches are conducted according to a validated prespecified plan. In other words, you’re not making it up as you go along.</li>
+      <li>Literature searches have considered all relevant factors to ensure full coverage of clinical use of either state-of-the-art devices or the device under evaluation.</li>
+      <li>Searches are reproducible so they can be conducted more than once and result in the same outcome.</li>
+      <li>Bias and the risk of accidentally excluding relevant sources are minimized.</li>
     </ul>
     <hr />
-    <div class="small-text">
-      <strong>Transcript follows:</strong>
-      <p>Okay. Hi everyone and welcome to episode three in our ongoing series on how to fix clinical evaluation nonconformities. It’s Paul here from Mantra Systems. It’s my pleasure to take you through this latest installment of the series and uh let’s get to it.</p>
-      <p>So um as a reminder, this series is focused on addressing a key problem in um achieving success following submission of a clinical evaluation and that’s that nonconformities are actually very common under the MDR. But although it’s necessary to ensure that nonconformities are resolved, um they can be quite difficult to interpret and it may not always be clear how to fully address any nonconformities which arise, which in turn can lead to further rounds of review with increased costs, loss, time, stress, and worry.</p>
-      <p>And this series is intended to help you avoid common reasons for nonconformities. So, episode by episode, we’re working through common non-conformities one at a time and digging deep into what they mean and importantly, how to solve or avoid them in the first place. And where possible we tried to link to general principles for optimal conduct of clinical evaluation.</p>
-      <hr />
-      <p><strong>The Nonconformity in Focus</strong></p>
-      <p>So this is episode three and this time we’re going to look at the following nonconformity:</p>
-      <blockquote>
-        <p>It is not clear that systematic search methods have been used for the literature review.</p>
-      </blockquote>
-      <p>So in order to unpack this one, we need to consider:</p>
-      <ol>
-        <li>What is a systematic search method?</li>
-        <li>What are the components of a systematic search?</li>
-        <li>How should systematic search methodology be applied during clinical evaluation?</li>
-      </ol>
-      <p>Understanding those areas will help avoid this non-conformity arising.</p>
-      <hr />
-      <p><strong>What Is a Systematic Search Method?</strong></p>
-      <p>Well, it is a structured and planned approach to finding relevant sources for literature reviews. And in this case we’re talking about its application to clinical evaluation.</p>
-      <p>From a clinical evaluation perspective, it’s relevant in two sectors:</p>
-      <ul>
-        <li>The literature search that’s conducted for the state-of-the-art.</li>
-        <li>The search that needs to be done for the device under evaluation.</li>
-      </ul>
-      <p>Ideally, they are two separate searches, documented and recorded separately.</p>
-      <hr />
-      <p><strong>Why It Matters</strong></p>
-      <p>A systematic search method applied correctly helps ensure several things:</p>
-      <ul>
-        <li>Literature searches are conducted according to a validated prespecified plan. In other words, you’re not making it up as you go along.</li>
-        <li>Literature searches have considered all relevant factors to ensure full coverage of clinical use of either state-of-the-art devices or the device under evaluation.</li>
-        <li>Searches are reproducible so they can be conducted more than once and result in the same outcome.</li>
-        <li>Bias and the risk of accidentally excluding relevant sources are minimized.</li>
-      </ul>
-      <hr />
-      <p><strong>The Three Key Stages</strong></p>
-      <p>On a very basic level, there are three key stages to a systematic literature search:</p>
-      <ol>
-        <li><strong>Intended purpose</strong></li>
-        <li><strong>Research questions</strong></li>
-        <li><strong>Search terms</strong></li>
-      </ol>
-      <hr />
-      <p><strong>Intended Purpose</strong></p>
-      <p>The intended purpose places the literature search into context and helps form an input to the definition of research questions.</p>
-      <p>Spending time on the intended purpose helps map out:</p>
-      <ul>
-        <li>The types of patients and conditions that fall under the scope of the search,</li>
-        <li>The context of clinical use, and so on.</li>
-      </ul>
-      <p>It is a vital input to the scope of the literature search and also shows traceability to how the device is used and applied in clinical practice. So it is an important albeit rather basic stage from the perspective of a literature search. But don’t skip it.</p>
-      <hr />
-      <p><strong>Research Questions</strong></p>
-      <p>The next stage is to begin crafting research questions.</p>
-      <p>There’s lots of ways to do this, but ultimately a research question or a set of research questions just reduces what you want to achieve from the search to a list of simple questions. And it’s generally preferred that a validated format is used. PICO is one of them. We’re going to take a look at PICO in a moment.</p>
-      <p>It’s a good stage to explore and refine the scope of the search.</p>
-      <blockquote>
-        <p>It’s very easy to change research questions—much easier than changing search terms.</p>
-      </blockquote>
-      <p>Because with search terms, you have to rerun a search each time you change it, and that can be quite labor-intensive, especially if you’ve already started with inclusion/exclusion screening.</p>
-      <p>So research questions are worth spending time on because they form a vital input to the specific searches that you’ll run.</p>
-      <hr />
-      <p><strong>The PICO Framework</strong></p>
-      <p>Let’s have a quick look at one validated method—it’s not the only one—but PICO is an important one.</p>
-      <p><strong>PICO</strong> stands for:</p>
-      <ul>
-        <li><strong>P</strong>atient</li>
-        <li><strong>I</strong>ntervention</li>
-        <li><strong>C</strong>omparator</li>
-        <li><strong>O</strong>utcome</li>
-      </ul>
-      <p>It’s just a way of breaking down the search or the scope of search into these specific stages.</p>
-      <p>Example:</p>
-      <ul>
-        <li><strong>Patients</strong>: Patients with osteoarthritis of the hip who are candidates for total hip replacement surgery.</li>
-        <li><strong>Intervention</strong>: Ceramic-on-ceramic hip implants.</li>
-        <li><strong>Comparators</strong>: Metal-on-metal or metal-on-polyester hip implants.</li>
-        <li><strong>Outcomes</strong>: Pain VAS and range of motion.</li>
-      </ul>
-      <p>That’s just one way of framing research questions using the PICO system.</p>
-      <hr />
-      <p><strong>Stage Three: Search Terms</strong></p>
-      <p>What we’ve got here is a series of screen grabs just doing an example search on PubMed.</p>
-      <p>Example breakdown:</p>
-      <ul>
-        <li>Search 18: Osteoarthritis (produces many results)</li>
-        <li>Search 19: Total hip replacement or hip arthroplasty</li>
-        <li>Search 20: THR (abbreviation of total hip replacement)</li>
-      </ul>
-      <blockquote>
-        <p>You want to avoid repeating the same term over and over again, especially when using boolean AND, because it will look for multiple instances unnecessarily.</p>
-      </blockquote>
-      <p>In PubMed’s advanced search:</p>
-      <ul>
-        <li>You can combine individual searches using boolean operators.</li>
-        <li>Click the three dots next to a search and select ‘Add query’.</li>
-        <li>Combine subsequent searches using <strong>AND</strong>.</li>
-      </ul>
-      <p>Result:</p>
-      <ul>
-        <li>A refined composite search that significantly narrows down the results (e.g., to 51 highly relevant studies).</li>
-      </ul>
-      <hr />
-      <p><strong>Additional Systematic Search Considerations</strong></p>
-      <p><strong>1. Database Specification</strong></p>
-      <p>State in advance which databases will be used in your search protocol.</p>
-      <p>Examples:</p>
-      <ul>
-        <li>PubMed</li>
-        <li>Google Scholar</li>
-        <li>Embase</li>
-        <li>Cochrane</li>
-        <li>WDI</li>
-      </ul>
-      <blockquote>
-        <p>Usually, using a minimum of two is best practice. Otherwise, it may suggest bias.</p>
-      </blockquote>
-      <hr />
-      <p><strong>2. Inclusion/Exclusion Screening</strong></p>
-      <p>Refine your results to only those that are relevant.</p>
-      <ul>
-        <li>Define exclusion criteria in advance and document them in the search protocol.</li>
-        <li>Prevents designing criteria reactively to include only favorable results.</li>
-      </ul>
-      <p>Example:</p>
-      <ul>
-        <li>Code E1: Exclude in vitro, pre-clinical, or animal studies because their results may not transfer to humans.</li>
-      </ul>
-      <p>This ensures every excluded result has a justification.</p>
-      <hr />
-      <p><strong>3. Handling Duplicate Results</strong></p>
-      <p>Problems:</p>
-      <ul>
-        <li>Same study found more than once.</li>
-        <li>Same dataset appearing in multiple publications.</li>
-      </ul>
-      <p>Risks increase when including <strong>systematic reviews</strong>, which:</p>
-      <ul>
-        <li>May duplicate primary data sources.</li>
-        <li>Can create overlap and confusion.</li>
-      </ul>
-      <p>Tactics:</p>
-      <ul>
-        <li>Look out for recurring author names, shared recruitment techniques, and subsidiary publications.</li>
-        <li>Consider excluding systematic reviews and focus on primary sources.</li>
-      </ul>
-      <blockquote>
-        <p>Including duplicates risks skewing your analysis by over-weighting repeated data.</p>
-      </blockquote>
-      <hr />
-      <p><strong>4. Use of Filters</strong></p>
-      <p>Search databases offer filters, but:</p>
-      <ul>
-        <li>Use with caution.</li>
-        <li>Carefully justify their use.</li>
-        <li>Filters vary across databases.</li>
-      </ul>
-      <p>Common justifiable filter: <strong>time limits</strong>, especially for <strong>state-of-the-art</strong> searches.</p>
-      <blockquote>
-        <p>For fast-evolving fields like software as a medical device, old studies may no longer be relevant.</p>
-      </blockquote>
-      <hr />
-      <p><strong>5. Reproducibility</strong></p>
-      <p>Another person should be able to:</p>
-      <ul>
-        <li>Rerun the search,</li>
-        <li>Achieve the same results.</li>
-      </ul>
-      <hr />
-      <p><strong>Application to Clinical Evaluation</strong></p>
-      <ul>
-        <li>Create a detailed <strong>search protocol</strong> for both the <strong>SOT</strong> and <strong>device-specific</strong> reviews.</li>
-        <li>Document:
-          <ul>
-            <li>Research questions</li>
-            <li>Search terms</li>
-            <li>Exclusion criteria and justifications</li>
-          </ul>
-        </li>
-        <li>Justify use of filters.</li>
-        <li>Remove duplicate results.</li>
-        <li>Use validated methods.</li>
-        <li>Ensure full <strong>reproducibility</strong>.</li>
-      </ul>
-      <hr />
-      <p>In summary, for <strong>Nonconformity Number Three</strong>, we’ve covered:</p>
-      <ul>
-        <li>What a systematic search method is,</li>
-        <li>The components of a systematic search,</li>
-        <li>How systematic search methodology should be applied during clinical evaluation.</li>
-      </ul>
-      <hr />
-      <p>As a reminder, Mantra Systems is a clinical evaluation specialist.</p>
-      <ul>
-        <li>Extensive experience across the market,</li>
-        <li>Clinical evaluations for all classes of medical device,</li>
-        <li>A current 100% submission success record.</li>
-      </ul>
-      <p>Feel free to reach out to us if you have any questions about clinical evaluation or you’d like to speak with any of our specialists with regard to your own.</p>
-      <p>That concludes episode three of this non-conformity series.</p>
-      <p>Many thank yous for your kind attention.</p>
-    </div>
-    ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[Addressing non-conformities isn’t just about avoiding negative outcomes; it’s about building a robust, evidence-based foundation.]]></summary></entry><entry><title type="html">Regulatory Writing Deadlines: The Pressure to Get It Right the First Time</title><link href="https://www.mantrasystems.co.uk/articles/regulatory-writing-deadlines-the-pressure-to-get-it-right-the-first-time" rel="alternate" type="text/html" title="Regulatory Writing Deadlines: The Pressure to Get It Right the First Time" /><published>2025-04-30T00:00:00+01:00</published><updated>2025-04-29T19:07:17+01:00</updated><id>https://www.mantrasystems.co.uk/articles/regulatory-writing-deadlines-the-pressure-to-get-it-right-the-first-time</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/regulatory-writing-deadlines-the-pressure-to-get-it-right-the-first-time"><![CDATA[<p>Anyone who’s worked in the medical device industry knows that regulatory deadlines aren’t just part of the process—they define it.</p>
+    <p><strong>The Three Key Stages</strong></p>
+    <p>On a very basic level, there are three key stages to a systematic literature search:</p>
+    <ol>
+      <li><strong>Intended purpose</strong></li>
+      <li><strong>Research questions</strong></li>
+      <li><strong>Search terms</strong></li>
+    </ol>
+    <hr />
+    <p><strong>Intended Purpose</strong></p>
+    <p>The intended purpose places the literature search into context and helps form an input to the definition of research questions.</p>
+    <p>Spending time on the intended purpose helps map out:</p>
+    <ul>
+      <li>The types of patients and conditions that fall under the scope of the search,</li>
+      <li>The context of clinical use, and so on.</li>
+    </ul>
+    <p>It is a vital input to the scope of the literature search and also shows traceability to how the device is used and applied in clinical practice. So it is an important albeit rather basic stage from the perspective of a literature search. But don’t skip it.</p>
+    <hr />
+    <p><strong>Research Questions</strong></p>
+    <p>The next stage is to begin crafting research questions.</p>
+    <p>There’s lots of ways to do this, but ultimately a research question or a set of research questions just reduces what you want to achieve from the search to a list of simple questions. And it’s generally preferred that a validated format is used. PICO is one of them. We’re going to take a look at PICO in a moment.</p>
+    <p>It’s a good stage to explore and refine the scope of the search.</p>
+    <blockquote>
+      <p>It’s very easy to change research questions—much easier than changing search terms.</p>
+    </blockquote>
+    <p>Because with search terms, you have to rerun a search each time you change it, and that can be quite labor-intensive, especially if you’ve already started with inclusion/exclusion screening.</p>
+    <p>So research questions are worth spending time on because they form a vital input to the specific searches that you’ll run.</p>
+    <hr />
+    <p><strong>The PICO Framework</strong></p>
+    <p>Let’s have a quick look at one validated method—it’s not the only one—but PICO is an important one.</p>
+    <p><strong>PICO</strong> stands for:</p>
+    <ul>
+      <li><strong>P</strong>atient</li>
+      <li><strong>I</strong>ntervention</li>
+      <li><strong>C</strong>omparator</li>
+      <li><strong>O</strong>utcome</li>
+    </ul>
+    <p>It’s just a way of breaking down the search or the scope of search into these specific stages.</p>
+    <p>Example:</p>
+    <ul>
+      <li><strong>Patients</strong>: Patients with osteoarthritis of the hip who are candidates for total hip replacement surgery.</li>
+      <li><strong>Intervention</strong>: Ceramic-on-ceramic hip implants.</li>
+      <li><strong>Comparators</strong>: Metal-on-metal or metal-on-polyester hip implants.</li>
+      <li><strong>Outcomes</strong>: Pain VAS and range of motion.</li>
+    </ul>
+    <p>That’s just one way of framing research questions using the PICO system.</p>
+    <hr />
+    <p><strong>Stage Three: Search Terms</strong></p>
+    <p>What we’ve got here is a series of screen grabs just doing an example search on PubMed.</p>
+    <p>Example breakdown:</p>
+    <ul>
+      <li>Search 18: Osteoarthritis (produces many results)</li>
+      <li>Search 19: Total hip replacement or hip arthroplasty</li>
+      <li>Search 20: THR (abbreviation of total hip replacement)</li>
+    </ul>
+    <blockquote>
+      <p>You want to avoid repeating the same term over and over again, especially when using boolean AND, because it will look for multiple instances unnecessarily.</p>
+    </blockquote>
+    <p>In PubMed’s advanced search:</p>
+    <ul>
+      <li>You can combine individual searches using boolean operators.</li>
+      <li>Click the three dots next to a search and select ‘Add query’.</li>
+      <li>Combine subsequent searches using <strong>AND</strong>.</li>
+    </ul>
+    <p>Result:</p>
+    <ul>
+      <li>A refined composite search that significantly narrows down the results (e.g., to 51 highly relevant studies).</li>
+    </ul>
+    <hr />
+    <p><strong>Additional Systematic Search Considerations</strong></p>
+    <p><strong>1. Database Specification</strong></p>
+    <p>State in advance which databases will be used in your search protocol.</p>
+    <p>Examples:</p>
+    <ul>
+      <li>PubMed</li>
+      <li>Google Scholar</li>
+      <li>Embase</li>
+      <li>Cochrane</li>
+      <li>WDI</li>
+    </ul>
+    <blockquote>
+      <p>Usually, using a minimum of two is best practice. Otherwise, it may suggest bias.</p>
+    </blockquote>
+    <hr />
+    <p><strong>2. Inclusion/Exclusion Screening</strong></p>
+    <p>Refine your results to only those that are relevant.</p>
+    <ul>
+      <li>Define exclusion criteria in advance and document them in the search protocol.</li>
+      <li>Prevents designing criteria reactively to include only favorable results.</li>
+    </ul>
+    <p>Example:</p>
+    <ul>
+      <li>Code E1: Exclude in vitro, pre-clinical, or animal studies because their results may not transfer to humans.</li>
+    </ul>
+    <p>This ensures every excluded result has a justification.</p>
+    <hr />
+    <p><strong>3. Handling Duplicate Results</strong></p>
+    <p>Problems:</p>
+    <ul>
+      <li>Same study found more than once.</li>
+      <li>Same dataset appearing in multiple publications.</li>
+    </ul>
+    <p>Risks increase when including <strong>systematic reviews</strong>, which:</p>
+    <ul>
+      <li>May duplicate primary data sources.</li>
+      <li>Can create overlap and confusion.</li>
+    </ul>
+    <p>Tactics:</p>
+    <ul>
+      <li>Look out for recurring author names, shared recruitment techniques, and subsidiary publications.</li>
+      <li>Consider excluding systematic reviews and focus on primary sources.</li>
+    </ul>
+    <blockquote>
+      <p>Including duplicates risks skewing your analysis by over-weighting repeated data.</p>
+    </blockquote>
+    <hr />
+    <p><strong>4. Use of Filters</strong></p>
+    <p>Search databases offer filters, but:</p>
+    <ul>
+      <li>Use with caution.</li>
+      <li>Carefully justify their use.</li>
+      <li>Filters vary across databases.</li>
+    </ul>
+    <p>Common justifiable filter: <strong>time limits</strong>, especially for <strong>state-of-the-art</strong> searches.</p>
+    <blockquote>
+      <p>For fast-evolving fields like software as a medical device, old studies may no longer be relevant.</p>
+    </blockquote>
+    <hr />
+    <p><strong>5. Reproducibility</strong></p>
+    <p>Another person should be able to:</p>
+    <ul>
+      <li>Rerun the search,</li>
+      <li>Achieve the same results.</li>
+    </ul>
+    <hr />
+    <p><strong>Application to Clinical Evaluation</strong></p>
+    <ul>
+      <li>Create a detailed <strong>search protocol</strong> for both the <strong>SOT</strong> and <strong>device-specific</strong> reviews.</li>
+      <li>Document:
+        <ul>
+          <li>Research questions</li>
+          <li>Search terms</li>
+          <li>Exclusion criteria and justifications</li>
+        </ul>
+      </li>
+      <li>Justify use of filters.</li>
+      <li>Remove duplicate results.</li>
+      <li>Use validated methods.</li>
+      <li>Ensure full <strong>reproducibility</strong>.</li>
+    </ul>
+    <hr />
+    <p>In summary, for <strong>Nonconformity Number Three</strong>, we’ve covered:</p>
+    <ul>
+      <li>What a systematic search method is,</li>
+      <li>The components of a systematic search,</li>
+      <li>How systematic search methodology should be applied during clinical evaluation.</li>
+    </ul>
+    <hr />
+    <p>As a reminder, Mantra Systems is a clinical evaluation specialist.</p>
+    <ul>
+      <li>Extensive experience across the market,</li>
+      <li>Clinical evaluations for all classes of medical device,</li>
+      <li>A current 100% submission success record.</li>
+    </ul>
+    <p>Feel free to reach out to us if you have any questions about clinical evaluation or you’d like to speak with any of our specialists with regard to your own.</p>
+    <p>That concludes episode three of this non-conformity series.</p>
+    <p>Many thank yous for your kind attention.</p>
+  </div>
+  ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[Addressing non-conformities isn’t just about avoiding negative outcomes; it’s about building a robust, evidence-based foundation.]]></summary></entry><entry><title type="html">Regulatory Writing Deadlines: The Pressure to Get It Right the First Time</title><link href="https://www.mantrasystems.co.uk/articles/regulatory-writing-deadlines-the-pressure-to-get-it-right-the-first-time" rel="alternate" type="text/html" title="Regulatory Writing Deadlines: The Pressure to Get It Right the First Time" /><published>2025-04-30T00:00:00+01:00</published><updated>2025-04-29T19:07:17+01:00</updated><id>https://www.mantrasystems.co.uk/articles/regulatory-writing-deadlines-the-pressure-to-get-it-right-the-first-time</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/regulatory-writing-deadlines-the-pressure-to-get-it-right-the-first-time"><![CDATA[<p>Anyone who’s worked in the medical device industry knows that regulatory deadlines aren’t just part of the process—they define it.</p>
   <p>Whether you’re drafting a <a href="/medical-device-regulatory-consulting-services/mdr-consulting/clinical-evaluation">Clinical Evaluation Report</a> (CER) or preparing an <a href="medical-device-regulatory-consulting-services/ivdr-consulting">IVDR</a> or <a href="/medical-device-regulatory-consulting-services/mdr-consulting/">MDR submission</a>, there’s one golden rule everyone learns quickly: you feel the pressure to get it right the first time, because in this field, second chances are rare—and costly.</p>
   <p>And that pressure? It doesn’t just come from the clock. It comes from the complexity of the content, the coordination required across teams, and the ever-present reality that regulators aren’t grading on a curve.</p>
   <h2 id="why-the-clock-is-always-ticking-and-coordinating-moving-pieces">Why the Clock Is Always Ticking and Coordinating Moving Pieces</h2>
@@ -877,38 +906,4 @@
     <li><a href="/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period">Transitioning from IVDD to IVDR: Key Considerations</a></li>
   </ul>
   <p>Navigating IVDR classification can be challenging. <strong>Mantra Systems</strong> provides <strong>expert regulatory consulting, medical writing, and compliance support</strong> to help manufacturers <strong>interpret and implement</strong> the latest MDCG guidance seamlessly. <a href="/contact">Contact us today</a> for a free, confidential consultation on how we can support your IVDR compliance journey.</p>
-  ]]></content><author><name>chandini-vk</name></author><category term="IVDR" /><summary type="html"><![CDATA[We detail how this revision ensures manufacturers, notified bodies, and health institutions have a clearer regulatory framework.]]></summary></entry><entry><title type="html">Top 5 Common Pitfalls to Avoid During Risk Assessment</title><link href="https://www.mantrasystems.co.uk/articles/top-5-risk-assessment-pitfalls-how-to-avoid-them" rel="alternate" type="text/html" title="Top 5 Common Pitfalls to Avoid During Risk Assessment" /><published>2025-03-26T00:00:00+00:00</published><updated>2025-03-26T10:48:01+00:00</updated><id>https://www.mantrasystems.co.uk/articles/top-5-risk-assessment-pitfalls-how-to-avoid-them</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/top-5-risk-assessment-pitfalls-how-to-avoid-them"><![CDATA[<p>A medical device-specific risk assessment uses the <a href="https://www.iso.org/standard/72704.html">ISO 14971 standard</a>, which provides guidance for producing and maintaining a risk management file.</p>
-  <p>A risk assessment is a process used to identify, analyse, and mitigate risk in the design and development process to enable the sale of safe and successful medical devices. <a href="/eu-mdr-compliance/risk-management">Risk assessment</a> ensures that all potential hazards are identified and mitigated to protect patient safety. However, manufacturers often encounter mistakes along the way that can compromise the effectiveness of the assessment and delay product launch. To help you navigate the risk management process smoothly, here are the <strong>Top 5 Pitfalls</strong> to avoid during the risk assessment of your medical devices.</p>
-  <figure>
-    <img src="/assets/images/content/articles/inline/5-pitfalls-for-risk-assessment.svg" alt="Diagram highlighting the 5 pitfalls for risk assessment." loading="lazy" width="498" height="552" />
-  </figure>
-  <h2 id="1-failing-to-identify-all-potential-hazards">1. Failing to Identify All Potential Hazards</h2>
-  <p>To begin a risk assessment, a comprehensive identification of potential hazards that could arise at any stage of the device’s lifecycle should be conducted. This involves documenting known and foreseeable hazards related to the medical device, considering its intended use, foreseeable misuse, and safety characteristics. A significant pitfall occurs here when manufacturers underestimate these hazards, in turn leading to an incomplete risk assessment.</p>
-  <p><strong>How to avoid this:</strong></p>
-  <p>Ensure cross-disciplinary teams are engaged (e.g., engineering, clinical, regulatory experts). This will ensure a thorough hazard analysis. Consider all potential risks, including those related to device malfunction, misuse, environmental factors, and human error.</p>
-  <h2 id="2-insufficient-documentation-and-traceability">2. Insufficient Documentation and Traceability</h2>
-  <p><a href="/enable-ce-mark/online-video-training-courses/risk-management">Clear documentation</a> of the risk management process is required for regulatory authorities, e.g., Notified Bodies, to review. <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745">Article 10 of the EU MDR</a> requires all manufacturers to establish, document, implement, and maintain a system for Risk Management. A frequent pitfall here is failing to maintain proper documentation of hazard identification, risk analysis, and control measures. This, in turn, will lead to non-compliance and delays.</p>
-  <p><strong>How to avoid this:</strong></p>
-  <p>Confirm that every step of the risk management process is documented in detail. Alongside this, you can use risk management tools, e.g., FMEA or risk matrices, to track the rationale behind each decision. This will allow for full traceability throughout the device lifecycle.</p>
-  <p>Maintaining and updating a Risk Management strategy requires scheduled review and appraisal sessions to analyse system suitability. The clinical evaluation cycle offers an opportunity to assimilate Risk Management data collected and to re-perform a benefit-risk analysis of the device. Any updates or changes to the process must be reflected in documentation and disseminated across the organisation to ensure the changes are implemented.</p>
-  <h2 id="3-underestimating-risk-acceptability-criteria">3. Underestimating Risk Acceptability Criteria</h2>
-  <p>Determining whether a risk is acceptable or not is crucial in risk assessment. During risk evaluation, the manufacturer must assess estimated risks for each hazardous situation and check if they meet the criteria in the risk management plan.</p>
-  <p>Setting inappropriate risk acceptance thresholds can directly impact both patient safety and product timelines. If the acceptable risk is set too high, the device may pose a significant threat to users, leading to potential harm or regulatory non-compliance. On the other hand, being too cautious and lowering the threshold could result in unnecessary design changes or delays in the approval process, even for risks that are statistically insignificant.</p>
-  <p><strong>How to avoid this:</strong></p>
-  <p>Risk acceptance should be based on both regulatory requirements and real-world clinical needs. The criteria should be proportional to the severity and likelihood of the identified risks. A low-risk device may have higher acceptable risk levels, while a high-risk device, such as a life-supporting medical device, must have stringent limits. Tools like risk matrices can help categorise and prioritise risks by their severity and probability, ensuring a rational and evidence-based approach to setting acceptability levels.</p>
-  <h2 id="4-ignoring-post-market-risks">4. Ignoring Post-Market Risks</h2>
-  <p>Many manufacturers place a significant emphasis on pre-market risks, neglecting the post-market risks that may arise once the device is in use by patients or healthcare professionals. The manufacturer must review all collected post-market information, focusing on safety relevance. This aims to identify unrecognised hazards not initially identified, hazardous situations with now-unacceptable estimated risks, and cases where the overall residual risk is no longer acceptable relative to intended use benefits.</p>
-  <p><strong>How to avoid:</strong></p>
-  <p>Ensure you incorporate a robust <a href="/eu-mdr-compliance/post-market-surveillance-pms">post-market surveillance plan</a> into your risk management strategy. As well as this, make sure you set up systems to monitor and track device performance, adverse events, and potential hazards once the product is on the market.</p>
-  <h2 id="5-neglecting-risk-control-and-mitigation-strategies">5. Neglecting Risk Control and Mitigation Strategies</h2>
-  <p>The identification of hazards is just one part of the risk management process. The next critical phase is the implementation of effective risk controls, which is necessary to reduce identified risks to acceptable levels. Failing to implement effective controls or using controls that are impractical or inadequate is a common trap. This can lead to unresolved risks that may jeopardise patient safety, compromise device effectiveness, and increase the likelihood of regulatory non-compliance.</p>
-  <p><strong>How to avoid:</strong></p>
-  <p>To avoid neglecting risk control strategies, it’s essential to follow a structured approach that aligns with recognised best practices and regulatory standards. Here are some practical steps:</p>
-  <ul>
-    <li>Start by prioritising the risks that need mitigation based on their severity and probability of occurrence.</li>
-    <li>Evaluate the effectiveness of controls. This can include pre-market validation through clinical trials, in-vitro testing, and failure testing, as well as post-market monitoring to ensure that controls remain effective over time.</li>
-    <li>For each identified risk, provide a rationale for the selected control, how it works to mitigate the hazard, and how its effectiveness will be measured.</li>
-  </ul>
-  <h2 id="final-thoughts-mastering-risk-assessment">Final Thoughts: Mastering Risk Assessment</h2>
-  <p>By carefully identifying all potential hazards, setting realistic risk acceptability criteria, and implementing robust mitigation strategies, you can significantly reduce the likelihood of regulatory setbacks and safety issues. A proactive and comprehensive approach to risk management not only protects patients but also streamlines the path to market, helping your device succeed in a competitive landscape. Remember, risk assessment is an ongoing process that requires constant vigilance and adaptation, so stay committed to continuous improvement. Please <a href="/contact">contact us if you need any help with risk assessment</a> or any medical device regulation issue.</p>
-  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[Learn how to sidestep costly mistakes which manufacturers commonly make. From hazard ID to post-market surveillance, we help you improve safety and speed up approvals.]]></summary></entry></feed>
+  ]]></content><author><name>chandini-vk</name></author><category term="IVDR" /><summary type="html"><![CDATA[We detail how this revision ensures manufacturers, notified bodies, and health institutions have a clearer regulatory framework.]]></summary></entry></feed>

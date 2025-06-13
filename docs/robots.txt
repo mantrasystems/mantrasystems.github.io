@@ -1,4 +1,4 @@
-Sitemap: https://www.mantrasystems.co.uk/sitemap.xml
+Sitemap: https://mantrasystems.com/sitemap.xml
 User-agent: *
 Allow: /
 Disallow: /404.html

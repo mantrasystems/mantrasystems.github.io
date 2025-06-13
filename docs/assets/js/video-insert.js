@@ -23,7 +23,7 @@ function labnolThumb(id) {
 function labnolEmbed(e) {
   e.preventDefault();
   var element = document.createElement("iframe");
-  var src = "https://www.youtube-nocookie.com/embed/" + this.dataset.id + "?autoplay=1&origin=https://mantrasystems.co.uk";
+  var src = "https://www.youtube-nocookie.com/embed/" + this.dataset.id + "?autoplay=1&origin=https://mantrasystems.com";
   element.setAttribute("src", src);
   element.setAttribute("type", "video/mp4");
   element.setAttribute("allowfullscreen", "1");

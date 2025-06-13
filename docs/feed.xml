@@ -1,73 +1,206 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.mantrasystems.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.mantrasystems.co.uk/" rel="alternate" type="text/html" /><updated>2025-05-19T10:18:06+01:00</updated><id>https://www.mantrasystems.co.uk/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">UK Medical Device Regulations Set for Major 2026 Update</title><link href="https://www.mantrasystems.co.uk/articles/uk-medical-device-regulations-set-for-major-2026-update" rel="alternate" type="text/html" title="UK Medical Device Regulations Set for Major 2026 Update" /><published>2025-05-19T00:00:00+01:00</published><updated>2025-05-15T17:39:19+01:00</updated><id>https://www.mantrasystems.co.uk/articles/uk-medical-device-regulations-set-for-major-2026-update</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/uk-medical-device-regulations-set-for-major-2026-update"><![CDATA[<p>The UK government is preparing to introduce a second major update to the regulatory framework for medical devices, with new pre-market requirements expected to come into effect in 2026.</p>
-      <p>These changes form part of a broader reform effort that has been underway for several years. In 2022, the UK government published its <em><a href="https://assets.publishing.service.gov.uk/media/62b577f6d3bf7f0b00165a32/Government_response_to_consultation_on_the_future_regulation_of_medical_devices_in_the_United_Kingdom.pdf">Government response to consultation on the future regulation of medical devices in the United Kingdom</a></em>, setting out a phased approach to overhaul the UK Medical Devices Regulations (UK MDR).</p>
-      <p>In December 2024, the MHRA published a <em><a href="https://assets.publishing.service.gov.uk/media/6759a8827e419d6e07ce2b21/Med_Tech_Regulatory_Roadmap_V2_December_2024.pdf">Medical Devices Regulatory Reform roadmap </a></em> providing an update on the intended timelines for implementing future UK medical device regulations. This roadmap is structured around four key areas:</p>
-      <ol>
-        <li>Post-market surveillance (PMS) requirements</li>
-        <li>Pre-market requirements</li>
-        <li>Broader policy development (including an IVD roadmap and <a href="https://www.gov.uk/guidance/exceptional-use-authorisation">exceptional use authorisations</a>)</li>
-        <li>Software, including AI and digital mental health products.</li>
-      </ol>
-      <h2 id="post-market-amendment">Post-market amendment</h2>
-      <p>On the 16th of December 2024 the UK Government published <em><a href="https://www.legislation.gov.uk/uksi/2024/1368/made">The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024</a></em>.</p>
-      <p>This legislation, which comes into effect on 16th June 2025, introduces strengthened PMS requirements for medical device manufacturers. For an in-depth overview of the changes, <a href="https://www.mantrasystems.co.uk/articles/overview-of-uk-2024-post-market-surveillance-update">see our dedicated  article on this topic</a>.</p>
-      <p>This legislation marks the first formal update to the UK MDR.</p>
-      <h2 id="pre-market-amendment">Pre-market amendment</h2>
-      <p>Following the PMS update to the UK MDR, the UK government has consulted on a second major update - <em><a href="https://www.gov.uk/government/publications/implementation-of-the-future-regulation-of-medical-devices/implementation-of-the-future-regulations#futurecore-regulations">Routes to market and in vitro diagnostic devices</a></em> - which aims to implement new regulations for pre-market requirements.</p>
-      <p>In a <a href="https://hansard.parliament.uk/Lords/2025-05-06/debates/745FFAA1-DEB8-4B79-84FC-4F6656F2DB8C/MedicalDevices(Amendment)(GreatBritain)Regulations2025">recent House of Lords motion</a>, Baroness Merron mentioned that this major update is expected to come into force in 2026.</p>
-      <p>Many of the changes introduced with this legislative amendment will have the effect of bringing the UK MDR in closer alignment with the EU MDR. Below we highlight some of the changes that we might expect to see:</p>
-      <ul>
-        <li>Up-classification of <a href="/solutions/regulatory-consulting-for-samd-software-as-a-medical-device">Software as a Medical Device (SaMD)</a> and implantable medical devices, resulting in stricter requirements for both device categories</li>
-        <li>Introduction of a framework for international recognition</li>
-        <li>Alignment of the UK MDR Essential Requirements (ERs) with the EU MDR General</li>
-        <li>Safety and Performance Requirements (GSPRs)</li>
-        <li>Updated classification rules for In-Vitro Diagnostic (IVD) medical devices</li>
-        <li>Introduction of implant cards and Unique Device Identifiers (UDI)</li>
-        <li>Strengthened technical documentation requirements</li>
-      </ul>
-      <h2 id="conclusion">Conclusion</h2>
-      <p>The forthcoming updates to the UK Medical Devices Regulations represent a significant shift in the country’s regulatory landscape, aiming to enhance patient safety, foster innovation, and improve international alignment. While manufacturers already compliant with the EU MDR will find many of the anticipated changes familiar, UK-based manufacturers who have not yet adapted to similar frameworks should begin preparations. Early planning and a thorough understanding of the new requirements will be essential to maintaining market access and avoiding disruption. With the new pre-market requirements expected to come into force in 2026, the time to act is now.</p>
-      <p>Unsure how upcoming regulatory changes might affect your device? <a href="/contact">Contact us today for a free, no-obligation discussion</a>.</p>
-      ]]></content><author><name>simon-cumiskey</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[The UK government is preparing to introduce a second major update to the regulatory framework for medical devices, with new pre-market requirements expected to come into effect in 2026.]]></summary></entry><entry><title type="html">SOTA Exclusions: The Ongoing Quest for Clarity</title><link href="https://www.mantrasystems.co.uk/articles/sota-exclusions-ongoing-quest-for-clarity" rel="alternate" type="text/html" title="SOTA Exclusions: The Ongoing Quest for Clarity" /><published>2025-05-12T00:00:00+01:00</published><updated>2025-05-15T17:39:27+01:00</updated><id>https://www.mantrasystems.co.uk/articles/sota-exclusions-ongoing-quest-for-clarity</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/sota-exclusions-ongoing-quest-for-clarity"><![CDATA[<p>Anyone who’s worked on a <a href="/medical-device-regulatory-consulting-services/mdr-consulting/clinical-evaluation">Clinical Evaluation</a> knows the drill by now: you’re deep into the narrative, you’ve built a clear clinical picture, the literature is supporting your claims, and then you hit the <a href="/articles/literature-search-sota-review-and-clinical-evaluation">State of the Art (SOTA) section</a>.</p>
-    <p>It’s one of the most deceptively complex parts of the Clinical Evaluation. The SOTA section, at its core, is about establishing the clinical context of your device. You’re identifying technologies, treatments, and medical devices that are comparable or similar to yours and demonstrating how your device measures up against them. In theory, this sounds straightforward, but here’s where things get complicated. While you’re focused on proving your device stands up to clinical scrutiny, regulators are equally interested in what you’re not including, and more importantly, <strong>why</strong>.</p>
-    <h2 id="the-real-challenge-what-you-leave-out-matters-just-as-much">The Real Challenge: What You Leave Out Matters Just As Much</h2>
-    <p>SOTA exclusions aren’t just a box-ticking exercise, they’re a true test of your reasoning and your ability to defend your choices with confidence. If you exclude devices, alternative technologies, or treatment options that seem relevant without a solid justification in place, the regulators will notice. It’s not enough to say, “This device isn’t comparable”, you need to explain why. Is it the indication? The mechanism of action? The patient population? Is there insufficient clinical evidence? Every exclusion must be logical, traceable, and transparent.</p>
-    <h2 id="why-this-keeps-coming-up">Why This Keeps Coming Up</h2>
-    <p>This isn’t just a one-off issue, as it’s seen across many submissions. Most teams feel confident about what they’ve included in their SOTA, but the rationale for exclusions often ends up vague, underdeveloped, or missing entirely. The truth is, SOTA requires interpretation, and that’s exactly why it’s so frequently dissected. If a seemingly relevant comparator or treatment is left out without a strong explanation, it stands out.</p>
-    <p>Regulators don’t just want to see what you included, they want to understand why you didn’t include something else. Without that clarity, they may assume the exclusion was unintentional or that your review wasn’t comprehensive. In short, it keeps coming up because exclusions are easy to challenge and hard to justify unless you’ve done the thinking and documented it clearly.</p>
-    <figure class="intrinsic">
-      <img src="/assets/images/content/articles/inline/sota-quest.png" alt="How to Overcome the SOTA Exclusion Trap process diagram." loading="lazy" width="400" height="428" />
-      <figcaption>How to Overcome the SOTA Exclusion Trap</figcaption>
-    </figure>
-    <h3 id="1-start-with-a-broad-landscape-then-narrow-it-down">1. Start with a broad landscape, then narrow it down</h3>
-    <p>Don’t begin with what you want to exclude; start with everything that could be relevant. List out all comparable technologies, treatments, and devices, even those you know won’t make the final cut. From there, document your rationale for keeping or excluding each one.</p>
-    <p><em>Tip: <a href="https://www.medical-device-regulation.eu/wp-content/uploads/2019/05/2_7_1_rev4_en.pdf">MedDev 2.7/1 rev 4</a> requires the use of carefully formulated inclusion / exclusion criteria, augmented by an objective, non-biased, systematic screening and review process such as PICO (patient characteristics, type of intervention, control, and outcome queries), or PRISMA (The Preferred Reporting Items for Systematic Reviews and Meta-Analyses).</em></p>
-    <h3 id="2-be-specific-in-your-exclusions">2. Be specific in your exclusions</h3>
-    <p>Vague justifications are one of the fastest ways to undermine an otherwise strong Clinical Evaluation. A sentence like “This technology was excluded due to differences in application” is almost guaranteed to prompt questions. Instead, give clear, defensible reasons tied to your device’s design, function, and clinical use. Examples of strong justifications:</p>
-    <ul>
-      <li>Article reporting outcomes or clinical scenarios entirely unrelated to the subject matter.</li>
-      <li>Not related to the intended purpose of the subject device. For example, an article focused on wound closure techniques would be an inappropriate focus when the subject matter of a review is the safety or performance of a hip implant.</li>
-      <li>The literature contains unsubstantiated opinions</li>
-    </ul>
-    <p><em>Tip: If you’re unsure how specific to be, err on the side of more. Specificity signals competence and confidence.</em></p>
-    <h3 id="3-link-exclusions-back-to-the-devices-intended-purpose">3. Link exclusions back to the device’s intended purpose</h3>
-    <p>The <a href="/articles/a-medical-devices-intended-purpose-what-is-the-point">intended purpose isn’t just regulatory terminology</a>, it’s your compass. Every inclusion or exclusion should align with it. If something is excluded because it falls outside your indication, say so. If your device is single-use and another is reusable, that difference might be clinically meaningful.</p>
-    <p><em>Tip: Write your intended purpose in plain language and keep it visible during writing and editing. Use it as a live reference point when making decisions on what to include or exclude.</em></p>
-    <h3 id="4-document-the-process-and-justification-not-just-the-outcome">4. Document the process and justification (not just the outcome)</h3>
-    <p>A polished summary is important, but so is the trail you took to get there. Regulators don’t just want to see the final result; they want to know you followed a systematic process to get there.</p>
-    <p>It may be helpful to use exclusion codes to codify reasons for exclusions (which may include, for example, “unrelated topic” or “article not available in English,” etc).</p>
-    <p><em>Tip: Save your search strings, selection criteria, and full extractions of literature from your databases. Include a short methods section describing how you determine exclusions. This small step can prevent a lot of back-and-forth during review.</em></p>
-    <h3 id="5-avoid-over-exclusion">5. Avoid over-exclusion</h3>
-    <p>While it’s important to justify exclusions, it’s equally important not to exclude too many devices or treatments, as an overly narrow SOTA can look suspicious to regulators. Try to keep the scope broad, including all potentially relevant comparators, and only exclude those with a well-supported rationale.</p>
-    <p><em>Tip: Aim for a balance. Make sure your exclusions are justified, but ensure that your SOTA still includes a reasonable number of relevant sources, where deemed appropriate. It demonstrates thoroughness and strengthens your argument for your device’s clinical positioning.</em></p>
-    <h2 id="final-thought-clarity-and-transparency-will-always-be-your-strongest-defence">Final Thought: Clarity and Transparency Will Always Be Your Strongest Defence</h2>
-    <p>SOTA exclusions will likely remain one of the more complex aspects of a Clinical Evaluation submission. However, with a well-structured approach, <a href="/eu-mdr-compliance/literature-search-protocol-sota-review">the right tools</a>, and a strong focus on clinical reasoning, you can turn this challenge into an opportunity. Clarity in the rationale for exclusions can enhance the strength of your submission by demonstrating thoroughness, transparency, and attention to detail.</p>
-    <p>By articulating your exclusions in a manner that’s easy to follow and backed by solid evidence, you make it easier for regulators to see your reasoning, leading to smoother reviews and fewer questions along the way. Navigating exclusions doesn’t have to be daunting, but it does require precision, thorough documentation, and a clear understanding of both clinical and regulatory expectations.</p>
-    <p>If you’re feeling uncertain about your SOTA exclusions or finding it difficult to manage the comparator landscape, <a href="/contact">don’t hesitate to reach out to Mantra Systems</a>. We offer tailored support to guide you through the process, ensuring your Clinical Evaluation is both comprehensive and compliant. Let us help you get it right the first time.</p>
-    ]]></content><author><name>kamiya-crabtree</name></author><category term="Clinical Evaluation" /><summary type="html"><![CDATA[SOTA exclusions aren’t just a box-ticking exercise, they’re a true test of your reasoning and your ability to defend your choices with confidence.]]></summary></entry><entry><title type="html">Clinical Evaluation Masterclass: It is not clear that any systematic search methods were used for the literature review – Episode 3</title><link href="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-3-not-clear-that-any-systematic-search-methods-were-used-for-the-literature-review" rel="alternate" type="text/html" title="Clinical Evaluation Masterclass: It is not clear that any systematic search methods were used for the literature review – Episode 3" /><published>2025-05-08T00:00:00+01:00</published><updated>2025-05-07T15:31:50+01:00</updated><id>https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-3-not-clear-that-any-systematic-search-methods-were-used-for-the-literature-review</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-3-not-clear-that-any-systematic-search-methods-were-used-for-the-literature-review"><![CDATA[<p>Clinical evaluation is a cornerstone of compliance under the EU Medical Device Regulation (MDR), directly tied to the safety and performance of a medical device throughout its lifecycle.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://mantrasystems.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mantrasystems.com/" rel="alternate" type="text/html" /><updated>2025-06-13T11:52:06+01:00</updated><id>https://mantrasystems.com/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Finding My Passion at the Intersection of Science, Regulation, and Medical Devices</title><link href="https://mantrasystems.com/articles/finding-my-passion-at-the-intersection-of-science-regulation-and-medical-devices" rel="alternate" type="text/html" title="Finding My Passion at the Intersection of Science, Regulation, and Medical Devices" /><published>2025-06-10T00:00:00+01:00</published><updated>2025-06-10T12:34:22+01:00</updated><id>https://mantrasystems.com/articles/finding-my-passion-at-the-intersection-of-science-regulation-and-medical-devices</id><content type="html" xml:base="https://mantrasystems.com/articles/finding-my-passion-at-the-intersection-of-science-regulation-and-medical-devices"><![CDATA[<p>My journey began with a simple question: How does scientific discovery become something tangible that improves patients’ lives?</p>
+      <p>I’ve always been fascinated by the intersection of research and real-world impact, where raw data becomes a tool to diagnose, treat, and heal. For me, Regulatory affairs turned out to be the perfect bridge between these worlds, helping to transform innovation into accessible, safe medical advances.</p>
+      <h2 id="first-steps-standards-science-and-global-impact">First Steps: Standards, Science, and Global Impact</h2>
+      <p>During my time at university, I undertook a placement year at the National Institute for Biological Standards and Control (NIBSC), a centre of the MHRA. I worked with WHO International Standards for blood coagulation factors - the highest level of reference materials for estimating and measuring these biological components.</p>
+      <p>This was my introduction to in vitro diagnostics and the invisible framework that ensures accuracy in labs worldwide. I saw how these standards play a crucial role in not only ensuring the accuracy and consistency of diagnostic tests used around the world, but also for manufacturers producing therapeutic products, reagents, and diagnostic kits, ensuring consistency across borders. More importantly, I glimpsed the regulatory ecosystem that safeguards patient safety while fostering innovation.</p>
+      <p>This experience sparked my interest in regulatory affairs, a field at the intersection of science, law, and business, all working together to protect public health.</p>
+      <h2 id="from-theory-to-practice-joining-mantra-systems">From Theory to Practice: Joining Mantra Systems</h2>
+      <p>After graduating, I knew I wanted to be part of this dynamic field. That led me to Mantra Systems, a consultancy specialising in medical device regulatory affairs. Here, I’ve had the privilege of working with manufacturers at every stage, from startups navigating their first CE mark to global companies adapting to the MDR and IVDR.</p>
+      <p>One of the most surprising lessons? The sheer variety of products that qualify as medical devices under the regulations, some of which I’d never have initially considered. From reading glasses and surgical gloves to breath analysers and AI-powered software, the diversity of technologies is incredible. It’s fascinating to see how even everyday items can be considered a medical device depending on their <a href="/articles/a-medical-devices-intended-purpose-what-is-the-point">intended purpose</a>. Working across such a broad spectrum of products keeps the job intellectually stimulating and ensures no two projects are ever the same.</p>
+      <h2 id="why-regulatory-affairs-matters">Why Regulatory Affairs Matters</h2>
+      <p>What excites me most about this work is its dual impact: it’s intellectually rigorous and deeply purposeful. Yes, the regulatory landscape is complex (especially with transitions like MDD to <a href="/articles/mastering-eu-mdr-essential-steps-for-compliance-ready-docs">MDR</a> and <a href="/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period">IVDD to IVDR</a>). But that complexity drives constant learning and growth.</p>
+      <p>Whether I’m drafting a <a href="/eu-mdr-compliance/clinical-evaluation-report-cer">Clinical Evaluation Report</a> or conducting a risk analysis, I know my work helps bring safer, faster, and smarter medical devices to market. That’s the heart of regulatory affairs: protecting patients while empowering progress.</p>
+      <p>One of my first projects at Mantra Systems involved guiding a client through the EU MDR requirements for a software as a medical device. They had clinically impactful technology but were overwhelmed by regulatory uncertainty. Together, we transformed their confusion into a clear, actionable roadmap - aligning their evidence with MDR expectations and guiding them through each step of the CE marking journey.</p>
+      <p>Looking back, what began as a placement year at university has evolved into a deeply fulfilling career at the intersection of innovation and public health. I’m grateful to be part of a field where my scientific background can make a real-world impact, helping ensure that life-changing medical technologies reach those who need them, safely and effectively. As I continue this journey, I’m excited to keep learning and growing with Mantra Systems.</p>
+      ]]></content><author><name>shen-may-khoo</name></author><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[Our Regulatory Project Lead, Shen, shares her journey from the lab bench at NIBSC to supporting medical device manufacturers at Mantra Systems.]]></summary></entry><entry><title type="html">From Idea to Approval: Get MDR Ready With Our LinkedIn Live</title><link href="https://mantrasystems.com/articles/from-idea-to-approval-get-mdr-ready-webinar" rel="alternate" type="text/html" title="From Idea to Approval: Get MDR Ready With Our LinkedIn Live" /><published>2025-06-03T00:00:00+01:00</published><updated>2025-06-03T11:07:58+01:00</updated><id>https://mantrasystems.com/articles/from-idea-to-approval-get-mdr-ready-webinar</id><content type="html" xml:base="https://mantrasystems.com/articles/from-idea-to-approval-get-mdr-ready-webinar"><![CDATA[<p>If you’re developing a medical device, chances are you’ve lost sleep over regulations more than once. MDR, CE marking, certification; it can feel overwhelming.</p>
+    <p>I’ve been there.</p>
+    <p>I’ve sat on both sides of the table, first as a medical doctor, then as a medical device innovator, and now as the founder of a consultancy that helps healthtech teams get their devices certified and market-ready. And I’ll tell you this:</p>
+    <p><strong>Regulation isn’t your problem. It’s your opportunity.</strong></p>
+    <p>Leaning into the regulations early could be the smartest move you make.</p>
+    <p>That’s why I’m excited to join forces with Dr. Zhong Wei Khor, co-founder of <a href="https://www.medicalconsultinggroup.co.uk/about-us">Medical Consulting Group</a>, for <a href="https://www.linkedin.com/events/7333805621110054912/about/">an upcoming LinkedIn Live session</a> <strong>on Thursday 5th June 2025</strong>, tailored specifically for healthtech founders. Together, we’ll break down the real-world steps to navigating regulatory hurdles and, more importantly, show you how to turn that complexity into a strategic advantage.</p>
+    <p><a href="https://www.linkedin.com/events/7333805621110054912/about/">You can sign-up for notifications on LinkedIn to be reminded when this webinar starts</a>.</p>
+    <h2 id="what-well-cover-and-why-it-matters">What We’ll Cover (and Why It Matters)</h2>
+    <p>In this session we will break down:</p>
+    <ol>
+      <li><strong>What actually qualifies as a medical device</strong><br />
+        Determining whether your innovation meets the definition of a medical device isn’t always straightforward. Gaining clarity early can make all the difference, helping you plan strategically and set a clear path forward.</li>
+      <li><strong>How early-stage founders should prepare for MDR</strong><br />
+        Starting early isn’t just beneficial, it’s critical to ensuring a smoother, faster route to market.</li>
+      <li><strong>A step-by-step guide to certification</strong><br />
+        We’ll walk you through the certification process, what to do, when to do it, and how to navigate each stage with confidence.</li>
+      <li><strong>Evidence requirements and costs behind certification</strong>
+        A straightforward overview of the evidence required, associated costs, and practical steps to help you budget effectively and avoid unexpected setbacks.</li>
+    </ol>
+    <p>We’ll also open the floor to live questions, so if you have something specific you want answered, be sure to bring it with you.</p>
+    <h2 id="why-this-conversation-matters-more-than-ever">Why This Conversation Matters More Than Ever</h2>
+    <p>Healthtech innovation holds incredible promise for solving healthcare’s toughest challenges. But no matter how brilliant your device is, it won’t reach patients unless you understand and navigate the regulatory landscape.</p>
+    <p>Regulatory knowledge can be a powerful tool, demonstrating that your product meets strict safety and performance standards and is reliable and effective. It also gives you the authority to make medical claims that resonate with clinicians, investors, and patients alike.</p>
+    <p>By mastering the regulatory process, you not only secure market access but also gain a significant competitive edge. You build trust, differentiate your device, and position your innovation to succeed commercially.</p>
+    <p>In short, understanding the regulations isn’t just compliance, it’s a strategic advantage that can propel your product from concept to market leader.</p>
+    <h2 id="why-you-should-join-us">Why You Should Join Us</h2>
+    <p>Whether you’re just starting to out or are deep into development, this session is designed to give you clarity and confidence around the regulatory process.</p>
+    <p>Join us to ask questions, challenge assumptions, and get practical answers that will help you move forward faster and smarter.</p>
+    <p>📅 <strong>Date: Thursday 5th June 2025</strong><br />
+      🕒 <strong>Time: 3 pm BST</strong><br />
+      🔗 <strong>Link: <a href="https://www.linkedin.com/events/7333805621110054912/about/">https://www.linkedin.com/events/7333805621110054912/about/</a></strong></p>
+    <p>We’ll see you there!</p>
+    ]]></content><author><name>paul-hercock</name></author><category term="MDR" /><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[An upcoming LinkedIn Live session with Dr. Zhong Wei Khor tailored specifically for healthtech founders.]]></summary></entry><entry><title type="html">The Never-Ending Document Updates: Navigating Changing Regulations</title><link href="https://mantrasystems.com/articles/navigating-changing-regulations-the-never-ending-document-updates" rel="alternate" type="text/html" title="The Never-Ending Document Updates: Navigating Changing Regulations" /><published>2025-05-19T00:00:00+01:00</published><updated>2025-05-29T12:32:38+01:00</updated><id>https://mantrasystems.com/articles/navigating-changing-regulations-the-never-ending-document-updates</id><content type="html" xml:base="https://mantrasystems.com/articles/navigating-changing-regulations-the-never-ending-document-updates"><![CDATA[<p>Anybody who has worked with medical devices knows this truth: just because you’ve submitted the document, it doesn’t guarantee that the work is done. Whether it’s a Clinical Evaluation Report (CER), a Risk Management File, or a Post-Market Surveillance (PMS) Plan, it will be updated, and probably more than once.</p>
+  <p>And those updates? They rarely arrive when it’s convenient.</p>
+  <p>A new MDCG guideline drops just days before a submission, a Notified Body returns with clarification questions, or a minor product update now means that the CER needs revalidation. It’s not chaos, it’s just the reality of working under the <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745">MDR</a>, where regulations are still settling, the guidance is constantly evolving and updating, and the documentation that is produced is expected to not only reflect current compliance, but also those emerging expectations.</p>
+  <h2 id="why-it-feels-like-document-writing-never-ends">Why It Feels Like Document Writing Never Ends</h2>
+  <p>The concept of ‘final’ documentation doesn’t apply anymore, especially not in this landscape, as the MDR demands living documents. Even well-developed documents are living entities, all subjected to:</p>
+  <ul>
+    <li>New or updated MDCG guidance</li>
+    <li>Shifting interpretations from Notified Bodies</li>
+    <li>Internal process changes, product tweaking, or clinical updates</li>
+    <li>New <a href="/eu-mdr-compliance/post-market-surveillance-pms">PMS</a> or <a href="/eu-mdr-compliance/post-market-clinical-follow-up-pmcf">PMCF</a> activity data</li>
+    <li>Rolling requirements in the <a href="/solutions/mdd-mdr-transition-legacy-devices">transition from MDD to MDR</a></li>
+  </ul>
+  <p>Even documents you thought were locked down, like a CER submitted months ago, can be pulled back into circulation because one post-market signal changed the picture. And for those writing under tight timelines and across many products? The challenge isn’t just writing well, it’s writing in a way that stays compliant <em>as the rules shift around you</em>.</p>
+  <h2 id="how-to-stay-sane-and-compliant-when-nothing-stays-still">How to Stay Sane (and Compliant) When Nothing Stays Still</h2>
+  <p>The good news? While we can’t slow the pace of regulatory change, we can put systems in place to handle it efficiently, reduce repeat effort, and avoid the trap of last-minute document chaos.</p>
+  <p>Here’s how:</p>
+  <figure>
+    <img src="/assets/images/content/articles/inline/doc-update-mind-map.png" alt="A document update mind-map diagram." loading="lazy" width="660" height="371" />
+  </figure>
+  <h2 id="1-stop-waiting-for-stability--build-for-flexibility">1. Stop Waiting for Stability – Build for Flexibility</h2>
+  <p>If you’re still treating documentation like a one-off event, it’s time to rethink your strategy. Instead, design your processes and even your mindsets around flexibility, not finality.</p>
+  <p>That means:</p>
+  <ul>
+    <li><strong>Templates that evolve</strong>: Use <a href="/enable-ce-mark/technical-document-templates">dynamic templates that include built-in prompts for MDR Article references</a>, GSPRs, and standard alignment. Regularly update these templates as the guidance evolves.</li>
+    <li><strong>Accessible source data</strong>: Keep literature search strings and extractions, post-market data, and <a href="/enable-ce-mark/technical-document-templates/risk-management-templates">risk management files</a> well-organised and easy to re-source. If you need to update the CER, you shouldn’t have to start a new literature search from scratch.</li>
+  </ul>
+  <p><em>Tip: Set a regular internal update cycle, quarterly or biannually, even if no immediate updates are required. That way, nothing builds up and you’re never caught off guard.</em></p>
+  <h2 id="2-track-and-interpret-regulatory-change--before-it-catches-you-off-guard">2. Track (and Interpret) Regulatory Change – Before It Catches You Off Guard</h2>
+  <p>One of the fastest ways to fall out of compliance is to miss a guidance update, or worse, know that one happened but you failed to understand its impact.</p>
+  <p>To stay ahead:</p>
+  <ul>
+    <li><strong>Assign responsibility</strong>: Designate someone on your team (or a <a href="/">regulatory consultant</a>) to monitor new MDCG, EMA, or ISO publications.</li>
+    <li><strong>Create a regulatory watch log</strong>: Maintain a simple spreadsheet that includes the date, reference number, a summary of the change, and your internal decision: “has an impact,” “keep monitoring,” or “no action is needed.”</li>
+    <li><strong>Don’t rely on automated alerts</strong>: Reading the full document and not just the headline makes a difference. Regulatory updates often contain interpretative nuances that affect your documentation indirectly.</li>
+  </ul>
+  <p><em>Tip: Schedule 30-minute “Reg Change Reviews” on a regular basis. Even a quick discussion of what’s new and who it affects can avoid a fire drill later.</em></p>
+  <h2 id="3-dont-just-update-the-document--update-the-rationale">3. Don’t Just Update the Document – Update the Rationale</h2>
+  <p>It’s easy to fall into the trap of tweaking a paragraph or replacing an outdated reference but leaving the underlying justification untouched. That’s where Notified Bodies will notice gaps.</p>
+  <p>For every update you make, ensure you:</p>
+  <ul>
+    <li>Revisit the clinical or regulatory rationale behind it and observe what has changed in terms of patient safety, performance claims, or standard expectations.</li>
+    <li>Update linked sections: A new literature article may affect the CER, but also the risk management file or IFU. Don’t let your files get out of sync.</li>
+    <li>Reflect updates in your clinical conclusions or <a href="https://www.linkedin.com/pulse/how-conduct-quantitative-benefit-risk-assessment-your-medical-onvie/">benefit-risk analysis</a>, as even minor changes can have downstream effects.</li>
+  </ul>
+  <p><em>Tip: Try writing a “linked document checklist”. If you update the CER, the checklist reminds you to check PMS, Risk, and Labelling too, helping you to avoid siloed changes that don’t tell a coherent story.</em></p>
+  <h2 id="4-know-whats-good-enough--and-what-needs-action-now">4. Know What’s Good Enough – and What Needs Action Now</h2>
+  <p>When everything feels urgent, it’s easy to panic or overcorrect. But not every change requires immediate overhaul.</p>
+  <p>Use a risk-based approach:</p>
+  <ul>
+    <li><strong>High priority</strong>: Outdated <a href="/eu-mdr-compliance/literature-search-protocol-sota-review">literature reviews</a>, gaps in PMS data, and expired equivalence claims, as these need fast attention.</li>
+    <li><strong>Medium priority</strong>: Updates to standards or minor inconsistencies in risk files. Make a note of these for the next routine update, or after the high-priority changes.</li>
+    <li><strong>Low priority</strong>: Editorial updates, visual formatting, or minor changes without performance or safety impact.</li>
+  </ul>
+  <p>This triage approach helps you stay focused and allocate resources effectively, which is a must for all teams.</p>
+  <p><em>Tip: How about colour coding in your tracking tools? It makes it easier to visualise what needs immediate attention versus what can wait, especially when reporting to leadership or planning resourcing.</em></p>
+  <h2 id="5-document-your-decision-making-even-when-you-dont-make-a-change">5. Document Your Decision-Making (Even When You Don’t Make a Change)</h2>
+  <p>The MDR is all about transparency and traceability. That applies not only to what you change, but also to what you choose not to change.</p>
+  <p>Let’s say a new <a href="https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en">MDCG guideline</a> is released, but after review, you determine it doesn’t apply to your device. You still need to:</p>
+  <ul>
+    <li>Log the decision with a brief rationale (“Device is non-implantable; MDCG 2023-XX not applicable”).</li>
+    <li>Add a line to your Clinical Evaluation or PMS Plan revision history stating, “Reviewed [guidance]; determined no update required.”</li>
+  </ul>
+  <p><em>Tip: These “no action required” notes are often what prevent requests for clarification from your Notified Body. They show you’ve done your due diligence, even if the result was no change.</em></p>
+  <h2 id="final-thought-you-cant-control-the-changes--but-you-can-control-how-you-handle-them">Final Thought: You Can’t Control the Changes — But You Can Control How You Handle Them</h2>
+  <p>Yes, updates will keep coming, guidance will evolve, and definitions will tighten. But with the right systems, documentation habits, and mindset, compliance can become sustainable, not just survivable.</p>
+  <p>Treat regulatory maintenance like a process, not a project. Build responsiveness into your workflows, keep your reasoning clear, and don’t be afraid to seek help when the flood of updates starts to feel like too much.</p>
+  <h3 id="overwhelmed-youre-not-alone">Overwhelmed? You’re Not Alone.</h3>
+  <p>At Mantra Systems, we help medical device companies turn document chaos into structured compliance. Whether you’re behind on CER updates, navigating new guidance, or just need a better system, we’re here to help you stay ahead without burning out.</p>
+  <p><a href="/contact">Contact us today</a> to discuss how we can support your team.</p>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[Just because you’ve submitted a document, it doesn’t mean the work is done. Clinical Evaluation Reports, Risk Management Files or PMS plans will all need updating.]]></summary></entry><entry><title type="html">UK Medical Device Regulations Set for Major 2026 Update</title><link href="https://mantrasystems.com/articles/uk-medical-device-regulations-set-for-major-2026-update" rel="alternate" type="text/html" title="UK Medical Device Regulations Set for Major 2026 Update" /><published>2025-05-19T00:00:00+01:00</published><updated>2025-05-19T16:37:13+01:00</updated><id>https://mantrasystems.com/articles/uk-medical-device-regulations-set-for-major-2026-update</id><content type="html" xml:base="https://mantrasystems.com/articles/uk-medical-device-regulations-set-for-major-2026-update"><![CDATA[<p>The UK government is preparing to introduce a second major update to the regulatory framework for medical devices, with new pre-market requirements expected to come into effect in 2026.</p>
+  <p>These changes form part of a broader reform effort that has been underway for several years. In 2022, the UK government published its <em><a href="https://assets.publishing.service.gov.uk/media/62b577f6d3bf7f0b00165a32/Government_response_to_consultation_on_the_future_regulation_of_medical_devices_in_the_United_Kingdom.pdf">Government response to consultation on the future regulation of medical devices in the United Kingdom</a></em>, setting out a phased approach to overhaul the UK Medical Devices Regulations (UK MDR).</p>
+  <p>In December 2024, the MHRA published a <em><a href="https://assets.publishing.service.gov.uk/media/6759a8827e419d6e07ce2b21/Med_Tech_Regulatory_Roadmap_V2_December_2024.pdf">Medical Devices Regulatory Reform roadmap </a></em> providing an update on the intended timelines for implementing future UK medical device regulations. This roadmap is structured around four key areas:</p>
+  <ol>
+    <li>Post-market surveillance (PMS) requirements</li>
+    <li>Pre-market requirements</li>
+    <li>Broader policy development (including an IVD roadmap and <a href="https://www.gov.uk/guidance/exceptional-use-authorisation">exceptional use authorisations</a>)</li>
+    <li>Software, including AI and digital mental health products.</li>
+  </ol>
+  <h2 id="post-market-amendment">Post-market amendment</h2>
+  <p>On the 16th of December 2024 the UK Government published <em><a href="https://www.legislation.gov.uk/uksi/2024/1368/made">The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024</a></em>.</p>
+  <p>This legislation, which comes into effect on 16th June 2025, introduces strengthened PMS requirements for medical device manufacturers. For an in-depth overview of the changes, <a href="https://mantrasystems.com/articles/overview-of-uk-2024-post-market-surveillance-update">see our dedicated  article on this topic</a>.</p>
+  <p>This legislation marks the first formal update to the UK MDR.</p>
+  <h2 id="pre-market-amendment">Pre-market amendment</h2>
+  <p>Following the PMS update to the UK MDR, the UK government has consulted on a second major update - <em><a href="https://www.gov.uk/government/publications/implementation-of-the-future-regulation-of-medical-devices/implementation-of-the-future-regulations#futurecore-regulations">Routes to market and in vitro diagnostic devices</a></em> - which aims to implement new regulations for pre-market requirements.</p>
+  <p>In a <a href="https://hansard.parliament.uk/Lords/2025-05-06/debates/745FFAA1-DEB8-4B79-84FC-4F6656F2DB8C/MedicalDevices(Amendment)(GreatBritain)Regulations2025">recent House of Lords motion</a>, Baroness Merron mentioned that this major update is expected to come into force in 2026.</p>
+  <p>Many of the changes introduced with this legislative amendment will have the effect of bringing the UK MDR in closer alignment with the EU MDR. Below we highlight some of the changes that we might expect to see:</p>
+  <ul>
+    <li>Up-classification of <a href="/solutions/regulatory-consulting-for-samd-software-as-a-medical-device">Software as a Medical Device (SaMD)</a> and implantable medical devices, resulting in stricter requirements for both device categories</li>
+    <li>Introduction of a framework for international recognition</li>
+    <li>Alignment of the UK MDR Essential Requirements (ERs) with the EU MDR General</li>
+    <li>Safety and Performance Requirements (GSPRs)</li>
+    <li>Updated classification rules for In-Vitro Diagnostic (IVD) medical devices</li>
+    <li>Introduction of implant cards and Unique Device Identifiers (UDI)</li>
+    <li>Strengthened technical documentation requirements</li>
+  </ul>
+  <h2 id="conclusion">Conclusion</h2>
+  <p>The forthcoming updates to the UK Medical Devices Regulations represent a significant shift in the country’s regulatory landscape, aiming to enhance patient safety, foster innovation, and improve international alignment. While manufacturers already compliant with the EU MDR will find many of the anticipated changes familiar, UK-based manufacturers who have not yet adapted to similar frameworks should begin preparations. Early planning and a thorough understanding of the new requirements will be essential to maintaining market access and avoiding disruption. With the new pre-market requirements expected to come into force in 2026, the time to act is now.</p>
+  <p>Unsure how upcoming regulatory changes might affect your device? <a href="/contact">Contact us today for a free, no-obligation discussion</a>.</p>
+  ]]></content><author><name>simon-cumiskey</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[The UK government is preparing to introduce a second major update to the regulatory framework for medical devices, with new pre-market requirements expected to come into effect in 2026.]]></summary></entry><entry><title type="html">Going Global, Staying Grounded: Mantra Systems Moves to .com</title><link href="https://mantrasystems.com/articles/we-move-to-dot-com" rel="alternate" type="text/html" title="Going Global, Staying Grounded: Mantra Systems Moves to .com" /><published>2025-05-19T00:00:00+01:00</published><updated>2025-05-29T11:31:56+01:00</updated><id>https://mantrasystems.com/articles/we-move-to-dot-com</id><content type="html" xml:base="https://mantrasystems.com/articles/we-move-to-dot-com"><![CDATA[<p>At Mantra Systems, our mission has always been to take the complexity out of medical device regulation. What began as a small consultancy in Sheffield has grown into a trusted partner in the medical device industry. From clinical and performance evaluations to full technical files under UK MDR, EU MDR, and IVDR, we help our clients navigate regulations and achieve market access with confidence.</p>
+  <p>Now, as we continue to grow, we’re making one small change with a big message:</p>
+  <p>👉 <strong>We’re moving from mantrasystems.co.uk to mantrasystems.com.</strong></p>
+  <h2 id="why-the-switch">Why the switch?</h2>
+  <p>Because our reach is no longer just national — it’s global.</p>
+  <p>Our client base now spans Europe, North America, Asia, and beyond. Medical device and IVD companies worldwide turn to us for expert support in navigating medical device regulations. The new .com domain reflects that international scope and our commitment to serving clients wherever they’re based, without losing what makes us different.</p>
+  <h2 id="same-sheffield-team-bigger-stage">Same Sheffield Team. Bigger Stage.</h2>
+  <p>We might be going global, but we’re still proudly based in Sheffield, UK - a city celebrated for its innovation and resilience.</p>
+  <p>This shift to a .com domain is not just about growth; it’s about who we’ve become as a company. It reflects our global ambitions while staying anchored in the core values that have defined us since the beginning.</p>
+  <h2 id="what-does-this-mean-for-you">What does this mean for you?</h2>
+  <ul>
+    <li>You can now find us at <a href="https://mantrasystems.com">mantrasystems.com</a></li>
+    <li>All emails and services stay the same</li>
+    <li>Our team, tools, and tailored support aren’t going anywhere</li>
+  </ul>
+  <p>It’s still us, just with a domain name that matches the clients we serve and the markets we work in every day.</p>
+  <p>So whether you’re building your first technical file, tackling the MDD to MDR transition, or scaling globally, we’re right here with you — locally grounded, globally ready.</p>
+  <p><strong>Mantra Systems. Made in Sheffield. Trusted Worldwide.</strong></p>
+  ]]></content><author><name>shona-richardson</name></author><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[What began as a small consultancy in Sheffield has grown into a trusted partner in the medical device industry. Now we've made a change that reflects our international reach.]]></summary></entry><entry><title type="html">SOTA Exclusions: The Ongoing Quest for Clarity</title><link href="https://mantrasystems.com/articles/sota-exclusions-ongoing-quest-for-clarity" rel="alternate" type="text/html" title="SOTA Exclusions: The Ongoing Quest for Clarity" /><published>2025-05-12T00:00:00+01:00</published><updated>2025-05-15T17:39:27+01:00</updated><id>https://mantrasystems.com/articles/sota-exclusions-ongoing-quest-for-clarity</id><content type="html" xml:base="https://mantrasystems.com/articles/sota-exclusions-ongoing-quest-for-clarity"><![CDATA[<p>Anyone who’s worked on a <a href="/medical-device-regulatory-consulting-services/mdr-consulting/clinical-evaluation">Clinical Evaluation</a> knows the drill by now: you’re deep into the narrative, you’ve built a clear clinical picture, the literature is supporting your claims, and then you hit the <a href="/articles/literature-search-sota-review-and-clinical-evaluation">State of the Art (SOTA) section</a>.</p>
+  <p>It’s one of the most deceptively complex parts of the Clinical Evaluation. The SOTA section, at its core, is about establishing the clinical context of your device. You’re identifying technologies, treatments, and medical devices that are comparable or similar to yours and demonstrating how your device measures up against them. In theory, this sounds straightforward, but here’s where things get complicated. While you’re focused on proving your device stands up to clinical scrutiny, regulators are equally interested in what you’re not including, and more importantly, <strong>why</strong>.</p>
+  <h2 id="the-real-challenge-what-you-leave-out-matters-just-as-much">The Real Challenge: What You Leave Out Matters Just As Much</h2>
+  <p>SOTA exclusions aren’t just a box-ticking exercise, they’re a true test of your reasoning and your ability to defend your choices with confidence. If you exclude devices, alternative technologies, or treatment options that seem relevant without a solid justification in place, the regulators will notice. It’s not enough to say, “This device isn’t comparable”, you need to explain why. Is it the indication? The mechanism of action? The patient population? Is there insufficient clinical evidence? Every exclusion must be logical, traceable, and transparent.</p>
+  <h2 id="why-this-keeps-coming-up">Why This Keeps Coming Up</h2>
+  <p>This isn’t just a one-off issue, as it’s seen across many submissions. Most teams feel confident about what they’ve included in their SOTA, but the rationale for exclusions often ends up vague, underdeveloped, or missing entirely. The truth is, SOTA requires interpretation, and that’s exactly why it’s so frequently dissected. If a seemingly relevant comparator or treatment is left out without a strong explanation, it stands out.</p>
+  <p>Regulators don’t just want to see what you included, they want to understand why you didn’t include something else. Without that clarity, they may assume the exclusion was unintentional or that your review wasn’t comprehensive. In short, it keeps coming up because exclusions are easy to challenge and hard to justify unless you’ve done the thinking and documented it clearly.</p>
+  <figure class="intrinsic">
+    <img src="/assets/images/content/articles/inline/sota-quest.png" alt="How to Overcome the SOTA Exclusion Trap process diagram." loading="lazy" width="400" height="428" />
+    <figcaption>How to Overcome the SOTA Exclusion Trap</figcaption>
+  </figure>
+  <h3 id="1-start-with-a-broad-landscape-then-narrow-it-down">1. Start with a broad landscape, then narrow it down</h3>
+  <p>Don’t begin with what you want to exclude; start with everything that could be relevant. List out all comparable technologies, treatments, and devices, even those you know won’t make the final cut. From there, document your rationale for keeping or excluding each one.</p>
+  <p><em>Tip: <a href="https://www.medical-device-regulation.eu/wp-content/uploads/2019/05/2_7_1_rev4_en.pdf">MedDev 2.7/1 rev 4</a> requires the use of carefully formulated inclusion / exclusion criteria, augmented by an objective, non-biased, systematic screening and review process such as PICO (patient characteristics, type of intervention, control, and outcome queries), or PRISMA (The Preferred Reporting Items for Systematic Reviews and Meta-Analyses).</em></p>
+  <h3 id="2-be-specific-in-your-exclusions">2. Be specific in your exclusions</h3>
+  <p>Vague justifications are one of the fastest ways to undermine an otherwise strong Clinical Evaluation. A sentence like “This technology was excluded due to differences in application” is almost guaranteed to prompt questions. Instead, give clear, defensible reasons tied to your device’s design, function, and clinical use. Examples of strong justifications:</p>
+  <ul>
+    <li>Article reporting outcomes or clinical scenarios entirely unrelated to the subject matter.</li>
+    <li>Not related to the intended purpose of the subject device. For example, an article focused on wound closure techniques would be an inappropriate focus when the subject matter of a review is the safety or performance of a hip implant.</li>
+    <li>The literature contains unsubstantiated opinions</li>
+  </ul>
+  <p><em>Tip: If you’re unsure how specific to be, err on the side of more. Specificity signals competence and confidence.</em></p>
+  <h3 id="3-link-exclusions-back-to-the-devices-intended-purpose">3. Link exclusions back to the device’s intended purpose</h3>
+  <p>The <a href="/articles/a-medical-devices-intended-purpose-what-is-the-point">intended purpose isn’t just regulatory terminology</a>, it’s your compass. Every inclusion or exclusion should align with it. If something is excluded because it falls outside your indication, say so. If your device is single-use and another is reusable, that difference might be clinically meaningful.</p>
+  <p><em>Tip: Write your intended purpose in plain language and keep it visible during writing and editing. Use it as a live reference point when making decisions on what to include or exclude.</em></p>
+  <h3 id="4-document-the-process-and-justification-not-just-the-outcome">4. Document the process and justification (not just the outcome)</h3>
+  <p>A polished summary is important, but so is the trail you took to get there. Regulators don’t just want to see the final result; they want to know you followed a systematic process to get there.</p>
+  <p>It may be helpful to use exclusion codes to codify reasons for exclusions (which may include, for example, “unrelated topic” or “article not available in English,” etc).</p>
+  <p><em>Tip: Save your search strings, selection criteria, and full extractions of literature from your databases. Include a short methods section describing how you determine exclusions. This small step can prevent a lot of back-and-forth during review.</em></p>
+  <h3 id="5-avoid-over-exclusion">5. Avoid over-exclusion</h3>
+  <p>While it’s important to justify exclusions, it’s equally important not to exclude too many devices or treatments, as an overly narrow SOTA can look suspicious to regulators. Try to keep the scope broad, including all potentially relevant comparators, and only exclude those with a well-supported rationale.</p>
+  <p><em>Tip: Aim for a balance. Make sure your exclusions are justified, but ensure that your SOTA still includes a reasonable number of relevant sources, where deemed appropriate. It demonstrates thoroughness and strengthens your argument for your device’s clinical positioning.</em></p>
+  <h2 id="final-thought-clarity-and-transparency-will-always-be-your-strongest-defence">Final Thought: Clarity and Transparency Will Always Be Your Strongest Defence</h2>
+  <p>SOTA exclusions will likely remain one of the more complex aspects of a Clinical Evaluation submission. However, with a well-structured approach, <a href="/eu-mdr-compliance/literature-search-protocol-sota-review">the right tools</a>, and a strong focus on clinical reasoning, you can turn this challenge into an opportunity. Clarity in the rationale for exclusions can enhance the strength of your submission by demonstrating thoroughness, transparency, and attention to detail.</p>
+  <p>By articulating your exclusions in a manner that’s easy to follow and backed by solid evidence, you make it easier for regulators to see your reasoning, leading to smoother reviews and fewer questions along the way. Navigating exclusions doesn’t have to be daunting, but it does require precision, thorough documentation, and a clear understanding of both clinical and regulatory expectations.</p>
+  <p>If you’re feeling uncertain about your SOTA exclusions or finding it difficult to manage the comparator landscape, <a href="/contact">don’t hesitate to reach out to Mantra Systems</a>. We offer tailored support to guide you through the process, ensuring your Clinical Evaluation is both comprehensive and compliant. Let us help you get it right the first time.</p>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="Clinical Evaluation" /><summary type="html"><![CDATA[SOTA exclusions aren’t just a box-ticking exercise, they’re a true test of your reasoning and your ability to defend your choices with confidence.]]></summary></entry><entry><title type="html">Clinical Evaluation Masterclass: It is not clear that any systematic search methods were used for the literature review – Episode 3</title><link href="https://mantrasystems.com/articles/clinical-evaluation-masterclass-3-not-clear-that-any-systematic-search-methods-were-used-for-the-literature-review" rel="alternate" type="text/html" title="Clinical Evaluation Masterclass: It is not clear that any systematic search methods were used for the literature review – Episode 3" /><published>2025-05-08T00:00:00+01:00</published><updated>2025-06-10T12:34:12+01:00</updated><id>https://mantrasystems.com/articles/clinical-evaluation-masterclass-3-not-clear-that-any-systematic-search-methods-were-used-for-the-literature-review</id><content type="html" xml:base="https://mantrasystems.com/articles/clinical-evaluation-masterclass-3-not-clear-that-any-systematic-search-methods-were-used-for-the-literature-review"><![CDATA[<p>Clinical evaluation is a cornerstone of compliance under the EU Medical Device Regulation (MDR), directly tied to the safety and performance of a medical device throughout its lifecycle.</p>
   <p>Yet, despite its importance, non-conformities in clinical evaluation reports remain one of the most common reasons for delays, rejections, and costly remediation work during conformity assessment.</p>
   <p>When a clinical evaluation falls short - whether due to vague safety and performance objectives, inadequate literature appraisal, or poorly documented search methods - manufacturers face serious consequences. These may include prolonged Notified Body reviews, increased regulatory scrutiny, and even market withdrawal of devices.</p>
   <p>Addressing clinical evaluation non-conformities isn’t just about avoiding negative outcomes; it’s about building a robust, evidence-based foundation that demonstrates your device meets essential safety and performance requirements. For manufacturers, mastering this process means faster approvals, fewer surprises during conformity assessments, and ultimately, safer outcomes for patients.</p>
-  <p>This video series breaks down the most common clinical evaluation non-conformities, explains <em>why</em> they keep happening, and most importantly, shows you how to <strong><em>fix (or avoid) them for</em></strong> good.</p>
+  <p>This video series breaks down the most common clinical evaluation non-conformities, explains <em>why</em> they keep happening, and most importantly, shows you how to <strong><em>fix (or avoid) them for</em></strong> good.</p>
   <h2 id="episode-3-it-is-not-clear-that-systematic-search-methods-have-been-used-for-the-literature-review">Episode 3: “It is not clear that systematic search methods have been used for the literature review”</h2>
   <p>Whether you’re new to clinical evaluation or refining an existing process, this video will help you design a robust and transparent search strategy that aligns with MDR expectations.</p>
   <p>In this episode, we’ll break down:</p>
@@ -288,8 +421,8 @@
     <p>That concludes episode three of this non-conformity series.</p>
     <p>Many thank yous for your kind attention.</p>
   </div>
-  ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[Addressing non-conformities isn’t just about avoiding negative outcomes; it’s about building a robust, evidence-based foundation.]]></summary></entry><entry><title type="html">Regulatory Writing Deadlines: The Pressure to Get It Right the First Time</title><link href="https://www.mantrasystems.co.uk/articles/regulatory-writing-deadlines-the-pressure-to-get-it-right-the-first-time" rel="alternate" type="text/html" title="Regulatory Writing Deadlines: The Pressure to Get It Right the First Time" /><published>2025-04-30T00:00:00+01:00</published><updated>2025-04-29T19:07:17+01:00</updated><id>https://www.mantrasystems.co.uk/articles/regulatory-writing-deadlines-the-pressure-to-get-it-right-the-first-time</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/regulatory-writing-deadlines-the-pressure-to-get-it-right-the-first-time"><![CDATA[<p>Anyone who’s worked in the medical device industry knows that regulatory deadlines aren’t just part of the process—they define it.</p>
-  <p>Whether you’re drafting a <a href="/medical-device-regulatory-consulting-services/mdr-consulting/clinical-evaluation">Clinical Evaluation Report</a> (CER) or preparing an <a href="medical-device-regulatory-consulting-services/ivdr-consulting">IVDR</a> or <a href="/medical-device-regulatory-consulting-services/mdr-consulting/">MDR submission</a>, there’s one golden rule everyone learns quickly: you feel the pressure to get it right the first time, because in this field, second chances are rare—and costly.</p>
+  ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[Addressing non-conformities isn’t just about avoiding negative outcomes; it’s about building a robust, evidence-based foundation.]]></summary></entry><entry><title type="html">Regulatory Writing Deadlines: The Pressure to Get It Right the First Time</title><link href="https://mantrasystems.com/articles/regulatory-writing-deadlines-the-pressure-to-get-it-right-the-first-time" rel="alternate" type="text/html" title="Regulatory Writing Deadlines: The Pressure to Get It Right the First Time" /><published>2025-04-30T00:00:00+01:00</published><updated>2025-05-28T14:14:06+01:00</updated><id>https://mantrasystems.com/articles/regulatory-writing-deadlines-the-pressure-to-get-it-right-the-first-time</id><content type="html" xml:base="https://mantrasystems.com/articles/regulatory-writing-deadlines-the-pressure-to-get-it-right-the-first-time"><![CDATA[<p>Anyone who’s worked in the medical device industry knows that regulatory deadlines aren’t just part of the process—they define it.</p>
+  <p>Whether you’re drafting a <a href="/medical-device-regulatory-consulting-services/mdr-consulting/clinical-evaluation">Clinical Evaluation Report</a> (CER) or preparing an <a href="/medical-device-regulatory-consulting-services/ivdr-consulting">IVDR</a> or <a href="/medical-device-regulatory-consulting-services/mdr-consulting/">MDR submission</a>, there’s one golden rule everyone learns quickly: you feel the pressure to get it right the first time, because in this field, second chances are rare—and costly.</p>
   <p>And that pressure? It doesn’t just come from the clock. It comes from the complexity of the content, the coordination required across teams, and the ever-present reality that regulators aren’t grading on a curve.</p>
   <h2 id="why-the-clock-is-always-ticking-and-coordinating-moving-pieces">Why the Clock Is Always Ticking and Coordinating Moving Pieces</h2>
   <p>In regulatory writing, time is always a pressure point. While the device may be ready, the trial complete, and the data in hand, without well-aligned and structured documentation, the product can’t move forward. Writing typically happens late in the development cycle, and the responsibility to wrap it up quickly falls squarely on the regulatory team.</p>
@@ -357,7 +490,7 @@
   <p>When everything comes together, when the data aligns, the document flows, and the submission is accepted without question, there’s a distinct sense of pride that accompanies the moment.</p>
   <p>Whether you’re preparing a technical file, responding to questions from a notified body, or working toward approval, our team provides practical, tailored support at every stage. We offer strategic guidance across regulatory frameworks, assist with technical documentation, and help you stay aligned with evolving requirements.</p>
   <p>If you’re looking for a trusted partner to take the pressure out of compliance, <a href="/contact">get in touch with Mantra Systems today</a>.</p>
-  ]]></content><author><name>kamiya-crabtree</name></author><category term="Clinical Evaluation" /><category term="MDR" /><category term="SaMD" /><summary type="html"><![CDATA[Anyone who’s worked in the medical device industry knows that regulatory deadlines aren’t just part of the process—they define it.]]></summary></entry><entry><title type="html">IEC 62366-1:2015 Demystified – Essential Usability Testing for Medical Devices</title><link href="https://www.mantrasystems.co.uk/articles/essential-usability-testing-for-medical-devices-iec-62366-1-2015-demystified" rel="alternate" type="text/html" title="IEC 62366-1:2015 Demystified – Essential Usability Testing for Medical Devices" /><published>2025-04-23T00:00:00+01:00</published><updated>2025-04-23T14:28:13+01:00</updated><id>https://www.mantrasystems.co.uk/articles/essential-usability-testing-for-medical-devices-iec-62366-1-2015-demystified</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/essential-usability-testing-for-medical-devices-iec-62366-1-2015-demystified"><![CDATA[<p>Creating a usability file is a crucial part of the product development process for medical devices, including <a href="/solutions/regulatory-consulting-for-samd-software-as-a-medical-device">Software as a Medical Device (SaMD)</a>, to ensure user-centred design and safety. IEC 62366-1 provides a structured approach to ensure that devices are designed with the user in mind and that potential risks associated with their use are identified and mitigated.</p>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="Clinical Evaluation" /><category term="MDR" /><category term="SaMD" /><summary type="html"><![CDATA[Anyone who’s worked in the medical device industry knows that regulatory deadlines aren’t just part of the process—they define it.]]></summary></entry><entry><title type="html">IEC 62366-1:2015 Demystified – Essential Usability Testing for Medical Devices</title><link href="https://mantrasystems.com/articles/essential-usability-testing-for-medical-devices-iec-62366-1-2015-demystified" rel="alternate" type="text/html" title="IEC 62366-1:2015 Demystified – Essential Usability Testing for Medical Devices" /><published>2025-04-23T00:00:00+01:00</published><updated>2025-06-10T12:34:12+01:00</updated><id>https://mantrasystems.com/articles/essential-usability-testing-for-medical-devices-iec-62366-1-2015-demystified</id><content type="html" xml:base="https://mantrasystems.com/articles/essential-usability-testing-for-medical-devices-iec-62366-1-2015-demystified"><![CDATA[<p>Creating a usability file is a crucial part of the product development process for medical devices, including <a href="/solutions/regulatory-consulting-for-samd-software-as-a-medical-device">Software as a Medical Device (SaMD)</a>, to ensure user-centred design and safety. IEC 62366-1 provides a structured approach to ensure that devices are designed with the user in mind and that potential risks associated with their use are identified and mitigated.</p>
   <h2 id="what-is-iec-62366-a-crucial-standard-for-medical-device-usability">What is IEC 62366? A Crucial Standard for Medical Device Usability</h2>
   <p><a href="https://www.iso.org/standard/63179.html">According to ISO</a>, ‘<q>IEC 62366 specifies a process for a manufacturer to analyse, specify, develop and evaluate the useability of a medical device as it relates to safety. The first edition of IEC 62366-1, together with the first edition of IEC 62366-2, cancels and replaces the first edition of IEC 62366 published in 2007 and its Amendment 1 (2014)</q>’</p>
   <ol>
@@ -387,9 +520,9 @@
   <h3 id="step-4-formative-evaluations">Step 4: Formative Evaluations</h3>
   <p>The formative evaluation section involves the testing of early prototypes or even design concepts with users in order to identify any potential problems prior to the final design being confirmed and completed. Once risks are identified, this process will repeat until these are mitigated.</p>
   <p><strong>User Testing:</strong> Carry out usability testing with representative users to assess the device’s interface and interaction design. This could involve techniques such as cognitive walkthroughs, task analysis, and heuristic evaluations to identify potential issues and areas for improvement.</p>
-  <p>Were critical use errors found? Are further product improvements necessary? If you have answered “yes” to either of these questions at this point, go back as far as necessary in the Usability Engineering process and iterate through it from this point on until no new and critical problems occur during use. If this is the case, you are ready for the last big step: performing the summative evaluation.</p>
+  <p>Were critical use errors found? Are further product improvements necessary? If you have answered “yes” to either of these questions at this point, go back as far as necessary in the Usability Engineering process and iterate through it from this point on until no new and critical problems occur during use. If this is the case, you are ready for the last big step: performing the summative evaluation.</p>
   <h3 id="step-5-summative-evaluation">Step 5: Summative Evaluation</h3>
-  <p>The goal is to prove that the medical device (and its Interface) can be used without unacceptable residual risks for users, patients, and third parties. The hazard-related use scenarios previously defined are tested.</p>
+  <p>The goal is to prove that the medical device (and its Interface) can be used without unacceptable residual risks for users, patients, and third parties. The hazard-related use scenarios previously defined are tested.</p>
   <p>The summative evaluation focuses on validating the final design to ensure that the device meets the defined usability goals and operates safely and effectively in real-world conditions.</p>
   <p><strong>Final Usability Testing:</strong> Conduct usability testing on the final version of the device to confirm that it functions as expected and that users can interact with it safely. This typically involves more realistic use scenarios, which may take place in clinical or home environments.</p>
   <p><strong>Task Performance Metrics:</strong> Evaluate whether users can complete key tasks successfully, such as using the device without errors, interpreting information accurately, and following safety instructions correctly. These metrics help ensure the device’s usability and overall safety in practical use.</p>
@@ -412,7 +545,7 @@
   <p>Standards like IEC 62366-1:2015 are just one part of the increasingly complex regulatory landscape facing medical device companies. At Mantra Systems, we specialise in helping you navigate these challenges with clarity and confidence.</p>
   <p>Whether you’re preparing a technical file, responding to questions from a notified body, or working toward approval, our team provides practical, tailored support at every stage. We offer strategic guidance across regulatory frameworks, assist with technical documentation, and help you stay aligned with evolving requirements.</p>
   <p>If you’re looking for a trusted partner to take the pressure out of compliance, <a href="/contact">get in touch with Mantra Systems today</a>.</p>
-  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><category term="SaMD" /><summary type="html"><![CDATA[What should be included in a Usability Engineering File? What steps do you need to take to ensure compliance and meet standards?]]></summary></entry><entry><title type="html">Unlocking the Secrets of Effective IVD Device Performance Evaluation</title><link href="https://www.mantrasystems.co.uk/articles/unlocking-the-secrets-of-effective-ivd-device-performance-evaluation" rel="alternate" type="text/html" title="Unlocking the Secrets of Effective IVD Device Performance Evaluation" /><published>2025-04-16T00:00:00+01:00</published><updated>2025-04-23T14:28:13+01:00</updated><id>https://www.mantrasystems.co.uk/articles/unlocking-the-secrets-of-effective-ivd-device-performance-evaluation</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/unlocking-the-secrets-of-effective-ivd-device-performance-evaluation"><![CDATA[<p>Performance evaluation is a critical requirement for in vitro diagnostic (IVD) devices and forms part of the technical documentation necessary for placing an IVD device on the EU market. The requirements for performance evaluation are described within Chapter VI of the Regulation on <em>in vitro</em> diagnostic medical devices <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0746#anx_XIII">(EU 2017/746) (IVDR)</a> and supported by Annexes I, II, III and XIII.</p>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><category term="SaMD" /><summary type="html"><![CDATA[What should be included in a Usability Engineering File? What steps do you need to take to ensure compliance and meet standards?]]></summary></entry><entry><title type="html">Unlocking the Secrets of Effective IVD Device Performance Evaluation</title><link href="https://mantrasystems.com/articles/unlocking-the-secrets-of-effective-ivd-device-performance-evaluation" rel="alternate" type="text/html" title="Unlocking the Secrets of Effective IVD Device Performance Evaluation" /><published>2025-04-16T00:00:00+01:00</published><updated>2025-06-10T12:34:12+01:00</updated><id>https://mantrasystems.com/articles/unlocking-the-secrets-of-effective-ivd-device-performance-evaluation</id><content type="html" xml:base="https://mantrasystems.com/articles/unlocking-the-secrets-of-effective-ivd-device-performance-evaluation"><![CDATA[<p>Performance evaluation is a critical requirement for in vitro diagnostic (IVD) devices and forms part of the technical documentation necessary for placing an IVD device on the EU market. The requirements for performance evaluation are described within Chapter VI of the Regulation on <em>in vitro</em> diagnostic medical devices <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0746#anx_XIII">(EU 2017/746) (IVDR)</a> and supported by Annexes I, II, III and XIII.</p>
   <h2 id="understanding-performance-evaluation-what-you-need-to-know">Understanding Performance Evaluation: What You Need to Know</h2>
   <p>Chapter VI of the IVDR states:</p>
   <blockquote>
@@ -453,7 +586,7 @@
   </figure>
   <h2 id="the-key-steps-in-crafting-a-performance-evaluation-report">The Key Steps in Crafting a Performance Evaluation Report</h2>
   <p>In the Performance Evaluation Report (PER), you will need to summarise all the results related to Scientific Validity, Analytical Performance, and Clinical Performance to demonstrate conformity with the relevant GSPRs for your device, as referred to in Annex I of the IVDR. In the PER, you should evaluate the clinical evidence in light of the current state of the art in medicine, technology, the intended purpose, and the device’s positive benefit-risk ratio.</p>
-  <p> Annex VIII, Part A (1.3.2) of the IVDR outlines the specific components of the PER and specifies that it must include:</p>
+  <p>Annex VIII, Part A (1.3.2) of the IVDR outlines the specific components of the PER and specifies that it must include:</p>
   <ul>
     <li>the justification for the approach taken to gather the clinical evidence;</li>
     <li>the literature search methodology and the literature search protocol and literature search report of a literature review;</li>
@@ -475,435 +608,4 @@
   <h2 id="ensuring-ivd-success-key-takeaways-for-performance-evaluation">Ensuring IVD Success: Key Takeaways for Performance Evaluation</h2>
   <p>Conducting a performance evaluation for IVDs is a critical step in ensuring their safety, reliability, and effectiveness. By following a structured process—starting with understanding regulatory requirements, defining intended use, and conducting rigorous analytical and clinical testing—you can demonstrate that your IVD meets the necessary standards for market approval. Continuous post-market surveillance further ensures that the device continues to deliver value and contributes to better patient outcomes.</p>
   <p>At Mantra Systems, we simplify the process, ensuring your device meets all regulatory requirements for EU market access. Let us take the complexity out of performance evaluation so you can focus on delivering safe, effective solutions. <a href="/contact">Book a call today</a>.</p>
-  ]]></content><author><name>kamiya-crabtree</name></author><category term="IVDR" /><summary type="html"><![CDATA[Whether preparing for a new EU market submission or strengthening existing documentation, this guide is your overview of performance evaluation under IVDR.]]></summary></entry><entry><title type="html">Clinical Evaluation Masterclass: Appraisal of literature sources has not been conducted properly - Episode 2</title><link href="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-2-appraisal-of-literature-sources-has-not-been-conducted-properly" rel="alternate" type="text/html" title="Clinical Evaluation Masterclass: Appraisal of literature sources has not been conducted properly - Episode 2" /><published>2025-04-09T00:00:00+01:00</published><updated>2025-04-09T12:47:28+01:00</updated><id>https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-2-appraisal-of-literature-sources-has-not-been-conducted-properly</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-2-appraisal-of-literature-sources-has-not-been-conducted-properly"><![CDATA[<p>A non-conformity in clinical evaluation arises when a <strong>Clinical Evaluation Plan (CEP) or Report (CER)</strong> fails to meet regulatory standards or Notified Body (NB) expectations.</p>
-  <p>These deficiencies such as incomplete data, unclear safety criteria, or inadequate evidence analysis indicate that the device’s safety and performance are not sufficiently demonstrated, requiring correction before approval.</p>
-  <p>For manufacturers, such non-conformities can result in <strong>delayed approvals, extended review cycles, and costly rework</strong>, as unresolved issues block NB acceptance. Proactively addressing non-conformities helps streamline audits, accelerate certifications, and strengthen regulatory compliance, ensuring smoother market access.</p>
-  <p>This video series breaks down the most common clinical evaluation non-conformities, explains <em>why</em> they keep happening, and most importantly, shows you how to <em><strong>fix (or avoid) them</strong></em> for good.</p>
-  <h2 id="episode-2-appraisal-of-literature-sources-has-not-been-conducted-properly">Episode 2: “Appraisal of literature sources has not been conducted properly”</h2>
-  <p>One of the most frequent reasons for CER rejection is poor appraisal of literature sources. In this episode, we cover:</p>
-  <ul>
-    <li>What <em>‘appraisal’</em> really means and the purpose it serves</li>
-    <li>Key characteristics of an appropriately conducted appraisal process</li>
-    <li>How to practically implement appraisals during clinical evaluation and why it matters</li>
-  </ul>
-  <p>A well-documented appraisal strategy is essential for demonstrating safety and performance through clinical data. Ensuring the appraisal is systematic, objective, and traceable can significantly reduce regulatory pushback.</p>
-  <p>If you missed it, <a href="/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities">be sure to check out Episode 1:”Safety and Performance Objectives Lack Specific and measurable acceptance criteria”</a> where we explore how to define specific, measurable objectives and develop practical acceptance criteria that meet Notified Body expectations.</p>
-  <p>Stay tuned for Episode 3, where tackle another common non-conformity: “<em>It is not clear what systematic search methods were used for the literature review.</em>” We’ll show you how to design and document a compliant search strategy that ensures transparency, traceability, and relevance in your literature review process. <a href="/newsletter">Sign up to our newsletter now so you don’t miss out</a>.</p>
-  <hr />
-  <div class="small-text">
-    <strong>Transcript follows:</strong>
-    <p>It’s Paul from Mantra Systems here, and welcome to episode two of our series on how to fix clinical evaluation non-conformances.</p>
-    <p>If you didn’t see the first part in the series, I’ll put a link to that post in the description below this video.</p>
-    <p>But otherwise, let’s get on with episode two.</p>
-    <hr />
-    <p>Non-conformances following submission of a clinical evaluation are quite common under the EU MDR, basically because the standard for submissions is now so high.</p>
-    <p>But the problem is that:</p>
-    <ul>
-      <li>Resolution of non-conformances is necessary for the clinical evaluation to be accepted.</li>
-      <li>Nonconformities can be quite difficult to interpret.</li>
-      <li>It may not always be clear how to fully address them.</li>
-      <li>A failure to resolve non-conformances may lead to:
-        <ul>
-          <li>A further round of review,</li>
-          <li>Increased costs,</li>
-          <li>Lost time,</li>
-          <li>Stress and worry.</li>
-        </ul>
-      </li>
-    </ul>
-    <p>The aim of this series is to work through commonly seen nonconformities one at a time, and dig deep into what they mean and how to solve—or preferably avoid—them in the first place.</p>
-    <p>The context behind this is to link into general principles for optimal conduct of medical device clinical evaluation.</p>
-    <p><strong>Nonconformity Number Two.</strong> The one we’re going to look at is this:</p>
-    <blockquote>
-      <p><strong>‘Appraisal of literature articles has not been conducted appropriately.’</strong></p>
-    </blockquote>
-    <p>This is one we see a lot. To explore it—and ensure that you don’t fall foul of it—we’ve broken our approach down into three steps:</p>
-    <ol>
-      <li>Consider what appraisal actually means and what purpose it serves within the context of a clinical evaluation.</li>
-      <li>Look at the characteristics of an appropriate appraisal framework.</li>
-      <li>Consider how appraisal should be applied during clinical evaluation.</li>
-    </ol>
-    <p><strong>What Is Appraisal?</strong> Appraisal is:</p>
-    <ul>
-      <li>A <strong>structured and systematic evaluation</strong> of:
-        <ul>
-          <li>The <strong>quality</strong> of individual studies within a literature review or a clinical evaluation, and</li>
-          <li>The <strong>relevance</strong> of each source to the clinical evaluation.</li>
-        </ul>
-      </li>
-    </ul>
-    <p>If applied correctly, appraisal enables <strong>systematic weighting</strong> of study outcomes according to quality and relevance.</p>
-    <p>The basic idea:</p>
-    <blockquote>
-      <p>The better the study, and the more relevant it is, the greater weighting is given to its results compared with lower-quality studies of lower relevance.</p>
-    </blockquote>
-    <p>The MEDDEV guideline 2.7/1 revision 4—although somewhat outdated—places appraisal effectively into context.</p>
-    <ul>
-      <li>Clinical evaluation is split into four stages: 0, 1, 2, and 3.</li>
-      <li><strong>Appraisal is stage 2</strong>, which:
-        <ul>
-          <li>Comes after identification of pertinent data,</li>
-          <li>Leads into appropriate analysis,</li>
-          <li>Emphasizes that you can’t properly analyze data until you’ve appraised it.</li>
-        </ul>
-      </li>
-    </ul>
-    <p><strong>Designing an Appraisal Framework</strong>. There is <strong>no universally defined appraisal system</strong>. Some systems are <strong>broadly accepted</strong>, such as the Oxford scheme, but:</p>
-    <ul>
-      <li>These can be limited. For example, the Oxford scheme only considers study type, overlooking other relevant factors.</li>
-      <li>Therefore, <strong>justification of your chosen method is key</strong>.</li>
-    </ul>
-    <p>Appraisal should:</p>
-    <ul>
-      <li>Consider a <strong>range of factors</strong> related to study quality and relevance.</li>
-      <li>Avoid being based on <strong>just one or two</strong> elements.</li>
-    </ul>
-    <blockquote>
-      <p>The most common pitfall: <strong>doing nothing</strong> with the appraisal.</p>
-    </blockquote>
-    <p>The objective is to produce an <strong>appraisal score for each source</strong> that actively influences outcomes.</p>
-    <p>This score becomes a <strong>mathematical weighting factor</strong> applied to results from individual sources.</p>
-    <p><strong>Characteristics of a Compliant Appraisal Framework</strong>. There’s no universally accepted method, but an appraisal scheme may consider:</p>
-    <ul>
-      <li><strong>Study type</strong>
-        <ul>
-          <li>RCTs typically score higher than cohort studies or case series.</li>
-        </ul>
-      </li>
-      <li><strong>Sample size</strong>
-        <ul>
-          <li>Larger sample sizes increase reliability and therefore the score.</li>
-        </ul>
-      </li>
-      <li><strong>Use of statistics</strong>
-        <ul>
-          <li>Includes whether the study shows statistical significance.</li>
-          <li>Well-designed statistical analysis increases score.</li>
-        </ul>
-      </li>
-      <li><strong>Length of follow-up</strong>
-        <ul>
-          <li>Longer follow-up captures more of the clinical journey.</li>
-        </ul>
-      </li>
-      <li><strong>Devices used within studies</strong>
-        <ul>
-          <li>Subject device: highest score</li>
-          <li>Equivalent device: slightly lower</li>
-          <li>Similar device: lower still</li>
-          <li>Unrelated device: lowest score</li>
-        </ul>
-      </li>
-    </ul>
-    <p>The key is <strong>justification</strong>—explain to the reviewer why your approach is appropriate.</p>
-    <p><strong>Example Scoring Framework.</strong> In your <strong>appraisal protocol</strong>, you might use a system like this:</p>
-    <ul>
-      <li>Characteristics listed on the left</li>
-      <li>Descriptions and alpha-numeric grading on the right</li>
-      <li>Higher numbers = better scores</li>
-    </ul>
-    <p>Example:</p>
-    <ul>
-      <li>A randomized control trial might be scored <code class="language-plaintext highlighter-rouge">R4</code>.</li>
-      <li>A case series might be scored <code class="language-plaintext highlighter-rouge">R1</code>.</li>
-    </ul>
-    <p>You can build a table with these scores and apply it to each study. This allows a study to be:</p>
-    <ul>
-      <li>Strong in one area,</li>
-      <li>Weak in another.</li>
-    </ul>
-    <p>This <strong>combined appraisal system</strong> accounts for nuance.</p>
-    <p>To produce the <strong>overall appraisal score</strong>, add the numbers in each row.</p>
-    <p>Example (hypothetical data):</p>
-    <p>For ‘Jones et al’:<br />
-      R3 (3) + 2 + 1 + 3 + 3 = <strong>12</strong></p>
-    <p><strong>Applying the Appraisal.</strong> Once you have appraisal scores:</p>
-    <ol>
-      <li>List the studies and their appraisal scores.</li>
-      <li>Add an outcome parameter (e.g., reduction in pain VAS).</li>
-    </ol>
-    <p>To calculate the <strong>weighted mean</strong>:</p>
-    <ul>
-      <li>Multiply the <strong>outcome value</strong> by the <strong>appraisal score</strong>.</li>
-      <li>Example for Jones et al:
-        <ul>
-          <li>Outcome: 4.5</li>
-          <li>Appraisal score: 12</li>
-          <li>Weighted value: 4.5 × 12 = 54</li>
-        </ul>
-      </li>
-    </ul>
-    <p>Repeat for each source.</p>
-    <p>Then:</p>
-    <ul>
-      <li>Sum the appraisal scores: <strong>61</strong></li>
-      <li>Sum the weighted values: <strong>226.7</strong></li>
-      <li>Divide the total weighted values by the total appraisal scores:</li>
-    </ul>
-    <pre><code class="language-math">Weighted mean = 226.7 / 61 = 3.72
-</code></pre>
-    <p>This gives <strong>greater weight to better quality studies</strong>, which is the essence of how appraisal is expressed in a compliant clinical evaluation.</p>
-    <p><strong>Summary of an Effective appraisal:</strong></p>
-    <ul>
-      <li>Uses systematic methods to evaluate quality and relevance.</li>
-      <li>Considers a range of factors.</li>
-      <li>Produces a score to enable mathematical weighting of results.</li>
-      <li>Must be:
-        <ul>
-          <li>Justified,</li>
-          <li>Conducted according to a clear, advance plan.</li>
-        </ul>
-      </li>
-      <li>Applies to literature for both:
-        <ul>
-          <li>Subject devices,</li>
-          <li>State-of-the-art comparisons.</li>
-        </ul>
-      </li>
-    </ul>
-    <p><strong>Recap of Episode Two: Nonconformity #2: Appraisal of literature articles has not been conducted appropriately</strong></p>
-    <p>In this episode, we’ve:</p>
-    <ul>
-      <li>Looked at what appraisal is and what purpose it serves.</li>
-      <li>Considered characteristics of an appropriately conducted appraisal process.</li>
-      <li>Looked at how appraisal should be applied during clinical evaluation and the effect it has on outcomes.</li>
-    </ul>
-    <hr />
-    <p>Don’t forget that <strong>Mantra Systems offers a comprehensive clinical evaluation service</strong>. One of the most common reasons we’re engaged is to help with resolution of non-conformities.</p>
-    <ul>
-      <li>All initial conversations are <strong>completely free</strong>.</li>
-      <li>We have a <strong>really friendly team</strong>.</li>
-      <li>Give us a call or send us an email if you’d like to discuss anything.</li>
-    </ul>
-    <p>That concludes episode two in this non-conformity series.</p>
-    <p><strong>Please share</strong> if you found this video useful, and I look forward to seeing you in the next part of the series.</p>
-    <p><strong>Thank you very much!</strong></p>
-  </div>
-  ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[Our ongoing series covers one of the most frequent reasons for CER rejection: a poor appraisal of literature sources.]]></summary></entry><entry><title type="html">Navigating CAPA Terminology: Key Terms for Medical Device Professionals</title><link href="https://www.mantrasystems.co.uk/articles/navigating-capa-terminology-key-terms-for-medical-device-professionals" rel="alternate" type="text/html" title="Navigating CAPA Terminology: Key Terms for Medical Device Professionals" /><published>2025-04-02T00:00:00+01:00</published><updated>2025-04-03T12:43:18+01:00</updated><id>https://www.mantrasystems.co.uk/articles/navigating-capa-terminology-key-terms-for-medical-device-professionals</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/navigating-capa-terminology-key-terms-for-medical-device-professionals"><![CDATA[<p>The Corrective and Preventive Action (CAPA) process is a central component of <a href="/eu-mdr-compliance/quality-management-system-qms">Quality Management Systems</a> (QMS) and is a mandatory requirement for ISO 13485, MDSAP, <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_%C2%A0VIII">Regulation MDR (EU) 2017/745</a>, and the <a href="/medical-device-regulatory-consulting-services/fda-510k-consulting">US FDA</a>. It is a systematic approach used to identify, address, and prevent the recurrence of problems.</p>
-  <p>A CAPA is a structured process used to identify, resolve, and prevent the recurrence of issues within a system or product. It is essential for ensuring quality, compliance, and continuous improvement in various industries such as healthcare, manufacturing, and pharmaceuticals in the UK. The CAPA process is typically broken down into three main phases: <strong>Identify Problems</strong>, where issues are first recognised and thoroughly assessed; <strong>Address Problems</strong>, where corrective actions are formulated and implemented to fix the immediate problems; and <strong>Prevent Recurrence</strong>, where long-term solutions and preventive measures are established to ensure that the issue does not happen again, ultimately enhancing the reliability and quality of operations.</p>
-  <figure>
-    <img src="/assets/images/content/articles/inline/capa-process-in-quality-management.svg" alt="CAPA Process in Quality Management diagram." loading="lazy" width="520" height="416" />
-    <figcaption>CAPA Process in Quality Management</figcaption>
-  </figure>
-  <h2 id="key-terms">Key terms</h2>
-  <p>Here are some key terms that all medical device professionals should acquaint themselves with:</p>
-  <h3 id="nonconformity--a-deviation-from-a-specification-standard-or-an-expectation">Nonconformity = A deviation from a specification, standard, or an expectation</h3>
-  <p>Nonconformity is the recognition of an issue that deviates from the expected outcome or requirement. These typically appear at the beginning of the process, during identification and investigation stages.</p>
-  <h3 id="capa-trigger--a-predefined-condition-that-leads-to-a-corrective-or-preventative-measure">CAPA Trigger = A predefined condition that leads to a corrective or preventative measure</h3>
-  <p>CAPA triggers can arise from various sources, both internal and external, and typically highlight areas where a product, process, or system does not meet specified standards or expectations. Examples of CAPA triggers include: customer complaints, audit findings, and adverse events or near misses.</p>
-  <h3 id="root-cause-analysis-rca--a-method-to-identify-the-cause-of-a-problem">Root Cause Analysis (RCA) = A method to identify the cause of a problem</h3>
-  <p>The goal of RCA is not just to address the immediate symptoms of a problem, but to discover and resolve the root cause(s) to prevent recurrence. It’s a critical component of the CAPA process, especially in regulated industries like manufacturing, healthcare, and quality control. Tools such as the 5 Whys, Fishbone Diagram, and Failure Mode and Effects Analysis (FMEA) can be used to facilitate RCA.</p>
-  <h3 id="root-cause--the-main-reason-why-a-problem-has-arisenoccurred">Root Cause = The main reason why a problem has arisen/occurred</h3>
-  <p>In any quality management or problem-solving process, identifying the root cause is critical because it allows an organisation to focus its efforts on eliminating the source of the problem, rather than just addressing its symptoms.</p>
-  <h3 id="field-corrective-action-fca--actions-to-address-issues-identified-after-distribution">Field Corrective Action (FCA) = Actions to address issues identified after distribution</h3>
-  <p>FCAs are typically initiated after a product defect, safety concern, or performance failure has been identified in the field, often through customer complaints, product recalls, or post-market surveillance data. They form an important part of the product lifecycle and help in protecting both the end users and the manufacturer’s reputation.</p>
-  <h3 id="supplier-corrective-action-request-scar--a-request-to-a-supplier-to-address-the-problem">Supplier Corrective Action Request (SCAR) = A request to a supplier to address the problem</h3>
-  <p>The SCAR process is used to communicate nonconformities, initiate corrective actions, and ensure that suppliers address the underlying issues causing defects or quality problems. It’s an essential tool in quality management systems. The purpose of SCAR is to improve supplier performance and prevent recurrence of issues that may affect the quality and safety of the end product.</p>
-  <h3 id="capa-plan--a-documented-plan-for-actions-to-address-a-specific-issue">CAPA Plan = A documented plan for actions to address a specific issue</h3>
-  <p>It begins with identifying a problem, conducting a root cause analysis, and implementing corrective actions to resolve the issue. Preventive actions are then put in place to reduce the risk of future occurrences. The plan also includes verifying the effectiveness of these actions, documenting the process, and ensuring continuous monitoring for improvement.</p>
-  <h3 id="capa-review-board--a-group-that-is-responsible-for-overseeing-the-capa-process">CAPA Review Board = A group that is responsible for overseeing the CAPA process</h3>
-  <p>The board ensures that identified issues are appropriately investigated, root causes are thoroughly analysed, and corrective and preventive actions are effectively implemented.</p>
-  <h3 id="risk-assessment--the-process-of-identifying-and-analysing-the-impact-of-potential-issues">Risk Assessment = The process of identifying and analysing the impact of potential issues</h3>
-  <p>In the context of CAPA, risk assessment helps determine the severity and likelihood of an issue reoccurring, allowing companies to implement appropriate actions to mitigate or control these risks. It plays a critical role in ensuring that corrective and preventive measures are effective and proportionate to the identified risks.</p>
-  <h3 id="correction--action-to-fix-a-nonconformity-without-addressing-the-root-issue">Correction = Action to fix a nonconformity without addressing the root issue</h3>
-  <p>Unlike corrective actions, which are aimed at preventing recurrence, corrections focus on resolving the current issue.</p>
-  <h3 id="preventative-action-pa--actions-that-address-the-causes-of-a-potential-nonconformity">Preventative Action (PA) = Actions that address the causes of a potential nonconformity</h3>
-  <p>This process involves analysing trends, risks, or weak points in the system and making improvements to avoid future problems, ensuring ongoing compliance and quality.</p>
-  <h3 id="corrective-action-ca--actions-that-address-the-causes-of-an-existing-nonconformity">Corrective Action (CA) = Actions that address the causes of an existing nonconformity</h3>
-  <p>This process involves investigating the issue, implementing changes to eliminate the cause, and ensuring that similar issues do not arise in the future.</p>
-  <h3 id="verification--checking-that-a-solution-works-as-intended">Verification = Checking that a solution works as intended</h3>
-  <p>Verification is the process of confirming that a product, process, or system meets specific requirements and functions as intended. It involves checking and testing against predetermined criteria to ensure accuracy and compliance before implementation or release.</p>
-  <h3 id="validation--ensuring-that-a-product-or-a-process-meets-its-intended-use">Validation = Ensuring that a product or a process meets its intended use</h3>
-  <p>Validation ensures that a product, process, or system consistently meets its intended purpose and regulatory requirements. It involves testing and documentation to confirm reliability and compliance with standards, ensuring product quality and safety.</p>
-  <h3 id="effectiveness-check-voe--evaluation-to-confirm-the-success-of-a-capa">Effectiveness Check (VoE) = Evaluation to confirm the success of a CAPA</h3>
-  <p>After implementing corrective actions, an Effectiveness Check ensures that the changes have successfully resolved the problem and that the same issue does not reoccur. This check typically involves monitoring the results over a set period, reviewing data, and evaluating the impact of the actions on product quality, performance, or process improvements.</p>
-  <h3 id="disposition--decision-on-how-to-handle-a-nonconforming-product-or-situation">Disposition = Decision on how to handle a nonconforming product or situation</h3>
-  <p>Disposition refers to the decision made regarding nonconforming products, determining whether they should be reworked, used as-is, scrapped, or returned to the supplier. These decisions are based on the severity of the nonconformity and are crucial for maintaining product quality and compliance.</p>
-  <h2 id="mastering-capa-turning-terminology-into-action">Mastering CAPA: Turning Terminology into Action</h2>
-  <p>In conclusion, understanding and navigating CAPA terminology is essential for ensuring compliance and driving continuous improvement within a quality management system. Familiarity with key terms such as root cause analysis, corrective actions, preventive actions, and effectiveness checks will help professionals make informed decisions, streamline processes, and avoid common pitfalls.</p>
-  <p>By staying up-to-date with these critical terms, organisations can strengthen their CAPA processes, improve product quality, and enhance overall regulatory compliance. Empowering teams with the knowledge of CAPA terminology is a key step toward maintaining high-quality standards and ensuring the safety and efficacy of medical devices in the marketplace.</p>
-  <p>Ready to navigate the regulatory process with confidence? With our expert team and 100% notified body approval, we’re here to help you ensure compliance and streamline your medical device journey. <a href="/contact">Contact us today to get started!</a></p>
-  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[We define and explain the language required to work within a Quality Management System (QMS).]]></summary></entry><entry><title type="html">Clinical Evaluation Masterclass: Overcoming Non-conformities - Episode 1</title><link href="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities" rel="alternate" type="text/html" title="Clinical Evaluation Masterclass: Overcoming Non-conformities - Episode 1" /><published>2025-04-02T00:00:00+01:00</published><updated>2025-04-09T12:26:25+01:00</updated><id>https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities"><![CDATA[<p>Clinical Evaluation Plans (CEPs) and Clinical Evaluation Reports (CERs) are critical components of medical device regulatory compliance. However, the reality is that meeting requirements isn’t always plain sailing.</p>
-  <p>Based on our experience with over 250 successful submissions, we’ve identified that overcoming clinical evaluation non-conformities is one of the major challenges manufacturers face during the device approval journey.</p>
-  <h2 id="what-is-a-non-conformity-in-clinical-evaluation">What is a Non-Conformity in Clinical Evaluation?</h2>
-  <p>A non-conformity arises when a CEP or CER fails to meet MDR requirements. Non-conformities signal that the evaluation does not yet adequately demonstrate a medical device’s safety and performance or that full alignment with regulatory obligations has not been shown, requiring correction before approval.</p>
-  <h2 id="the-impact-of-non-conformities-on-manufacturers">The Impact of Non-Conformities on Manufacturers</h2>
-  <p>Non-conformities significantly disrupt the approval process, leading to extended review timelines, increased costs, and mandatory revision cycles. Since notified bodies (NBs) cannot accept a CEP or CER with unresolved non-conformities, addressing them is critical for market access.</p>
-  <h2 id="a-helping-hand">A helping hand</h2>
-  <p>Our new video series applies our deep experience to help manufacturers proactively identify and fix these issues for smoother audits and faster certifications. This series breaks down the most common clinical evaluation non-conformities, explains <em>why</em> they keep happening, and most importantly, shows you <em>how to fix them</em> for good. Each episode provides step-by-step guidance to help you avoid these pitfalls in your CER submissions.</p>
-  <h2 id="episode-1-safety-and-performance-objectives-lack-specific-and-measurable-acceptance-criteria">Episode 1: “Safety and Performance Objectives Lack Specific and Measurable Acceptance Criteria”</h2>
-  <p>This frequently cited regulatory observation typically reflects not an actual safety or performance deficiency, but rather insufficiently defined evaluation parameters. The episode will address:</p>
-  <ul>
-    <li>Fundamental concepts of safety and performance objectives</li>
-    <li>Deriving safety and performance objectives using weighted values</li>
-    <li>Defining “specific” and “measurable” objectives</li>
-    <li>Practical approaches to establishing and implementing acceptance criteria</li>
-  </ul>
-  <p>Coming in Episode 2: We’ll tackle another frequent non-conformity, “<em>Appraisal of literature articles has not been conducted appropriately</em>” showing you how to strengthen your literature review process. <a href="/newsletter">Sign up to our newsletter now so you don’t miss out</a>.</p>
-  <hr />
-  <div class="small-text">
-    <strong>Transcript follows:</strong>
-    <p>Okay, hi everyone, it’s Paul here from Mantra Systems. Welcome to a brand new series that we’re running on how to fix <strong>clinical evaluation non-conformities</strong>.</p>
-    <p>The idea behind this series is to equip you with the capability to, first of all, avoid common non-conformities that are seen in medical device clinical evaluations. And then secondly, if you have been unfortunate enough to receive one, by the end of the series you should hopefully have a powerful strategy for correcting them and moving on to full acceptance of your CE.</p>
-    <p>So, just for this first episode, we’re going to cover a few basics, and it’s worth starting with the question: <em>What is a clinical evaluation non-conformity?</em></p>
-    <p>Well, obviously, apart from Class I devices, clinical evaluation plans and clinical evaluation reports need to be submitted for review by a notified body. And a non-conformity — or NC for short — is when conformity with requirements has not been adequately demonstrated. A non-conformity requires correction and then resubmission of the CEP and CER. Resolution — certainly of major non-conformities — is necessary in order for the clinical evaluation to be accepted.</p>
-    <p>So, it is a really important topic, and non-conformities under MDR are quite common. But the problem with non-conformities is that sometimes the questions — which is how they’re often manifest, it’s a question from a reviewer — they can be difficult to interpret. Sometimes it’s not clear exactly what a reviewer means, and it may be unclear how to fully address them as well.</p>
-    <p>A failure to resolve non-conformities in full may lead to a further round of review following yet another resubmission, which is just multiplying costs, losing time, and it leads to stress and worry — because it is anxiety-inducing trying to get a clinical evaluation through approval.</p>
-    <p>Okay, so the aim of the series is to work through common non-conformities one at a time, and to dig deep into what they mean and how to solve or avoid them. The series and the principles within it link over to general principles for optimal conduct of clinical evaluation under the MDR.</p>
-    <p>So, let’s start with our first example non-conformity. This one is a really common one, and it states:</p>
-    <blockquote>
-      <p><em>“Safety and performance objectives do not appear to have specific and measurable acceptance criteria.”</em></p>
-    </blockquote>
-    <p>Breaking that down, we need to understand exactly what the question means and how to address it. It’s possible to break it down into the following bullet points:</p>
-    <ul>
-      <li>What actually are safety and performance objectives?</li>
-      <li>What in this context does “specific and measurable” mean?</li>
-      <li>What are acceptance criteria?</li>
-    </ul>
-    <p>And importantly, of course, it needs to go beyond just knowing what they are but: <strong>How do we derive and analyse them?</strong></p>
-    <p>So, let’s begin with safety and performance objectives. What are safety and performance objectives?</p>
-    <p>Well, these ultimately are benchmark values against which the device under evaluation will be compared. They are derived from the state-of-the-art literature review, which is an essential component of clinical evaluation.</p>
-    <p>Technically speaking, objectives have two components. They’re derived of a clinical outcome parameter — which is a qualitative concept or type of outcome — and then attached to that, there will be a quantitative value that forms the actual objective.</p>
-    <p>As per the non-conformity, safety and performance objectives must be specific and measurable. Now, that covers a lot of ground, so let’s take an example and break this down.</p>
-    <p>An example might be of a completed safety — or in this case a performance — objective:</p>
-    <blockquote>
-      <p>“Increasing walking distance in meters at six weeks post-procedure of 61.46m.”</p>
-    </blockquote>
-    <p>You can see within this the two components: the “increase in walking distance in meters at six weeks” — that’s not a value, okay? It contains a number, but that’s just because we need to compare like with like. That’s not the actual objective.</p>
-    <p>The clinical outcome parameter is a thing, a concept, something you might measure, something to which you might attach a value. And then the second part of it is the actual performance outcome, which is quantitative.</p>
-    <p>These two things together constitute a specific and measurable safety or performance objective.</p>
-    <p>So, how are these derived? Well, they’re derived during the analysis stage of a state-of-the-art literature review. We’re going to go on to a working example in a moment to show exactly how they are derived.</p>
-    <p>Remember, a clinical outcome parameter is a “thing,” and you decide upon those by looking for outcomes that are seen in a comparable form across multiple sources within the state-of-the-art literature review. If you have four, five, six sources all reporting the same type of outcome, it’s a strong candidate for a clinical outcome parameter.</p>
-    <p>In the state-of-the-art protocol, there should be a method for determining what constitutes a clinical outcome parameter. That, of course, would feed into the clinical evaluation plan.</p>
-    <p>Safety and performance objectives then are weighted mean values attached to those parameters. As we’ve seen before, you need both parts.</p>
-    <p>It’s worth at this point just reflecting on the principles of an effective state-of-the-art literature review. Because there’s no point producing state-of-the-art safety or performance outcomes that have not been derived properly.</p>
-    <p>We’ll go into this in another video, but a state-of-the-art literature review requires:</p>
-    <ul>
-      <li>a detailed protocol</li>
-      <li>use of a validated method to define research questions and search terms (one such method is PICCO)</li>
-      <li>a well-documented literature extraction process with recording and justification of all excluded sources,</li>
-      <li>a structured appraisal — which is where we get to be very specific to the production of safety and performance objectives, and</li>
-      <li>the analysis — which is where the actual objectives are produced.</li>
-    </ul>
-    <p>But we cover that in a lot more detail in a separate video.</p>
-    <p>So, let’s look at a working example of how safety and performance objectives are derived.</p>
-    <p>Here is fictional data. Let’s say we’ve done a state-of-the-art literature review, and sticking with the same example, we found four publications that all reported a mean increase in walking distance at six weeks, and they all did it in a comparable way. Here are the mean values from each of those sources.</p>
-    <p>How do we produce a weighted mean?</p>
-    <p>You can see in the table that the way we’re going to weight it is by a representation of the quality of each of these studies, to ensure that greater weighting or prominence is given to results from higher quality studies. In order to do that, we need to produce an appraisal score.</p>
-    <p>Appraisal scores — there are lots of different ways to do this. On the next slide we’ve got, again, a simplified fictional example of how to calculate an appraisal score. You might look at different aspects of the study: you might consider study type, sample size, the use of statistical tests and whether they were appropriate, and the length of follow-up. You’d probably in reality consider other factors as well, but for the purpose of this, this will suffice.</p>
-    <p>You’ve perhaps seen this — usually these manifest as an alphanumeric code, and again, the meaning behind this code should be expressed in the literature search protocol, in the appraisal plan section. So this will all be mapped out.</p>
-    <p>Ultimately, this enables the calculation of a numerical appraisal score for each paper, with a higher number representing a higher quality study. Then those values can be imputed back into the original table with all the other values being the same.</p>
-    <p>Now we have an appraisal score by which we can weight the results from each study. That’s done fairly simply just by multiplying the actual result by the appraisal score. We do that for all of them to produce a weighted value for each study.</p>
-    <p>But we’re not quite done there, because we need to calculate a weighted mean. That’s done by taking the sum of all the weighted values and dividing that by the sum of the appraisal scores.</p>
-    <p>What we’re doing there is making the appraisal scores the denominator — they are the weighting factor that’s being applied across all studies. This means we achieve our objective of moving the weighted mean closest to the values of the highest quality studies.</p>
-    <p>In this case, that means: 3872 / 63, which gives a weighted mean of 61.46.</p>
-    <p>It’s always worth sanity checking these, but if you look at the plain mean values from each study and the appraisal scores, you’d expect it to land around the 60 mark — and that’s where it falls: 61.46.</p>
-    <p>So, that’s a simplified example of how to calculate a weighted mean for the quantitative component of a safety and performance objective.</p>
-    <p>Don’t forget, the non-conformity required that we produce safety and performance objectives that are specific and measurable.</p>
-    <p>Let’s just reflect on what that means:</p>
-    <ul>
-      <li>Specific means unambiguous, clear, and would be consistently interpreted as meaning the same thing.</li>
-      <li>Measurable means it contains a value — a quantitative value — against which another value from another device can be measured.</li>
-    </ul>
-    <p>So we have this in this case. It’s clear that that is both specific and measurable, and that’s why we included reference to six weeks — to ensure we’re comparing like with like.</p>
-    <p>That leaves us to consider the final aspect of the non-conformity, which was reference to acceptance criteria.</p>
-    <p>An acceptance criteria basically defines when safety or performance of the device under evaluation are acceptable in comparison to state-of-the-art.</p>
-    <p>What we’re doing here is setting out a means for comparing the device-under-evaluation outcomes with the state-of-the-art objectives for specified clinical outcome parameters. By now, all of these terms should have a meaning attached to them.</p>
-    <p>So, the clinical evaluation plan needs to contain an analysis plan for how this comparison will be done. Suffice to say that the outcomes for the device under evaluation are calculated by weighted means using a very similar method that we used for the state-of-the-art objectives.</p>
-    <p>And acceptance — this is the key part — acceptance can be defined as showing (statistically) that the outcomes for the device under evaluation are non-inferior to objectives derived from the SOA. We don’t need to show superiority — we’re just showing non-inferiority. That’s a key distinction.</p>
-    <p>Let’s take a final example, then, working this through.</p>
-    <p>We can see:</p>
-    <ul>
-      <li>Increasing walking distance (spelled correctly this time) of 61.46,</li>
-      <li>and in this example there were some other clinical outcome parameters as well:
-        <ul>
-          <li>improvement in pain (VAS, a measure of pain score),</li>
-          <li>and range of motion at six months.</li>
-        </ul>
-      </li>
-    </ul>
-    <p>We have values attached to all of those. Then we also have weighted mean values for the device under evaluation.</p>
-    <p>Remember, the job here is to determine whether the device under evaluation is non-inferior to SOA objectives.</p>
-    <p>For the top one, it’s very easy, because a plain number comparison shows that the device under evaluation did better than the SOA objective. We don’t need to do any fancy tests — it’s obviously non-inferior. That’s a straightforward conclusion.</p>
-    <p>But with the others, on a plain number comparison, the device under evaluation actually looks like it’s done less well than the state-of-the-art objectives. The important thing to understand here is whether that represents true inferiority, or whether these values are statistically non-different.</p>
-    <p>For that reason, conducting a statistical test is relevant. Often a t-test is an appropriate test because it’s a comparison of means, and it generates a p-value denoting significance or non-significance of the difference between these values.</p>
-    <p>Let’s say we conducted a t-test in this case, and these were the p-values that were derived. Generally, significance requires a value of less than 0.05 for the p-value. That’s not what we’re seeing here, and so these differences were non-inferior.</p>
-    <p>According to our acceptance criteria, the device under evaluation has been shown to have appropriate performance in reference to state-of-the-art.</p>
-    <p>So let’s go back to the original non-conformity:</p>
-    <blockquote>
-      <p>“Safety and performance objectives do not appear to have specific and measurable acceptance criteria.”</p>
-    </blockquote>
-    <p>We covered:</p>
-    <ul>
-      <li>what safety and performance objectives are,</li>
-      <li>how to derive them using weighted values following a state-of-the-art literature review,</li>
-      <li>what “specific and measurable” means and how the outlined process generates specific and measurable objectives,</li>
-      <li>and what acceptance criteria are and how to apply them — including through use of statistical testing.</li>
-    </ul>
-    <p>If you need any further support in relation to clinical evaluation or working through non-conformities, Mantra Systems are clinical evaluation specialists. You’re free to contact our team at any time.</p>
-    <p>If you’ve just got some general questions, don’t worry — it’s absolutely fine. More than happy to speak at any time. So feel free to reach out to us if you need any additional support.</p>
-    <p>That concludes the first episode of the Clinical Evaluation Non-Conformity series. I’d like to thank you very much, and if you have any questions or comments, please let me know below the video.</p>
-    <p>Thank you very much.</p>
-  </div>
-  ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[In this series, we work step-by-step through common Non-Conformities to ensure you are always ahead of possible challenges on the way to MDR approval.]]></summary></entry><entry><title type="html">MDCG 2020-16 Revision 4: Key Updates on IVDR Classification Rules</title><link href="https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules" rel="alternate" type="text/html" title="MDCG 2020-16 Revision 4: Key Updates on IVDR Classification Rules" /><published>2025-03-28T00:00:00+00:00</published><updated>2025-03-28T10:50:34+00:00</updated><id>https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules</id><content type="html" xml:base="https://www.mantrasystems.co.uk/articles/mdcg-2020-16-rev-4-key-updates-on-ivdr-classification-rules"><![CDATA[<p>The <strong>Medical Device Coordination Group (MDCG)</strong> has released <strong>MDCG 2020-16 rev.4 - Guidance on Classification Rules for in vitro Diagnostic Medical Devices under Regulation (EU) 2017/746</strong>.</p>
-  <p>This update released in March 2025 provides comprehensive clarification on the classification rules outlined in <strong>Annex VIII</strong> of the <strong>IVDR</strong>, ensuring that manufacturers, notified bodies, and health institutions have a clear framework for classifying in vitro diagnostic (IVD) devices based on their intended purpose and inherent risk, prior to placing it on the market. Notably, the guidance addresses the classification of medical device software (MDSW) and emphasises the importance of considering devices used in combination.</p>
-  <h2 id="summary-of-key-updates">Summary of Key Updates</h2>
-  <table>
-    <thead>
-      <tr>
-        <th style="text-align: left">Rule</th>
-        <th style="text-align: left">Changes</th>
-        <th style="text-align: left">Details</th>
-        <th style="text-align: left">Impact</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="text-align: left">Rule 1 – Second Indent</td>
-        <td style="text-align: left">Revision of examples</td>
-        <td style="text-align: left">Updated examples to provide better clarity on the classification of IVD devices.</td>
-        <td style="text-align: left">Ensures more precise classification, reducing ambiguity for manufacturers.</td>
-      </tr>
-      <tr>
-        <td style="text-align: left">Rule 3(m)</td>
-        <td style="text-align: left">Footnote 8 modified</td>
-        <td style="text-align: left">Footnote 8 modified to refine interpretation and applicability.</td>
-        <td style="text-align: left">Improves understanding of specific classification aspects.</td>
-      </tr>
-      <tr>
-        <td style="text-align: left">Rule 4(a)</td>
-        <td style="text-align: left">Revision of examples</td>
-        <td style="text-align: left">Updated examples for self-testing devices, refining classifications based on biomarkers.</td>
-        <td style="text-align: left">Helps manufacturers align with IVDR requirements for self-testing IVDs.</td>
-      </tr>
-      <tr>
-        <td style="text-align: left">Rule 6</td>
-        <td style="text-align: left">Minor modification of the rationale and revision of examples</td>
-        <td style="text-align: left">Minor updates to rationale and refined examples for Class B IVDs.</td>
-        <td style="text-align: left">Provides a clearer framework for determining Class B device classification.</td>
-      </tr>
-      <tr>
-        <td style="text-align: left">Annex 1 and Annex 2</td>
-        <td style="text-align: left">Minor editorial changes</td>
-        <td style="text-align: left">Minor wording and structural refinements for improved readability.</td>
-        <td style="text-align: left">Enhances document clarity without changing regulatory requirements.</td>
-      </tr>
-    </tbody>
-  </table>
-  <h2 id="key-considerations-for-manufacturers">Key Considerations for Manufacturers</h2>
-  <p>The <a href="https://health.ec.europa.eu/document/download/12f9756a-1e0d-4aed-9783-d948553f1705_en?filename=md_mdcg_2020_guidance_classification_ivd-md_en.pdf">MDCG 2020-16 rev.4 guidance</a> has significant implications for <strong>IVD manufacturers</strong> as it refines how devices should be classified under IVDR.</p>
-  <ul>
-    <li><strong>Accurate Classification Criteria</strong> – The revision of examples under <strong>Rules 1, 4(a), and 6</strong> helps manufacturers correctly classify their IVD devices, reducing uncertainty. Manufacturers must <strong>review and adapt</strong> classifications, ensuring conformity with <strong>IVDR and notified body requirements</strong>.</li>
-    <li><strong>More Precise Risk Assessment</strong> – Manufacturers need to reassess whether their devices fall into a different risk class, impacting regulatory requirements.</li>
-    <li><strong>Improved Compliance with IVDR</strong> – The minor changes provide clarity but do not fundamentally alter the classification process. However, manufacturers should review their classification decisions against the revised examples.</li>
-    <li><strong>Potential Impact on Notified Body Review</strong> – If an IVD device’s classification is affected by the updated examples or rationale, additional <strong>notified body consultation</strong> may be required for conformity assessments.</li>
-  </ul>
-  <h2 id="final-thoughts">Final Thoughts</h2>
-  <p>The MDCG has provided essential updates to support <strong>IVD manufacturers</strong> in <strong>correctly interpreting classification rules under the IVDR</strong>. By understanding and implementing these refinements, manufacturers can <strong>ensure accurate device classification, strengthen regulatory compliance, and streamline interactions with notified bodies</strong>.</p>
-  <p>For more insights on IVDR compliance and regulatory transitions, you may find these articles helpful:</p>
-  <ul>
-    <li><a href="/articles/understanding-risk-based-classification-of-in-vitro-medical-devices-under-eu-ivdr">Understanding Risk-Based Classifications for IVDs Under the IVDR</a></li>
-    <li><a href="/articles/ivdd-ivdr-ensuring-compliance-during-transitional-period">Transitioning from IVDD to IVDR: Key Considerations</a></li>
-  </ul>
-  <p>Navigating IVDR classification can be challenging. <strong>Mantra Systems</strong> provides <strong>expert regulatory consulting, medical writing, and compliance support</strong> to help manufacturers <strong>interpret and implement</strong> the latest MDCG guidance seamlessly. <a href="/contact">Contact us today</a> for a free, confidential consultation on how we can support your IVDR compliance journey.</p>
-  ]]></content><author><name>chandini-vk</name></author><category term="IVDR" /><summary type="html"><![CDATA[We detail how this revision ensures manufacturers, notified bodies, and health institutions have a clearer regulatory framework.]]></summary></entry></feed>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="IVDR" /><summary type="html"><![CDATA[Whether preparing for a new EU market submission or strengthening existing documentation, this guide is your overview of performance evaluation under IVDR.]]></summary></entry></feed>

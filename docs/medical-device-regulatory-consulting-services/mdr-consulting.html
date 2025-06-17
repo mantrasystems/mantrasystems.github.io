@@ -462,7 +462,7 @@
                   <h2>Let's talk</h2>
                   <form action="https://formcarry.com/s/8XLnCB645H0" method="POST" enctype="multipart/form-data">
                     <fieldset>
-                      <input type="hidden" name="gclid" id="gclid" />
+                      <input type="hidden" name="gclid" class="js-gid" />
                       <label class="hide">
                         Please ignore this field
                         <input type="text" name="genius" />
@@ -853,13 +853,15 @@
             </div>
           </div>
           <form action="https://formcarry.com/s/8XLnCB645H0" method="POST" enctype="multipart/form-data">
+            <input type="hidden" name="gclid" class="js-gid" />
+            <label class="hide">
+              Please ignore this field
+              <input type="text" name="genius" />
+            </label>
+            <input type="hidden" name="origin" value="From page: /medical-device-regulatory-consulting-services/mdr-consulting" />
+            <input type="hidden" name="location" value="Form location: Footer" />
             <div class="row">
               <fieldset class="col col-7">
-                <input type="hidden" name="gclid" id="gclid" />
-                <label class="hide">
-                  Please ignore this field
-                  <input type="text" name="genius" />
-                </label>
                 <div class="form-group linear-fields">
                   <label>
                     <span class="label ">Your name</span>
@@ -889,7 +891,6 @@
                     </span>
                   </label>
                 </div>
-                <input type="hidden" name="origin" value="From page: /medical-device-regulatory-consulting-services/mdr-consulting" />
               </fieldset>
               <div class="col col-5">
                 <fieldset class="c-nu-form">
@@ -900,42 +901,42 @@
                       <small>Please tick any that apply</small>
                     </div>
                     <label>
-                      <input name="Non-conformity / resubmission support" type="checkbox" />
+                      <input name="Non-conformity / resubmission support" type="checkbox" value="checked" />
                       Non-conformity / resubmission support
                     </label>
                     <label>
-                      <input name="Meeting a tight deadline" type="checkbox" />
+                      <input name="Meeting a tight deadline" type="checkbox" value="checked" />
                       Meeting a tight deadline
                     </label>
                     <label>
-                      <input name="Overcoming capacity restraints" type="checkbox" />
+                      <input name="Overcoming capacity restraints" type="checkbox" value="checked" />
                       Overcoming capacity restraints
                     </label>
                     <label>
-                      <input name="Full technical file development" type="checkbox" />
+                      <input name="Full technical file development" type="checkbox" value="checked" />
                       Full technical file development
                     </label>
                     <label>
-                      <input name="General support" type="checkbox" />
+                      <input name="General support" type="checkbox" value="checked" />
                       General support
                     </label>
                   </fieldset>
                   <label>
                     Project deadlines
                     <select name="Project deadlines">
-                      <option value="na" selected="">N/A</option>
-                      <option value="1">&lt; 1 month</option>
-                      <option value="2">1 - 2 months</option>
-                      <option value="3">&gt; 3 months</option>
+                      <option value="NA" selected="">N/A</option>
+                      <option value="&lt; 1 month">&lt; 1 month</option>
+                      <option value="1 - 2 months">1 - 2 months</option>
+                      <option value="&gt;3 months">&gt; 3 months</option>
                     </select>
                   </label>
                   <label>
                     Number of devices
                     <select name="Number of devices">
                       <option value="1" selected="">1</option>
-                      <option value="5">2 - 5</option>
-                      <option value="9">6 - 9</option>
-                      <option value="10">10+</option>
+                      <option value="2 - 5">2 - 5</option>
+                      <option value="9 - 9">6 - 9</option>
+                      <option value="10+">10+</option>
                       <option value="NA">N/A</option>
                     </select>
                   </label>

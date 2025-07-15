@@ -1,23 +1,112 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://mantrasystems.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mantrasystems.com/" rel="alternate" type="text/html" /><updated>2025-07-07T12:43:28+01:00</updated><id>https://mantrasystems.com/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Do you have the clinical evidence you need to support regulatory approval?</title><link href="https://mantrasystems.com/articles/do-you-have-the-clinical-evidence-you-need-to-support-regulatory-approval-sue-kemp" rel="alternate" type="text/html" title="Do you have the clinical evidence you need to support regulatory approval?" /><published>2025-07-07T00:00:00+01:00</published><updated>2025-07-07T12:40:16+01:00</updated><id>https://mantrasystems.com/articles/do-you-have-the-clinical-evidence-you-need-to-support-regulatory-approval-sue-kemp</id><content type="html" xml:base="https://mantrasystems.com/articles/do-you-have-the-clinical-evidence-you-need-to-support-regulatory-approval-sue-kemp"><![CDATA[<p>What clinical evidence do I need? This is a critical question for anyone in the medical device development space.</p>
-      <p>The problem is, without the right approach it’s impossible to answer this correctly. Too many manufacturers spend a small fortune on clinical studies that, ultimately, fail to support approval and miss the mark for driving commercial traction.</p>
-      <p>A well-defined clinical strategy is <em>the</em> answer to these problems.</p>
-      <p>Leveraging her 20+ years in the field, Sue Kemp from Evistrat Consulting joins our CEO Paul Hercock to take us through a deep-dive into clinical strategy development. We cover: what clinical strategy entails, its interaction with regulatory approvals and commercial decisions, how to develop a strategy, and how to avoid critical mistakes.</p>
-      <p>A proper clinical strategy should be in place from day one. Sue’s guidance works brilliantly alongside our focus on regulatory compliance, and will help you to spearhead your go-to-market journey while avoiding spending precious time and resource on the ‘wrong type’ of clinical evidence.</p>
-      <p>For more information on clinical strategy, visit <a href="https://www.evistratconsulting.com/">Evistrat Consulting</a>.</p>
-      <p>To develop a go-to-market plan for FREE, <a href="/contact">send us a message</a> and state “I need a go to market plan!”</p>
-      ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[Sue Kemp makes the case for implementing clinical strategy from day one.]]></summary></entry><entry><title type="html">A New Era for NHS Innovation: ‘Innovator Passports’</title><link href="https://mantrasystems.com/articles/innovator-passports-cut-red-tape-and-speed-up-access-to-medtech" rel="alternate" type="text/html" title="A New Era for NHS Innovation: ‘Innovator Passports’" /><published>2025-07-03T00:00:00+01:00</published><updated>2025-07-03T18:36:45+01:00</updated><id>https://mantrasystems.com/articles/innovator-passports-cut-red-tape-and-speed-up-access-to-medtech</id><content type="html" xml:base="https://mantrasystems.com/articles/innovator-passports-cut-red-tape-and-speed-up-access-to-medtech"><![CDATA[<p>This week, the UK Government announced a key step forward for healthcare innovation: <a href="https://www.gov.uk/government/news/innovator-passports-set-to-accelerate-cutting-edge-nhs-care">the introduction of ‘<em>innovator passports</em>’</a> — a digital fast-track system with the aim to transform how new medical technologies are adopted across the NHS.</p>
-    <p>Under the <a href="https://www.gov.uk/government/publications/10-year-health-plan-for-england-fit-for-the-future">10 Year Health Plan</a>, this new approach seeks to address a longstanding issue in the UK health system: slow and siloed adoption of proven technologies. It is not uncommon for medical device companies to face repeated compliance checks and duplicative requests from multiple NHS trusts, even when their technology has already been successfully assessed somewhere else.</p>
-    <p>The innovator passport will change this.</p>
-    <p>Over the next two years, the MedTech Compass platform, developed by the Department of Health and Social Care, will act as a central hub where evidence-backed innovations are logged, assessed, and made visible across the NHS. If a product passes a thorough assessment in one trust, other trusts will no longer need to duplicate the process.</p>
-    <p>At <strong>Mantra Systems</strong>, we see this as a substantial step toward lowering regulatory friction and unlocking faster, more consistent access to life-changing innovations. It’s also a boost for MedTech developers navigating the complex world of NHS procurement and compliance.</p>
-    <p>The prospective impact is apparent:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://mantrasystems.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mantrasystems.com/" rel="alternate" type="text/html" /><updated>2025-07-15T11:15:30+01:00</updated><id>https://mantrasystems.com/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Implementing Master UDI-DIs: Key Insights from MDCG 2025-7</title><link href="https://mantrasystems.com/articles/key-insights-mdcg-2025-7-implementing-master-udi-dis" rel="alternate" type="text/html" title="Implementing Master UDI-DIs: Key Insights from MDCG 2025-7" /><published>2025-07-15T00:00:00+01:00</published><updated>2025-07-15T11:14:26+01:00</updated><id>https://mantrasystems.com/articles/key-insights-mdcg-2025-7-implementing-master-udi-dis</id><content type="html" xml:base="https://mantrasystems.com/articles/key-insights-mdcg-2025-7-implementing-master-udi-dis"><![CDATA[<p>The latest guidance from the Medical Device Coordination Group (MDCG), published as <a href="https://health.ec.europa.eu/document/download/ad6ae143-baa2-451a-8c5e-0c5d22983e88_en?filename=mdcg_2025-7_en.pdf">MDCG 2025-7</a>, introduces the implementation of Master Unique Device Identification - Device Identifiers (UDI-DIs) for a number of highly individualised devices.</p>
+      <p>The use of a Master UDI-DI aims to strengthen and enhance the traceability and recording of UDIs. Master UDI-Ds allow the grouping of highly individualised devices with specific design similarities under a common identifier to be assigned and registered on Eudamed. This should effectively eliminate the need for a manufacturer to have dozens if not hundreds of UDI-DIs for very similar devices by unifying them under one Master UDI-DI.</p>
+      <h2 id="devices-addressed-by-mdcg-2025-7">Devices Addressed by MDCG 2025-7</h2>
+      <p>The devices covered by this guidance are:</p>
+      <ul>
+        <li>Contact lenses</li>
+        <li>Spectacle frames</li>
+        <li>Spectacle lenses</li>
+        <li>Reading spectacles</li>
+      </ul>
+      <p>According to <a href="https://health.ec.europa.eu/system/files/2021-10/mdcg_2021-24_en_0.pdf"><strong>MDCG 2021-24</strong></a>:</p>
+      <ul>
+        <li><strong>Corrective contact lenses are classified as Class IIa</strong> (short-term use) or <strong>Class IIb</strong> (long-term use) medical devices.</li>
+        <li><strong>Spectacle frames, spectacle lenses, and reading spectacles</strong> are classified as <strong>Class I</strong> medical devices.</li>
+      </ul>
+      <h2 id="implementation-deadlines">Implementation Deadlines</h2>
+      <p>MDCG 2025-7 aims to clarify the timelines of implementation of Master UDI-DIs for these devices, as well as the obligations of manufacturers relating to Eudamed and vigilance reporting.</p>
+      <p>Key dates include:</p>
+      <ul>
+        <li>Manufacturers must place UDI carriers on the label of a device and on all higher levels of packaging for Class I devices from <strong>26 May 2025</strong></li>
+        <li>Manufacturers must use the UDI/Device registration module in Eudamed by <strong>Q1 2026</strong></li>
+        <li>Master UDI-DIs become mandatory for contact lenses from <strong>9 November 2026</strong></li>
+        <li>Master UDI-Dis become mandatory for spectacle lenses and reading glasses from <strong>September 2028</strong></li>
+        <li>If a manufacturer has assigned a Master UDI-DI to a device before Q1 2026, they must use it for vigilance reporting.</li>
+      </ul>
+      <h2 id="moving-forward-with-master-udi-dis">Moving Forward with Master UDI-DIs</h2>
+      <p>The introduction of Master UDI-DIs marks a step forward in improving the traceability and administrative workload of highly individualised medical devices. By allowing manufacturers to group similar products under a single identifier, the guidance aims to reduce burden while maintaining safety and compliance standards. Manufacturers of these devices should take note of the implementation timelines and obligations, particularly around Eudamed registration and vigilance reporting, to ensure that they can prepare effectively for full compliance.</p>
+      ]]></content><author><name>william-brambley</name></author><category term="MDR" /><summary type="html"><![CDATA[Grouping devices with design similarities under a common Eudamed ID could unify them under a single master UDI-DI]]></summary></entry><entry><title type="html">In the World of Regulatory Writing: 5 Lessons Learned</title><link href="https://mantrasystems.com/articles/5-lessons-learned-in-the-world-of-regulatory-writing" rel="alternate" type="text/html" title="In the World of Regulatory Writing: 5 Lessons Learned" /><published>2025-07-09T00:00:00+01:00</published><updated>2025-07-07T11:40:23+01:00</updated><id>https://mantrasystems.com/articles/5-lessons-learned-in-the-world-of-regulatory-writing</id><content type="html" xml:base="https://mantrasystems.com/articles/5-lessons-learned-in-the-world-of-regulatory-writing"><![CDATA[<p>Anybody who has worked on a regulatory submission under <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745">EU MDR</a> knows the pressure. You’re juggling guidance documents, templates, and real-world data, all while racing the clock and trying to anticipate a Notified Body’s next question.</p>
+    <p>Whether it’s a <a href="/eu-mdr-compliance/clinical-evaluation">Clinical Evaluation Report</a>, Risk Management File, or GSPR checklist, one thing becomes clear fast: <em>regulatory writing is a discipline of its own</em>.</p>
+    <p>It’s part science, part strategy, and part storytelling. Regulatory writing isn’t just about what you say; it’s about how well you can justify it.</p>
+    <h2 id="the-curveballs-that-nobody-warned-you-about">The Curveballs That Nobody Warned You About</h2>
+    <p>You learn quickly in the regulatory world that stability is a luxury. Just when you think that you’ve finalised your equivalence claim in your Clinical Evaluation, a new MDCG guidance document lands, redefining what you thought you knew. Other times, it’s an internal team flagging a new product change, which may seem tiny to them, but a ripple that ends in a full CER revision.</p>
+    <p>Let’s break down some key lessons learned from the writing process and share practical tips to navigate them with clarity (and your sanity) intact.</p>
+    <h2 id="lesson-1-compliance-isnt-just-about-the-document---its-about-the-process-behind-it">Lesson 1: Compliance Isn’t Just About the Document - It’s About the Process Behind It</h2>
+    <p><strong>The struggle:</strong> “We’re not behind, we just haven’t written it down yet.”</p>
+    <p>Whether it’s a CER, <a href="/eu-mdr-compliance/post-market-clinical-follow-up-pmcf-plan">PMCF plan</a>, <a href="/eu-mdr-compliance/summary-of-safety-and-clinical-performance-sscp">SSCP</a>, or IFU, the content is only as strong as the processes that are feeding into it. We’ve seen teams scramble to retrofit documentation from disconnected spreadsheets, outdated PMS data, or fragmented clinical inputs.</p>
+    <p><strong>What helps:</strong></p>
     <ul>
-      <li>Proven treatments (like infection-reducing wound dressings or rapid diagnostic tools) can be scaled faster</li>
-      <li>Patients benefit sooner from the best possible care</li>
-      <li>NHS resources are saved through reduced process duplication</li>
+      <li>Ensure that you audit your upstream inputs. Do you have a literature review process that’s repeatable? Are risk assessments updated when the devices changes?</li>
+      <li>Map your data flow. Understand how your complaints, CAPAs, or post-market data make their way into regulatory deliverables.</li>
+      <li>Create alignment. Your CER should reflect your IFU. Your PMS plan should reflect your risk file. When they don’t, reviewers notice.</li>
     </ul>
-    <p>As regulatory professionals, we’re excited to see a push toward streamlined, evidence-driven adoption, and we’ll be watching closely as the innovator passports roll out.</p>
-    ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[A digital fast-track system aims to transform how new medical technologies are adopted across the NHS, cutting red tape and accelerating access to medtech.]]></summary></entry><entry><title type="html">Finding My Passion at the Intersection of Science, Regulation, and Medical Devices</title><link href="https://mantrasystems.com/articles/finding-my-passion-at-the-intersection-of-science-regulation-and-medical-devices" rel="alternate" type="text/html" title="Finding My Passion at the Intersection of Science, Regulation, and Medical Devices" /><published>2025-06-10T00:00:00+01:00</published><updated>2025-06-10T12:34:22+01:00</updated><id>https://mantrasystems.com/articles/finding-my-passion-at-the-intersection-of-science-regulation-and-medical-devices</id><content type="html" xml:base="https://mantrasystems.com/articles/finding-my-passion-at-the-intersection-of-science-regulation-and-medical-devices"><![CDATA[<p>My journey began with a simple question: How does scientific discovery become something tangible that improves patients’ lives?</p>
+    <p><strong>Tip:</strong> If you’re struggling to keep your documentation aligned, the root issue is often structural, not just editorial. Start by clarifying your process before diving into detailed edits.</p>
+    <h2 id="lesson-2-writing-quality-doesnt-matter-if-the-evidence-isnt-there">Lesson 2: Writing Quality Doesn’t Matter If the Evidence Isn’t There</h2>
+    <p><strong>The struggle:</strong> “We wrote it beautifully, but the NB still pushed back.”</p>
+    <p>Even the cleanest, most polished CER can fall flat if the underlying data doesn’t stack up, because it’s not just about writing style, it’s about content sufficiency.</p>
+    <p><strong>What helps:</strong></p>
+    <ul>
+      <li>Frontload your clinical strategy. Writing a CER before defining your endpoints, comparators, and evidence hierarchy is like building a house before the blueprint.</li>
+      <li>Be honest about your gaps. <a href="/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities">NBs don’t expect perfection</a>, but they do expect transparency. If there’s a data gap, explain it.</li>
+      <li>Build multi-source justification. Don’t rely on literature alone. Use PMS data, legacy use, bench testing, and clinical experience to triangulate your claims.</li>
+    </ul>
+    <p><strong>Tip:</strong> Work with your regulatory team early. A strong outline phase saves weeks of rewrites down the line.</p>
+    <h2 id="lesson-3-timelines-break-when-cross-functional-communication-fails">Lesson 3: Timelines Break When Cross-Functional Communication Fails</h2>
+    <p><strong>The struggle:</strong> “We were ready to submit… until someone changed the product.”</p>
+    <p>Medical writing sits at the intersection of clinical, regulatory, and technical functions. And yet, many teams treat it as a back-end task, and not part of the development lifecycle.</p>
+    <p><strong>What helps:</strong></p>
+    <ul>
+      <li>Include writers early. If the CER writer isn’t involved in PMCF planning or clinical discussions, they’ll miss context and burn time reverse engineering it.</li>
+      <li>Use structured intake. Create a short form or briefing pack for updates: What changed? Why? What document is affected?</li>
+      <li>Make document maintenance a shared performance indicator. If regulatory is held to quality and speed metrics, engineering and clinical teams should share that ownership.</li>
+    </ul>
+    <p><strong>Tip:</strong> Regular 15-minute touchpoints across departments go further than endless email chains.</p>
+    <h2 id="lesson-4-a-final-submission-is-often-just-the-beginning">Lesson 4: A ‘Final’ Submission Is Often Just the Beginning</h2>
+    <p><strong>The struggle:</strong> “We submitted the CER. Now they want the PMS Plan updated, and the risk file, and…”</p>
+    <p>Under MDR, submissions are iterative. Approval doesn’t mean pause; it means maintenance. Notified Bodies expect traceability and responsiveness long after your documents are submitted.</p>
+    <p><strong>What helps:</strong></p>
+    <ul>
+      <li>Adopt a living file mindset. Your CER, RMF, and PMS Plan should evolve in sync. Waiting until an audit to update them? That’s a gamble.</li>
+      <li>Create a ‘linked update checklist’. Change in one document? Flag all related ones.</li>
+      <li>Build a regulatory change watchlist to monitor MDCG guidance, ISO updates, and NB feedback. Proactive tracking now saves panic later.</li>
+    </ul>
+    <p><strong>Tip:</strong> Even a quarterly 1-hour document review cycle can prevent massive rework. Build it into your operating rhythm, not just your emergency plan.</p>
+    <h2 id="lesson-5-emotional-fatigue-is-real-and-it-affects-quality">Lesson 5: Emotional Fatigue is Real and It Affects Quality</h2>
+    <p><strong>The struggle:</strong> “We’re tired. And we’re losing confidence.”</p>
+    <p>Nobody talks enough about the emotional load of regulatory writing. It’s high-stakes, high-pressure, and high-volume. For teams trying to stay compliant across multiple products, it can feel never-ending.</p>
+    <p><strong>What helps:</strong></p>
+    <ul>
+      <li>Standardise what you can. <a href="/enable-ce-mark/technical-document-templates">Use templates</a>, guidance documents, and <a href="/enable-ce-mark/technical-document-templates/mdr-compliance-checker-gap-analysis-tool">compliance checkers</a>. Mental energy should go to strategy, not formatting.</li>
+      <li>Celebrate small wins. A passed audit, a successful submission, or a well-documented rationale deserves acknowledgement.</li>
+      <li>Bring in <a href="/contact">support</a> early. Consultants aren’t just for emergencies. They can provide a sanity check, a capacity boost, or a second set of eyes when internal teams are stretched thin.</li>
+    </ul>
+    <p><strong>Tip:</strong> If your team is hitting burnout, it’s not a capacity issue; it’s a sustainability issue. Build documentation systems that people can manage, not just survive.</p>
+    <h2 id="reality-check-these-lessons-catch-up-with-everyone--eventually">Reality Check: These Lessons Catch Up With Everyone — Eventually</h2>
+    <p>Whether you’re part of a regulatory team, clinical affairs, quality, or product development, one thing becomes clear the longer you work in the medical device space: documentation isn’t just a box to tick, it’s a living, evolving representation of your product’s safety, performance, and compliance. No matter your role, you’ll face unexpected feedback, shifting requirements, and the growing need to defend decisions long after they’re made. The strongest teams aren’t the ones that never face setbacks; they’re the ones who learn quickly, adapt their systems, and keep documentation both audit-ready and strategically sound.</p>
+    <p>The good news? You don’t have to do it alone.</p>
+    <h3 id="need-a-fresh-set-of-eyes-or-a-whole-system-overhaul">Need a Fresh Set of Eyes or a Whole System Overhaul?</h3>
+    <p>At Mantra Systems, we help medical device companies build smarter documentation processes across the product lifecycle. Whether you’re dealing with CER updates, post-market evidence, or cross-functional alignment, we’re here to help you build clarity, not just compliance.</p>
+    <p><a href="/contact">👉 Let’s talk</a></p>
+    ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><category term="PMCF" /><category term="SSCP" /><summary type="html"><![CDATA[Let’s break down some key lessons learned from the writing process and share practical tips to navigate them with clarity (and your sanity) intact.]]></summary></entry><entry><title type="html">Do you have the clinical evidence you need to support regulatory approval?</title><link href="https://mantrasystems.com/articles/do-you-have-the-clinical-evidence-you-need-to-support-regulatory-approval-sue-kemp" rel="alternate" type="text/html" title="Do you have the clinical evidence you need to support regulatory approval?" /><published>2025-07-07T00:00:00+01:00</published><updated>2025-07-07T12:40:16+01:00</updated><id>https://mantrasystems.com/articles/do-you-have-the-clinical-evidence-you-need-to-support-regulatory-approval-sue-kemp</id><content type="html" xml:base="https://mantrasystems.com/articles/do-you-have-the-clinical-evidence-you-need-to-support-regulatory-approval-sue-kemp"><![CDATA[<p>What clinical evidence do I need? This is a critical question for anyone in the medical device development space.</p>
+  <p>The problem is, without the right approach it’s impossible to answer this correctly. Too many manufacturers spend a small fortune on clinical studies that, ultimately, fail to support approval and miss the mark for driving commercial traction.</p>
+  <p>A well-defined clinical strategy is <em>the</em> answer to these problems.</p>
+  <p>Leveraging her 20+ years in the field, Sue Kemp from Evistrat Consulting joins our CEO Paul Hercock to take us through a deep-dive into clinical strategy development. We cover: what clinical strategy entails, its interaction with regulatory approvals and commercial decisions, how to develop a strategy, and how to avoid critical mistakes.</p>
+  <p>A proper clinical strategy should be in place from day one. Sue’s guidance works brilliantly alongside our focus on regulatory compliance, and will help you to spearhead your go-to-market journey while avoiding spending precious time and resource on the ‘wrong type’ of clinical evidence.</p>
+  <p>For more information on clinical strategy, visit <a href="https://www.evistratconsulting.com/">Evistrat Consulting</a>.</p>
+  <p>To develop a go-to-market plan for FREE, <a href="/contact">send us a message</a> and state “I need a go to market plan!”</p>
+  ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[Sue Kemp makes the case for implementing clinical strategy from day one.]]></summary></entry><entry><title type="html">A New Era for NHS Innovation: ‘Innovator Passports’</title><link href="https://mantrasystems.com/articles/innovator-passports-cut-red-tape-and-speed-up-access-to-medtech" rel="alternate" type="text/html" title="A New Era for NHS Innovation: ‘Innovator Passports’" /><published>2025-07-03T00:00:00+01:00</published><updated>2025-07-03T18:36:45+01:00</updated><id>https://mantrasystems.com/articles/innovator-passports-cut-red-tape-and-speed-up-access-to-medtech</id><content type="html" xml:base="https://mantrasystems.com/articles/innovator-passports-cut-red-tape-and-speed-up-access-to-medtech"><![CDATA[<p>This week, the UK Government announced a key step forward for healthcare innovation: <a href="https://www.gov.uk/government/news/innovator-passports-set-to-accelerate-cutting-edge-nhs-care">the introduction of ‘<em>innovator passports</em>’</a> — a digital fast-track system with the aim to transform how new medical technologies are adopted across the NHS.</p>
+  <p>Under the <a href="https://www.gov.uk/government/publications/10-year-health-plan-for-england-fit-for-the-future">10 Year Health Plan</a>, this new approach seeks to address a longstanding issue in the UK health system: slow and siloed adoption of proven technologies. It is not uncommon for medical device companies to face repeated compliance checks and duplicative requests from multiple NHS trusts, even when their technology has already been successfully assessed somewhere else.</p>
+  <p>The innovator passport will change this.</p>
+  <p>Over the next two years, the MedTech Compass platform, developed by the Department of Health and Social Care, will act as a central hub where evidence-backed innovations are logged, assessed, and made visible across the NHS. If a product passes a thorough assessment in one trust, other trusts will no longer need to duplicate the process.</p>
+  <p>At <strong>Mantra Systems</strong>, we see this as a substantial step toward lowering regulatory friction and unlocking faster, more consistent access to life-changing innovations. It’s also a boost for MedTech developers navigating the complex world of NHS procurement and compliance.</p>
+  <p>The prospective impact is apparent:</p>
+  <ul>
+    <li>Proven treatments (like infection-reducing wound dressings or rapid diagnostic tools) can be scaled faster</li>
+    <li>Patients benefit sooner from the best possible care</li>
+    <li>NHS resources are saved through reduced process duplication</li>
+  </ul>
+  <p>As regulatory professionals, we’re excited to see a push toward streamlined, evidence-driven adoption, and we’ll be watching closely as the innovator passports roll out.</p>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[A digital fast-track system aims to transform how new medical technologies are adopted across the NHS, cutting red tape and accelerating access to medtech.]]></summary></entry><entry><title type="html">Finding My Passion at the Intersection of Science, Regulation, and Medical Devices</title><link href="https://mantrasystems.com/articles/finding-my-passion-at-the-intersection-of-science-regulation-and-medical-devices" rel="alternate" type="text/html" title="Finding My Passion at the Intersection of Science, Regulation, and Medical Devices" /><published>2025-06-10T00:00:00+01:00</published><updated>2025-06-10T12:34:22+01:00</updated><id>https://mantrasystems.com/articles/finding-my-passion-at-the-intersection-of-science-regulation-and-medical-devices</id><content type="html" xml:base="https://mantrasystems.com/articles/finding-my-passion-at-the-intersection-of-science-regulation-and-medical-devices"><![CDATA[<p>My journey began with a simple question: How does scientific discovery become something tangible that improves patients’ lives?</p>
   <p>I’ve always been fascinated by the intersection of research and real-world impact, where raw data becomes a tool to diagnose, treat, and heal. For me, Regulatory affairs turned out to be the perfect bridge between these worlds, helping to transform innovation into accessible, safe medical advances.</p>
   <h2 id="first-steps-standards-science-and-global-impact">First Steps: Standards, Science, and Global Impact</h2>
   <p>During my time at university, I undertook a placement year at the National Institute for Biological Standards and Control (NIBSC), a centre of the MHRA. I worked with WHO International Standards for blood coagulation factors - the highest level of reference materials for estimating and measuring these biological components.</p>
@@ -63,7 +152,54 @@
     🕒 <strong>Time: 3 pm BST</strong><br />
     🔗 <strong>Link: <a href="https://www.linkedin.com/events/7333805621110054912/about/">https://www.linkedin.com/events/7333805621110054912/about/</a></strong></p>
   <p>We’ll see you there!</p>
-  ]]></content><author><name>paul-hercock</name></author><category term="MDR" /><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[An upcoming LinkedIn Live session with Dr. Zhong Wei Khor tailored specifically for healthtech founders.]]></summary></entry><entry><title type="html">The Never-Ending Document Updates: Navigating Changing Regulations</title><link href="https://mantrasystems.com/articles/navigating-changing-regulations-the-never-ending-document-updates" rel="alternate" type="text/html" title="The Never-Ending Document Updates: Navigating Changing Regulations" /><published>2025-05-19T00:00:00+01:00</published><updated>2025-05-29T12:32:38+01:00</updated><id>https://mantrasystems.com/articles/navigating-changing-regulations-the-never-ending-document-updates</id><content type="html" xml:base="https://mantrasystems.com/articles/navigating-changing-regulations-the-never-ending-document-updates"><![CDATA[<p>Anybody who has worked with medical devices knows this truth: just because you’ve submitted the document, it doesn’t guarantee that the work is done. Whether it’s a Clinical Evaluation Report (CER), a Risk Management File, or a Post-Market Surveillance (PMS) Plan, it will be updated, and probably more than once.</p>
+  ]]></content><author><name>paul-hercock</name></author><category term="MDR" /><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[An upcoming LinkedIn Live session with Dr. Zhong Wei Khor tailored specifically for healthtech founders.]]></summary></entry><entry><title type="html">Going Global, Staying Grounded: Mantra Systems Moves to .com</title><link href="https://mantrasystems.com/articles/we-move-to-dot-com" rel="alternate" type="text/html" title="Going Global, Staying Grounded: Mantra Systems Moves to .com" /><published>2025-05-19T00:00:00+01:00</published><updated>2025-05-29T11:31:56+01:00</updated><id>https://mantrasystems.com/articles/we-move-to-dot-com</id><content type="html" xml:base="https://mantrasystems.com/articles/we-move-to-dot-com"><![CDATA[<p>At Mantra Systems, our mission has always been to take the complexity out of medical device regulation. What began as a small consultancy in Sheffield has grown into a trusted partner in the medical device industry. From clinical and performance evaluations to full technical files under UK MDR, EU MDR, and IVDR, we help our clients navigate regulations and achieve market access with confidence.</p>
+  <p>Now, as we continue to grow, we’re making one small change with a big message:</p>
+  <p>👉 <strong>We’re moving from mantrasystems.co.uk to mantrasystems.com.</strong></p>
+  <h2 id="why-the-switch">Why the switch?</h2>
+  <p>Because our reach is no longer just national — it’s global.</p>
+  <p>Our client base now spans Europe, North America, Asia, and beyond. Medical device and IVD companies worldwide turn to us for expert support in navigating medical device regulations. The new .com domain reflects that international scope and our commitment to serving clients wherever they’re based, without losing what makes us different.</p>
+  <h2 id="same-sheffield-team-bigger-stage">Same Sheffield Team. Bigger Stage.</h2>
+  <p>We might be going global, but we’re still proudly based in Sheffield, UK - a city celebrated for its innovation and resilience.</p>
+  <p>This shift to a .com domain is not just about growth; it’s about who we’ve become as a company. It reflects our global ambitions while staying anchored in the core values that have defined us since the beginning.</p>
+  <h2 id="what-does-this-mean-for-you">What does this mean for you?</h2>
+  <ul>
+    <li>You can now find us at <a href="https://mantrasystems.com">mantrasystems.com</a></li>
+    <li>All emails and services stay the same</li>
+    <li>Our team, tools, and tailored support aren’t going anywhere</li>
+  </ul>
+  <p>It’s still us, just with a domain name that matches the clients we serve and the markets we work in every day.</p>
+  <p>So whether you’re building your first technical file, tackling the MDD to MDR transition, or scaling globally, we’re right here with you — locally grounded, globally ready.</p>
+  <p><strong>Mantra Systems. Made in Sheffield. Trusted Worldwide.</strong></p>
+  ]]></content><author><name>shona-richardson</name></author><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[What began as a small consultancy in Sheffield has grown into a trusted partner in the medical device industry. Now we've made a change that reflects our international reach.]]></summary></entry><entry><title type="html">UK Medical Device Regulations Set for Major 2026 Update</title><link href="https://mantrasystems.com/articles/uk-medical-device-regulations-set-for-major-2026-update" rel="alternate" type="text/html" title="UK Medical Device Regulations Set for Major 2026 Update" /><published>2025-05-19T00:00:00+01:00</published><updated>2025-05-19T16:37:13+01:00</updated><id>https://mantrasystems.com/articles/uk-medical-device-regulations-set-for-major-2026-update</id><content type="html" xml:base="https://mantrasystems.com/articles/uk-medical-device-regulations-set-for-major-2026-update"><![CDATA[<p>The UK government is preparing to introduce a second major update to the regulatory framework for medical devices, with new pre-market requirements expected to come into effect in 2026.</p>
+  <p>These changes form part of a broader reform effort that has been underway for several years. In 2022, the UK government published its <em><a href="https://assets.publishing.service.gov.uk/media/62b577f6d3bf7f0b00165a32/Government_response_to_consultation_on_the_future_regulation_of_medical_devices_in_the_United_Kingdom.pdf">Government response to consultation on the future regulation of medical devices in the United Kingdom</a></em>, setting out a phased approach to overhaul the UK Medical Devices Regulations (UK MDR).</p>
+  <p>In December 2024, the MHRA published a <em><a href="https://assets.publishing.service.gov.uk/media/6759a8827e419d6e07ce2b21/Med_Tech_Regulatory_Roadmap_V2_December_2024.pdf">Medical Devices Regulatory Reform roadmap </a></em> providing an update on the intended timelines for implementing future UK medical device regulations. This roadmap is structured around four key areas:</p>
+  <ol>
+    <li>Post-market surveillance (PMS) requirements</li>
+    <li>Pre-market requirements</li>
+    <li>Broader policy development (including an IVD roadmap and <a href="https://www.gov.uk/guidance/exceptional-use-authorisation">exceptional use authorisations</a>)</li>
+    <li>Software, including AI and digital mental health products.</li>
+  </ol>
+  <h2 id="post-market-amendment">Post-market amendment</h2>
+  <p>On the 16th of December 2024 the UK Government published <em><a href="https://www.legislation.gov.uk/uksi/2024/1368/made">The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024</a></em>.</p>
+  <p>This legislation, which comes into effect on 16th June 2025, introduces strengthened PMS requirements for medical device manufacturers. For an in-depth overview of the changes, <a href="https://mantrasystems.com/articles/overview-of-uk-2024-post-market-surveillance-update">see our dedicated  article on this topic</a>.</p>
+  <p>This legislation marks the first formal update to the UK MDR.</p>
+  <h2 id="pre-market-amendment">Pre-market amendment</h2>
+  <p>Following the PMS update to the UK MDR, the UK government has consulted on a second major update - <em><a href="https://www.gov.uk/government/publications/implementation-of-the-future-regulation-of-medical-devices/implementation-of-the-future-regulations#futurecore-regulations">Routes to market and in vitro diagnostic devices</a></em> - which aims to implement new regulations for pre-market requirements.</p>
+  <p>In a <a href="https://hansard.parliament.uk/Lords/2025-05-06/debates/745FFAA1-DEB8-4B79-84FC-4F6656F2DB8C/MedicalDevices(Amendment)(GreatBritain)Regulations2025">recent House of Lords motion</a>, Baroness Merron mentioned that this major update is expected to come into force in 2026.</p>
+  <p>Many of the changes introduced with this legislative amendment will have the effect of bringing the UK MDR in closer alignment with the EU MDR. Below we highlight some of the changes that we might expect to see:</p>
+  <ul>
+    <li>Up-classification of <a href="/solutions/regulatory-consulting-for-samd-software-as-a-medical-device">Software as a Medical Device (SaMD)</a> and implantable medical devices, resulting in stricter requirements for both device categories</li>
+    <li>Introduction of a framework for international recognition</li>
+    <li>Alignment of the UK MDR Essential Requirements (ERs) with the EU MDR General</li>
+    <li>Safety and Performance Requirements (GSPRs)</li>
+    <li>Updated classification rules for In-Vitro Diagnostic (IVD) medical devices</li>
+    <li>Introduction of implant cards and Unique Device Identifiers (UDI)</li>
+    <li>Strengthened technical documentation requirements</li>
+  </ul>
+  <h2 id="conclusion">Conclusion</h2>
+  <p>The forthcoming updates to the UK Medical Devices Regulations represent a significant shift in the country’s regulatory landscape, aiming to enhance patient safety, foster innovation, and improve international alignment. While manufacturers already compliant with the EU MDR will find many of the anticipated changes familiar, UK-based manufacturers who have not yet adapted to similar frameworks should begin preparations. Early planning and a thorough understanding of the new requirements will be essential to maintaining market access and avoiding disruption. With the new pre-market requirements expected to come into force in 2026, the time to act is now.</p>
+  <p>Unsure how upcoming regulatory changes might affect your device? <a href="/contact">Contact us today for a free, no-obligation discussion</a>.</p>
+  ]]></content><author><name>simon-cumiskey</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[The UK government is preparing to introduce a second major update to the regulatory framework for medical devices, with new pre-market requirements expected to come into effect in 2026.]]></summary></entry><entry><title type="html">The Never-Ending Document Updates: Navigating Changing Regulations</title><link href="https://mantrasystems.com/articles/navigating-changing-regulations-the-never-ending-document-updates" rel="alternate" type="text/html" title="The Never-Ending Document Updates: Navigating Changing Regulations" /><published>2025-05-19T00:00:00+01:00</published><updated>2025-05-29T12:32:38+01:00</updated><id>https://mantrasystems.com/articles/navigating-changing-regulations-the-never-ending-document-updates</id><content type="html" xml:base="https://mantrasystems.com/articles/navigating-changing-regulations-the-never-ending-document-updates"><![CDATA[<p>Anybody who has worked with medical devices knows this truth: just because you’ve submitted the document, it doesn’t guarantee that the work is done. Whether it’s a Clinical Evaluation Report (CER), a Risk Management File, or a Post-Market Surveillance (PMS) Plan, it will be updated, and probably more than once.</p>
   <p>And those updates? They rarely arrive when it’s convenient.</p>
   <p>A new MDCG guideline drops just days before a submission, a Notified Body returns with clarification questions, or a minor product update now means that the CER needs revalidation. It’s not chaos, it’s just the reality of working under the <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745">MDR</a>, where regulations are still settling, the guidance is constantly evolving and updating, and the documentation that is produced is expected to not only reflect current compliance, but also those emerging expectations.</p>
   <h2 id="why-it-feels-like-document-writing-never-ends">Why It Feels Like Document Writing Never Ends</h2>
@@ -132,54 +268,7 @@
   <h3 id="overwhelmed-youre-not-alone">Overwhelmed? You’re Not Alone.</h3>
   <p>At Mantra Systems, we help medical device companies turn document chaos into structured compliance. Whether you’re behind on CER updates, navigating new guidance, or just need a better system, we’re here to help you stay ahead without burning out.</p>
   <p><a href="/contact">Contact us today</a> to discuss how we can support your team.</p>
-  ]]></content><author><name>kamiya-crabtree</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[Just because you’ve submitted a document, it doesn’t mean the work is done. Clinical Evaluation Reports, Risk Management Files or PMS plans will all need updating.]]></summary></entry><entry><title type="html">UK Medical Device Regulations Set for Major 2026 Update</title><link href="https://mantrasystems.com/articles/uk-medical-device-regulations-set-for-major-2026-update" rel="alternate" type="text/html" title="UK Medical Device Regulations Set for Major 2026 Update" /><published>2025-05-19T00:00:00+01:00</published><updated>2025-05-19T16:37:13+01:00</updated><id>https://mantrasystems.com/articles/uk-medical-device-regulations-set-for-major-2026-update</id><content type="html" xml:base="https://mantrasystems.com/articles/uk-medical-device-regulations-set-for-major-2026-update"><![CDATA[<p>The UK government is preparing to introduce a second major update to the regulatory framework for medical devices, with new pre-market requirements expected to come into effect in 2026.</p>
-  <p>These changes form part of a broader reform effort that has been underway for several years. In 2022, the UK government published its <em><a href="https://assets.publishing.service.gov.uk/media/62b577f6d3bf7f0b00165a32/Government_response_to_consultation_on_the_future_regulation_of_medical_devices_in_the_United_Kingdom.pdf">Government response to consultation on the future regulation of medical devices in the United Kingdom</a></em>, setting out a phased approach to overhaul the UK Medical Devices Regulations (UK MDR).</p>
-  <p>In December 2024, the MHRA published a <em><a href="https://assets.publishing.service.gov.uk/media/6759a8827e419d6e07ce2b21/Med_Tech_Regulatory_Roadmap_V2_December_2024.pdf">Medical Devices Regulatory Reform roadmap </a></em> providing an update on the intended timelines for implementing future UK medical device regulations. This roadmap is structured around four key areas:</p>
-  <ol>
-    <li>Post-market surveillance (PMS) requirements</li>
-    <li>Pre-market requirements</li>
-    <li>Broader policy development (including an IVD roadmap and <a href="https://www.gov.uk/guidance/exceptional-use-authorisation">exceptional use authorisations</a>)</li>
-    <li>Software, including AI and digital mental health products.</li>
-  </ol>
-  <h2 id="post-market-amendment">Post-market amendment</h2>
-  <p>On the 16th of December 2024 the UK Government published <em><a href="https://www.legislation.gov.uk/uksi/2024/1368/made">The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024</a></em>.</p>
-  <p>This legislation, which comes into effect on 16th June 2025, introduces strengthened PMS requirements for medical device manufacturers. For an in-depth overview of the changes, <a href="https://mantrasystems.com/articles/overview-of-uk-2024-post-market-surveillance-update">see our dedicated  article on this topic</a>.</p>
-  <p>This legislation marks the first formal update to the UK MDR.</p>
-  <h2 id="pre-market-amendment">Pre-market amendment</h2>
-  <p>Following the PMS update to the UK MDR, the UK government has consulted on a second major update - <em><a href="https://www.gov.uk/government/publications/implementation-of-the-future-regulation-of-medical-devices/implementation-of-the-future-regulations#futurecore-regulations">Routes to market and in vitro diagnostic devices</a></em> - which aims to implement new regulations for pre-market requirements.</p>
-  <p>In a <a href="https://hansard.parliament.uk/Lords/2025-05-06/debates/745FFAA1-DEB8-4B79-84FC-4F6656F2DB8C/MedicalDevices(Amendment)(GreatBritain)Regulations2025">recent House of Lords motion</a>, Baroness Merron mentioned that this major update is expected to come into force in 2026.</p>
-  <p>Many of the changes introduced with this legislative amendment will have the effect of bringing the UK MDR in closer alignment with the EU MDR. Below we highlight some of the changes that we might expect to see:</p>
-  <ul>
-    <li>Up-classification of <a href="/solutions/regulatory-consulting-for-samd-software-as-a-medical-device">Software as a Medical Device (SaMD)</a> and implantable medical devices, resulting in stricter requirements for both device categories</li>
-    <li>Introduction of a framework for international recognition</li>
-    <li>Alignment of the UK MDR Essential Requirements (ERs) with the EU MDR General</li>
-    <li>Safety and Performance Requirements (GSPRs)</li>
-    <li>Updated classification rules for In-Vitro Diagnostic (IVD) medical devices</li>
-    <li>Introduction of implant cards and Unique Device Identifiers (UDI)</li>
-    <li>Strengthened technical documentation requirements</li>
-  </ul>
-  <h2 id="conclusion">Conclusion</h2>
-  <p>The forthcoming updates to the UK Medical Devices Regulations represent a significant shift in the country’s regulatory landscape, aiming to enhance patient safety, foster innovation, and improve international alignment. While manufacturers already compliant with the EU MDR will find many of the anticipated changes familiar, UK-based manufacturers who have not yet adapted to similar frameworks should begin preparations. Early planning and a thorough understanding of the new requirements will be essential to maintaining market access and avoiding disruption. With the new pre-market requirements expected to come into force in 2026, the time to act is now.</p>
-  <p>Unsure how upcoming regulatory changes might affect your device? <a href="/contact">Contact us today for a free, no-obligation discussion</a>.</p>
-  ]]></content><author><name>simon-cumiskey</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[The UK government is preparing to introduce a second major update to the regulatory framework for medical devices, with new pre-market requirements expected to come into effect in 2026.]]></summary></entry><entry><title type="html">Going Global, Staying Grounded: Mantra Systems Moves to .com</title><link href="https://mantrasystems.com/articles/we-move-to-dot-com" rel="alternate" type="text/html" title="Going Global, Staying Grounded: Mantra Systems Moves to .com" /><published>2025-05-19T00:00:00+01:00</published><updated>2025-05-29T11:31:56+01:00</updated><id>https://mantrasystems.com/articles/we-move-to-dot-com</id><content type="html" xml:base="https://mantrasystems.com/articles/we-move-to-dot-com"><![CDATA[<p>At Mantra Systems, our mission has always been to take the complexity out of medical device regulation. What began as a small consultancy in Sheffield has grown into a trusted partner in the medical device industry. From clinical and performance evaluations to full technical files under UK MDR, EU MDR, and IVDR, we help our clients navigate regulations and achieve market access with confidence.</p>
-  <p>Now, as we continue to grow, we’re making one small change with a big message:</p>
-  <p>👉 <strong>We’re moving from mantrasystems.co.uk to mantrasystems.com.</strong></p>
-  <h2 id="why-the-switch">Why the switch?</h2>
-  <p>Because our reach is no longer just national — it’s global.</p>
-  <p>Our client base now spans Europe, North America, Asia, and beyond. Medical device and IVD companies worldwide turn to us for expert support in navigating medical device regulations. The new .com domain reflects that international scope and our commitment to serving clients wherever they’re based, without losing what makes us different.</p>
-  <h2 id="same-sheffield-team-bigger-stage">Same Sheffield Team. Bigger Stage.</h2>
-  <p>We might be going global, but we’re still proudly based in Sheffield, UK - a city celebrated for its innovation and resilience.</p>
-  <p>This shift to a .com domain is not just about growth; it’s about who we’ve become as a company. It reflects our global ambitions while staying anchored in the core values that have defined us since the beginning.</p>
-  <h2 id="what-does-this-mean-for-you">What does this mean for you?</h2>
-  <ul>
-    <li>You can now find us at <a href="https://mantrasystems.com">mantrasystems.com</a></li>
-    <li>All emails and services stay the same</li>
-    <li>Our team, tools, and tailored support aren’t going anywhere</li>
-  </ul>
-  <p>It’s still us, just with a domain name that matches the clients we serve and the markets we work in every day.</p>
-  <p>So whether you’re building your first technical file, tackling the MDD to MDR transition, or scaling globally, we’re right here with you — locally grounded, globally ready.</p>
-  <p><strong>Mantra Systems. Made in Sheffield. Trusted Worldwide.</strong></p>
-  ]]></content><author><name>shona-richardson</name></author><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[What began as a small consultancy in Sheffield has grown into a trusted partner in the medical device industry. Now we've made a change that reflects our international reach.]]></summary></entry><entry><title type="html">SOTA Exclusions: The Ongoing Quest for Clarity</title><link href="https://mantrasystems.com/articles/sota-exclusions-ongoing-quest-for-clarity" rel="alternate" type="text/html" title="SOTA Exclusions: The Ongoing Quest for Clarity" /><published>2025-05-12T00:00:00+01:00</published><updated>2025-05-15T17:39:27+01:00</updated><id>https://mantrasystems.com/articles/sota-exclusions-ongoing-quest-for-clarity</id><content type="html" xml:base="https://mantrasystems.com/articles/sota-exclusions-ongoing-quest-for-clarity"><![CDATA[<p>Anyone who’s worked on a <a href="/medical-device-regulatory-consulting-services/mdr-consulting/clinical-evaluation">Clinical Evaluation</a> knows the drill by now: you’re deep into the narrative, you’ve built a clear clinical picture, the literature is supporting your claims, and then you hit the <a href="/articles/literature-search-sota-review-and-clinical-evaluation">State of the Art (SOTA) section</a>.</p>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[Just because you’ve submitted a document, it doesn’t mean the work is done. Clinical Evaluation Reports, Risk Management Files or PMS plans will all need updating.]]></summary></entry><entry><title type="html">SOTA Exclusions: The Ongoing Quest for Clarity</title><link href="https://mantrasystems.com/articles/sota-exclusions-ongoing-quest-for-clarity" rel="alternate" type="text/html" title="SOTA Exclusions: The Ongoing Quest for Clarity" /><published>2025-05-12T00:00:00+01:00</published><updated>2025-05-15T17:39:27+01:00</updated><id>https://mantrasystems.com/articles/sota-exclusions-ongoing-quest-for-clarity</id><content type="html" xml:base="https://mantrasystems.com/articles/sota-exclusions-ongoing-quest-for-clarity"><![CDATA[<p>Anyone who’s worked on a <a href="/medical-device-regulatory-consulting-services/mdr-consulting/clinical-evaluation">Clinical Evaluation</a> knows the drill by now: you’re deep into the narrative, you’ve built a clear clinical picture, the literature is supporting your claims, and then you hit the <a href="/articles/literature-search-sota-review-and-clinical-evaluation">State of the Art (SOTA) section</a>.</p>
   <p>It’s one of the most deceptively complex parts of the Clinical Evaluation. The SOTA section, at its core, is about establishing the clinical context of your device. You’re identifying technologies, treatments, and medical devices that are comparable or similar to yours and demonstrating how your device measures up against them. In theory, this sounds straightforward, but here’s where things get complicated. While you’re focused on proving your device stands up to clinical scrutiny, regulators are equally interested in what you’re not including, and more importantly, <strong>why</strong>.</p>
   <h2 id="the-real-challenge-what-you-leave-out-matters-just-as-much">The Real Challenge: What You Leave Out Matters Just As Much</h2>
   <p>SOTA exclusions aren’t just a box-ticking exercise, they’re a true test of your reasoning and your ability to defend your choices with confidence. If you exclude devices, alternative technologies, or treatment options that seem relevant without a solid justification in place, the regulators will notice. It’s not enough to say, “This device isn’t comparable”, you need to explain why. Is it the indication? The mechanism of action? The patient population? Is there insufficient clinical evidence? Every exclusion must be logical, traceable, and transparent.</p>
@@ -215,298 +304,4 @@
   <p>SOTA exclusions will likely remain one of the more complex aspects of a Clinical Evaluation submission. However, with a well-structured approach, <a href="/eu-mdr-compliance/literature-search-protocol-sota-review">the right tools</a>, and a strong focus on clinical reasoning, you can turn this challenge into an opportunity. Clarity in the rationale for exclusions can enhance the strength of your submission by demonstrating thoroughness, transparency, and attention to detail.</p>
   <p>By articulating your exclusions in a manner that’s easy to follow and backed by solid evidence, you make it easier for regulators to see your reasoning, leading to smoother reviews and fewer questions along the way. Navigating exclusions doesn’t have to be daunting, but it does require precision, thorough documentation, and a clear understanding of both clinical and regulatory expectations.</p>
   <p>If you’re feeling uncertain about your SOTA exclusions or finding it difficult to manage the comparator landscape, <a href="/contact">don’t hesitate to reach out to Mantra Systems</a>. We offer tailored support to guide you through the process, ensuring your Clinical Evaluation is both comprehensive and compliant. Let us help you get it right the first time.</p>
-  ]]></content><author><name>kamiya-crabtree</name></author><category term="Clinical Evaluation" /><summary type="html"><![CDATA[SOTA exclusions aren’t just a box-ticking exercise, they’re a true test of your reasoning and your ability to defend your choices with confidence.]]></summary></entry><entry><title type="html">Clinical Evaluation Masterclass: It is not clear that any systematic search methods were used for the literature review – Episode 3</title><link href="https://mantrasystems.com/articles/clinical-evaluation-masterclass-3-not-clear-that-any-systematic-search-methods-were-used-for-the-literature-review" rel="alternate" type="text/html" title="Clinical Evaluation Masterclass: It is not clear that any systematic search methods were used for the literature review – Episode 3" /><published>2025-05-08T00:00:00+01:00</published><updated>2025-06-10T12:34:12+01:00</updated><id>https://mantrasystems.com/articles/clinical-evaluation-masterclass-3-not-clear-that-any-systematic-search-methods-were-used-for-the-literature-review</id><content type="html" xml:base="https://mantrasystems.com/articles/clinical-evaluation-masterclass-3-not-clear-that-any-systematic-search-methods-were-used-for-the-literature-review"><![CDATA[<p>Clinical evaluation is a cornerstone of compliance under the EU Medical Device Regulation (MDR), directly tied to the safety and performance of a medical device throughout its lifecycle.</p>
-  <p>Yet, despite its importance, non-conformities in clinical evaluation reports remain one of the most common reasons for delays, rejections, and costly remediation work during conformity assessment.</p>
-  <p>When a clinical evaluation falls short - whether due to vague safety and performance objectives, inadequate literature appraisal, or poorly documented search methods - manufacturers face serious consequences. These may include prolonged Notified Body reviews, increased regulatory scrutiny, and even market withdrawal of devices.</p>
-  <p>Addressing clinical evaluation non-conformities isn’t just about avoiding negative outcomes; it’s about building a robust, evidence-based foundation that demonstrates your device meets essential safety and performance requirements. For manufacturers, mastering this process means faster approvals, fewer surprises during conformity assessments, and ultimately, safer outcomes for patients.</p>
-  <p>This video series breaks down the most common clinical evaluation non-conformities, explains <em>why</em> they keep happening, and most importantly, shows you how to <strong><em>fix (or avoid) them for</em></strong> good.</p>
-  <h2 id="episode-3-it-is-not-clear-that-systematic-search-methods-have-been-used-for-the-literature-review">Episode 3: “It is not clear that systematic search methods have been used for the literature review”</h2>
-  <p>Whether you’re new to clinical evaluation or refining an existing process, this video will help you design a robust and transparent search strategy that aligns with MDR expectations.</p>
-  <p>In this episode, we’ll break down:</p>
-  <ul>
-    <li>What a <strong>systematic search method</strong> is</li>
-    <li>Key components of a systematic search</li>
-    <li>How systematic search methodology should be <strong>applied during Clinical Evaluation</strong></li>
-  </ul>
-  <p>By the end of the episode, you’ll be able to confidently design and implement a systematic literature search for both State-of-the-art (SOTA) devices and the Device Under Evaluation (DUE) when conducting Clinical Evaluations.</p>
-  <p>At <em>Mantra Systems</em>, we specialise in delivering high-quality, MDR-compliant Clinical Evaluation Reports that stand up to Notified Body scrutiny. Whether you need a full CER, a literature review strategy, or expert input on addressing non-conformities, our team is here to help. <a href="/contact">Contact us today for a free, no obligation consultation</a> on how we can support your clinical evaluation needs.</p>
-  <p>Missed previous episodes? Catch up here:</p>
-  <ul>
-    <li><a href="/articles/clinical-evaluation-masterclass-1-overcoming-non-conformities">Episode 1: “Safety and Performance objectives lack specific and measurable acceptance criteria”</a></li>
-    <li><a href="/articles/clinical-evaluation-masterclass-2-appraisal-of-literature-sources-has-not-been-conducted-properly">Episode 2: “Appraisal of literature sources has not been conducted properly”</a></li>
-  </ul>
-  <hr />
-  <div class="small-text">
-    <strong>Transcript follows:</strong>
-    <p>Okay. Hi everyone and welcome to episode three in our ongoing series on how to fix clinical evaluation nonconformities. It’s Paul here from Mantra Systems. It’s my pleasure to take you through this latest installment of the series and uh let’s get to it.</p>
-    <p>So um as a reminder, this series is focused on addressing a key problem in um achieving success following submission of a clinical evaluation and that’s that nonconformities are actually very common under the MDR. But although it’s necessary to ensure that nonconformities are resolved, um they can be quite difficult to interpret and it may not always be clear how to fully address any nonconformities which arise, which in turn can lead to further rounds of review with increased costs, loss, time, stress, and worry.</p>
-    <p>And this series is intended to help you avoid common reasons for nonconformities. So, episode by episode, we’re working through common non-conformities one at a time and digging deep into what they mean and importantly, how to solve or avoid them in the first place. And where possible we tried to link to general principles for optimal conduct of clinical evaluation.</p>
-    <hr />
-    <p><strong>The Nonconformity in Focus</strong></p>
-    <p>So this is episode three and this time we’re going to look at the following nonconformity:</p>
-    <blockquote>
-      <p>It is not clear that systematic search methods have been used for the literature review.</p>
-    </blockquote>
-    <p>So in order to unpack this one, we need to consider:</p>
-    <ol>
-      <li>What is a systematic search method?</li>
-      <li>What are the components of a systematic search?</li>
-      <li>How should systematic search methodology be applied during clinical evaluation?</li>
-    </ol>
-    <p>Understanding those areas will help avoid this non-conformity arising.</p>
-    <hr />
-    <p><strong>What Is a Systematic Search Method?</strong></p>
-    <p>Well, it is a structured and planned approach to finding relevant sources for literature reviews. And in this case we’re talking about its application to clinical evaluation.</p>
-    <p>From a clinical evaluation perspective, it’s relevant in two sectors:</p>
-    <ul>
-      <li>The literature search that’s conducted for the state-of-the-art.</li>
-      <li>The search that needs to be done for the device under evaluation.</li>
-    </ul>
-    <p>Ideally, they are two separate searches, documented and recorded separately.</p>
-    <hr />
-    <p><strong>Why It Matters</strong></p>
-    <p>A systematic search method applied correctly helps ensure several things:</p>
-    <ul>
-      <li>Literature searches are conducted according to a validated prespecified plan. In other words, you’re not making it up as you go along.</li>
-      <li>Literature searches have considered all relevant factors to ensure full coverage of clinical use of either state-of-the-art devices or the device under evaluation.</li>
-      <li>Searches are reproducible so they can be conducted more than once and result in the same outcome.</li>
-      <li>Bias and the risk of accidentally excluding relevant sources are minimized.</li>
-    </ul>
-    <hr />
-    <p><strong>The Three Key Stages</strong></p>
-    <p>On a very basic level, there are three key stages to a systematic literature search:</p>
-    <ol>
-      <li><strong>Intended purpose</strong></li>
-      <li><strong>Research questions</strong></li>
-      <li><strong>Search terms</strong></li>
-    </ol>
-    <hr />
-    <p><strong>Intended Purpose</strong></p>
-    <p>The intended purpose places the literature search into context and helps form an input to the definition of research questions.</p>
-    <p>Spending time on the intended purpose helps map out:</p>
-    <ul>
-      <li>The types of patients and conditions that fall under the scope of the search,</li>
-      <li>The context of clinical use, and so on.</li>
-    </ul>
-    <p>It is a vital input to the scope of the literature search and also shows traceability to how the device is used and applied in clinical practice. So it is an important albeit rather basic stage from the perspective of a literature search. But don’t skip it.</p>
-    <hr />
-    <p><strong>Research Questions</strong></p>
-    <p>The next stage is to begin crafting research questions.</p>
-    <p>There’s lots of ways to do this, but ultimately a research question or a set of research questions just reduces what you want to achieve from the search to a list of simple questions. And it’s generally preferred that a validated format is used. PICO is one of them. We’re going to take a look at PICO in a moment.</p>
-    <p>It’s a good stage to explore and refine the scope of the search.</p>
-    <blockquote>
-      <p>It’s very easy to change research questions—much easier than changing search terms.</p>
-    </blockquote>
-    <p>Because with search terms, you have to rerun a search each time you change it, and that can be quite labor-intensive, especially if you’ve already started with inclusion/exclusion screening.</p>
-    <p>So research questions are worth spending time on because they form a vital input to the specific searches that you’ll run.</p>
-    <hr />
-    <p><strong>The PICO Framework</strong></p>
-    <p>Let’s have a quick look at one validated method—it’s not the only one—but PICO is an important one.</p>
-    <p><strong>PICO</strong> stands for:</p>
-    <ul>
-      <li><strong>P</strong>atient</li>
-      <li><strong>I</strong>ntervention</li>
-      <li><strong>C</strong>omparator</li>
-      <li><strong>O</strong>utcome</li>
-    </ul>
-    <p>It’s just a way of breaking down the search or the scope of search into these specific stages.</p>
-    <p>Example:</p>
-    <ul>
-      <li><strong>Patients</strong>: Patients with osteoarthritis of the hip who are candidates for total hip replacement surgery.</li>
-      <li><strong>Intervention</strong>: Ceramic-on-ceramic hip implants.</li>
-      <li><strong>Comparators</strong>: Metal-on-metal or metal-on-polyester hip implants.</li>
-      <li><strong>Outcomes</strong>: Pain VAS and range of motion.</li>
-    </ul>
-    <p>That’s just one way of framing research questions using the PICO system.</p>
-    <hr />
-    <p><strong>Stage Three: Search Terms</strong></p>
-    <p>What we’ve got here is a series of screen grabs just doing an example search on PubMed.</p>
-    <p>Example breakdown:</p>
-    <ul>
-      <li>Search 18: Osteoarthritis (produces many results)</li>
-      <li>Search 19: Total hip replacement or hip arthroplasty</li>
-      <li>Search 20: THR (abbreviation of total hip replacement)</li>
-    </ul>
-    <blockquote>
-      <p>You want to avoid repeating the same term over and over again, especially when using boolean AND, because it will look for multiple instances unnecessarily.</p>
-    </blockquote>
-    <p>In PubMed’s advanced search:</p>
-    <ul>
-      <li>You can combine individual searches using boolean operators.</li>
-      <li>Click the three dots next to a search and select ‘Add query’.</li>
-      <li>Combine subsequent searches using <strong>AND</strong>.</li>
-    </ul>
-    <p>Result:</p>
-    <ul>
-      <li>A refined composite search that significantly narrows down the results (e.g., to 51 highly relevant studies).</li>
-    </ul>
-    <hr />
-    <p><strong>Additional Systematic Search Considerations</strong></p>
-    <p><strong>1. Database Specification</strong></p>
-    <p>State in advance which databases will be used in your search protocol.</p>
-    <p>Examples:</p>
-    <ul>
-      <li>PubMed</li>
-      <li>Google Scholar</li>
-      <li>Embase</li>
-      <li>Cochrane</li>
-      <li>WDI</li>
-    </ul>
-    <blockquote>
-      <p>Usually, using a minimum of two is best practice. Otherwise, it may suggest bias.</p>
-    </blockquote>
-    <hr />
-    <p><strong>2. Inclusion/Exclusion Screening</strong></p>
-    <p>Refine your results to only those that are relevant.</p>
-    <ul>
-      <li>Define exclusion criteria in advance and document them in the search protocol.</li>
-      <li>Prevents designing criteria reactively to include only favorable results.</li>
-    </ul>
-    <p>Example:</p>
-    <ul>
-      <li>Code E1: Exclude in vitro, pre-clinical, or animal studies because their results may not transfer to humans.</li>
-    </ul>
-    <p>This ensures every excluded result has a justification.</p>
-    <hr />
-    <p><strong>3. Handling Duplicate Results</strong></p>
-    <p>Problems:</p>
-    <ul>
-      <li>Same study found more than once.</li>
-      <li>Same dataset appearing in multiple publications.</li>
-    </ul>
-    <p>Risks increase when including <strong>systematic reviews</strong>, which:</p>
-    <ul>
-      <li>May duplicate primary data sources.</li>
-      <li>Can create overlap and confusion.</li>
-    </ul>
-    <p>Tactics:</p>
-    <ul>
-      <li>Look out for recurring author names, shared recruitment techniques, and subsidiary publications.</li>
-      <li>Consider excluding systematic reviews and focus on primary sources.</li>
-    </ul>
-    <blockquote>
-      <p>Including duplicates risks skewing your analysis by over-weighting repeated data.</p>
-    </blockquote>
-    <hr />
-    <p><strong>4. Use of Filters</strong></p>
-    <p>Search databases offer filters, but:</p>
-    <ul>
-      <li>Use with caution.</li>
-      <li>Carefully justify their use.</li>
-      <li>Filters vary across databases.</li>
-    </ul>
-    <p>Common justifiable filter: <strong>time limits</strong>, especially for <strong>state-of-the-art</strong> searches.</p>
-    <blockquote>
-      <p>For fast-evolving fields like software as a medical device, old studies may no longer be relevant.</p>
-    </blockquote>
-    <hr />
-    <p><strong>5. Reproducibility</strong></p>
-    <p>Another person should be able to:</p>
-    <ul>
-      <li>Rerun the search,</li>
-      <li>Achieve the same results.</li>
-    </ul>
-    <hr />
-    <p><strong>Application to Clinical Evaluation</strong></p>
-    <ul>
-      <li>Create a detailed <strong>search protocol</strong> for both the <strong>SOT</strong> and <strong>device-specific</strong> reviews.</li>
-      <li>Document:
-        <ul>
-          <li>Research questions</li>
-          <li>Search terms</li>
-          <li>Exclusion criteria and justifications</li>
-        </ul>
-      </li>
-      <li>Justify use of filters.</li>
-      <li>Remove duplicate results.</li>
-      <li>Use validated methods.</li>
-      <li>Ensure full <strong>reproducibility</strong>.</li>
-    </ul>
-    <hr />
-    <p>In summary, for <strong>Nonconformity Number Three</strong>, we’ve covered:</p>
-    <ul>
-      <li>What a systematic search method is,</li>
-      <li>The components of a systematic search,</li>
-      <li>How systematic search methodology should be applied during clinical evaluation.</li>
-    </ul>
-    <hr />
-    <p>As a reminder, Mantra Systems is a clinical evaluation specialist.</p>
-    <ul>
-      <li>Extensive experience across the market,</li>
-      <li>Clinical evaluations for all classes of medical device,</li>
-      <li>A current 100% submission success record.</li>
-    </ul>
-    <p>Feel free to reach out to us if you have any questions about clinical evaluation or you’d like to speak with any of our specialists with regard to your own.</p>
-    <p>That concludes episode three of this non-conformity series.</p>
-    <p>Many thank yous for your kind attention.</p>
-  </div>
-  ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[Addressing non-conformities isn’t just about avoiding negative outcomes; it’s about building a robust, evidence-based foundation.]]></summary></entry><entry><title type="html">Regulatory Writing Deadlines: The Pressure to Get It Right the First Time</title><link href="https://mantrasystems.com/articles/regulatory-writing-deadlines-the-pressure-to-get-it-right-the-first-time" rel="alternate" type="text/html" title="Regulatory Writing Deadlines: The Pressure to Get It Right the First Time" /><published>2025-04-30T00:00:00+01:00</published><updated>2025-05-28T14:14:06+01:00</updated><id>https://mantrasystems.com/articles/regulatory-writing-deadlines-the-pressure-to-get-it-right-the-first-time</id><content type="html" xml:base="https://mantrasystems.com/articles/regulatory-writing-deadlines-the-pressure-to-get-it-right-the-first-time"><![CDATA[<p>Anyone who’s worked in the medical device industry knows that regulatory deadlines aren’t just part of the process—they define it.</p>
-  <p>Whether you’re drafting a <a href="/medical-device-regulatory-consulting-services/mdr-consulting/clinical-evaluation">Clinical Evaluation Report</a> (CER) or preparing an <a href="/medical-device-regulatory-consulting-services/ivdr-consulting">IVDR</a> or <a href="/medical-device-regulatory-consulting-services/mdr-consulting/">MDR submission</a>, there’s one golden rule everyone learns quickly: you feel the pressure to get it right the first time, because in this field, second chances are rare—and costly.</p>
-  <p>And that pressure? It doesn’t just come from the clock. It comes from the complexity of the content, the coordination required across teams, and the ever-present reality that regulators aren’t grading on a curve.</p>
-  <h2 id="why-the-clock-is-always-ticking-and-coordinating-moving-pieces">Why the Clock Is Always Ticking and Coordinating Moving Pieces</h2>
-  <p>In regulatory writing, time is always a pressure point. While the device may be ready, the trial complete, and the data in hand, without well-aligned and structured documentation, the product can’t move forward. Writing typically happens late in the development cycle, and the responsibility to wrap it up quickly falls squarely on the regulatory team.</p>
-  <p>Revisions might be allowed, but delays can have significant consequences, pushing back launch dates, sales forecasts, and patient access. In a competitive market, even a few weeks’ delay can make a huge impact.</p>
-  <p>In other words, the sooner it’s done, the sooner it’s in the hands of the people who need it.</p>
-  <p>Take the Clinical Evaluation Report (CER), for example. It requires input from clinical, risk, and quality teams, each working on different timelines. If one team is delayed or key data is missing, the regulatory writer is left to fill in the gaps. Yet the final document still needs to be clear, compliant, and scientifically sound. Managing these moving parts under intense time pressure is where the real challenge lies.</p>
-  <p>And despite all this, the report must be coherent. It must make sense to regulators, and it must do so in language that’s both technically precise and easy to follow. Balancing scientific depth with regulatory clarity, while coordinating teams and racing deadlines, is what makes regulatory writing uniquely demanding.</p>
-  <h2 id="time-pressure--technical-complexity--a-tough-combo">Time Pressure + Technical Complexity = A Tough Combo</h2>
-  <p>Regulatory writing is anything but straightforward. It’s high-pressure work that requires interpreting complex data, aligning with evolving guidelines, and managing competing timelines. You’re expected to translate clinical, safety, or performance data into documents that meet both internal and regulatory expectations.</p>
-  <p>Timelines are rarely in your favour, and last-minute data, shifting guidance, and delayed inputs from other teams are common. Yet, the final document still has to be accurate and on time.</p>
-  <p>Under pressure, shortcuts can be tempting: citing claims without solid evidence, glossing over exclusions, or relying on unchecked references. These might seem small, but regulators spot them instantly. One inconsistency can spark a chain of questions, delaying approval. The internal cost involves pulling teams back into work they thought was finished, creating stress and draining resources.</p>
-  <h2 id="how-to-manage-the-pressure">How To Manage the Pressure</h2>
-  <p>While the pressure may never disappear entirely, you can develop strategies to manage it effectively and deliver strong submissions consistently. Here’s how:</p>
-  <h3 id="1-build-time-buffers-wherever-possible-and-stick-to-them">1. Build Time Buffers Wherever Possible (and Stick to Them)</h3>
-  <p>Time buffers aren’t just a luxury, they’re a necessity as things will go wrong. A key staff member will be on leave, a literature search might surface late-breaking studies, or a formatting requirement will change mid-review. Planning for the unexpected is what keeps your timeline intact.</p>
-  <p>How to do it:</p>
-  <ul>
-    <li>Create internal deadlines at least 3–5 working days before submission.</li>
-    <li>Schedule a formal buffer period at the end of the review cycle for last-minute fixes, formatting, or unanticipated input.</li>
-    <li>Use a Gantt chart or timeline visual to map dependencies and highlight bottlenecks early.</li>
-  </ul>
-  <p><em>Tip: Treat internal deadlines like external ones. Lock them in calendars, send reminders, and keep them visible in team trackers so they’re taken just as seriously.</em></p>
-  <h3 id="2-use-templates-and-checklists-to-reduce-cognitive-load">2. Use Templates and Checklists to Reduce Cognitive Load</h3>
-  <p>Regulatory writing isn’t just about words, it’s about structure, traceability, and completeness. Using <a href="/enable-ce-mark/technical-document-templates/">well-maintained templates</a>, <a href="/eu-mdr-compliance">guides</a>, and <a href="/enable-ce-mark/technical-document-templates/mdr-compliance-checker-gap-analysis-tool">submission checklists</a> allows writers to focus on content rather than reformatting or double-checking document layout.</p>
-  <p>Best practices:</p>
-  <ul>
-    <li>Maintain validated templates for CERs, PMS Plans, SSCPs, and more.</li>
-    <li>Create a library of pre-approved justifications, definitions, and citations.</li>
-    <li>Use trackers or collaborative SharePoint folders to keep everything in one place.</li>
-  </ul>
-  <p><em>Tip: Maintain a document library with pre-approved phrasing for recurring justifications, definitions, and regulatory language to speed up writing and ensure consistency.</em></p>
-  <h3 id="3-clarify-the-why-behind-every-section">3. Clarify the “Why” Behind Every Section</h3>
-  <p>When working fast, it’s easy to fall into the trap of filling sections with text that sounds right but lacks substance. Writers who stay close to the underlying intent of each section, whether it’s explaining benefit-risk, post-market follow-up, or equivalence, are better positioned to write persuasively and pass regulatory scrutiny.</p>
-  <p><em>Tip: Before writing each section, note down the question you’re answering. For example: “What is the clinical benefit of this device, and how is it supported by evidence?” Then answer that clearly and directly.</em></p>
-  <h3 id="4-align-stakeholders-early">4. Align Stakeholders Early</h3>
-  <p>Regulatory writing relies on input from clinical, risk, and quality teams. When these inputs arrive late or out of sync, the whole writing timeline suffers.</p>
-  <p>How to improve:</p>
-  <ul>
-    <li>Hold a project kick-off call to align timelines and expectations across teams.</li>
-    <li>Share a high-level plan with key stakeholders early, especially if input will be staggered.</li>
-    <li>Confirm who’s reviewing what, and when, to avoid overlaps or gaps.</li>
-  </ul>
-  <p>Example: For an MDR CER, a short cross-functional alignment meeting early in the project avoided weeks of back-and-forth during the review phase.</p>
-  <h3 id="5-break-big-tasks-into-smaller-wins">5. Break Big Tasks into Smaller Wins</h3>
-  <p>Large documents like CERs or SSCPs, and especially full Technical Files can feel overwhelming. Breaking the work into logical sections and setting mini-deadlines helps manage workload and keep momentum.</p>
-  <p>What works:</p>
-  <ul>
-    <li>Set internal milestones for key sections (e.g. clinical data, Annex II documents, risk-benefit).</li>
-    <li>Track progress visibly so the team stays motivated and aligned.</li>
-    <li>Divide the document by section (e.g. clinical background, state of the art, risk-benefit analysis, PMS summary) and assign clear ownership where possible.</li>
-  </ul>
-  <p><em>Tip: Celebrate section sign-offs as mini-successes—they build confidence and maintain pace. Also, create a visual dashboard (even a basic traffic-light tracker in Excel) to show section status, e.g., red for in progress, amber for under review, green for approved. It helps everyone see at a glance where things stand and what needs focus next.</em></p>
-  <p><strong>Bonus benefit:</strong> Smaller chunks are also easier to quality check, making it more likely that errors or inconsistencies are spotted early—before they snowball into regulatory queries.</p>
-  <h3 id="6-learn-from-every-submission">6. Learn from Every Submission</h3>
-  <p>Every regulatory submission, whether smooth, delayed, or somewhere in between, is packed with lessons. The key is capturing those insights while they’re still fresh and feeding them back into future projects. That’s how teams evolve from “just getting it done” to building consistently efficient, high-quality submissions.</p>
-  <p>How to do it:</p>
-  <ul>
-    <li>Hold post-submission meetings: Within a week or two of submitting, schedule a short debrief session. Ask: What went well? What slowed us down? What could we do differently next time?</li>
-    <li>Involve everyone: Writers, project managers, and any contributors should have a voice. Often, the people managing literature, quality checks, or stakeholder feedback have the best insights into where time was lost, or saved.</li>
-    <li>Document and apply learnings: Keep a running log of tips, regulatory feedback, time-saving methods, and submission pitfalls.</li>
-  </ul>
-  <h2 id="conclusion-high-pressure-high-standardsmanageable-with-the-right-tools">Conclusion: High Pressure, High Standards—Manageable with the Right Tools</h2>
-  <p>There’s no denying that writing regulatory documents under tight deadlines can be intense. The expectations are high, the work is technical, and the timelines are often compressed. But by planning strategically, working collaboratively, and using the right tools and frameworks, you can consistently produce documents that meet both internal expectations and regulatory requirements.</p>
-  <p>The key is not to chase perfection, but to build processes that support quality from the very start. Because getting it right the first time might not always be possible, but it should always be the goal.</p>
-  <p>When everything comes together, when the data aligns, the document flows, and the submission is accepted without question, there’s a distinct sense of pride that accompanies the moment.</p>
-  <p>Whether you’re preparing a technical file, responding to questions from a notified body, or working toward approval, our team provides practical, tailored support at every stage. We offer strategic guidance across regulatory frameworks, assist with technical documentation, and help you stay aligned with evolving requirements.</p>
-  <p>If you’re looking for a trusted partner to take the pressure out of compliance, <a href="/contact">get in touch with Mantra Systems today</a>.</p>
-  ]]></content><author><name>kamiya-crabtree</name></author><category term="Clinical Evaluation" /><category term="MDR" /><category term="SaMD" /><summary type="html"><![CDATA[Anyone who’s worked in the medical device industry knows that regulatory deadlines aren’t just part of the process—they define it.]]></summary></entry></feed>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="Clinical Evaluation" /><summary type="html"><![CDATA[SOTA exclusions aren’t just a box-ticking exercise, they’re a true test of your reasoning and your ability to defend your choices with confidence.]]></summary></entry></feed>

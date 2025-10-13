@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
 		(bannerRect.top >= 0 && bannerRect.bottom <= window.innerHeight) || // Fully visible
 		(bannerRect.top < window.innerHeight && bannerRect.top > window.innerHeight - safetyZone) // Within safety zone
 	) {
-		console.log("Banner is already visible or within safety zone on page load.");
+		// console.log("Banner is already visible or within safety zone on page load.");
 	} else {
 		stickyBanner.classList.add("is-ready");
 	}
@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", () => {
 			entries.forEach((entry) => {
 				if (entry.isIntersecting && !hasUnstuck) {
 					stickyBanner.classList.remove("is-stuck");
-					console.log("Banner unstuck!");
+					// console.log("Banner unstuck!");
 					hasUnstuck = true;
 					observer.disconnect();
 				}
@@ -57,7 +57,7 @@ document.addEventListener("DOMContentLoaded", () => {
 	function showBanner() {
 		if (!hasAppeared && !hasUnstuck) {
 			stickyBanner.classList.add("is-stuck");
-			console.log("Banner shown!");
+			// console.log("Banner shown!");
 			observer.observe(stickyBanner);
 			hasAppeared = true;
 		}

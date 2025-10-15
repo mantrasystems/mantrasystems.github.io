@@ -1,120 +1,140 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://mantrasystems.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mantrasystems.com/" rel="alternate" type="text/html" /><updated>2025-10-14T17:13:52+01:00</updated><id>https://mantrasystems.com/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Regulatory Update: EU Borderline &amp;amp; Classification Manual for medical devices v4</title><link href="https://mantrasystems.com/articles/eu-borderline-classification-manual-medical-devices-version-4-released-regulatory-update" rel="alternate" type="text/html" title="Regulatory Update: EU Borderline &amp;amp; Classification Manual for medical devices v4" /><published>2025-10-07T00:00:00+01:00</published><updated>2025-10-07T11:47:21+01:00</updated><id>https://mantrasystems.com/articles/eu-borderline-classification-manual-medical-devices-version-4-released-regulatory-update</id><content type="html" xml:base="https://mantrasystems.com/articles/eu-borderline-classification-manual-medical-devices-version-4-released-regulatory-update"><![CDATA[<p>Version 4 of the EU Borderline &amp; Classification Manual (September 2025) introduces new examples that sharpen the distinction between medical devices and other product categories. This update includes clarified classifications for products containing pharmacologically active substances, and aesthetic-only products.</p>
-      <p>In the ever-changing regulatory landscape of the EU MDR and IVDR, access to clear and reliable information is essential. Particularly for borderline products which may fall under different frameworks such as medical devices, pharmaceuticals, cosmetics, biocides or even food. On 12 September 2025, the <a href="https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en">Medical Device Coordination Group (MDCG)</a> published the fourth version of the <a href="https://health.ec.europa.eu/document/download/71a87df8-5ca1-4555-b453-b65bdf8de909_en?filename=md_borderline_manual_en.pdf">‘Manual on Borderline and Classification for Medical Devices under Regulations (EU) 2017/745 and (EU) 2017/746‘</a>. This edition brings together the agreements made by representatives the Borderline and Classification Working Group (BCWG) related to <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20200424#tocId2">Regulation (EU) 2017/745 on medical devices (MDR)</a> and <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20250110">Regulation (EU) 2017/746 on in vitro diagnostic medical devices (IVDR)</a>.</p>
-      <p>This manual serves as a vital interpretive and supportive tool when preparing qualification and classification rationales, although it is not a legally binding document. The aspects concerning the borderline between medical devices and other types of products, also known as the qualification of a product, are generally governed by Article 4, Regulatory status of products of <a href="/medical-device-regulatory-consulting-services/mdr-consulting">the MDR</a> and the corresponding Article 3 of <a href="/medical-device-regulatory-consulting-services/ivdr-consulting">the IVDR</a>. Borderline cases are those for which it is not clear from the outset whether a given product is a medical device, or an in vitro diagnostic medical device, or not. Once a product is qualified as a medical device, a certain risk class will be assigned to it, namely <a href="/solutions/regulatory-consulting-for-class-i-medical-devices">I</a>, <a href="/solutions/regulatory-consulting-for-class-iia-iib-medical-devices">IIa, IIb</a>, and <a href="/solutions/regulatory-consulting-for-class-iii-medical-devices">III</a>. For a product qualified as an IVD, the <a href="/articles/understanding-risk-based-classification-of-in-vitro-medical-devices-under-eu-ivdr">risk classes</a> are A, B, C and D.</p>
-      <h2 id="key-updates-include">Key updates include:</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://mantrasystems.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mantrasystems.com/" rel="alternate" type="text/html" /><updated>2025-10-15T11:58:47+01:00</updated><id>https://mantrasystems.com/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Guide to Clinical Evaluation: The State-of-the-Art (SOTA) Literature Review</title><link href="https://mantrasystems.com/articles/state-of-the-art-sota-literature-review-a-guide-to-clinical-evaluation-video-series-ep-3" rel="alternate" type="text/html" title="Guide to Clinical Evaluation: The State-of-the-Art (SOTA) Literature Review" /><published>2025-10-15T00:00:00+01:00</published><updated>2025-10-15T10:25:37+01:00</updated><id>https://mantrasystems.com/articles/state-of-the-art-sota-literature-review-a-guide-to-clinical-evaluation-video-series-ep-3</id><content type="html" xml:base="https://mantrasystems.com/articles/state-of-the-art-sota-literature-review-a-guide-to-clinical-evaluation-video-series-ep-3"><![CDATA[<p>Under the EU MDR, the importance of a robust and well-structured state-of-the-art (SOTA) literature review cannot be overstated. It serves as the foundation of the clinical evaluation process, offering regulators and stakeholders a clear, evidence-based understanding of where a device fits within its clinical context.</p>
+      <p>In this third episode of our <strong>Guide to Clinical Evaluation</strong> video series, we explore an overview of the SOTA literature review including its purpose and overall structure. We guide you through its essential components, demystifying the process and explaining how it supports clinical evaluation. You’ll learn how to:</p>
       <ul>
-        <li>The addition includes multiple concrete examples of qualification and classification, such as endodontic irrigation solutions, dual-action creams, health apps, implantable devices, etc., aimed at supporting a more harmonised interpretation of EU regulations for the benefit of patient safety and the internal market.</li>
-        <li>Clearer distinctions between medical devices, IVDs, medicinal products, biocides, cosmetics, PPE, and consumer goods.</li>
-        <li>A refined classification logic that places greater emphasis on intended purpose, mode of action, and risk level.</li>
-        <li>Qualification of medical devices.</li>
+        <li><strong>Place your device in clinical context</strong> by outlining the conditions it addresses, its intended use, and how it achieves therapeutic benefit.</li>
+        <li><strong>Assess the performance and safety of SOTA devices</strong> to understand current clinical expectations and identify relevant comparators.</li>
+        <li><strong>Develop safety and performance objectives</strong> that define measurable benchmarks for evaluation within the <a href="/medical-device-regulatory-consulting-services/mdr-consulting/clinical-evaluation">Clinical Evaluation Plan (CEP)</a> and Clinical Evaluation Report (CER).</li>
       </ul>
-      <p>The following devices were added to Version 4 of the guidance:</p>
-      <table class="simple">
-        <thead>
-          <tr>
-            <th>Product</th>
-            <th>Is it a medical device?</th>
-            <th>Key reasoning</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th colspan="3">Borderline between medical devices and medicinal products</th>
-          </tr>
-          <tr>
-            <td>Red blood cell additive solutions containing adenine</td>
-            <td>Yes, Class III</td>
-            <td>Adenine is a substance, increases adenosine monophosphate (AMP) in the blood and is used to increase the shelf life of the red blood cells. Its action can be metabolic or pharmacological, as defined in MDCG 2022-5. When used in additive solutions for RBC processing, adenine acts as an ancillary medicinal substance, and the device should therefore be classified as Class III under Rule 14.</td>
-          </tr>
-          <tr>
-            <td>Dual action cream with menthol and capsaicin</td>
-            <td>Not a device</td>
-            <td>The cream is intended to relieve muscle and joint pain. Menthol and capsaicin exert recognised pharmacological effects by acting on receptors. Since the principal effect is pharmacological, the product does not qualify as a medical device.</td>
-          </tr>
-          <tr>
-            <td>Lactose tablets for vaginal use</td>
-            <td>Not a device</td>
-            <td>The lactose tablet achieves its principal intended action by metabolic means in or on the human body, as the consumption of the lactose by the lactic acid bacteria is a metabolic process, and the indigenous lactic bacteria is considered as part of the human body and therefore does not qualify as a medical device.</td>
-          </tr>
-          <tr>
-            <th colspan="3">Borderline between medical devices and cosmetic products</th>
-          </tr>
-          <tr>
-            <td>Microabrasion dental stain removers</td>
-            <td>Not a device Excluded as aesthetic-only products.</td>
-            <td>Products intended to remove dental stains and improve the appearance of teeth serve a purely aesthetic purpose, regardless of method or underlying cause. They do not treat conditions such as amelogenesis imperfecta or cleidocranial dysplasia and therefore do not meet the MDR definition of a medical device.</td>
-          </tr>
-          <tr>
-            <th colspan="3">Borderline between medical devices and personal protective equipment</th>
-          </tr>
-          <tr>
-            <td>Medical examination table covers</td>
-            <td>Yes, Class I devices</td>
-            <td>Medical examination table covers are intended to cover patient tables in medical exam rooms to maintain hygiene and prevent the transmission of infectious agents. As they serve a specific medical purpose—disease prevention—they meet the MDR definition of a medical device (Article 2, point 1, EU 2017/745).</td>
-          </tr>
-          <tr>
-            <th colspan="3">Other medical device borderlines</th>
-          </tr>
-          <tr>
-            <td>Mobile sterile air system</td>
-            <td>Not a device</td>
-            <td>The product’s purpose is to remove harmful pathogens and reduce infection risk, enabling a safe environment for medical procedures, but it does not have a specific medical purpose itself and is therefore not a medical device.</td>
-          </tr>
-        </tbody>
-      </table>
-      <h2 id="classification-of-medical-devices">Classification of medical devices</h2>
-      <p>In addition to qualification issues, Version 4 includes important clarifications on device classification, ensuring greater consistency across Member States.</p>
-      <ul>
-        <li>Dermal fillers are confirmed as implantable devices, falling under Rules 7 and 8, depending on duration of use.</li>
-        <li>n-butyl-2-cyanoacrylate (nBCA)-based adhesives for vein closure are always classified as Class III, regardless of absorption time, ending long-standing debates on risk class justification.</li>
-        <li>Argon coagulation units classified as Class IIb (active therapeutic) devices under Rule 9 due to delivering potentially hazardous energy in a therapeutic context.</li>
-        <li>Root canal irrigants with sodium hypochlorite (NaOCl) or chlorhexidine digluconate (CHX) classified as Class III according to Rule 14 unless proven otherwise.</li>
-        <li>Ethylene oxide gas cartridges are classified as Class IIa (or IIb depending on use), since they are integral to sterilisation processes for medical devices.</li>
-        <li>Medical calculators are reinforced as at least Class IIa under Rule 11 but may be higher depending on their impact on clinical decisions.</li>
-        <li>Custom-made cranial implants are now clearly established as Class III due to direct contact with the central nervous system, irrespective of the interaction mechanism.</li>
-      </ul>
-      <p>Finally, the fractional exhaled Nitric Oxide (FeNO) measuring device is explicitly qualified as an IVD, as exhaled breath is considered a specimen derived from the human body.</p>
-      <h2 id="why-does-borderline-matter-to-the-manufacturers">Why Does Borderline Matter to the Manufacturers?</h2>
-      <p>For organisations developing products that may sit on the borderline between a medical device, IVD, medicinal product, or consumer product, this latest update is essential reading. While it provides valuable clarity, it also raises expectations for scientific justification and evidence, making early and accurate qualification decisions more critical than ever. This is important because:</p>
-      <ul>
-        <li>Determining whether a product is a medical device, an IVD, or falls outside the scope of these regulations is often the first and most critical regulatory decision. Incorrect qualification can result in significant consequences, including regulatory delays, compliance risks, or even market withdrawal.</li>
-        <li>Deciding on product classifications is crucial as it impacts the entire regulatory process. Misclassifying products can lead to delays, rejections of submissions, or loss of time and resources, or forced market withdrawal.</li>
-        <li>Version 4 reinforces a recurring principle: if a product’s principal mode of action is pharmacological, immunological, or metabolic, it cannot be a medical device. Manufacturers must therefore provide robust scientific evidence to demonstrate mechanical or physical claims, rather than relying solely on intended use statements.</li>
-      </ul>
-      <h2 id="next-steps-for-manufacturers">Next Steps for Manufacturers</h2>
-      <p>Review your portfolios to identify products potentially impacted by the new examples in version 4.</p>
-      <ul>
-        <li>Update borderline and classification justifications with robust evidence in technical documentation.</li>
-        <li>Engage early with notified bodies or competent authorities where uncertainty remains.</li>
-        <li>Plan proactively to address the gaps before assessments or audits to reduce compliance risks.</li>
-      </ul>
-      <p>Unsure about your product’s status under EU MDR or IVDR? <a href="/contact">Contact us today</a> for a no-obligation, confidential discussion on how we can support your path forward.</p>
-      ]]></content><author><name>chandini-vk</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[New examples sharpen the distinction between medical devices and other product categories, such as pharmacologically active substances and aesthetic-only products.]]></summary></entry><entry><title type="html">Guide to Clinical Evaluation: Clinical Evaluation in Context</title><link href="https://mantrasystems.com/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2" rel="alternate" type="text/html" title="Guide to Clinical Evaluation: Clinical Evaluation in Context" /><published>2025-09-30T00:00:00+01:00</published><updated>2025-09-30T11:26:42+01:00</updated><id>https://mantrasystems.com/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2</id><content type="html" xml:base="https://mantrasystems.com/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2"><![CDATA[<p>In the ever-evolving world of medical device regulation, clinical evaluation is often seen as a standalone exercise. Yet, for manufacturers striving for MDR compliance, it is far more than that; it is the linchpin that connects multiple components of your technical documentation.</p>
-    <p>In this second episode of our Guide to Clinical Evaluation video series, we explore how clinical evaluation fits into the broader technical file, and how other sections of the file both inform and are informed by it.</p>
-    <p>At its core, a clinical evaluation demonstrates that a device is safe and effective for its intended purpose. But achieving this requires more than simply compiling clinical studies; it involves integrating insights from across the technical file. Key inputs include <a href="/articles/a-medical-devices-intended-purpose-what-is-the-point">intended purpose</a>, <a href="/articles/understanding-clinical-evidence-requirements-mdcg-2020-6">clinical evidence</a>, <a href="/articles/gspr-1-a-new-era-of-performance-with-patient-safety-at-the-core">general safety and performance requirements (GSPRs)</a>, <a href="/articles/essential-usability-testing-for-medical-devices-iec-62366-1-2015-demystified">pre-clinical testing</a>, <a href="/eu-mdr-compliance/risk-management">risk management file</a>, and <a href="/eu-mdr-compliance/post-market-surveillance-pms">post-market surveillance</a>.</p>
-    <p>The beauty of a robust clinical evaluation lies in its dual role: not only does it synthesise inputs from across the technical file, but its outputs also influence other regulatory processes. Clinical findings can prompt updates to the risk management file, inform labelling, or trigger modifications to post-market surveillance plans.</p>
-    <p>When viewed in isolation, clinical evaluation may appear as a single chapter in the technical file. In reality, it is a central hub, a living document that both draws from and feeds into the broader technical file. By leveraging other components of the technical file, manufacturers can create a clinical evaluation that is not only compliant with MDR but also genuinely insightful, guiding safer and more effective use of medical devices in the real world.</p>
-    <h2 id="a-proven-framework-for-success">A Proven Framework for Success</h2>
-    <p>At Mantra Systems, we know what success looks like. Our approach to clinical evaluation is built on experience: over 300 successful evaluations conducted under MDR. This track record reflects not just regulatory knowledge, but also a deep commitment to patient safety, clinical relevance, and quality of evidence.</p>
-    <p>Through this series, we’ll share that expertise with you, helping you avoid the pitfalls we see most often and giving you a clear pathway to stronger, more resilient submissions.</p>
-    <p>If you missed Episode 1: <a href="/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce">What is Clinical Evaluation? Catch up here</a>.</p>
-    <p><a href="/newsletter">Subscribe to our newsletter</a> to keep up with the full five-part series on mastering MDR clinical evaluation, including:</p>
-    <ol>
-      <li><a href="/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce"><strong>What is clinical evaluation?</strong></a></li>
-      <li><strong><em>Clinical evaluation in context</em></strong></li>
-      <li><strong>The State-of-the-Art (SOTA) review – core of a successful submission</strong></li>
-      <li><strong>The CEP and CER</strong></li>
-      <li><strong>Clinical evaluation pitfalls and useful resources</strong></li>
-    </ol>
-    ]]></content><author><name>peter-boxall</name></author><category term="Clinical Evaluation" /><category term="MDR" /><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[Part 2 - A clinical evaluation demonstrates that a device is safe and effective, but achieving this requires more than simply compiling studies.]]></summary></entry><entry><title type="html">Introducing Our Guide to Clinical Evaluation Video Series: Building Strong Submissions Under MDR</title><link href="https://mantrasystems.com/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce" rel="alternate" type="text/html" title="Introducing Our Guide to Clinical Evaluation Video Series: Building Strong Submissions Under MDR" /><published>2025-09-25T00:00:00+01:00</published><updated>2025-09-30T11:26:42+01:00</updated><id>https://mantrasystems.com/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce</id><content type="html" xml:base="https://mantrasystems.com/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce"><![CDATA[<p>Clinical evaluation is one of the most critical and most challenging aspects of achieving CE marking under the EU Medical Device Regulation (MDR).</p>
+      <p>We’ll also share our structured approach to conducting these reviews, from defining the clinical background and search strategy to appraising literature and synthesizing data into actionable insights.</p>
+      <h2 id="a-proven-framework-for-success">A Proven Framework for Success</h2>
+      <p>At Mantra Systems, we know what success looks like. Our approach to clinical evaluation is built on experience: over 300 successful evaluations conducted under MDR. This track record reflects not just regulatory knowledge, but also a deep commitment to patient safety, clinical relevance, and quality of evidence.</p>
+      <p>Through this series, we’ll share that expertise with you, helping you avoid the pitfalls we see most often and giving you a clear pathway to stronger, more resilient submissions.</p>
+      <p><a href="/newsletter">Subscribe to our newsletter</a> to keep up with the full five-part series on mastering MDR clinical evaluation, including:</p>
+      <ol>
+        <li><a href="/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce"><strong>What is clinical evaluation?</strong></a></li>
+        <li><a href="/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2"><strong>Clinical evaluation in context</strong></a></li>
+        <li><strong><em>The State-of-the-Art (SOTA) review – core of a successful submission</em></strong></li>
+        <li><strong>The CEP and CER</strong></li>
+        <li><strong>Clinical evaluation pitfalls and useful resources</strong></li>
+      </ol>
+      ]]></content><author><name>william-brambley</name></author><category term="Clinical Evaluation" /><category term="MDR" /><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[Part 3 - This is core of a sucessful submission. Will demystifies the process and explains how it supports clinical evaluation.]]></summary></entry><entry><title type="html">Regulatory Update: EU Borderline &amp;amp; Classification Manual for medical devices v4</title><link href="https://mantrasystems.com/articles/eu-borderline-classification-manual-medical-devices-version-4-released-regulatory-update" rel="alternate" type="text/html" title="Regulatory Update: EU Borderline &amp;amp; Classification Manual for medical devices v4" /><published>2025-10-07T00:00:00+01:00</published><updated>2025-10-07T11:47:21+01:00</updated><id>https://mantrasystems.com/articles/eu-borderline-classification-manual-medical-devices-version-4-released-regulatory-update</id><content type="html" xml:base="https://mantrasystems.com/articles/eu-borderline-classification-manual-medical-devices-version-4-released-regulatory-update"><![CDATA[<p>Version 4 of the EU Borderline &amp; Classification Manual (September 2025) introduces new examples that sharpen the distinction between medical devices and other product categories. This update includes clarified classifications for products containing pharmacologically active substances, and aesthetic-only products.</p>
+    <p>In the ever-changing regulatory landscape of the EU MDR and IVDR, access to clear and reliable information is essential. Particularly for borderline products which may fall under different frameworks such as medical devices, pharmaceuticals, cosmetics, biocides or even food. On 12 September 2025, the <a href="https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en">Medical Device Coordination Group (MDCG)</a> published the fourth version of the <a href="https://health.ec.europa.eu/document/download/71a87df8-5ca1-4555-b453-b65bdf8de909_en?filename=md_borderline_manual_en.pdf">‘Manual on Borderline and Classification for Medical Devices under Regulations (EU) 2017/745 and (EU) 2017/746‘</a>. This edition brings together the agreements made by representatives the Borderline and Classification Working Group (BCWG) related to <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20200424#tocId2">Regulation (EU) 2017/745 on medical devices (MDR)</a> and <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20250110">Regulation (EU) 2017/746 on in vitro diagnostic medical devices (IVDR)</a>.</p>
+    <p>This manual serves as a vital interpretive and supportive tool when preparing qualification and classification rationales, although it is not a legally binding document. The aspects concerning the borderline between medical devices and other types of products, also known as the qualification of a product, are generally governed by Article 4, Regulatory status of products of <a href="/medical-device-regulatory-consulting-services/mdr-consulting">the MDR</a> and the corresponding Article 3 of <a href="/medical-device-regulatory-consulting-services/ivdr-consulting">the IVDR</a>. Borderline cases are those for which it is not clear from the outset whether a given product is a medical device, or an in vitro diagnostic medical device, or not. Once a product is qualified as a medical device, a certain risk class will be assigned to it, namely <a href="/solutions/regulatory-consulting-for-class-i-medical-devices">I</a>, <a href="/solutions/regulatory-consulting-for-class-iia-iib-medical-devices">IIa, IIb</a>, and <a href="/solutions/regulatory-consulting-for-class-iii-medical-devices">III</a>. For a product qualified as an IVD, the <a href="/articles/understanding-risk-based-classification-of-in-vitro-medical-devices-under-eu-ivdr">risk classes</a> are A, B, C and D.</p>
+    <h2 id="key-updates-include">Key updates include:</h2>
+    <ul>
+      <li>The addition includes multiple concrete examples of qualification and classification, such as endodontic irrigation solutions, dual-action creams, health apps, implantable devices, etc., aimed at supporting a more harmonised interpretation of EU regulations for the benefit of patient safety and the internal market.</li>
+      <li>Clearer distinctions between medical devices, IVDs, medicinal products, biocides, cosmetics, PPE, and consumer goods.</li>
+      <li>A refined classification logic that places greater emphasis on intended purpose, mode of action, and risk level.</li>
+      <li>Qualification of medical devices.</li>
+    </ul>
+    <p>The following devices were added to Version 4 of the guidance:</p>
+    <table class="simple">
+      <thead>
+        <tr>
+          <th>Product</th>
+          <th>Is it a medical device?</th>
+          <th>Key reasoning</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th colspan="3">Borderline between medical devices and medicinal products</th>
+        </tr>
+        <tr>
+          <td>Red blood cell additive solutions containing adenine</td>
+          <td>Yes, Class III</td>
+          <td>Adenine is a substance, increases adenosine monophosphate (AMP) in the blood and is used to increase the shelf life of the red blood cells. Its action can be metabolic or pharmacological, as defined in MDCG 2022-5. When used in additive solutions for RBC processing, adenine acts as an ancillary medicinal substance, and the device should therefore be classified as Class III under Rule 14.</td>
+        </tr>
+        <tr>
+          <td>Dual action cream with menthol and capsaicin</td>
+          <td>Not a device</td>
+          <td>The cream is intended to relieve muscle and joint pain. Menthol and capsaicin exert recognised pharmacological effects by acting on receptors. Since the principal effect is pharmacological, the product does not qualify as a medical device.</td>
+        </tr>
+        <tr>
+          <td>Lactose tablets for vaginal use</td>
+          <td>Not a device</td>
+          <td>The lactose tablet achieves its principal intended action by metabolic means in or on the human body, as the consumption of the lactose by the lactic acid bacteria is a metabolic process, and the indigenous lactic bacteria is considered as part of the human body and therefore does not qualify as a medical device.</td>
+        </tr>
+        <tr>
+          <th colspan="3">Borderline between medical devices and cosmetic products</th>
+        </tr>
+        <tr>
+          <td>Microabrasion dental stain removers</td>
+          <td>Not a device Excluded as aesthetic-only products.</td>
+          <td>Products intended to remove dental stains and improve the appearance of teeth serve a purely aesthetic purpose, regardless of method or underlying cause. They do not treat conditions such as amelogenesis imperfecta or cleidocranial dysplasia and therefore do not meet the MDR definition of a medical device.</td>
+        </tr>
+        <tr>
+          <th colspan="3">Borderline between medical devices and personal protective equipment</th>
+        </tr>
+        <tr>
+          <td>Medical examination table covers</td>
+          <td>Yes, Class I devices</td>
+          <td>Medical examination table covers are intended to cover patient tables in medical exam rooms to maintain hygiene and prevent the transmission of infectious agents. As they serve a specific medical purpose—disease prevention—they meet the MDR definition of a medical device (Article 2, point 1, EU 2017/745).</td>
+        </tr>
+        <tr>
+          <th colspan="3">Other medical device borderlines</th>
+        </tr>
+        <tr>
+          <td>Mobile sterile air system</td>
+          <td>Not a device</td>
+          <td>The product’s purpose is to remove harmful pathogens and reduce infection risk, enabling a safe environment for medical procedures, but it does not have a specific medical purpose itself and is therefore not a medical device.</td>
+        </tr>
+      </tbody>
+    </table>
+    <h2 id="classification-of-medical-devices">Classification of medical devices</h2>
+    <p>In addition to qualification issues, Version 4 includes important clarifications on device classification, ensuring greater consistency across Member States.</p>
+    <ul>
+      <li>Dermal fillers are confirmed as implantable devices, falling under Rules 7 and 8, depending on duration of use.</li>
+      <li>n-butyl-2-cyanoacrylate (nBCA)-based adhesives for vein closure are always classified as Class III, regardless of absorption time, ending long-standing debates on risk class justification.</li>
+      <li>Argon coagulation units classified as Class IIb (active therapeutic) devices under Rule 9 due to delivering potentially hazardous energy in a therapeutic context.</li>
+      <li>Root canal irrigants with sodium hypochlorite (NaOCl) or chlorhexidine digluconate (CHX) classified as Class III according to Rule 14 unless proven otherwise.</li>
+      <li>Ethylene oxide gas cartridges are classified as Class IIa (or IIb depending on use), since they are integral to sterilisation processes for medical devices.</li>
+      <li>Medical calculators are reinforced as at least Class IIa under Rule 11 but may be higher depending on their impact on clinical decisions.</li>
+      <li>Custom-made cranial implants are now clearly established as Class III due to direct contact with the central nervous system, irrespective of the interaction mechanism.</li>
+    </ul>
+    <p>Finally, the fractional exhaled Nitric Oxide (FeNO) measuring device is explicitly qualified as an IVD, as exhaled breath is considered a specimen derived from the human body.</p>
+    <h2 id="why-does-borderline-matter-to-the-manufacturers">Why Does Borderline Matter to the Manufacturers?</h2>
+    <p>For organisations developing products that may sit on the borderline between a medical device, IVD, medicinal product, or consumer product, this latest update is essential reading. While it provides valuable clarity, it also raises expectations for scientific justification and evidence, making early and accurate qualification decisions more critical than ever. This is important because:</p>
+    <ul>
+      <li>Determining whether a product is a medical device, an IVD, or falls outside the scope of these regulations is often the first and most critical regulatory decision. Incorrect qualification can result in significant consequences, including regulatory delays, compliance risks, or even market withdrawal.</li>
+      <li>Deciding on product classifications is crucial as it impacts the entire regulatory process. Misclassifying products can lead to delays, rejections of submissions, or loss of time and resources, or forced market withdrawal.</li>
+      <li>Version 4 reinforces a recurring principle: if a product’s principal mode of action is pharmacological, immunological, or metabolic, it cannot be a medical device. Manufacturers must therefore provide robust scientific evidence to demonstrate mechanical or physical claims, rather than relying solely on intended use statements.</li>
+    </ul>
+    <h2 id="next-steps-for-manufacturers">Next Steps for Manufacturers</h2>
+    <p>Review your portfolios to identify products potentially impacted by the new examples in version 4.</p>
+    <ul>
+      <li>Update borderline and classification justifications with robust evidence in technical documentation.</li>
+      <li>Engage early with notified bodies or competent authorities where uncertainty remains.</li>
+      <li>Plan proactively to address the gaps before assessments or audits to reduce compliance risks.</li>
+    </ul>
+    <p>Unsure about your product’s status under EU MDR or IVDR? <a href="/contact">Contact us today</a> for a no-obligation, confidential discussion on how we can support your path forward.</p>
+    ]]></content><author><name>chandini-vk</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[New examples sharpen the distinction between medical devices and other product categories, such as pharmacologically active substances and aesthetic-only products.]]></summary></entry><entry><title type="html">Guide to Clinical Evaluation: Clinical Evaluation in Context</title><link href="https://mantrasystems.com/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2" rel="alternate" type="text/html" title="Guide to Clinical Evaluation: Clinical Evaluation in Context" /><published>2025-09-30T00:00:00+01:00</published><updated>2025-10-15T10:25:37+01:00</updated><id>https://mantrasystems.com/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2</id><content type="html" xml:base="https://mantrasystems.com/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2"><![CDATA[<p>In the ever-evolving world of medical device regulation, clinical evaluation is often seen as a standalone exercise. Yet, for manufacturers striving for MDR compliance, it is far more than that; it is the linchpin that connects multiple components of your technical documentation.</p>
+  <p>In this second episode of our Guide to Clinical Evaluation video series, we explore how clinical evaluation fits into the broader technical file, and how other sections of the file both inform and are informed by it.</p>
+  <p>At its core, a clinical evaluation demonstrates that a device is safe and effective for its intended purpose. But achieving this requires more than simply compiling clinical studies; it involves integrating insights from across the technical file. Key inputs include <a href="/articles/a-medical-devices-intended-purpose-what-is-the-point">intended purpose</a>, <a href="/articles/understanding-clinical-evidence-requirements-mdcg-2020-6">clinical evidence</a>, <a href="/articles/gspr-1-a-new-era-of-performance-with-patient-safety-at-the-core">general safety and performance requirements (GSPRs)</a>, <a href="/articles/essential-usability-testing-for-medical-devices-iec-62366-1-2015-demystified">pre-clinical testing</a>, <a href="/eu-mdr-compliance/risk-management">risk management file</a>, and <a href="/eu-mdr-compliance/post-market-surveillance-pms">post-market surveillance</a>.</p>
+  <p>The beauty of a robust clinical evaluation lies in its dual role: not only does it synthesise inputs from across the technical file, but its outputs also influence other regulatory processes. Clinical findings can prompt updates to the risk management file, inform labelling, or trigger modifications to post-market surveillance plans.</p>
+  <p>When viewed in isolation, clinical evaluation may appear as a single chapter in the technical file. In reality, it is a central hub, a living document that both draws from and feeds into the broader technical file. By leveraging other components of the technical file, manufacturers can create a clinical evaluation that is not only compliant with MDR but also genuinely insightful, guiding safer and more effective use of medical devices in the real world.</p>
+  <h2 id="a-proven-framework-for-success">A Proven Framework for Success</h2>
+  <p>At Mantra Systems, we know what success looks like. Our approach to clinical evaluation is built on experience: over 300 successful evaluations conducted under MDR. This track record reflects not just regulatory knowledge, but also a deep commitment to patient safety, clinical relevance, and quality of evidence.</p>
+  <p>Through this series, we’ll share that expertise with you, helping you avoid the pitfalls we see most often and giving you a clear pathway to stronger, more resilient submissions.</p>
+  <p>If you missed Episode 1: <a href="/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce">What is Clinical Evaluation? Catch up here</a>.</p>
+  <p><a href="/newsletter">Subscribe to our newsletter</a> to keep up with the full five-part series on mastering MDR clinical evaluation, including:</p>
+  <ol>
+    <li><a href="/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce"><strong>What is clinical evaluation?</strong></a></li>
+    <li><strong><em>Clinical evaluation in context</em></strong></li>
+    <li><a href="/articles/state-of-the-art-sota-literature-review-a-guide-to-clinical-evaluation-video-series-ep-3"><strong>The State-of-the-Art (SOTA) review – core of a successful submission</strong></a></li>
+    <li><strong>The CEP and CER</strong></li>
+    <li><strong>Clinical evaluation pitfalls and useful resources</strong></li>
+  </ol>
+  ]]></content><author><name>peter-boxall</name></author><category term="Clinical Evaluation" /><category term="MDR" /><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[Part 2 - A clinical evaluation demonstrates that a device is safe and effective, but achieving this requires more than simply compiling studies.]]></summary></entry><entry><title type="html">Introducing Our Guide to Clinical Evaluation Video Series: Building Strong Submissions Under MDR</title><link href="https://mantrasystems.com/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce" rel="alternate" type="text/html" title="Introducing Our Guide to Clinical Evaluation Video Series: Building Strong Submissions Under MDR" /><published>2025-09-25T00:00:00+01:00</published><updated>2025-10-15T10:25:37+01:00</updated><id>https://mantrasystems.com/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce</id><content type="html" xml:base="https://mantrasystems.com/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce"><![CDATA[<p>Clinical evaluation is one of the most critical and most challenging aspects of achieving CE marking under the EU Medical Device Regulation (MDR).</p>
   <p>At Mantra Systems, we find that it is also the single most common reason for regulatory submissions to fail. Yet, with the right approach, it becomes not just a compliance requirement but an opportunity to demonstrate the safety, performance, and clinical value of a medical device.</p>
   <p>That’s why we’re launching our new <strong>Guide to Clinical Evaluation Video Series</strong> - a step-by-step guide to navigating the process with confidence. Across five episodes, we’ll break down the principles of clinical evaluation, highlight common pitfalls, and share strategies that have helped us deliver more than 300 MDR clinical evaluations with a 100% success rate.</p>
   <h2 id="what-youll-learn-in-this-series">What You’ll Learn in This Series</h2>
-  <p>We’ll walk through each of the key building blocks of clinical evaluation:</p>
+  <p>We’ll walk through each of the key building blocks of clinical evaluation:
+    a</p>
   <ol>
-    <li><strong>What is clinical evaluation?</strong></li>
+    <li><strong><em>What is clinical evaluation?</em></strong></li>
     <li><a href="/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2"><strong>Clinical evaluation in context</strong></a></li>
-    <li><strong>The State-of-the-Art (SOTA) review – core of a successful submission</strong></li>
+    <li><a href="/articles/state-of-the-art-sota-literature-review-a-guide-to-clinical-evaluation-video-series-ep-3"><strong>The State-of-the-Art (SOTA) review – core of a successful submission</strong></a></li>
     <li><strong>The CEP and CER</strong></li>
     <li><strong>Clinical evaluation pitfalls and useful resources</strong></li>
   </ol>
@@ -579,31 +599,4 @@
   <p><strong>PMCF</strong> is a <strong>proactive</strong> clinical follow-up activity that focuses on gathering clinical data to support ongoing evaluation of the device’s safety and performance.</p>
   <p><strong>Vigilance</strong> is a <strong>reactive</strong> safety monitoring system focused on identifying and reporting adverse events and device malfunctions to ensure the safety of patients using the device.</p>
   <p>Both are essential components of the <strong>PMS system</strong>, but they address different aspects of post-market monitoring and serve different regulatory and safety objectives. Mantra Systems are well-equipped to advise on all aspects of MDR work, so <a href="/contact">get in touch now if you need help</a>.</p>
-  ]]></content><author><name>ronghe-xu</name></author><category term="MDR" /><category term="PMCF" /><summary type="html"><![CDATA[These serve distinct purposes and have different methodologies under the MDR framework. We breakdown each.]]></summary></entry><entry><title type="html">Implementing Master UDI-DIs: Key Insights from MDCG 2025-7</title><link href="https://mantrasystems.com/articles/key-insights-mdcg-2025-7-implementing-master-udi-dis" rel="alternate" type="text/html" title="Implementing Master UDI-DIs: Key Insights from MDCG 2025-7" /><published>2025-07-15T00:00:00+01:00</published><updated>2025-07-22T10:56:16+01:00</updated><id>https://mantrasystems.com/articles/key-insights-mdcg-2025-7-implementing-master-udi-dis</id><content type="html" xml:base="https://mantrasystems.com/articles/key-insights-mdcg-2025-7-implementing-master-udi-dis"><![CDATA[<p>The latest guidance from the Medical Device Coordination Group (MDCG), published as <a href="https://health.ec.europa.eu/document/download/ad6ae143-baa2-451a-8c5e-0c5d22983e88_en?filename=mdcg_2025-7_en.pdf">MDCG 2025-7</a>, introduces the implementation of Master Unique Device Identification - Device Identifiers (UDI-DIs) for a number of highly individualised devices.</p>
-  <p>The use of a Master UDI-DI aims to strengthen and enhance the traceability and recording of UDIs. Master UDI-Ds allow the grouping of highly individualised devices with specific design similarities under a common identifier to be assigned and registered on Eudamed. This should effectively eliminate the need for a manufacturer to have dozens if not hundreds of UDI-DIs for very similar devices by unifying them under one Master UDI-DI.</p>
-  <h2 id="devices-addressed-by-mdcg-2025-7">Devices Addressed by MDCG 2025-7</h2>
-  <p>The devices covered by this guidance are:</p>
-  <ul>
-    <li>Contact lenses</li>
-    <li>Spectacle frames</li>
-    <li>Spectacle lenses</li>
-    <li>Reading spectacles</li>
-  </ul>
-  <p>According to <a href="https://health.ec.europa.eu/system/files/2021-10/mdcg_2021-24_en_0.pdf"><strong>MDCG 2021-24</strong></a>:</p>
-  <ul>
-    <li><strong>Corrective contact lenses are classified as Class IIa</strong> (short-term use) or <strong>Class IIb</strong> (long-term use) medical devices.</li>
-    <li><strong>Spectacle frames, spectacle lenses, and reading spectacles</strong> are classified as <strong>Class I</strong> medical devices.</li>
-  </ul>
-  <h2 id="implementation-deadlines">Implementation Deadlines</h2>
-  <p>MDCG 2025-7 aims to clarify the timelines of implementation of Master UDI-DIs for these devices, as well as the obligations of manufacturers relating to Eudamed and vigilance reporting.</p>
-  <p>Key dates include:</p>
-  <ul>
-    <li>Manufacturers must place UDI carriers on the label of a device and on all higher levels of packaging for Class I devices from <strong>26 May 2025</strong></li>
-    <li>Manufacturers must use the UDI/Device registration module in Eudamed by <strong>Q1 2026</strong></li>
-    <li>Master UDI-DIs become mandatory for contact lenses from <strong>9 November 2026</strong></li>
-    <li>Master UDI-Dis become mandatory for spectacle lenses and reading glasses from <strong>September 2028</strong></li>
-    <li>If a manufacturer has assigned a Master UDI-DI to a device before Q1 2026, they must use it for vigilance reporting.</li>
-  </ul>
-  <h2 id="moving-forward-with-master-udi-dis">Moving Forward with Master UDI-DIs</h2>
-  <p>The introduction of Master UDI-DIs marks a step forward in improving the traceability and administrative workload of highly individualised medical devices. By allowing manufacturers to group similar products under a single identifier, the guidance aims to reduce burden while maintaining safety and compliance standards. Manufacturers of these devices should take note of the implementation timelines and obligations, particularly around Eudamed registration and vigilance reporting, to ensure that they can prepare effectively for full compliance.</p>
-  ]]></content><author><name>william-brambley</name></author><category term="MDR" /><summary type="html"><![CDATA[Grouping devices with design similarities under a common Eudamed ID could unify them under a single master UDI-DI]]></summary></entry></feed>
+  ]]></content><author><name>ronghe-xu</name></author><category term="MDR" /><category term="PMCF" /><summary type="html"><![CDATA[These serve distinct purposes and have different methodologies under the MDR framework. We breakdown each.]]></summary></entry></feed>

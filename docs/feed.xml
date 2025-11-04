@@ -1,38 +1,105 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://mantrasystems.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mantrasystems.com/" rel="alternate" type="text/html" /><updated>2025-10-20T14:07:38+01:00</updated><id>https://mantrasystems.com/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Redefining Care Through AI: Perspectives from the AI in Health Summit 2025</title><link href="https://mantrasystems.com/articles/ai-in-health-summit-2025-perspectives-redefining-care-through-ai" rel="alternate" type="text/html" title="Redefining Care Through AI: Perspectives from the AI in Health Summit 2025" /><published>2025-10-20T00:00:00+01:00</published><updated>2025-10-20T12:14:38+01:00</updated><id>https://mantrasystems.com/articles/ai-in-health-summit-2025-perspectives-redefining-care-through-ai</id><content type="html" xml:base="https://mantrasystems.com/articles/ai-in-health-summit-2025-perspectives-redefining-care-through-ai"><![CDATA[<p>On the 1st of October, I had the opportunity to attend the <a href="https://events.economist.com/ai-health-summit/">AI in Health Summit</a> hosted by Economist Impact at the Royal College of Physicians, London.</p>
-      <p>This summit presented exclusive insight from policy makers, clinicians, healthcare providers, med-tech providers, academics, charities and investors working to achieve the maximum potential of AI in health. It’s safe to say that the day was packed with insights, debates, and a healthy dose of cautious optimism. The conversations around artificial intelligence in healthcare have evolved dramatically over the past few years, moving from excitement about what’s possible to a much deeper focus on how we can make it all work safely, ethically, and sustainably.</p>
-      <p>What really struck me throughout the day was the fine balance between responsiveness and responsibility; the two words that seemed to come up again and again. Innovation in AI is at the fastest pace it has been, and regulators are now trying to work hard to keep up this pace, without stifling progress and innovation. During one of the fireside chats, <a href="https://www.linkedin.com/in/lawrence-tallon-29137a5a/">Lawrence Tallon</a>, Chief Executive of the MHRA, mentioned the introduction of AI sandboxes, a controlled environment for innovators to test their AI systems in a safe environment. The <a href="https://www.gov.uk/government/collections/ai-airlock-the-regulatory-sandbox-for-aiamd">AI Airlock programme by the MHRA</a>, is one example of this new mindset, and one way to provide regulatory guidance and learning, whilst still fostering innovation. It’s a way of encouraging creativity, but with guardrails firmly in place.</p>
-      <p>It was encouraging to see how much thought is being put into proportionate oversight, ensuring that regulation is rigorous enough to maintain safety and public trust, but flexible enough to avoid unnecessary barriers to innovation. After all, as several speakers reminded us, public trust is everything. This theme was front and centre during the panel discussion “<em>Global Regulations for Trust and Transparency</em>.” Key speakers, including <a href="https://www.linkedin.com/in/jamie-cox-01458b3a/">Jamie Cox</a>, Co-founder and Chief Technology Officer of <a href="https://www.scarlet.cc/">Scarlet</a>, and <a href="https://www.linkedin.com/in/davidnovillo/">David Novillo</a>, Head of Data and Digital Health at <a href="https://www.who.int/">the WHO</a>, emphasised that both health workers and patients must have a voice, and that using AI should always be a choice, not an obligation. Can patients and health workers truly trust AI if accountability and choice aren’t built in from the start?</p>
-      <p>AI in healthcare brings immense promise and excitement, but also raises critical questions like this. Without public trust, the rapid momentum behind AI adoption in healthcare could quickly come to a halt.</p>
-      <figure class="intrinsic">
-        <img src="/assets/images/content/articles/inline/kamiya-and-sandra-at-ai-health-summit.jpg" alt="Kamiya and Sandra posing infront of a banner at the AI Health Summit." loading="lazy" width="600" height="615" />
-        <figcaption>The author and our Chief Regulatory Officer, Sandra.</figcaption>
-      </figure>
-      <h2 id="beyond-clinical-impact-how-ai-can-support-health-systems">Beyond Clinical Impact: How AI Can Support Health Systems</h2>
-      <p>During the summit, one of the more refreshing themes was that AI is no longer just about improving clinical outcomes for patients; it’s also about strengthening the systems that support them. Several panel discussions reflected this idea, with sessions such as “<em>How Can AI Deliver Maximum Value to Patients?</em>” and “<em>Reducing the Burden on Health Systems</em>” taking centre stage. As a specific example, narrow AI continues to shine in specific, well-defined applications, e.g. diagnostic imaging or triage support. However, a conversation has now been sparked on how AI can also help solve the more practical issues of healthcare systems: improving efficiency, supporting workforce planning, and easing the administrative workloads.</p>
-      <p>Adoption does, however, rely on overcoming the cultural barriers, too. Resistance can still be seen from clinicians, questions are raised about accountability, and legitimate concerns have been raised about the bias and inequality of AI. But there was a strong sense that AI, when implemented thoughtfully, could help make healthcare more timely, equitable, and sustainable, not less.</p>
-      <h2 id="the-regulatory-road-ahead">The Regulatory Road Ahead</h2>
-      <p>Regulation can often be seen as a hurdle, or just another hoop you have to jump through in the world of AI in healthcare, but attending the summit reminded me that, when seen in the correct light, it can also be a powerful enabler. When done thoughtfully, regulation doesn’t just protect patients, but it builds trust, innovation, and creates a clear pathway for AI tools to move safely from their development to real-world clinical use. One key theme was the importance of proportionate oversight. Rather than a one-size-fits-all approach, regulators are increasingly focusing on risk-based frameworks, ensuring that higher-risk AI applications receive more scrutiny, while lower-risk tools can reach clinicians faster. This balance is critical: it protects patients without unnecessarily slowing innovation, giving developers opportunities to experiment and iterate.</p>
-      <p>At Mantra Systems, we empower these innovators, guiding them through the regulatory process and allowing them to lean into regulations, not fight against them. Working together in this way enables us to reach a shared goal of getting medical devices onto the market, applying a unique combination of clinical, regulatory and medical device expertise. In the past, we have hosted the MedTech Start-Up Workshop, providing early-stage companies with practical insights into navigating regulatory requirements. <a href="/newsletter">Subscribe to our newsletter</a> to hear about the next one.</p>
-      ]]></content><author><name>kamiya-crabtree</name></author><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[Conversations around AI in healthcare have evolved dramatically over the past few years. We found insight, debate and a healthy dose of cautious optimism at this summit.]]></summary></entry><entry><title type="html">Guide to Clinical Evaluation: The State-of-the-Art (SOTA) Literature Review</title><link href="https://mantrasystems.com/articles/state-of-the-art-sota-literature-review-a-guide-to-clinical-evaluation-video-series-ep-3" rel="alternate" type="text/html" title="Guide to Clinical Evaluation: The State-of-the-Art (SOTA) Literature Review" /><published>2025-10-15T00:00:00+01:00</published><updated>2025-10-15T10:25:37+01:00</updated><id>https://mantrasystems.com/articles/state-of-the-art-sota-literature-review-a-guide-to-clinical-evaluation-video-series-ep-3</id><content type="html" xml:base="https://mantrasystems.com/articles/state-of-the-art-sota-literature-review-a-guide-to-clinical-evaluation-video-series-ep-3"><![CDATA[<p>Under the EU MDR, the importance of a robust and well-structured state-of-the-art (SOTA) literature review cannot be overstated. It serves as the foundation of the clinical evaluation process, offering regulators and stakeholders a clear, evidence-based understanding of where a device fits within its clinical context.</p>
-    <p>In this third episode of our <strong>Guide to Clinical Evaluation</strong> video series, we explore an overview of the SOTA literature review including its purpose and overall structure. We guide you through its essential components, demystifying the process and explaining how it supports clinical evaluation. You’ll learn how to:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://mantrasystems.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mantrasystems.com/" rel="alternate" type="text/html" /><updated>2025-11-04T14:42:42+00:00</updated><id>https://mantrasystems.com/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Guide to Clinical Evaluation: CEP Strategy &amp;amp; CER Structure</title><link href="https://mantrasystems.com/articles/cep-strategy-cer-structure-a-guide-to-clinical-evaluation-video-series-ep-4" rel="alternate" type="text/html" title="Guide to Clinical Evaluation: CEP Strategy &amp;amp; CER Structure" /><published>2025-10-31T00:00:00+00:00</published><updated>2025-10-31T12:03:46+00:00</updated><id>https://mantrasystems.com/articles/cep-strategy-cer-structure-a-guide-to-clinical-evaluation-video-series-ep-4</id><content type="html" xml:base="https://mantrasystems.com/articles/cep-strategy-cer-structure-a-guide-to-clinical-evaluation-video-series-ep-4"><![CDATA[<p>Under the EU MDR, a well-defined Clinical Evaluation Plan (CEP) and a clearly structured Clinical Evaluation Report (CER) are essential to the clinical evaluation process.</p>
+      <p>Together, they form the backbone of a device’s regulatory narrative, guiding reviewers through the evidence that supports its safety, performance, and conformity with applicable requirements.</p>
+      <p>In this fourth episode of our Guide to Clinical Evaluation video series, we take a closer look at the <strong>CEP</strong> and <strong>CER</strong>. We explain how the CEP sets the strategy for gathering clinical evidence and how it informs the structure of the CER.</p>
+      <p>This video covers:</p>
+      <ul>
+        <li>The purpose of the CEP and how it sets the strategy for clinical evidence gathering</li>
+        <li>Key elements such as device description, GSPRs, route to conformity, and literature search methodology</li>
+        <li>How the CER builds on the CEP to present clinical data, demonstrate conformity with the GSPRs, and justify the device’s safety and performance through comparison of outcomes against the CEP objectives and a quantitative benefit–risk analysis.</li>
+      </ul>
+      <h2 id="a-proven-framework-for-success">A Proven Framework for Success</h2>
+      <p>At Mantra Systems, we know what success looks like. Our approach to clinical evaluation is built on experience: over 300 successful evaluations conducted under MDR. This track record reflects not just regulatory knowledge, but also a deep commitment to patient safety, clinical relevance, and quality of evidence.</p>
+      <p>Through this series, we’ll share that expertise with you, helping you avoid the pitfalls we see most often and giving you a clear pathway to stronger, more resilient submissions.</p>
+      <p><a href="/newsletter">Subscribe to our newsletter </a> to keep up with the full five-part series on mastering MDR clinical evaluation.</p>
+      <p>If you missed previous episodes. Catch up here:</p>
+      <ol>
+        <li><a href="/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce"><strong>What is clinical evaluation?</strong></a></li>
+        <li><a href="/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2"><strong>Clinical evaluation in context</strong></a></li>
+        <li><a href="/articles/state-of-the-art-sota-literature-review-a-guide-to-clinical-evaluation-video-series-ep-3"><strong>The State-of-the-Art (SOTA) review – core of a successful submission</strong></a></li>
+        <li><strong><em>The CEP and CER</em></strong></li>
+        <li><strong>Clinical evaluation pitfalls and useful resources</strong></li>
+      </ol>
+      ]]></content><author><name>william-brambley</name></author><category term="Clinical Evaluation" /><category term="MDR" /><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[Part 4 - We explore how these guide reviewers through the evidence that supports safey, performance, and conformity.]]></summary></entry><entry><title type="html">The Critical Role of Pre-Submission Reviews in EU MDR Clinical Evaluations</title><link href="https://mantrasystems.com/articles/critical-role-of-pre-submission-reviews-in-eu-mdr-clinical-evaluations" rel="alternate" type="text/html" title="The Critical Role of Pre-Submission Reviews in EU MDR Clinical Evaluations" /><published>2025-10-27T00:00:00+00:00</published><updated>2025-10-27T13:25:34+00:00</updated><id>https://mantrasystems.com/articles/critical-role-of-pre-submission-reviews-in-eu-mdr-clinical-evaluations</id><content type="html" xml:base="https://mantrasystems.com/articles/critical-role-of-pre-submission-reviews-in-eu-mdr-clinical-evaluations"><![CDATA[<p>Knowing whether your Clinical Evaluation meets Notified Body expectations is more challenging than ever. Regulations are evolving, guidance is frequently updated, and internal interpretations don’t always align with external expectations.</p>
+    <p>According to the <a href="https://www.medtecheurope.org/resource-library/medtech-europe-2024-regulatory-survey-key-findings-and-insights/">2024 MedTech Survey</a>, <strong>50% of manufacturers experienced significant delays</strong> or even negative outcomes due to their Clinical or Performance Evaluations being challenged. Therefore, ensuring your CER is robust and aligned with current standards is critical.</p>
+    <h2 id="a-key-challenge-how-much-clinical-evidence-is-enough">A key challenge: How much Clinical Evidence is enough?</h2>
+    <p>One significant challenge in meeting EU MDR requirements lies in generating and justifying sufficient Clinical Evidence. Manufacturers must not only provide data that demonstrates the device’s safety and performance in accordance with Annex I, but also justify that the quantity and quality of evidence is appropriate for the device’s intended use and risk classification. Although the requirement seems clear, determining what constitutes “enough” Clinical Evidence is often not straightforward.</p>
+    <p>Beyond the volume of data, the way evidence is presented and assessed is also critical. Manufacturers must <a href="state-of-the-art-sota-literature-review-a-guide-to-clinical-evaluation-video-series-ep-3">demonstrate that their device is the state-of- the-art</a>, which requires a structured, quantitative comparison against safety and performance benchmarks. By meeting these objectives, a device can clearly demonstrate its clinical benefits and favourable safety profile over similar devices and comparable alternatives. When this is not clearly demonstrated, the result is often non-conformities.</p>
+    <h2 id="the-consequences-of-non-conformities">The Consequences of Non-Conformities</h2>
+    <p>These non-conformities can carry serious consequences: repeated review cycles, increased regulatory costs, and, most critically, delays in product launches or interruptions to market access. Once a Notified Body identifies a deficiency, addressing it usually involves far more than simple revisions. It may require a complete reassessment of the clinical evaluation strategy, updates to literature reviews and risk management documentation, or revisions to post-market clinical follow-up (PMCF) plans. These are not quick fixes, they are time-intensive efforts that can significantly impact timelines and resources.</p>
+    <h2 id="take-a-proactive-approach-with-pre-submission-reviews">Take a Proactive Approach with Pre-Submission Reviews</h2>
+    <p>Identifying deficiencies in your Clinical Evaluation Report (CER) before submission is essential to avoiding delays, non-conformities, and costly remediation efforts. Conducting a structured, pre-submission review can help you:</p>
     <ul>
-      <li><strong>Place your device in clinical context</strong> by outlining the conditions it addresses, its intended use, and how it achieves therapeutic benefit.</li>
-      <li><strong>Assess the performance and safety of SOTA devices</strong> to understand current clinical expectations and identify relevant comparators.</li>
-      <li><strong>Develop safety and performance objectives</strong> that define measurable benchmarks for evaluation within the <a href="/medical-device-regulatory-consulting-services/mdr-consulting/clinical-evaluation">Clinical Evaluation Plan (CEP)</a> and Clinical Evaluation Report (CER).</li>
+      <li>Assess whether the clinical justification and level of evidence provided are appropriate for the device’s intended purpose and risk classification.</li>
+      <li>Identify weaknesses in your clinical evaluation strategy.</li>
+      <li>Ensure alignment with the most recent EU MDR expectations, including evolving MDCG guidance and interpretations.</li>
+      <li>Reduce the likelihood of rework, multiple review cycles, and associated delays in market access.</li>
     </ul>
-    <p>We’ll also share our structured approach to conducting these reviews, from defining the clinical background and search strategy to appraising literature and synthesizing data into actionable insights.</p>
-    <h2 id="a-proven-framework-for-success">A Proven Framework for Success</h2>
-    <p>At Mantra Systems, we know what success looks like. Our approach to clinical evaluation is built on experience: over 300 successful evaluations conducted under MDR. This track record reflects not just regulatory knowledge, but also a deep commitment to patient safety, clinical relevance, and quality of evidence.</p>
-    <p>Through this series, we’ll share that expertise with you, helping you avoid the pitfalls we see most often and giving you a clear pathway to stronger, more resilient submissions.</p>
-    <p><a href="/newsletter">Subscribe to our newsletter</a> to keep up with the full five-part series on mastering MDR clinical evaluation, including:</p>
-    <ol>
-      <li><a href="/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce"><strong>What is clinical evaluation?</strong></a></li>
-      <li><a href="/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2"><strong>Clinical evaluation in context</strong></a></li>
-      <li><strong><em>The State-of-the-Art (SOTA) review – core of a successful submission</em></strong></li>
-      <li><strong>The CEP and CER</strong></li>
-      <li><strong>Clinical evaluation pitfalls and useful resources</strong></li>
-    </ol>
-    ]]></content><author><name>william-brambley</name></author><category term="Clinical Evaluation" /><category term="MDR" /><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[Part 3 - This is core of a sucessful submission. Will demystifies the process and explains how it supports clinical evaluation.]]></summary></entry><entry><title type="html">Regulatory Update: EU Borderline &amp;amp; Classification Manual for medical devices v4</title><link href="https://mantrasystems.com/articles/eu-borderline-classification-manual-medical-devices-version-4-released-regulatory-update" rel="alternate" type="text/html" title="Regulatory Update: EU Borderline &amp;amp; Classification Manual for medical devices v4" /><published>2025-10-07T00:00:00+01:00</published><updated>2025-10-07T11:47:21+01:00</updated><id>https://mantrasystems.com/articles/eu-borderline-classification-manual-medical-devices-version-4-released-regulatory-update</id><content type="html" xml:base="https://mantrasystems.com/articles/eu-borderline-classification-manual-medical-devices-version-4-released-regulatory-update"><![CDATA[<p>Version 4 of the EU Borderline &amp; Classification Manual (September 2025) introduces new examples that sharpen the distinction between medical devices and other product categories. This update includes clarified classifications for products containing pharmacologically active substances, and aesthetic-only products.</p>
+    <p>Bringing in an experienced, independent reviewer can offer objective insight and identify potential issues that may be overlooked by internal teams. This additional layer of review enhances the robustness of the CER and supports a more efficient and successful conformity assessment process.</p>
+    <h2 id="confidence-not-just-compliance">Confidence, Not Just Compliance</h2>
+    <p>In today’s regulatory environment, meeting the expectations of Notified Bodies under the EU MDR requires more than simply compiling data; it demands a strategic, evidence-driven approach to Clinical Evaluation. With evolving guidance, increasingly rigorous scrutiny, and the risk of non-conformities leading to costly delays or market access issues, manufacturers can no longer afford to take a reactive approach.</p>
+    <p>At <strong>Mantra Systems</strong>, we offer focused, expert-led <a href="/medical-device-regulatory-consulting-services/mdr-consulting/clinical-evaluation/pre-submission-review">Clinical Evaluation Pre-Submission reviews</a> designed to identify weaknesses early, provide practical recommendations, and ensure your CER stands up to regulatory scrutiny. If you’re preparing a submission or simply want to strengthen your documentation, a proactive review may be a valuable step toward a more confident and efficient path to compliance.</p>
+    ]]></content><author><name>sandra-gopinath</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[Ensuring your CER is robust and aligned with current standards is critical. How much Clinical Evidence is enough?]]></summary></entry><entry><title type="html">Webinar: Regulatory &amp;amp; Cybersecurity Essentials for medical device software and AI-enabled devices</title><link href="https://mantrasystems.com/articles/regulatory-cybersecurity-essentials-for-medical-device-software-ai-devices-webinar" rel="alternate" type="text/html" title="Webinar: Regulatory &amp;amp; Cybersecurity Essentials for medical device software and AI-enabled devices" /><published>2025-10-24T00:00:00+01:00</published><updated>2025-10-24T09:52:58+01:00</updated><id>https://mantrasystems.com/articles/regulatory-cybersecurity-essentials-for-medical-device-software-ai-devices-webinar</id><content type="html" xml:base="https://mantrasystems.com/articles/regulatory-cybersecurity-essentials-for-medical-device-software-ai-devices-webinar"><![CDATA[<p>Artificial intelligence is transforming the medical device landscape, delivering unprecedented capabilities in diagnostics, decision support, and personalised treatment.</p>
+  <p>But with innovation comes complexity. AI-enabled medical devices face heightened regulatory scrutiny and must meet stringent cybersecurity expectations to ensure patient safety, data protection, and market acceptance.</p>
+  <p>To help manufacturers navigate this constantly evolving landscape, Mantra Systems and <a href="https://cyberalchemy.co.uk/service/medical-technology-cyber-security/">Cyber Alchemy</a> are delighted to co-host a joint webinar:</p>
+  <p><strong>Regulatory and Cybersecurity Essentials for AI-enabled Medical Devices</strong><br />
+    📅 <strong>Date: Thursday, 13th November 2025</strong><br />
+    🕒 <strong>Time: 3pm - 4pm GMT</strong><br />
+    🔗 <strong>Register: <a href="https://www.linkedin.com/events/regulatory-cybersecurityessenti7387143757558730753/theater/">Linkedin event page</a></strong></p>
+  <p>Whether you are developing a software as a medical device (SaMD), AI as a medical device (AIaMD), integrating machine learning into an existing platform, or preparing for market entry, this webinar will equip you with the knowledge and strategic insight to achieve market success.</p>
+  <p>Join us to learn how to:</p>
+  <ul>
+    <li>Clarify <strong>if your software or AI system qualifies as a medical device</strong> and its regulatory pathway</li>
+    <li>Understand key regulatory and cybersecurity requirements for AI-enabled medical technologies</li>
+    <li>Build <strong>compliant documentation</strong> and evidence strategies that support approvals</li>
+    <li>Implement practical cybersecurity and risk mitigation measures while <strong>reducing regulatory risk</strong></li>
+  </ul>
+  <p>AI-enabled medical devices are becoming increasingly common, bringing new opportunities, and new regulatory challenges. As these technologies evolve, regulators are placing greater emphasis on transparency, data governance, cybersecurity robustness, and lifecycle monitoring. Devices that fail to demonstrate compliance will face significant barriers to market access.</p>
+  <p>This webinar will help you stay ahead of the curve, understand regulatory and cybersecurity expectations, and implement practical strategies to achieve and maintain compliance.</p>
+  <h2 id="meet-the-speakers">Meet the Speakers</h2>
+  <ul>
+    <li><strong>Simon Cumiskey</strong> – <em>Senior Lead Medical Writer, Mantra Systems</em><br />
+      Specialises in regulatory strategy for software and AI-enabled devices. Advises companies on meeting MDR requirements and achieving market access through robust documentation and clear regulatory positioning.</li>
+    <li><strong>Luke Hill</strong> – <em>Cybersecurity Consultant, Cyber Alchemy</em><br />
+      Luke is a technical cybersecurity specialist who works across sectors, with a strong focus on MedTech. He has helped bring AI-enabled medical apps to market and worked securing medical devices such as X-ray and MRI systems. His expertise includes security testing, cloud systems, security architecture and application security, translating complex risks into practical, regulator-ready controls.</li>
+    <li><strong>William Brambley</strong> - <em>Lead Medical Writer, Mantra Systems</em><br />
+      Develops evidence strategies that secure approvals and drive market adoption. Leads EU and UK MDR submissions for complex software devices, aligning regulatory pathways with commercial success.</li>
+  </ul>
+  <p><strong>To attend, <a href="https://www.linkedin.com/events/regulatory-cybersecurityessenti7387143757558730753/theater/">register on our Linkedin event page now</a></strong>.</p>
+  ]]></content><author><name>shen-may-khoo</name></author><category term="MDR" /><category term="SaMD" /><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[We are co-hosting a webinar with our friends at Cyber Alchemy to help manufacturers navigate this constantly evolving landscape]]></summary></entry><entry><title type="html">Redefining Care Through AI: Perspectives from the AI in Health Summit 2025</title><link href="https://mantrasystems.com/articles/ai-in-health-summit-2025-perspectives-redefining-care-through-ai" rel="alternate" type="text/html" title="Redefining Care Through AI: Perspectives from the AI in Health Summit 2025" /><published>2025-10-20T00:00:00+01:00</published><updated>2025-10-20T12:14:38+01:00</updated><id>https://mantrasystems.com/articles/ai-in-health-summit-2025-perspectives-redefining-care-through-ai</id><content type="html" xml:base="https://mantrasystems.com/articles/ai-in-health-summit-2025-perspectives-redefining-care-through-ai"><![CDATA[<p>On the 1st of October, I had the opportunity to attend the <a href="https://events.economist.com/ai-health-summit/">AI in Health Summit</a> hosted by Economist Impact at the Royal College of Physicians, London.</p>
+  <p>This summit presented exclusive insight from policy makers, clinicians, healthcare providers, med-tech providers, academics, charities and investors working to achieve the maximum potential of AI in health. It’s safe to say that the day was packed with insights, debates, and a healthy dose of cautious optimism. The conversations around artificial intelligence in healthcare have evolved dramatically over the past few years, moving from excitement about what’s possible to a much deeper focus on how we can make it all work safely, ethically, and sustainably.</p>
+  <p>What really struck me throughout the day was the fine balance between responsiveness and responsibility; the two words that seemed to come up again and again. Innovation in AI is at the fastest pace it has been, and regulators are now trying to work hard to keep up this pace, without stifling progress and innovation. During one of the fireside chats, <a href="https://www.linkedin.com/in/lawrence-tallon-29137a5a/">Lawrence Tallon</a>, Chief Executive of the MHRA, mentioned the introduction of AI sandboxes, a controlled environment for innovators to test their AI systems in a safe environment. The <a href="https://www.gov.uk/government/collections/ai-airlock-the-regulatory-sandbox-for-aiamd">AI Airlock programme by the MHRA</a>, is one example of this new mindset, and one way to provide regulatory guidance and learning, whilst still fostering innovation. It’s a way of encouraging creativity, but with guardrails firmly in place.</p>
+  <p>It was encouraging to see how much thought is being put into proportionate oversight, ensuring that regulation is rigorous enough to maintain safety and public trust, but flexible enough to avoid unnecessary barriers to innovation. After all, as several speakers reminded us, public trust is everything. This theme was front and centre during the panel discussion “<em>Global Regulations for Trust and Transparency</em>.” Key speakers, including <a href="https://www.linkedin.com/in/jamie-cox-01458b3a/">Jamie Cox</a>, Co-founder and Chief Technology Officer of <a href="https://www.scarlet.cc/">Scarlet</a>, and <a href="https://www.linkedin.com/in/davidnovillo/">David Novillo</a>, Head of Data and Digital Health at <a href="https://www.who.int/">the WHO</a>, emphasised that both health workers and patients must have a voice, and that using AI should always be a choice, not an obligation. Can patients and health workers truly trust AI if accountability and choice aren’t built in from the start?</p>
+  <p>AI in healthcare brings immense promise and excitement, but also raises critical questions like this. Without public trust, the rapid momentum behind AI adoption in healthcare could quickly come to a halt.</p>
+  <figure class="intrinsic">
+    <img src="/assets/images/content/articles/inline/kamiya-and-sandra-at-ai-health-summit.jpg" alt="Kamiya and Sandra posing infront of a banner at the AI Health Summit." loading="lazy" width="600" height="615" />
+    <figcaption>The author and our Chief Regulatory Officer, Sandra.</figcaption>
+  </figure>
+  <h2 id="beyond-clinical-impact-how-ai-can-support-health-systems">Beyond Clinical Impact: How AI Can Support Health Systems</h2>
+  <p>During the summit, one of the more refreshing themes was that AI is no longer just about improving clinical outcomes for patients; it’s also about strengthening the systems that support them. Several panel discussions reflected this idea, with sessions such as “<em>How Can AI Deliver Maximum Value to Patients?</em>” and “<em>Reducing the Burden on Health Systems</em>” taking centre stage. As a specific example, narrow AI continues to shine in specific, well-defined applications, e.g. diagnostic imaging or triage support. However, a conversation has now been sparked on how AI can also help solve the more practical issues of healthcare systems: improving efficiency, supporting workforce planning, and easing the administrative workloads.</p>
+  <p>Adoption does, however, rely on overcoming the cultural barriers, too. Resistance can still be seen from clinicians, questions are raised about accountability, and legitimate concerns have been raised about the bias and inequality of AI. But there was a strong sense that AI, when implemented thoughtfully, could help make healthcare more timely, equitable, and sustainable, not less.</p>
+  <h2 id="the-regulatory-road-ahead">The Regulatory Road Ahead</h2>
+  <p>Regulation can often be seen as a hurdle, or just another hoop you have to jump through in the world of AI in healthcare, but attending the summit reminded me that, when seen in the correct light, it can also be a powerful enabler. When done thoughtfully, regulation doesn’t just protect patients, but it builds trust, innovation, and creates a clear pathway for AI tools to move safely from their development to real-world clinical use. One key theme was the importance of proportionate oversight. Rather than a one-size-fits-all approach, regulators are increasingly focusing on risk-based frameworks, ensuring that higher-risk AI applications receive more scrutiny, while lower-risk tools can reach clinicians faster. This balance is critical: it protects patients without unnecessarily slowing innovation, giving developers opportunities to experiment and iterate.</p>
+  <p>At Mantra Systems, we empower these innovators, guiding them through the regulatory process and allowing them to lean into regulations, not fight against them. Working together in this way enables us to reach a shared goal of getting medical devices onto the market, applying a unique combination of clinical, regulatory and medical device expertise. In the past, we have hosted the MedTech Start-Up Workshop, providing early-stage companies with practical insights into navigating regulatory requirements. <a href="/newsletter">Subscribe to our newsletter</a> to hear about the next one.</p>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[Conversations around AI in healthcare have evolved dramatically over the past few years. We found insight, debate and a healthy dose of cautious optimism at this summit.]]></summary></entry><entry><title type="html">Guide to Clinical Evaluation: The State-of-the-Art (SOTA) Literature Review</title><link href="https://mantrasystems.com/articles/state-of-the-art-sota-literature-review-a-guide-to-clinical-evaluation-video-series-ep-3" rel="alternate" type="text/html" title="Guide to Clinical Evaluation: The State-of-the-Art (SOTA) Literature Review" /><published>2025-10-15T00:00:00+01:00</published><updated>2025-10-31T12:03:46+00:00</updated><id>https://mantrasystems.com/articles/state-of-the-art-sota-literature-review-a-guide-to-clinical-evaluation-video-series-ep-3</id><content type="html" xml:base="https://mantrasystems.com/articles/state-of-the-art-sota-literature-review-a-guide-to-clinical-evaluation-video-series-ep-3"><![CDATA[<p>Under the EU MDR, the importance of a robust and well-structured state-of-the-art (SOTA) literature review cannot be overstated. It serves as the foundation of the clinical evaluation process, offering regulators and stakeholders a clear, evidence-based understanding of where a device fits within its clinical context.</p>
+  <p>In this third episode of our <strong>Guide to Clinical Evaluation</strong> video series, we explore an overview of the SOTA literature review including its purpose and overall structure. We guide you through its essential components, demystifying the process and explaining how it supports clinical evaluation. You’ll learn how to:</p>
+  <ul>
+    <li><strong>Place your device in clinical context</strong> by outlining the conditions it addresses, its intended use, and how it achieves therapeutic benefit.</li>
+    <li><strong>Assess the performance and safety of SOTA devices</strong> to understand current clinical expectations and identify relevant comparators.</li>
+    <li><strong>Develop safety and performance objectives</strong> that define measurable benchmarks for evaluation within the <a href="/medical-device-regulatory-consulting-services/mdr-consulting/clinical-evaluation">Clinical Evaluation Plan (CEP)</a> and Clinical Evaluation Report (CER).</li>
+  </ul>
+  <p>We’ll also share our structured approach to conducting these reviews, from defining the clinical background and search strategy to appraising literature and synthesizing data into actionable insights.</p>
+  <h2 id="a-proven-framework-for-success">A Proven Framework for Success</h2>
+  <p>At Mantra Systems, we know what success looks like. Our approach to clinical evaluation is built on experience: over 300 successful evaluations conducted under MDR. This track record reflects not just regulatory knowledge, but also a deep commitment to patient safety, clinical relevance, and quality of evidence.</p>
+  <p>Through this series, we’ll share that expertise with you, helping you avoid the pitfalls we see most often and giving you a clear pathway to stronger, more resilient submissions.</p>
+  <p><a href="/newsletter">Subscribe to our newsletter</a> to keep up with the full five-part series on mastering MDR clinical evaluation, including:</p>
+  <ol>
+    <li><a href="/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce"><strong>What is clinical evaluation?</strong></a></li>
+    <li><a href="/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2"><strong>Clinical evaluation in context</strong></a></li>
+    <li><strong><em>The State-of-the-Art (SOTA) review – core of a successful submission</em></strong></li>
+    <li><a href="/articles/cep-strategy-cer-structure-a-guide-to-clinical-evaluation-video-series-ep-4"><strong>The CEP and CER</strong></a></li>
+    <li><strong>Clinical evaluation pitfalls and useful resources</strong></li>
+  </ol>
+  ]]></content><author><name>william-brambley</name></author><category term="Clinical Evaluation" /><category term="MDR" /><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[Part 3 - This is core of a sucessful submission. Will demystifies the process and explains how it supports clinical evaluation.]]></summary></entry><entry><title type="html">Regulatory Update: EU Borderline &amp;amp; Classification Manual for medical devices v4</title><link href="https://mantrasystems.com/articles/eu-borderline-classification-manual-medical-devices-version-4-released-regulatory-update" rel="alternate" type="text/html" title="Regulatory Update: EU Borderline &amp;amp; Classification Manual for medical devices v4" /><published>2025-10-07T00:00:00+01:00</published><updated>2025-10-07T11:47:21+01:00</updated><id>https://mantrasystems.com/articles/eu-borderline-classification-manual-medical-devices-version-4-released-regulatory-update</id><content type="html" xml:base="https://mantrasystems.com/articles/eu-borderline-classification-manual-medical-devices-version-4-released-regulatory-update"><![CDATA[<p>Version 4 of the EU Borderline &amp; Classification Manual (September 2025) introduces new examples that sharpen the distinction between medical devices and other product categories. This update includes clarified classifications for products containing pharmacologically active substances, and aesthetic-only products.</p>
   <p>In the ever-changing regulatory landscape of the EU MDR and IVDR, access to clear and reliable information is essential. Particularly for borderline products which may fall under different frameworks such as medical devices, pharmaceuticals, cosmetics, biocides or even food. On 12 September 2025, the <a href="https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en">Medical Device Coordination Group (MDCG)</a> published the fourth version of the <a href="https://health.ec.europa.eu/document/download/71a87df8-5ca1-4555-b453-b65bdf8de909_en?filename=md_borderline_manual_en.pdf">‘Manual on Borderline and Classification for Medical Devices under Regulations (EU) 2017/745 and (EU) 2017/746‘</a>. This edition brings together the agreements made by representatives the Borderline and Classification Working Group (BCWG) related to <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20200424#tocId2">Regulation (EU) 2017/745 on medical devices (MDR)</a> and <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20250110">Regulation (EU) 2017/746 on in vitro diagnostic medical devices (IVDR)</a>.</p>
   <p>This manual serves as a vital interpretive and supportive tool when preparing qualification and classification rationales, although it is not a legally binding document. The aspects concerning the borderline between medical devices and other types of products, also known as the qualification of a product, are generally governed by Article 4, Regulatory status of products of <a href="/medical-device-regulatory-consulting-services/mdr-consulting">the MDR</a> and the corresponding Article 3 of <a href="/medical-device-regulatory-consulting-services/ivdr-consulting">the IVDR</a>. Borderline cases are those for which it is not clear from the outset whether a given product is a medical device, or an in vitro diagnostic medical device, or not. Once a product is qualified as a medical device, a certain risk class will be assigned to it, namely <a href="/solutions/regulatory-consulting-for-class-i-medical-devices">I</a>, <a href="/solutions/regulatory-consulting-for-class-iia-iib-medical-devices">IIa, IIb</a>, and <a href="/solutions/regulatory-consulting-for-class-iii-medical-devices">III</a>. For a product qualified as an IVD, the <a href="/articles/understanding-risk-based-classification-of-in-vitro-medical-devices-under-eu-ivdr">risk classes</a> are A, B, C and D.</p>
   <h2 id="key-updates-include">Key updates include:</h2>
@@ -123,7 +190,7 @@
     <li>Plan proactively to address the gaps before assessments or audits to reduce compliance risks.</li>
   </ul>
   <p>Unsure about your product’s status under EU MDR or IVDR? <a href="/contact">Contact us today</a> for a no-obligation, confidential discussion on how we can support your path forward.</p>
-  ]]></content><author><name>chandini-vk</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[New examples sharpen the distinction between medical devices and other product categories, such as pharmacologically active substances and aesthetic-only products.]]></summary></entry><entry><title type="html">Guide to Clinical Evaluation: Clinical Evaluation in Context</title><link href="https://mantrasystems.com/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2" rel="alternate" type="text/html" title="Guide to Clinical Evaluation: Clinical Evaluation in Context" /><published>2025-09-30T00:00:00+01:00</published><updated>2025-10-15T10:25:37+01:00</updated><id>https://mantrasystems.com/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2</id><content type="html" xml:base="https://mantrasystems.com/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2"><![CDATA[<p>In the ever-evolving world of medical device regulation, clinical evaluation is often seen as a standalone exercise. Yet, for manufacturers striving for MDR compliance, it is far more than that; it is the linchpin that connects multiple components of your technical documentation.</p>
+  ]]></content><author><name>chandini-vk</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[New examples sharpen the distinction between medical devices and other product categories, such as pharmacologically active substances and aesthetic-only products.]]></summary></entry><entry><title type="html">Guide to Clinical Evaluation: Clinical Evaluation in Context</title><link href="https://mantrasystems.com/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2" rel="alternate" type="text/html" title="Guide to Clinical Evaluation: Clinical Evaluation in Context" /><published>2025-09-30T00:00:00+01:00</published><updated>2025-10-31T12:03:46+00:00</updated><id>https://mantrasystems.com/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2</id><content type="html" xml:base="https://mantrasystems.com/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2"><![CDATA[<p>In the ever-evolving world of medical device regulation, clinical evaluation is often seen as a standalone exercise. Yet, for manufacturers striving for MDR compliance, it is far more than that; it is the linchpin that connects multiple components of your technical documentation.</p>
   <p>In this second episode of our Guide to Clinical Evaluation video series, we explore how clinical evaluation fits into the broader technical file, and how other sections of the file both inform and are informed by it.</p>
   <p>At its core, a clinical evaluation demonstrates that a device is safe and effective for its intended purpose. But achieving this requires more than simply compiling clinical studies; it involves integrating insights from across the technical file. Key inputs include <a href="/articles/a-medical-devices-intended-purpose-what-is-the-point">intended purpose</a>, <a href="/articles/understanding-clinical-evidence-requirements-mdcg-2020-6">clinical evidence</a>, <a href="/articles/gspr-1-a-new-era-of-performance-with-patient-safety-at-the-core">general safety and performance requirements (GSPRs)</a>, <a href="/articles/essential-usability-testing-for-medical-devices-iec-62366-1-2015-demystified">pre-clinical testing</a>, <a href="/eu-mdr-compliance/risk-management">risk management file</a>, and <a href="/eu-mdr-compliance/post-market-surveillance-pms">post-market surveillance</a>.</p>
   <p>The beauty of a robust clinical evaluation lies in its dual role: not only does it synthesise inputs from across the technical file, but its outputs also influence other regulatory processes. Clinical findings can prompt updates to the risk management file, inform labelling, or trigger modifications to post-market surveillance plans.</p>
@@ -137,10 +204,10 @@
     <li><a href="/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce"><strong>What is clinical evaluation?</strong></a></li>
     <li><strong><em>Clinical evaluation in context</em></strong></li>
     <li><a href="/articles/state-of-the-art-sota-literature-review-a-guide-to-clinical-evaluation-video-series-ep-3"><strong>The State-of-the-Art (SOTA) review – core of a successful submission</strong></a></li>
-    <li><strong>The CEP and CER</strong></li>
+    <li><a href="/articles/cep-strategy-cer-structure-a-guide-to-clinical-evaluation-video-series-ep-4"><strong>The CEP and CER</strong></a></li>
     <li><strong>Clinical evaluation pitfalls and useful resources</strong></li>
   </ol>
-  ]]></content><author><name>peter-boxall</name></author><category term="Clinical Evaluation" /><category term="MDR" /><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[Part 2 - A clinical evaluation demonstrates that a device is safe and effective, but achieving this requires more than simply compiling studies.]]></summary></entry><entry><title type="html">Introducing Our Guide to Clinical Evaluation Video Series: Building Strong Submissions Under MDR</title><link href="https://mantrasystems.com/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce" rel="alternate" type="text/html" title="Introducing Our Guide to Clinical Evaluation Video Series: Building Strong Submissions Under MDR" /><published>2025-09-25T00:00:00+01:00</published><updated>2025-10-15T10:25:37+01:00</updated><id>https://mantrasystems.com/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce</id><content type="html" xml:base="https://mantrasystems.com/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce"><![CDATA[<p>Clinical evaluation is one of the most critical and most challenging aspects of achieving CE marking under the EU Medical Device Regulation (MDR).</p>
+  ]]></content><author><name>peter-boxall</name></author><category term="Clinical Evaluation" /><category term="MDR" /><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[Part 2 - A clinical evaluation demonstrates that a device is safe and effective, but achieving this requires more than simply compiling studies.]]></summary></entry><entry><title type="html">Introducing Our Guide to Clinical Evaluation Video Series: Building Strong Submissions Under MDR</title><link href="https://mantrasystems.com/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce" rel="alternate" type="text/html" title="Introducing Our Guide to Clinical Evaluation Video Series: Building Strong Submissions Under MDR" /><published>2025-09-25T00:00:00+01:00</published><updated>2025-10-31T12:03:46+00:00</updated><id>https://mantrasystems.com/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce</id><content type="html" xml:base="https://mantrasystems.com/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce"><![CDATA[<p>Clinical evaluation is one of the most critical and most challenging aspects of achieving CE marking under the EU Medical Device Regulation (MDR).</p>
   <p>At Mantra Systems, we find that it is also the single most common reason for regulatory submissions to fail. Yet, with the right approach, it becomes not just a compliance requirement but an opportunity to demonstrate the safety, performance, and clinical value of a medical device.</p>
   <p>That’s why we’re launching our new <strong>Guide to Clinical Evaluation Video Series</strong> - a step-by-step guide to navigating the process with confidence. Across five episodes, we’ll break down the principles of clinical evaluation, highlight common pitfalls, and share strategies that have helped us deliver more than 300 MDR clinical evaluations with a 100% success rate.</p>
   <h2 id="what-youll-learn-in-this-series">What You’ll Learn in This Series</h2>
@@ -150,7 +217,7 @@
     <li><strong><em>What is clinical evaluation?</em></strong></li>
     <li><a href="/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2"><strong>Clinical evaluation in context</strong></a></li>
     <li><a href="/articles/state-of-the-art-sota-literature-review-a-guide-to-clinical-evaluation-video-series-ep-3"><strong>The State-of-the-Art (SOTA) review – core of a successful submission</strong></a></li>
-    <li><strong>The CEP and CER</strong></li>
+    <li><a href="/articles/cep-strategy-cer-structure-a-guide-to-clinical-evaluation-video-series-ep-4"><strong>The CEP and CER</strong></a></li>
     <li><strong>Clinical evaluation pitfalls and useful resources</strong></li>
   </ol>
   <p>Our aim is simple: to make the clinical evaluation process clearer, more accessible, and more effective for regulatory teams and manufacturers alike.</p>
@@ -270,285 +337,4 @@
   <p>The introduction of the IVDR is one of the most significant regulatory shifts in the history of EU diagnostics. While it presents undeniable financial, operational, and logistical challenges, it also provides a framework that prioritises patient safety, transparency, and innovation.</p>
   <p>Manufacturers that embrace early compliance, integrate robust data systems, and invest in post-market monitoring will not only safeguard EU market access but also gain a competitive edge in a rapidly evolving global diagnostics market. By aligning innovation with regulatory excellence, companies can ensure their IVDs remain at the forefront of healthcare, delivering accurate, timely, and impactful insights that improve patient outcomes.</p>
   <p>To navigate the complexities of the IVDR and turn regulatory compliance into a competitive advantage, Mantra Systems offers <a href="/medical-device-regulatory-consulting-services/ivdr-consulting">specialised consultancy services for IVD manufacturers</a>. By combining deep regulatory expertise with practical, actionable strategies, Mantra Systems helps companies efficiently manage performance evaluations, Notified Body interactions, and post-market obligations, ensuring timely EU market access while minimising risks and operational burdens.</p>
-  ]]></content><author><name></name></author><category term="IVDR" /><summary type="html"><![CDATA[Meeting IVDR requirements requires more than regulatory awareness; it calls for a proactive, structured, and strategic approach. But meeting these can provide an edge.]]></summary></entry><entry><title type="html">Regulatory Strategy Essentials for Digital Health: Key Takeaways from Our Webinar</title><link href="https://mantrasystems.com/articles/regulatory-strategy-essentials-for-digital-health-webinar" rel="alternate" type="text/html" title="Regulatory Strategy Essentials for Digital Health: Key Takeaways from Our Webinar" /><published>2025-09-04T00:00:00+01:00</published><updated>2025-09-08T15:18:42+01:00</updated><id>https://mantrasystems.com/articles/regulatory-strategy-essentials-for-digital-health-webinar</id><content type="html" xml:base="https://mantrasystems.com/articles/regulatory-strategy-essentials-for-digital-health-webinar"><![CDATA[<p>When it comes to digital health, the conversation often starts and stops at regulation. <em>How do we get CE marking? What does UK MDR mean for us?</em> These are important questions, but if your regulatory strategy focuses only on ticking compliance boxes, you’re already at a disadvantage.</p>
-  <p>The reality is that a <strong>regulatory strategy should be about more than approval, it should be about commercial success.</strong> That means finding the most efficient path through complex frameworks, while designing a product that genuinely solves a clinical problem and integrates seamlessly into healthcare systems.</p>
-  <p>This was the focus of our recent webinar, <em>Regulatory Strategy Essentials for Digital Health</em>. Here are the key takeaways that stood out.</p>
-  <h2 id="1-regulatory-strategy-is-not-an-isolated-project">1. Regulatory Strategy Is Not an Isolated Project</h2>
-  <p><a href="/articles/mastering-eu-mdr-essential-steps-for-compliance-ready-docs">Demonstrating conformity with medical device regulations</a> is hard work. However, if you treat it as an isolated project, you risk ending up with a compliant device that nobody actually uses.</p>
-  <p>A strong strategy starts by asking:</p>
-  <ul>
-    <li>What clinical problem are we solving?</li>
-    <li>How does this device fit into existing workflows?</li>
-    <li>What route to market gives us the best balance of speed, cost, and long-term coverage?</li>
-  </ul>
-  <p>Get those answers right, and the regulatory process becomes a tool to achieve commercial goals, not a barrier to them.</p>
-  <h2 id="2-understand-the-clinical-problem-first">2. Understand the Clinical Problem First</h2>
-  <p>In digital health, it’s easy to get carried away with technical brilliance, but unless your device addresses a <strong>defined clinical need</strong>, it risks gathering dust.</p>
-  <p>This involves two critical early-stage assessments:</p>
-  <ul>
-    <li><strong>Burden of disease analysis</strong>: What’s the prevalence, diagnosis pathway, and treatment landscape today?</li>
-    <li><strong>Unmet needs analysis</strong>: Where are the gaps in current practice that your device can fill?</li>
-  </ul>
-  <p>These insights not only <strong>guide device design</strong> but also ensure your product integrates into healthcare systems (e.g. electronic health records, care pathways) and avoids barriers to adoption later.</p>
-  <h2 id="3-defining-intended-purpose-early">3. Defining Intended Purpose Early</h2>
-  <p><strong>Your intended purpose statement</strong>, a clear one-to-two-sentence description of what your device does, shapes your entire regulatory journey:</p>
-  <ul>
-    <li>It determines the clinical and technical evidence you must generate to support suitability for your intended purpose.</li>
-    <li>It drives your state-of-the-art (SOTA) review, setting benchmarks for safety and performance.</li>
-    <li>It defines device classification, determining regulatory costs, timelines, and the need for Notified Body involvement.</li>
-  </ul>
-  <p>Getting this right early allows you to balance regulatory approval with marketability:</p>
-  <ul>
-    <li>A broad intended purpose makes your product attractive to buyers, but makes achieving regulatory approval more challenging.</li>
-    <li>A narrow intended purpose makes regulatory approval easier, but limits marketability.</li>
-  </ul>
-  <p>Striking the right balance from the outset is one of the most important decisions you’ll make.</p>
-  <h2 id="4-uk-vs-eu-choosing-your-route-to-market">4. UK vs EU: Choosing Your Route to Market</h2>
-  <p>For digital health software, classification is where the UK and EU diverge most dramatically.</p>
-  <ul>
-    <li><strong>Under UK MDR (2002):</strong> many software devices remain Class I with no Approved Body required.</li>
-    <li><strong>Under EU MDR (2017/745):</strong> most software is at least Class IIa, requiring lengthy and costly Notified Body involvement.</li>
-  </ul>
-  <p>Currently, <a href="/articles/what-the-latest-brexit-u-turn-means-for-ce-marking-of-medical-devices-in-great-britain">the UK is considering indefinite acceptance of CE marking</a>, with the MHRA running a further consultation on this proposal, later in 2025. In the meantime, manufacturers have flexibility in choosing their route to market:</p>
-  <ul>
-    <li>Go EU-first for broad coverage</li>
-    <li>Go UK-first for faster, cheaper entry and early traction.</li>
-  </ul>
-  <p>Two important caveats to keep in mind:</p>
-  <ul>
-    <li>The UK MDR is expected to undergo <a href="https://assets.publishing.service.gov.uk/media/6759a8827e419d6e07ce2b21/Med_Tech_Regulatory_Roadmap_V2_December_2024.pdf">changes</a> to classification rules in 2026, which may bring them closer to the EU position. Timelines and final details remain unclear.</li>
-    <li>The MHRA has <a href="https://assets.publishing.service.gov.uk/media/672cf23c0207c4664564ce45/Medical_Devices_Consultation_November_2024.pdf">proposed</a> introducing a new route to market using international reliance for certain devices, relying on the approvals or certificates issued by regulatory authorities in Australia, Canada, EU/EEA and USA.</li>
-  </ul>
-  <p>The right approach depends on your resources, your investors, and how quickly you need to generate revenue, but it’s essential to plan with these regulatory shifts on the horizon.</p>
-  <h2 id="5-conducting-a-state-of-the-art-sota-review">5. Conducting a State of the Art (SOTA) Review</h2>
-  <p><a href="/articles/literature-search-sota-review-and-clinical-evaluation">A SOTA review</a> helps you understand the current landscape of clinical practice, technologies, and evidence relevant to your device. It ensures your digital health product is benchmarked against comparable solutions, informs the type of clinical and technical evidence you need, and supports both regulatory submissions and commercial positioning.</p>
-  <p>Conducting a SOTA review is more than a box-ticking exercise. It enables you to:</p>
-  <ul>
-    <li><strong>Identify competitor devices and solutions</strong> addressing the same clinical problem</li>
-    <li><strong>Analyse the quality of clinical evidence</strong> supporting those products</li>
-    <li><strong>Determine gaps and opportunities</strong> where your device can demonstrate additional clinical benefit, usability, or cost savings.</li>
-    <li><strong>Guide your own clinical studies,</strong> both pre-market and post-market, so you generate relevant, meaningful evidence rather than over-relying on equivalence claims or technical performance studies.</li>
-  </ul>
-  <h2 id="6-generating-clinical-evidence-for-digital-health">6. Generating Clinical Evidence for Digital Health</h2>
-  <p>Digital health products face unique challenges when it comes to clinical evidence. Unlike hardware devices, software makes equivalence harder to demonstrate. Relying solely on equivalence creates commercial limitations. After all, if your device is “the same” as a competitor’s, you’ll often end up competing on price rather than value.</p>
-  <ul>
-    <li>Under both UK and EU regulations, making a successful equivalence claim requires similarity in technical and clinical characteristics. For software as a medical device (SaMD) Manufacturers must have access to sufficient information on the equivalent device in order to demonstrate a similar software algorithm and technical specifications, which is often complex and restrictive.</li>
-  </ul>
-  <p>There are alternative ways to generate evidence that both satisfy regulators and strengthen your commercial position, without costly prospective clinical trials:</p>
-  <ul>
-    <li>Retrospective analyses: Retrospective studies can be used to support conformity, depending on your device’s intended purpose and claims.</li>
-    <li>PMCF data from other territories: For example, PMCF data collected in the UK, USA, or other markets can be leveraged to support conformity under EU MDR.</li>
-  </ul>
-  <p>Importantly, the safety and performance outcomes observed in the SOTA review can be used as benchmarks for generating your own clinical evidence. These benchmarks help define the standards your device needs to meet to demonstrate suitability for its intended purpose.</p>
-  <p>By combining these approaches, your SOTA review and clinical evidence strategy can do more than tick regulatory boxes. It can differentiate your device, justify your claims, and support adoption in healthcare systems like the NHS.</p>
-  <h2 id="7-future-proofing-in-an-iterative-world">7. Future-Proofing in an Iterative World</h2>
-  <p>Software evolves constantly, but regulation assumes static products. To avoid being trapped by your own documentation:</p>
-  <ul>
-    <li>Keep intended purpose broad, and add specificity through indications.</li>
-    <li>Define acceptance criteria for updates (e.g. model retraining thresholds)</li>
-    <li>Structure files so Notified Bodies can review changes quickly.</li>
-  </ul>
-  <p>Done well, this means your product can evolve without every update turning into a regulatory roadblock.</p>
-  <h2 id="conclusion-digital-health-essentials">Conclusion: Digital Health Essentials</h2>
-  <p>Digital health is one of the fastest-moving areas in healthcare, but success doesn’t come from speed alone. It comes from pairing regulatory rigour with commercial vision.</p>
-  <p>The essentials are clear:</p>
-  <ul>
-    <li>Focus on the clinical problem/need for your device first and develop your device accordingly</li>
-    <li>Define your intended purpose carefully</li>
-    <li>Choose your regulatory pathway strategically</li>
-    <li>Generate evidence that matters to both regulators and the market</li>
-    <li>Plan ahead so your product can keep evolving.</li>
-  </ul>
-  <p>At Mantra Systems, we see regulatory strategy not as a hurdle, but as a growth tool—helping innovators bring safer, smarter, and more impactful digital health products to market.</p>
-  <p><strong>Are you developing a digital health product and need support with regulatory strategy?</strong> Our team specialises in guiding innovators through UK and EU frameworks, balancing regulatory compliance with commercial success.</p>
-  <p><a href="/contact">Contact us today</a> to discuss how we can help you build a pathway to approval and adoption.</p>
-  ]]></content><author><name>peter-boxall</name></author><category term="MDR" /><category term="SaMD" /><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[We showed how to accelerate your runway to market through actionable steps that will shave months off your route to regulatory approval.]]></summary></entry><entry><title type="html">Vigilance &amp;amp; Incident Reporting: Everything You Need to Know</title><link href="https://mantrasystems.com/articles/vigilance-incident-reporting-everything-you-need-to-know" rel="alternate" type="text/html" title="Vigilance &amp;amp; Incident Reporting: Everything You Need to Know" /><published>2025-08-11T00:00:00+01:00</published><updated>2025-08-11T11:17:53+01:00</updated><id>https://mantrasystems.com/articles/vigilance-incident-reporting-everything-you-need-to-know</id><content type="html" xml:base="https://mantrasystems.com/articles/vigilance-incident-reporting-everything-you-need-to-know"><![CDATA[<p>Medical device vigilance is a two-way street. It safeguards patients from harm and protects manufacturers from reputational damage and financial losses.</p>
-  <p><a href="pms-understanding-pmcf-vigilance-under-eu-mdr">Vigilance is crucial</a> because even the most meticulously designed medical device can encounter unforeseen challenges in the real world. Vigilance acts as a critical feedback loop, providing invaluable insights that drive product improvement, strengthen regulatory compliance, and protect patients from harm.</p>
-  <h2 id="the-critical-role-of-vigilance-in-medical-devices">The Critical Role of Vigilance in Medical Devices</h2>
-  <p>But vigilance is not just good practice – it is a regulatory requirement in most major markets. Regulatory bodies like the FDA in the US, the European Commission in the EU, and the MHRA in the United Kingdom mandate that medical device manufacturers have robust vigilance systems in place. These systems must include procedures for collecting, analysing, and reporting incidents to the relevant authorities.</p>
-  <p>Failing to comply with these requirements can lead to serious consequences, including product recalls, fines, and even legal action. For example, in 2019, <a href="https://www.justice.gov/archives/opa/pr/medical-device-maker-acell-inc-pleads-guilty-and-will-pay-15-million-resolve-criminal-charges">a notable case involving a medical device manufacturer resulted in a $15 million fine</a> due to failure to report a product recall to the FDA, illustrating the severe repercussions of neglecting post-market vigilance obligations.</p>
-  <h2 id="what-vigilance-entails-a-closer-look">What Vigilance Entails: A Closer Look</h2>
-  <p><a href="/eu-mdr-compliance/vigilance">Vigilance</a> is the ongoing, systematic process of monitoring the safety and performance of medical devices throughout their entire lifecycle. It includes diligently collecting and analysing data on any incidents or adverse events that may occur. Think of it as a safety net, constantly catching and evaluating potential risks to ensure that medical devices remain effective and, above all, safe for the patients who rely on them.</p>
-  <p>Incident reporting, a crucial component of vigilance, involves the detailed documentation and communication of any events that may impact the safety or performance of a medical device.</p>
-  <p>Accurate and timely incident reporting is essential for effective vigilance. It provides the data needed to identify trends, understand root causes, and take corrective actions to prevent similar incidents from occurring in future.</p>
-  <h2 id="how-to-build-a-robust-vigilance-system-a-practical-guide">How to Build a Robust Vigilance System: A Practical Guide</h2>
-  <p>Creating a robust vigilance system requires a structured approach and a commitment to continuous improvement. Here is a practical guide to get you started:</p>
-  <ol>
-    <li><strong>Identify Relevant Regulations and Standards:</strong> The regulatory landscape for medical devices is constantly changing, with new requirements and updates emerging frequently. The introduction of the European Union Medical Device Regulation (MDR) and In Vitro Diagnostic Regulation (IVDR), for instance, has brought about significant changes in post-market surveillance requirements. In Great Britain, the MHRA introduced its own post‑market surveillance framework, which came into force on 16 June 2025 and includes more prescriptive obligations than those previously in place. Similarly, the FDA’s ongoing efforts to modernise medical device regulations in the US add another layer of complexity. Companies must proactively monitor regulatory updates (such as those shared in our <a href="/newsletter">regulatory newsletter</a>), participate in workshops and conferences, and engage with regulatory bodies to ensure ongoing compliance.</li>
-    <li><strong>Establish Internal Reporting Procedures:</strong> Develop clear and concise internal reporting procedures that outline the steps for reporting incidents, define roles and responsibilities, and establish communication channels. Ensure that all employees understand their role in the vigilance system.</li>
-    <li><strong>Develop a Comprehensive Incident Reporting Form:</strong> Create a user-friendly incident reporting form that captures all essential information. Include fields for patient demographics, device information, incident description, severity level, and any contributing factors. Make the form readily accessible and easy to use.</li>
-    <li><strong>Train Employees on Vigilance Procedures:</strong> Conduct regular training sessions to educate employees on vigilance procedures and the importance of incident reporting. Foster a culture of transparency and encourage proactive reporting.</li>
-    <li><strong>Implement a System for Data Management and Analysis:</strong> Invest in a system that can efficiently collect, store, and analyse vigilance data. This could be a dedicated software solution or a combination of tools and processes. Utilise data analytics to identify trends, predict potential issues, and generate insightful reports.</li>
-    <li><strong>Establish a Process for Corrective and Preventive Action (CAPA):</strong> Develop a systematic process for investigating incidents, identifying root causes, and implementing corrective and preventive actions. Ensure that CAPA activities are documented and tracked to completion.</li>
-    <li><strong>Regularly Review and Update Your Vigilance System:</strong> Vigilance is an ongoing process. Consistently review and update your system to ensure it remains effective and compliant with evolving regulations and industry best practices.</li>
-  </ol>
-  <h2 id="where-vigilance-gets-complex-navigating-global-requirements">Where Vigilance Gets Complex: Navigating Global Requirements</h2>
-  <p>Vigilance requirements can be complex, especially for companies operating in multiple markets. The US, EU, and Asian countries, for instance, have distinct regulations and reporting procedures. Understanding these nuances is crucial for ensuring compliance and avoiding costly penalties.</p>
-  <p>Here are some key differences to consider:</p>
-  <figure class="intrinsic">
-    <img src="/assets/images/content/articles/inline/vigilance-requirements-navigation-diagram.png" alt="A diagram illustrating pathways through the global vigilance requirements." loading="lazy" width="600" height="421" />
-  </figure>
-  <ul>
-    <li><strong>Incident reporting timelines:</strong> Different regions may have different timelines for reporting incidents. For example, the EU MDR requires manufacturers to report serious incidents within 15 days, while the FDA has different timelines depending on the event’s severity.</li>
-    <li><strong>Incident classification:</strong> The criteria for classifying incidents may vary. Some regions may have more detailed classification systems, requiring manufacturers to assess the severity, impact, and probability of recurrence.</li>
-    <li><strong>Reporting formats:</strong> Different regions may have specific reporting forms or electronic submission requirements.</li>
-    <li><strong>Post-market surveillance requirements:</strong> The scope and depth of post-market surveillance activities may vary. Some regions may require more proactive data collection and analysis, while others rely more on reactive reporting.</li>
-  </ul>
-  <h2 id="why-expert-guidance-matters">Why Expert Guidance Matters</h2>
-  <p>Building a robust vigilance system is complex, especially for companies with limited resources or those entering new markets. Mantra Systems, specialising in medical device market access, offers expert guidance to navigate vigilance and incident reporting. We assist with developing and implementing tailored vigilance systems, staying <a href="/newsletter">up-to-date with evolving regulations</a>, managing complex data and reporting requirements, and ensuring compliant market entry into new regions. Leveraging Mantra Systems’ expertise streamlines vigilance efforts, reduces risks, and allows companies to focus on developing innovative medical technologies.</p>
-  <h2 id="references">References:</h2>
-  <p>European Union. Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices. Official Journal of the European Union. 2017;L117:1-175. Accessed August 11, 2025. <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745">https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745</a></p>
-  <p>World Health Organization. Medical Device Vigilance: Guidance for Healthcare Professionals. 2017. Accessed August 11, 2025. <a href="https://www.who.int/tools/health-products-regulation-and-prequalification-learning-catalogue/vigilance">https://www.who.int/tools/health-products-regulation-and-prequalification-learning-catalogue/vigilance</a></p>
-  <p>Global Harmonization Task Force, Study Group 2. Medical Devices Post Market Surveillance: Global Guidance for Adverse Event Reporting for Medical Devices. GHTF; 2006. Accessed August 11, 2025. <a href="https://www.imdrf.org/documents/ghtf-final-documents/ghtf-study-group-2-post-market-surveillancevigilance">https://www.imdrf.org/documents/ghtf-final-documents/ghtf-study-group-2-post-market-surveillancevigilance</a></p>
-  <p>European Commission. Guidance on the Vigilance System for Medical Devices. 2013. Accessed August 11, 2025. <a href="https://ec.europa.eu/docsroom/documents/32305/attachments/1/translations/en/renditions/native">https://ec.europa.eu/docsroom/documents/32305/attachments/1/translations/en/renditions/native</a></p>
-  <p>Gupta P, Janodia MD, Jagadish PC, Udupa N. Medical device vigilance systems: India, US, UK, and Australia. Med Devices (Auckl). 2010;3:67-79. Accessed August 11, 2025. <a href="https://www.dovepress.com/article/download/5714">https://www.dovepress.com/article/download/5714</a></p>
-  ]]></content><author><name>gabriela-cardoso</name></author><category term="MDR" /><category term="PMCF" /><summary type="html"><![CDATA[Navigating the Complexities and Ensuring Patient Safety in Medical Devices.]]></summary></entry><entry><title type="html">Achieving EU MDR approval when you are approved under FDA</title><link href="https://mantrasystems.com/articles/achieving-eu-mdr-approval-when-you-are-approved-under-fda" rel="alternate" type="text/html" title="Achieving EU MDR approval when you are approved under FDA" /><published>2025-07-31T00:00:00+01:00</published><updated>2025-07-31T15:52:08+01:00</updated><id>https://mantrasystems.com/articles/achieving-eu-mdr-approval-when-you-are-approved-under-fda</id><content type="html" xml:base="https://mantrasystems.com/articles/achieving-eu-mdr-approval-when-you-are-approved-under-fda"><![CDATA[<p>Medical device manufacturers rarely limit themselves to a single market, with global expansion a key part of a long-term growth strategy. For U.S.-based companies, the European Union represents a particularly attractive opportunity. However, navigating the transition from FDA approval to EU market access is not as straightforward as it may seem.</p>
-  <p>While FDA pathways such as 510(k), PMA, and De Novo are designed to demonstrate a device’s safety and effectiveness in the U.S., EU MDR compliance focuses on conformity with Regulation (EU) 2017/745, and requires that a device be CE-marked before entering the EU market.</p>
-  <p>Even if a device has already secured FDA clearance, it may still require additional clinical data, updated technical documentation, and enhancements to the quality management system (QMS) to meet EU MDR standards. For manufacturers seeking to expand into the EU market, understanding and preparing for these regulatory differences is essential.</p>
-  <h2 id="eu-mdr-vs-fda">EU MDR vs FDA</h2>
-  <table class="simple">
-    <tr>
-      <th></th>
-      <th>FDA</th>
-      <th>EU MDR</th>
-    </tr>
-    <tr>
-      <th>Approval Authority</th>
-      <td>Federal agency in the US</td>
-      <td>Notified Bodies - European Union</td>
-    </tr>
-    <tr>
-      <th>Classification</th>
-      <td>
-        Risk based classification through classification database<br />
-        Class I (low risk)<br />
-        Class II (medium risk)<br />
-        Class III (High risk)
-      </td>
-      <td>
-        Risk based classification through classification rules<br />
-        Class I – Non-sterile or no measuring function (low risk)<br />
-        Class Is/Im – Sterile and a measuring function (low/medium risk)<br />
-        Class IIa (medium risk)<br />
-        Class IIb (medium/high risk)<br />
-        Class III (high risk)
-      </td>
-    </tr>
-    <tr>
-      <th>Pathways</th>
-      <td>510(k), PMA, De Novo</td>
-      <td>
-        CE Mark via MDR<br />
-        Self-Certification (Class I)<br />
-        Annex IX (QMS)<br />
-        Annex X (Type examination)<br />
-        Annex XI
-      </td>
-    </tr>
-    <tr>
-      <th>Clinical Data</th>
-      <td>Can use predicates (510(k))</td>
-      <td>Mandatory; clinical evaluation and post-market observation required</td>
-    </tr>
-    <tr>
-      <th>Risk Management</th>
-      <td>
-        Risk management activities are expected as part of the Quality System Regulation (21 CFR Part 820).<br />
-        While compliance with ISO 14971 is not formally required, manufacturers are expected to conduct risk analysis using methods such as SFMEA, PFMEA, UFMEA, or other appropriate techniques.
-      </td>
-      <td>
-        Risk management is mandatory and must be conducted in accordance with ISO 14971, integrated throughout the device lifecycle.
-      </td>
-    </tr>
-    <tr>
-      <th>QMS Requirement</th>
-      <td>21 CFR Part 820</td>
-      <td>ISO 13485 mandatory</td>
-    </tr>
-    <tr>
-      <th>UDI Requirements</th>
-      <td>FDA UDI</td>
-      <td>EU-specific UDI</td>
-    </tr>
-    <tr>
-      <th>Post-Market Surveillance</th>
-      <td>Less stringent</td>
-      <td>Mandatory, PMCF required</td>
-    </tr>
-  </table>
-  <h2 id="general-roadmap">General Roadmap</h2>
-  <h3 id="1-identify-eu-mdr-classification">1. Identify EU MDR Classification</h3>
-  <ul>
-    <li>Assess if your FDA-approved classification aligns with the EU MDR. If required, re-classify your device as per EU MDR Annex VIII risk classes (I, IIa, IIb, III).</li>
-    <li>Select an <strong>appropriate conformity assessment route</strong></li>
-  </ul>
-  <h3 id="2-perform-gap-analysis">2. Perform Gap analysis</h3>
-  <ul>
-    <li>A gap analysis is crucial for ensuring a medical device complies with EU MDR (Regulation (EU) 2017/745). The <strong>FDA submission</strong> should be reviewed and compared with <a href="/medical-device-regulatory-consulting-services/mdr-consulting"><strong>MDR requirements</strong></a> to identify areas were additional documentation, technical data, clinical data, or testing might be needed.</li>
-    <li>This analysis helps determine the necessary steps to achieve CE marking.</li>
-  </ul>
-  <h3 id="3-engage-a-notified-body">3. Engage a notified body</h3>
-  <ul>
-    <li>Unlike FDA, where the approval comes from a US federal agency, EU MDR requires certification from an <strong>EU Notified Body (NB)</strong>.</li>
-    <li>Select a <a href="https://single-market-economy.ec.europa.eu/single-market/goods/building-blocks/notified-bodies_en">notified body</a> that can certify your device.1</li>
-    <li>If the device is classified as medium- high-risk (Class IIa, IIb, or III), early collaboration with a Notified Body is essential to ensure alignment of your regulatory strategy with EU MDR requirements.</li>
-  </ul>
-  <h3 id="4-implement-eu-quality-management-system">4. Implement EU quality management system</h3>
-  <ul>
-    <li>MDR mandates <strong>ISO 13485:2016</strong> certification.</li>
-    <li>Align QMS with <strong>Annex IX, X, XI</strong> for conformity assessment and ensure risk management, and UDI traceability.</li>
-  </ul>
-  <h3 id="5-conduct-clinical-evaluation-and-risk-management">5. Conduct clinical evaluation and risk management</h3>
-  <ul>
-    <li>EU MDR Clinical Evaluation requirements differ significantly from the FDA approach, requiring expertise in clinical affairs to compile key documents such as the Clinical Evaluation Plan (CEP), State of the Art (SOTA) Report, and Clinical Evaluation Report (CER) for regulatory compliance.</li>
-    <li>ISO 14971 based risk management system is required under MDR.</li>
-  </ul>
-  <h3 id="6-align-with-eu-mdr-full-technical-file-requirements">6. Align with EU-MDR Full Technical File Requirements</h3>
-  <ul>
-    <li>Compile technical documentation in line with <strong>Annex II &amp; III of MDR</strong>, including:
-      <ul>
-        <li>Device Description and specification</li>
-        <li>Information supplied by the manufacturer</li>
-        <li>Risk Management File</li>
-        <li>General safety and performance (GSPR) checklist</li>
-        <li>Standards and common specifications</li>
-        <li>Design and Manufacturing information</li>
-        <li>Post-market surveillance (PMS) plan</li>
-        <li>Post-market clinical follow-up (PMCF) plan</li>
-      </ul>
-    </li>
-  </ul>
-  <h3 id="7-develop-a-robust-post-market-surveillance-pms-strategy">7. Develop a Robust Post-Market Surveillance (PMS) Strategy</h3>
-  <ul>
-    <li>EU MDR places significant emphasis on post-market surveillance to ensure ongoing safety and performance.</li>
-    <li>Key components include:
-      <ul>
-        <li><strong>Periodic Safety Update Reports (PSURs):</strong><br />
-          Required for Class IIa, IIb, and III devices. These must summarise findings from PMS and PMCF, identify trends, and include benefit-risk assessments.</li>
-        <li><strong>PMCF Studies:</strong><br />
-          Where applicable, conduct post-market clinical follow-up activities to address residual risks or uncertainties not fully resolved in the pre-market phase.</li>
-        <li><strong>Vigilance Reporting:</strong><br />
-          MDR enforces shorter and stricter timelines than FDA. Serious incidents must be reported:
-          <ul>
-            <li><strong>Immediately</strong> for serious public health threats</li>
-            <li><strong>Within 10 days</strong> for death or serious deterioration</li>
-            <li><strong>Within 15 days</strong> for other reportable events</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>A well-integrated PMS system supports regulatory compliance, product improvement, and patient safety.</li>
-  </ul>
-  <h3 id="8-submit-for-notified-body-review-and-obtain-a-ce-mark">8. Submit for notified body review and obtain a CE mark</h3>
-  <ul>
-    <li>Once the Notified Body approves your documentation, issue a <strong>Declaration of Conformity</strong> (DoC) and affix the <strong>CE Mark</strong>.</li>
-    <li>In the EU, medical devices must be CE-marked to be placed on the market.</li>
-  </ul>
-  <h3 id="9-register-in-eudamed-and-maintain-compliance">9. Register in EUDAMED and maintain compliance</h3>
-  <ul>
-    <li>Submit device &amp; company details in <strong>EUDAMED</strong> (European Database on Medical Devices) once it’s fully operational.</li>
-  </ul>
-  <h2 id="looking-ahead">Looking ahead</h2>
-  <p>Both the FDA and EU MDR frameworks share a common goal, ensuring the safety and effectiveness of medical devices. However, their distinct regulatory philosophies and regional priorities result in significantly different compliance pathways. The EU MDR is particularly rigorous, reflecting Europe’s focus on lifecycle oversight, clinical evidence, and post-market vigilance.</p>
-  <p>Transitioning from FDA approval to EU MDR compliance is a complex process that requires strategic planning, detailed documentation, and regulatory expertise. <a href="/contact">Contact us today for a confidential consultation</a>, and let our experts help you streamline the path to CE marking and long-term EU compliance.</p>
-  ]]></content><author><name>chandini-vk</name></author><category term="MDR" /><category term="PMCF" /><summary type="html"><![CDATA[Our guide to navigating the transition from FDA approval to EU market access.]]></summary></entry></feed>
+  ]]></content><author><name></name></author><category term="IVDR" /><summary type="html"><![CDATA[Meeting IVDR requirements requires more than regulatory awareness; it calls for a proactive, structured, and strategic approach. But meeting these can provide an edge.]]></summary></entry></feed>

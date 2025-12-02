@@ -1,99 +1,190 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://mantrasystems.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mantrasystems.com/" rel="alternate" type="text/html" /><updated>2025-11-25T10:41:11+00:00</updated><id>https://mantrasystems.com/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Device Modifications: When a Simple Change Becomes a Regulatory Nightmare</title><link href="https://mantrasystems.com/articles/device-modifications-when-a-simple-change-becomes-a-regulatory-nightmare" rel="alternate" type="text/html" title="Device Modifications: When a Simple Change Becomes a Regulatory Nightmare" /><published>2025-11-18T00:00:00+00:00</published><updated>2025-11-17T18:21:09+00:00</updated><id>https://mantrasystems.com/articles/device-modifications-when-a-simple-change-becomes-a-regulatory-nightmare</id><content type="html" xml:base="https://mantrasystems.com/articles/device-modifications-when-a-simple-change-becomes-a-regulatory-nightmare"><![CDATA[<p>In the world of medical devices, change is inevitable. Whether it’s driven by clinical feedback, new market opportunities, or even strategic positioning, we see it constantly. But we see one type of change cause disproportionate disruption: seemingly “minor” modifications to a device, such as its intended purpose, clinical claims, or warnings.</p>
-      <p>On the surface, it’s just a small adjustment, a new patient population, or a clearer articulation of clinical value. But under the <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745">Medical Device Regulation (MDR)</a>, even subtle changes can trigger major downstream effects on your technical documentation. And just as you’re finalising the updates? Another request lands: <em>“Can we also target this for paediatric use?”</em>. This is where the role becomes more than just writing and reviewing.</p>
-      <h2 id="why-minor-changes-can-create-major-work">Why “Minor” Changes Can Create Major Work</h2>
-      <p>Changing the <a href="/articles/a-medical-devices-intended-purpose-what-is-the-point">intended purpose</a> or clinical claims of your medical device isn’t just a matter of editing a sentence in the Instructions For Use (IFU). Under the MDR, your device’s intended purpose defines the whole regulatory strategy, from classification to clinical evidence to post-market surveillance. Even well-intentioned updates, like adding a benefit, can have more implications than expected:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://mantrasystems.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mantrasystems.com/" rel="alternate" type="text/html" /><updated>2025-12-02T14:06:11+00:00</updated><id>https://mantrasystems.com/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Guide to Clinical Evaluation: Common Pitfalls &amp;amp; Useful Resources</title><link href="https://mantrasystems.com/articles/common-clinical-evaluation-pitfalls-useful-resources-a-guide-to-clinical-evaluation-video-series-ep-5" rel="alternate" type="text/html" title="Guide to Clinical Evaluation: Common Pitfalls &amp;amp; Useful Resources" /><published>2025-12-02T00:00:00+00:00</published><updated>2025-12-02T13:06:45+00:00</updated><id>https://mantrasystems.com/articles/common-clinical-evaluation-pitfalls-useful-resources-a-guide-to-clinical-evaluation-video-series-ep-5</id><content type="html" xml:base="https://mantrasystems.com/articles/common-clinical-evaluation-pitfalls-useful-resources-a-guide-to-clinical-evaluation-video-series-ep-5"><![CDATA[<p>Conducting a clinical evaluation under the EU MDR can be a complex and demanding process. Even experienced teams can fall into common pitfalls that jeopardise the success of their submissions.</p>
+      <p>In this video, we highlight the most frequent mistakes manufacturers make during clinical evaluations and share practical strategies to avoid them. You’ll also discover key resources and guidelines that can help ensure your clinical evaluation meets all regulatory requirements.</p>
+      <p>If you missed previous episodes. Catch up here:</p>
+      <ol>
+        <li><a href="/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce"><strong>What is clinical evaluation?</strong></a></li>
+        <li><a href="/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2"><strong>Clinical evaluation in context</strong></a></li>
+        <li><a href="/articles/state-of-the-art-sota-literature-review-a-guide-to-clinical-evaluation-video-series-ep-3"><strong>The State-of-the-Art (SOTA) review – core of a successful submission</strong></a></li>
+        <li><a href="/articles/cep-strategy-cer-structure-a-guide-to-clinical-evaluation-video-series-ep-4"><strong>The CEP and CER</strong></a></li>
+        <li><strong><em>Clinical evaluation pitfalls and useful resources</em></strong></li>
+      </ol>
+      <p>This video explores five major pitfalls that often derail clinical evaluations:</p>
+      <ol class="numbered-discs">
+        <li><strong>Lack of a proper search protocol</strong><br />
+          Simply listing research questions and search terms isn’t enough. A robust protocol must detail how sources will be identified, appraised, and analysed.</li>
+        <li><strong>Lack of safety and performance objectives</strong><br />
+          Clinical evaluations must be grounded in explicit, measurable safety and performance objectives. These benchmarks, derived from the state of the art, are essential for demonstrating conformity and ensuring that devices meet clinical expectations.</li>
+        <li><strong>Choosing the wrong route to conformity</strong><br />
+          Legacy strategies no longer suffice. Under MDR, equivalence is far harder to justify, and Article 61(10) is frequently misapplied. Manufacturers must critically assess the most appropriate route early in the process to avoid regulatory setbacks.</li>
+        <li><strong>Improper use of equivalence</strong><br />
+          Under the MDR, demonstrating equivalence requires detailed justification across technical, biological, and clinical characteristics. Full access to the equivalent device’s technical documentation is typically needed. Anything less risks rejection.</li>
+        <li><strong>Absence of quantitative benefit-risk assessment</strong><br />
+          The MDR raises the bar: qualitative arguments are no longer sufficient. A numerical benefit-risk ratio is now mandatory, signalling a shift toward more data-driven evaluations.</li>
+      </ol>
+      <p>By understanding these pitfalls and using the recommended guidance, manufacturers can strengthen their clinical evaluations and improve submission success rates.</p>
+      <h2 id="key-resources-for-clinical-evaluation-under-eu-mdr">Key resources for Clinical Evaluation under EU MDR</h2>
       <ul>
-        <li>The <a href="/medical-device-regulatory-consulting-services/mdr-consulting/clinical-evaluation">Clinical Evaluation</a> may need to be re-scoped, re-justified, and possibly expanded with new literature or clinical data</li>
-        <li><a href="/eu-mdr-compliance/risk-management">Risk Management Files</a> must reflect the new use scenarios or user groups</li>
-        <li><a href="/eu-mdr-compliance/post-market-surveillance-pms">Post-market activities</a> may require adjustment to capture new data relevant to the updated claims or populations</li>
-        <li>Labelling and IFU documents need to be harmonised with the technical and clinical evidence</li>
+        <li>The <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745">EU MDR</a></li>
+        <li>MDCG Guidelines:
+          <ul>
+            <li><a href="https://health.ec.europa.eu/document/download/575a0f79-e3a0-4a96-9ce0-930576c12aa2_en">MDCG 2020-5: Guidance on Clinical Evaluation - Equivalence</a></li>
+            <li><a href="https://health.ec.europa.eu/document/download/a6d29444-b5d5-4afb-8024-10be85256aa7_en">MDCG 2020-6: Guidance on sufficient clinical evidence for legacy devices</a></li>
+            <li><a href="https://health.ec.europa.eu/document/download/02f50abc-91db-4ad9-b137-6ffedb690716_en">MDCG 2020-13: Clinical evaluation assessment report template</a></li>
+          </ul>
+        </li>
+        <li><a href="https://ec.europa.eu/docsroom/documents/17522/attachments/1/translations/en/renditions/native">MEDDEV2.7/1 Rev 4. Clinical Evaluation: A guide for manufacturers and notified bodies under directives 93/42/EEC and 90/385/EEC</a></li>
       </ul>
-      <p>These implications are not roadblocks, but they do require forethought, alignment, and careful documentation. With the right planning and a structured approach, even complex modifications can be managed smoothly and without disrupting timelines.</p>
-      <h2 id="why-these-modifications-are-common--and-reasonable">Why These Modifications Are Common – and Reasonable</h2>
-      <p>From a business perspective, these changes often make sense. Frequently, in response to market insights, expanding product value, or making claims that better reflect the data available. The changes themselves are usually reasonable and clinically justifiable; the challenge lies in ensuring they’re dealt with in a way that remains compliant.</p>
-      <p>We commonly see changes evolve from:</p>
-      <ul>
-        <li>Adjustments in clinical strategy based on new evidence or feedback</li>
-        <li>Marketing requests to broaden claims or clarify benefits</li>
-        <li>Efforts to align with competitor positioning</li>
-      </ul>
-      <p>The key is to treat these modifications as part of an ongoing regulatory lifecycle, not as one-off edits. With this mindset, changes can be efficiently integrated into documentation without interfering with ongoing projects.</p>
-      <h2 id="how-to-manage-change-without-creating-a-compliance-headache">How to Manage Change Without Creating a Compliance Headache</h2>
-      <p>The goal isn’t to resist change, it’s to manage it successfully. Here are three strategies that can help keep modifications under control and aligned with both regulatory requirements and business goals.</p>
-      <h3 id="1-start-by-assessing-the-modification-impact">1. Start by assessing the modification impact</h3>
-      <p>Before any change is approved, whether it’s a new benefit, a broader indication, or a revised warning, it’s important to assess how that change will affect the Technical File.</p>
-      <p>A structured impact review should ask:</p>
-      <ul>
-        <li>Does this expand the scope of the Clinical Evaluation?</li>
-        <li>Are any additional risks and risk controls introduced?</li>
-        <li>Does this affect the device classification or conformity assessment?</li>
-        <li>Will both the PMS and PMCF activities need to be revised?</li>
-      </ul>
-      <p><strong>Tip:</strong> Use a “Change Impact Matrix” to visualise which sections of the <a href="/medical-device-regulatory-consulting-services/mdr-consulting">Technical File need to be reviewed</a> or updated based on the type of modification being proposed.</p>
-      <h3 id="2-design-your-documentation-with-adaptability-in-mind">2. Design your documentation with adaptability in mind</h3>
-      <p>Regulatory documents should not be seen as static, one-off submissions. They are living files that need to house ongoing change.</p>
-      <p>That’s why it helps to build flexibility into the way documentation is written and sustained:</p>
-      <ul>
-        <li>Use <a href="/enable-ce-mark/technical-document-templates">modular templates</a> that allow for efficient section-by-section updates</li>
-        <li>Maintain centralised source data and references to avoid duplication of effort</li>
-        <li>Link documentation components (CER, Risk Management File, IFU, PMS) to keep those updates aligned</li>
-      </ul>
-      <p><strong>Tip:</strong> A shared document update checklist can help teams remember to harmonise related files. This will be especially important when multiple stakeholders are involved in a project.</p>
-      <h3 id="3-involve-regulatory-review-early">3. Involve regulatory review early</h3>
-      <p>Many challenges arise when regulatory impact is considered only after a change has been proposed or implemented. A label gets updated, a new claim is added to marketing material, or an expanded user group is announced, and only then does the technical team become involved to implement the change.</p>
-      <p>The earlier the regulatory review is included, the better. This would then allow for:</p>
-      <ul>
-        <li>An assessment into what clinical evidence would be needed to support the change</li>
-        <li>An evaluation of whether the benefit-risk profile shifts</li>
-        <li>Identifying whether the change qualifies as “significant” under the MDR</li>
-      </ul>
-      <p><strong>Tip:</strong> Even a short, early-stage discussion can prevent unnecessary rework or submission delays later.</p>
-      <h2 id="final-thought-change-is-normal--managing-it-well-is-the-goal">Final Thought: Change Is Normal – Managing It Well Is the Goal</h2>
-      <p>Device modifications are a natural part of product development and lifecycle management. Under the MDR, the threshold for <a href="/articles/medical-device-significant-changes-navigating-eu-mdr-article-120-3">what qualifies as a “significant” change</a> is tighter, but that doesn’t mean changes can’t be made. It just means they need to be evaluated, documented, and implemented with care.</p>
-      <p>The challenge isn’t in avoiding change; it’s in building the right systems, habits, and review processes so that change becomes manageable and not disruptive. With this approach in mind, it is entirely possible to keep compliance on track while continuing to evolve your product strategy.</p>
-      <h3 id="need-support-navigating-device-modifications">Need Support Navigating Device Modifications?</h3>
-      <p>At Mantra Systems, we specialise in helping medical device companies manage evolving product strategies without compromising compliance. Whether you’re expanding intended use, revising benefit claims, or updating risk communications, we’ll help you assess the impact, implement the right updates, and stay on track.</p>
-      <p><a href="/contact">Let’s turn complexity into clarity, together</a>.</p>
-      ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[As regulatory consultants we understand how minor modifications to a device can often cause disproportionate disruption.]]></summary></entry><entry><title type="html">Webinar: Regulatory &amp;amp; Cybersecurity Essentials for medical device software and AI-enabled devices</title><link href="https://mantrasystems.com/articles/regulatory-cybersecurity-essentials-for-medical-device-software-ai-devices-webinar" rel="alternate" type="text/html" title="Webinar: Regulatory &amp;amp; Cybersecurity Essentials for medical device software and AI-enabled devices" /><published>2025-11-14T00:00:00+00:00</published><updated>2025-11-14T14:02:39+00:00</updated><id>https://mantrasystems.com/articles/regulatory-cybersecurity-essentials-for-medical-device-software-ai-devices-webinar</id><content type="html" xml:base="https://mantrasystems.com/articles/regulatory-cybersecurity-essentials-for-medical-device-software-ai-devices-webinar"><![CDATA[<p>Our webinar on the 13th of November with cybersecurity experts Cyber Alchemy explored how to bring AI-enabled medical devices to market with the right regulatory and cybersecurity foundations.</p>
-    <p>The discussion - led by <strong>Dr Will Brambley (Mantra Systems)</strong>, <strong>Dr Simon Cumiskey (Mantra Systems)</strong> and <strong>Luke Hill (<a href="https://cyberalchemy.co.uk/">Cyber Alchemy</a>)</strong> - brought together insights from both regulatory and cybersecurity perspectives, covering everything from device qualification to protecting proprietary AI models.</p>
-    <p>If you couldn’t join us live, you can watch in full here - or read our key takeaways bellow.</p>
-    <h2 id="hardware-security-matters-too">Hardware Security Matters Too</h2>
-    <p>While AI software tends to dominate the conversation, connected hardware can introduce equally serious cybersecurity risks, and attackers have already proven this in the real world.</p>
-    <p>High-profile demonstrations, such as wireless hacks of insulin pumps and pacemakers, highlight just how vulnerable poorly protected devices can be. Today’s AI-enabled devices, particularly those running models on-device, introduce additional attack surfaces that must be understood from day one.</p>
-    <p>Whether an AI model runs locally, on hospital servers, or in the cloud dramatically shapes the security posture required. Each environment brings its own vulnerabilities, from physical tampering to network exposure to questions of data residency and ownership in cloud-based architectures. Manufacturers who treat hardware and software as separate concerns soon discover the two are inseparable.</p>
-    <h2 id="ai-doesnt-increase-risk-but-it-increases-responsibility">AI Doesn’t Increase Risk, But It Increases Responsibility</h2>
-    <p>A key misconception is that AI automatically pushes a device into a higher regulatory class. In reality, classification still depends on intended purpose, not the presence of AI.</p>
-    <p>However, the inclusion of AI increases the manufacturer’s burden of evidence. You must show not only that your model works, but that it works reliably across a wide range of real-world variables including different patient populations, imaging systems, and clinical environments. Moreover, AI introduces new failure modes, from data poisoning to prompt manipulation, that traditional software simply doesn’t face.</p>
-    <p>And yet, the fundamentals haven’t changed: you still have to show that you understand your risks and have applied appropriate controls to keep those risks in check. AI simply expands the scope of what that understanding must cover. New failure modes, data drift, adversarial inputs, prompt manipulation mean that security, robustness, and oversight must be treated as integral parts of the safety narrative.</p>
-    <p>This is where the <a href="https://artificialintelligenceact.eu/"><strong>EU AI Act</strong></a> adds a new dimension. Most AI-enabled medical devices will fall into the “high-risk” category, bringing about higher expectations of security.</p>
-    <h2 id="start-cybersecurity-early">Start Cybersecurity Early</h2>
-    <p>One of the strongest messages from the session was that cybersecurity is not an add-on but a foundational design activity. Retrofitting security at the end of development inevitably leads to budget overruns, delays, and frustrated engineering teams.</p>
-    <p>Manufacturers should approach cybersecurity with the same discipline as traditional software lifecycle management. Early threat modelling, robust architectural planning, and alignment with standards such as IEC 81001-5-1 and IEC 62304 are essential. These activities shape not only how the product is built, but how it will be assessed during CE or UKCA submissions.</p>
-    <p>Equally important is supply chain visibility; knowing what is in your software, who supplied it, and how vulnerabilities will be managed after launch. This is especially relevant as AI systems increasingly incorporate third-party models, frameworks, and datasets.</p>
-    <p>Security is therefore not a barrier to innovation. Done well, it accelerates development by providing clarity, reducing rework, and giving both regulators and customers confidence in your product.</p>
-    <h2 id="the-eu-ai-act-will-add-new-layers">The EU AI Act Will Add New Layers</h2>
-    <p>The EU MDR and UK MDR already set expectations around software safety and performance, but they remain high when it comes to AI. The EU AI Act fills this gap by introducing AI-specific requirements that touch nearly every aspect of design, documentation, and oversight.</p>
-    <p>While this may feel like another regulatory hurdle, the organisations best equipped to adapt will be those that have already embedded strong lifecycle processes, especially around risk management, threat modelling, and post-market monitoring. The AI Act reinforces the idea that AI systems must be explainable, monitored, and robust, and that humans remain accountable for their operation.</p>
-    <p>In other words, the EU AI Act does not introduce a new mindset so much as formalise the one that high-quality manufacturers already subscribe to.</p>
-    <h2 id="security-compliance-and-features-you-cant-choose-just-one">Security, Compliance, and Features: You Can’t Choose Just One</h2>
-    <p>When teams ask whether to prioritise security, compliance, or product features, the truth is that you can’t meaningfully separate them. Without security, you won’t achieve compliance. Without compliance, you don’t have a viable product. And without a viable product, features are irrelevant because no one will buy it. These elements aren’t competing priorities; they’re interdependent pillars that determine whether your product ever reaches a customer.</p>
-    <p>The challenge is striking the right balance early on, especially when working with an MVP mindset. The most pragmatic approach is to ask: <em>What is the minimum level of security, compliance, and functionality we need to land our first customer?</em> Getting that answer right requires structured planning rather than heavy documentation. Aligning your development approach with established lifecycle principles, such as those in IEC 81001-5-1, gives you a framework to build from without overengineering. Equally, early attention to system and security architecture, along with light-touch threat modelling, helps lay the groundwork for scalable and secure product evolution.</p>
-    <p>If those fundamentals aren’t in place, feature iteration becomes painful. You end up revisiting core design decisions to retrofit security or meet regulatory expectations. And if you skip those early stages entirely, the reckoning simply arrives later, during submission, when the fixes become far more expensive, time-consuming, and stressful.</p>
-    <h2 id="we-can-help-you-with-rapid-samd-compliance">We can help you with rapid SaMD compliance</h2>
-    <p>Are you developing an AI-enabled medical device and need support with regulatory compliance? Our team specialises in navigating the complex UK and EU requirements for AI and software-based devices, ensuring your innovation meets compliance expectations while achieving commercial success.</p>
-    <p>We recently launched <a href="/medical-device-regulatory-consulting-services/samd-accelerated-approval">a new SaMD-focused service</a> that make guarantees to beat industry averages for regulatory compliance.</p>
-    <p><a href="/contact">Contact us today</a> to discuss how we can help you build a clear, efficient pathway to regulatory approval and market adoption.</p>
-    <h2 id="about-the-speakers">About the Speakers</h2>
+      <h3 id="a-proven-framework-for-success">A Proven Framework for Success</h3>
+      <p>At Mantra Systems, we know what success looks like. Our approach to clinical evaluation is built on experience: over 300 successful evaluations conducted under MDR. This track record reflects not just regulatory knowledge, but also a deep commitment to patient safety, clinical relevance, and quality of evidence.</p>
+      <p>Through this series, we have shared that expertise with you, helping you avoid the pitfalls we see most often and giving you a clear pathway to stronger, more resilient submissions.</p>
+      ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[Part 5 - In the final video from this series, we explore five major pitfalls that often derail clinical evaluations.]]></summary></entry><entry><title type="html">Webinar: From USA to Europe - Accelerating Your Path to the Medical Device Market</title><link href="https://mantrasystems.com/articles/from-usa-fda-to-europe-mdr-accelerating-your-path-to-the-medical-device-market-webinar" rel="alternate" type="text/html" title="Webinar: From USA to Europe - Accelerating Your Path to the Medical Device Market" /><published>2025-11-26T00:00:00+00:00</published><updated>2025-12-01T16:51:26+00:00</updated><id>https://mantrasystems.com/articles/from-usa-fda-to-europe-mdr-accelerating-your-path-to-the-medical-device-market-webinar</id><content type="html" xml:base="https://mantrasystems.com/articles/from-usa-fda-to-europe-mdr-accelerating-your-path-to-the-medical-device-market-webinar"><![CDATA[<p>Already have FDA marketing authorisation and now setting your sights on Europe?</p>
+    <p>Join our webinar to learn how to transform your U.S. regulatory work into a compliant EU MDR submission, speeding up your time to market and reducing the cost of Notified Body reviews.</p>
+    <p><strong>From USA to Europe: Accelerating Your Path to the Medical Device Market</strong><br />
+      📅 <strong>Date: Tuesday, 9th December 2025</strong><br />
+      🕒 <strong>Time: 4:00 pm UTC / 11:00 am ET / 8:00 am PT</strong><br />
+      🔗 <strong>Register: <a href="https://events.teams.microsoft.com/event/4b054e6a-cdfd-4add-ab85-fbc7c69abf47@7f83608b-abd8-4d54-b0bf-d8984c4c3657/registration">Our MS Teams event page</a></strong></p>
+    <p>Our team has helped dozens of U.S. manufacturers successfully transition to the European market. We are proud of our 100% acceptance rate from Notified Bodies across all our submissions. Join us as we share:</p>
     <ul>
-      <li><strong>Simon Cumiskey</strong> – <em>Senior Lead Medical Writer, Mantra Systems</em><br />
-        Specialises in regulatory strategy for software and AI-enabled devices. Advises companies on meeting MDR requirements and achieving market access through robust documentation and clear regulatory positioning.</li>
-      <li><strong>Luke Hill</strong> – <em>Cybersecurity Consultant, Cyber Alchemy</em><br />
-        Luke is a technical cybersecurity specialist who works across sectors, with a strong focus on MedTech. He has helped bring AI-enabled medical apps to market and worked securing medical devices such as X-ray and MRI systems. His expertise includes security testing, cloud systems, security architecture and application security, translating complex risks into practical, regulator-ready controls.</li>
-      <li><strong>William Brambley</strong> - <em>Lead Medical Writer, Mantra Systems</em><br />
-        Develops evidence strategies that secure approvals and drive market adoption. Leads EU and UK MDR submissions for complex software devices, aligning regulatory pathways with commercial success.</li>
+      <li>The key differences between FDA 510(k) and MDR equivalence requirements</li>
+      <li>How to adapt your existing clinical evidence and integrate PMCF requirements</li>
+      <li>Strategies for leveraging prior documentation to fast-track EU MDR approval</li>
     </ul>
-    <p>To ensure you don’t miss the next one, consider signing up to <a href="/newsletter">our newsletter</a>, or <a href="https://www.linkedin.com/company/mantrasystems/">following us on Linkedin</a>.</p>
-    ]]></content><author><name>shen-may-khoo</name></author><category term="MDR" /><category term="SaMD" /><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[Our webinar with Cyber Alchemy addressed bringing AI-enabled medical devices to market with both the right regulatory and cybersecurity foundations.]]></summary></entry><entry><title type="html">Mantra Systems at MEDICA 2025</title><link href="https://mantrasystems.com/articles/mantra-systems-at-medica-2025" rel="alternate" type="text/html" title="Mantra Systems at MEDICA 2025" /><published>2025-11-11T00:00:00+00:00</published><updated>2025-11-10T18:46:40+00:00</updated><id>https://mantrasystems.com/articles/mantra-systems-at-medica-2025</id><content type="html" xml:base="https://mantrasystems.com/articles/mantra-systems-at-medica-2025"><![CDATA[<p>The Mantra Systems Team are pleased to be sending a delegation <a href="https://www.medica-tradefair.com">MEDICA 2025</a> in Düsseldorf, Germany, on 18th and 19th November. MEDICA is the world’s largest medical trade fair, which has been running for over 40 years.</p>
+    <h2 id="your-roadmap-to-european-market-success">Your Roadmap to European Market Success</h2>
+    <p>For medical device manufacturers based in the US, gaining FDA marketing authorisation is a major milestone. Generally, medical device manufacturers rarely limit themselves to a single market, with global expansion a key part of a long-term growth strategy. However, many assume that European regulatory expectations require an entirely separate development effort, but in reality, there’s substantial overlap in evidence, documentation, and technical strategy.</p>
+    <p>With a clear roadmap, you can avoid redundant testing, streamline your submission, and minimise costly Notified Body review cycles.</p>
+    <ol class="numbered-discs">
+      <li>Identify EU MDR classification</li>
+      <li>Perform a <a href="/eu-mdr-compliance/gap-analysis">Gap analysis</a></li>
+      <li>Engage a <a href="/eu-mdr-compliance/notified-bodies">notified body</a></li>
+      <li>Conformity assessment</li>
+      <li>Conduct <a href="/medical-device-regulatory-consulting-services/mdr-consulting/clinical-evaluation">clinical evaluation</a> and <a href="/eu-mdr-compliance/risk-management">risk management</a></li>
+      <li>Align with EU-MDR Technical Documentation</li>
+      <li>Develop <a href="/eu-mdr-compliance/post-market-surveillance-pms">PMS</a></li>
+      <li>Submit for notified body review and obtain a CE mark</li>
+      <li><a href="/eu-mdr-compliance/eudamed">Register in EUDAMED</a> and maintain compliance</li>
+    </ol>
+    <h2 id="understanding-the-key-differences-between-fda-and-eu-mdr">Understanding the Key Differences between FDA and EU MDR</h2>
+    <p>Although ensuring device safety and performance is the ultimate goal of both the FDA and EU MDR frameworks, there are significant differences in the evidence expectations, documentation structure, and post-market obligations, which differ substantially. The MDR places greater emphasis on clinical evidence, risk management integration, and ongoing post-market performance evaluation, making it essential for FDA-approved companies to carefully adapt their U.S. regulatory data and systems for Europe.</p>
+    <h3 id="key-areas-of-overlap">Key areas of overlap</h3>
+    <p>A major advantage of having FDA clearance or approval is that much of your existing documentation can be repurposed for EU MDR compliance. However, some new MDR-specific documents will be required to address the European regulatory focus on clinical evaluation, safety, and post-market performance.</p>
+    <h4 id="documents-that-can-be-repurposed">Documents that can be repurposed</h4>
+    <ul>
+      <li>Device description and specification</li>
+      <li>Instructions for Use (IFU)</li>
+      <li>Preclinical testing – Biocompatibility, EMC, Invitro + animal testing, Physical, Chemical, Microbiological tests, Software V&amp;V, Stability &amp; Shelf-life test</li>
+      <li>Labelling &amp; Packaging</li>
+      <li>Substantial equivalence (if equivalence route)</li>
+    </ul>
+    <h4 id="new-mdr-documents-required">New MDR documents required</h4>
+    <ul>
+      <li>Clinical Evaluation Documents (CEP, CER &amp; SOTA)</li>
+      <li>Device manufacturing and information</li>
+      <li>General Safety and Performance Requirements (GSPRs)</li>
+      <li>Standards and common specifications</li>
+      <li>Declaration of Conformity (DoC)</li>
+      <li>PMCF, PMS, PSUR</li>
+      <li>Risk Management per ISO 14971 – Characteristics related to safety, Criteria for risk acceptability, Evaluation of overall residual risk, Risk control, RMP, RMR, PHA</li>
+    </ul>
+    <p>By strategically repurposing and aligning your existing data, you can reduce redundancy, streamline your submission, and cut both time and costs during Notified Body review.</p>
+    <h2 id="our-webinar-accelerating-your-european-market-entry">Our webinar: Accelerating Your European Market Entry</h2>
+    <p>Transitioning from FDA to MDR compliance doesn’t have to be difficult. With expert guidance and a structured approach, U.S. manufacturers can efficiently adapt their data, close any clinical or technical gaps, and achieve successful Notified Body approval.</p>
+    <p>Places are still available, <strong><a href="https://events.teams.microsoft.com/event/4b054e6a-cdfd-4add-ab85-fbc7c69abf47@7f83608b-abd8-4d54-b0bf-d8984c4c3657/registration">so register to join our webinar here</a></strong></p>
+    ]]></content><author><name>chandini-vk</name></author><category term="MDR" /><summary type="html"><![CDATA[Join us on the 9th December 2025 to learn how to quickly transform your U.S. regulatory work into a compliant EU MDR submission.]]></summary></entry><entry><title type="html">Device Modifications: When a Simple Change Becomes a Regulatory Nightmare</title><link href="https://mantrasystems.com/articles/device-modifications-when-a-simple-change-becomes-a-regulatory-nightmare" rel="alternate" type="text/html" title="Device Modifications: When a Simple Change Becomes a Regulatory Nightmare" /><published>2025-11-18T00:00:00+00:00</published><updated>2025-11-17T18:21:09+00:00</updated><id>https://mantrasystems.com/articles/device-modifications-when-a-simple-change-becomes-a-regulatory-nightmare</id><content type="html" xml:base="https://mantrasystems.com/articles/device-modifications-when-a-simple-change-becomes-a-regulatory-nightmare"><![CDATA[<p>In the world of medical devices, change is inevitable. Whether it’s driven by clinical feedback, new market opportunities, or even strategic positioning, we see it constantly. But we see one type of change cause disproportionate disruption: seemingly “minor” modifications to a device, such as its intended purpose, clinical claims, or warnings.</p>
+  <p>On the surface, it’s just a small adjustment, a new patient population, or a clearer articulation of clinical value. But under the <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745">Medical Device Regulation (MDR)</a>, even subtle changes can trigger major downstream effects on your technical documentation. And just as you’re finalising the updates? Another request lands: <em>“Can we also target this for paediatric use?”</em>. This is where the role becomes more than just writing and reviewing.</p>
+  <h2 id="why-minor-changes-can-create-major-work">Why “Minor” Changes Can Create Major Work</h2>
+  <p>Changing the <a href="/articles/a-medical-devices-intended-purpose-what-is-the-point">intended purpose</a> or clinical claims of your medical device isn’t just a matter of editing a sentence in the Instructions For Use (IFU). Under the MDR, your device’s intended purpose defines the whole regulatory strategy, from classification to clinical evidence to post-market surveillance. Even well-intentioned updates, like adding a benefit, can have more implications than expected:</p>
+  <ul>
+    <li>The <a href="/medical-device-regulatory-consulting-services/mdr-consulting/clinical-evaluation">Clinical Evaluation</a> may need to be re-scoped, re-justified, and possibly expanded with new literature or clinical data</li>
+    <li><a href="/eu-mdr-compliance/risk-management">Risk Management Files</a> must reflect the new use scenarios or user groups</li>
+    <li><a href="/eu-mdr-compliance/post-market-surveillance-pms">Post-market activities</a> may require adjustment to capture new data relevant to the updated claims or populations</li>
+    <li>Labelling and IFU documents need to be harmonised with the technical and clinical evidence</li>
+  </ul>
+  <p>These implications are not roadblocks, but they do require forethought, alignment, and careful documentation. With the right planning and a structured approach, even complex modifications can be managed smoothly and without disrupting timelines.</p>
+  <h2 id="why-these-modifications-are-common--and-reasonable">Why These Modifications Are Common – and Reasonable</h2>
+  <p>From a business perspective, these changes often make sense. Frequently, in response to market insights, expanding product value, or making claims that better reflect the data available. The changes themselves are usually reasonable and clinically justifiable; the challenge lies in ensuring they’re dealt with in a way that remains compliant.</p>
+  <p>We commonly see changes evolve from:</p>
+  <ul>
+    <li>Adjustments in clinical strategy based on new evidence or feedback</li>
+    <li>Marketing requests to broaden claims or clarify benefits</li>
+    <li>Efforts to align with competitor positioning</li>
+  </ul>
+  <p>The key is to treat these modifications as part of an ongoing regulatory lifecycle, not as one-off edits. With this mindset, changes can be efficiently integrated into documentation without interfering with ongoing projects.</p>
+  <h2 id="how-to-manage-change-without-creating-a-compliance-headache">How to Manage Change Without Creating a Compliance Headache</h2>
+  <p>The goal isn’t to resist change, it’s to manage it successfully. Here are three strategies that can help keep modifications under control and aligned with both regulatory requirements and business goals.</p>
+  <h3 id="1-start-by-assessing-the-modification-impact">1. Start by assessing the modification impact</h3>
+  <p>Before any change is approved, whether it’s a new benefit, a broader indication, or a revised warning, it’s important to assess how that change will affect the Technical File.</p>
+  <p>A structured impact review should ask:</p>
+  <ul>
+    <li>Does this expand the scope of the Clinical Evaluation?</li>
+    <li>Are any additional risks and risk controls introduced?</li>
+    <li>Does this affect the device classification or conformity assessment?</li>
+    <li>Will both the PMS and PMCF activities need to be revised?</li>
+  </ul>
+  <p><strong>Tip:</strong> Use a “Change Impact Matrix” to visualise which sections of the <a href="/medical-device-regulatory-consulting-services/mdr-consulting">Technical File need to be reviewed</a> or updated based on the type of modification being proposed.</p>
+  <h3 id="2-design-your-documentation-with-adaptability-in-mind">2. Design your documentation with adaptability in mind</h3>
+  <p>Regulatory documents should not be seen as static, one-off submissions. They are living files that need to house ongoing change.</p>
+  <p>That’s why it helps to build flexibility into the way documentation is written and sustained:</p>
+  <ul>
+    <li>Use <a href="/enable-ce-mark/technical-document-templates">modular templates</a> that allow for efficient section-by-section updates</li>
+    <li>Maintain centralised source data and references to avoid duplication of effort</li>
+    <li>Link documentation components (CER, Risk Management File, IFU, PMS) to keep those updates aligned</li>
+  </ul>
+  <p><strong>Tip:</strong> A shared document update checklist can help teams remember to harmonise related files. This will be especially important when multiple stakeholders are involved in a project.</p>
+  <h3 id="3-involve-regulatory-review-early">3. Involve regulatory review early</h3>
+  <p>Many challenges arise when regulatory impact is considered only after a change has been proposed or implemented. A label gets updated, a new claim is added to marketing material, or an expanded user group is announced, and only then does the technical team become involved to implement the change.</p>
+  <p>The earlier the regulatory review is included, the better. This would then allow for:</p>
+  <ul>
+    <li>An assessment into what clinical evidence would be needed to support the change</li>
+    <li>An evaluation of whether the benefit-risk profile shifts</li>
+    <li>Identifying whether the change qualifies as “significant” under the MDR</li>
+  </ul>
+  <p><strong>Tip:</strong> Even a short, early-stage discussion can prevent unnecessary rework or submission delays later.</p>
+  <h2 id="final-thought-change-is-normal--managing-it-well-is-the-goal">Final Thought: Change Is Normal – Managing It Well Is the Goal</h2>
+  <p>Device modifications are a natural part of product development and lifecycle management. Under the MDR, the threshold for <a href="/articles/medical-device-significant-changes-navigating-eu-mdr-article-120-3">what qualifies as a “significant” change</a> is tighter, but that doesn’t mean changes can’t be made. It just means they need to be evaluated, documented, and implemented with care.</p>
+  <p>The challenge isn’t in avoiding change; it’s in building the right systems, habits, and review processes so that change becomes manageable and not disruptive. With this approach in mind, it is entirely possible to keep compliance on track while continuing to evolve your product strategy.</p>
+  <h3 id="need-support-navigating-device-modifications">Need Support Navigating Device Modifications?</h3>
+  <p>At Mantra Systems, we specialise in helping medical device companies manage evolving product strategies without compromising compliance. Whether you’re expanding intended use, revising benefit claims, or updating risk communications, we’ll help you assess the impact, implement the right updates, and stay on track.</p>
+  <p><a href="/contact">Let’s turn complexity into clarity, together</a>.</p>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[As regulatory consultants we understand how minor modifications to a device can often cause disproportionate disruption.]]></summary></entry><entry><title type="html">Webinar: Regulatory &amp;amp; Cybersecurity Essentials for medical device software and AI-enabled devices</title><link href="https://mantrasystems.com/articles/regulatory-cybersecurity-essentials-for-medical-device-software-ai-devices-webinar" rel="alternate" type="text/html" title="Webinar: Regulatory &amp;amp; Cybersecurity Essentials for medical device software and AI-enabled devices" /><published>2025-11-14T00:00:00+00:00</published><updated>2025-11-14T14:02:39+00:00</updated><id>https://mantrasystems.com/articles/regulatory-cybersecurity-essentials-for-medical-device-software-ai-devices-webinar</id><content type="html" xml:base="https://mantrasystems.com/articles/regulatory-cybersecurity-essentials-for-medical-device-software-ai-devices-webinar"><![CDATA[<p>Our webinar on the 13th of November with cybersecurity experts Cyber Alchemy explored how to bring AI-enabled medical devices to market with the right regulatory and cybersecurity foundations.</p>
+  <p>The discussion - led by <strong>Dr Will Brambley (Mantra Systems)</strong>, <strong>Dr Simon Cumiskey (Mantra Systems)</strong> and <strong>Luke Hill (<a href="https://cyberalchemy.co.uk/">Cyber Alchemy</a>)</strong> - brought together insights from both regulatory and cybersecurity perspectives, covering everything from device qualification to protecting proprietary AI models.</p>
+  <p>If you couldn’t join us live, you can watch in full here - or read our key takeaways bellow.</p>
+  <h2 id="hardware-security-matters-too">Hardware Security Matters Too</h2>
+  <p>While AI software tends to dominate the conversation, connected hardware can introduce equally serious cybersecurity risks, and attackers have already proven this in the real world.</p>
+  <p>High-profile demonstrations, such as wireless hacks of insulin pumps and pacemakers, highlight just how vulnerable poorly protected devices can be. Today’s AI-enabled devices, particularly those running models on-device, introduce additional attack surfaces that must be understood from day one.</p>
+  <p>Whether an AI model runs locally, on hospital servers, or in the cloud dramatically shapes the security posture required. Each environment brings its own vulnerabilities, from physical tampering to network exposure to questions of data residency and ownership in cloud-based architectures. Manufacturers who treat hardware and software as separate concerns soon discover the two are inseparable.</p>
+  <h2 id="ai-doesnt-increase-risk-but-it-increases-responsibility">AI Doesn’t Increase Risk, But It Increases Responsibility</h2>
+  <p>A key misconception is that AI automatically pushes a device into a higher regulatory class. In reality, classification still depends on intended purpose, not the presence of AI.</p>
+  <p>However, the inclusion of AI increases the manufacturer’s burden of evidence. You must show not only that your model works, but that it works reliably across a wide range of real-world variables including different patient populations, imaging systems, and clinical environments. Moreover, AI introduces new failure modes, from data poisoning to prompt manipulation, that traditional software simply doesn’t face.</p>
+  <p>And yet, the fundamentals haven’t changed: you still have to show that you understand your risks and have applied appropriate controls to keep those risks in check. AI simply expands the scope of what that understanding must cover. New failure modes, data drift, adversarial inputs, prompt manipulation mean that security, robustness, and oversight must be treated as integral parts of the safety narrative.</p>
+  <p>This is where the <a href="https://artificialintelligenceact.eu/"><strong>EU AI Act</strong></a> adds a new dimension. Most AI-enabled medical devices will fall into the “high-risk” category, bringing about higher expectations of security.</p>
+  <h2 id="start-cybersecurity-early">Start Cybersecurity Early</h2>
+  <p>One of the strongest messages from the session was that cybersecurity is not an add-on but a foundational design activity. Retrofitting security at the end of development inevitably leads to budget overruns, delays, and frustrated engineering teams.</p>
+  <p>Manufacturers should approach cybersecurity with the same discipline as traditional software lifecycle management. Early threat modelling, robust architectural planning, and alignment with standards such as IEC 81001-5-1 and IEC 62304 are essential. These activities shape not only how the product is built, but how it will be assessed during CE or UKCA submissions.</p>
+  <p>Equally important is supply chain visibility; knowing what is in your software, who supplied it, and how vulnerabilities will be managed after launch. This is especially relevant as AI systems increasingly incorporate third-party models, frameworks, and datasets.</p>
+  <p>Security is therefore not a barrier to innovation. Done well, it accelerates development by providing clarity, reducing rework, and giving both regulators and customers confidence in your product.</p>
+  <h2 id="the-eu-ai-act-will-add-new-layers">The EU AI Act Will Add New Layers</h2>
+  <p>The EU MDR and UK MDR already set expectations around software safety and performance, but they remain high when it comes to AI. The EU AI Act fills this gap by introducing AI-specific requirements that touch nearly every aspect of design, documentation, and oversight.</p>
+  <p>While this may feel like another regulatory hurdle, the organisations best equipped to adapt will be those that have already embedded strong lifecycle processes, especially around risk management, threat modelling, and post-market monitoring. The AI Act reinforces the idea that AI systems must be explainable, monitored, and robust, and that humans remain accountable for their operation.</p>
+  <p>In other words, the EU AI Act does not introduce a new mindset so much as formalise the one that high-quality manufacturers already subscribe to.</p>
+  <h2 id="security-compliance-and-features-you-cant-choose-just-one">Security, Compliance, and Features: You Can’t Choose Just One</h2>
+  <p>When teams ask whether to prioritise security, compliance, or product features, the truth is that you can’t meaningfully separate them. Without security, you won’t achieve compliance. Without compliance, you don’t have a viable product. And without a viable product, features are irrelevant because no one will buy it. These elements aren’t competing priorities; they’re interdependent pillars that determine whether your product ever reaches a customer.</p>
+  <p>The challenge is striking the right balance early on, especially when working with an MVP mindset. The most pragmatic approach is to ask: <em>What is the minimum level of security, compliance, and functionality we need to land our first customer?</em> Getting that answer right requires structured planning rather than heavy documentation. Aligning your development approach with established lifecycle principles, such as those in IEC 81001-5-1, gives you a framework to build from without overengineering. Equally, early attention to system and security architecture, along with light-touch threat modelling, helps lay the groundwork for scalable and secure product evolution.</p>
+  <p>If those fundamentals aren’t in place, feature iteration becomes painful. You end up revisiting core design decisions to retrofit security or meet regulatory expectations. And if you skip those early stages entirely, the reckoning simply arrives later, during submission, when the fixes become far more expensive, time-consuming, and stressful.</p>
+  <h2 id="we-can-help-you-with-rapid-samd-compliance">We can help you with rapid SaMD compliance</h2>
+  <p>Are you developing an AI-enabled medical device and need support with regulatory compliance? Our team specialises in navigating the complex UK and EU requirements for AI and software-based devices, ensuring your innovation meets compliance expectations while achieving commercial success.</p>
+  <p>We recently launched <a href="/medical-device-regulatory-consulting-services/samd-accelerated-approval">a new SaMD-focused service</a> that make guarantees to beat industry averages for regulatory compliance.</p>
+  <p><a href="/contact">Contact us today</a> to discuss how we can help you build a clear, efficient pathway to regulatory approval and market adoption.</p>
+  <h2 id="about-the-speakers">About the Speakers</h2>
+  <ul>
+    <li><strong>Simon Cumiskey</strong> – <em>Senior Lead Medical Writer, Mantra Systems</em><br />
+      Specialises in regulatory strategy for software and AI-enabled devices. Advises companies on meeting MDR requirements and achieving market access through robust documentation and clear regulatory positioning.</li>
+    <li><strong>Luke Hill</strong> – <em>Cybersecurity Consultant, Cyber Alchemy</em><br />
+      Luke is a technical cybersecurity specialist who works across sectors, with a strong focus on MedTech. He has helped bring AI-enabled medical apps to market and worked securing medical devices such as X-ray and MRI systems. His expertise includes security testing, cloud systems, security architecture and application security, translating complex risks into practical, regulator-ready controls.</li>
+    <li><strong>William Brambley</strong> - <em>Lead Medical Writer, Mantra Systems</em><br />
+      Develops evidence strategies that secure approvals and drive market adoption. Leads EU and UK MDR submissions for complex software devices, aligning regulatory pathways with commercial success.</li>
+  </ul>
+  <p>To ensure you don’t miss the next one, consider signing up to <a href="/newsletter">our newsletter</a>, or <a href="https://www.linkedin.com/company/mantrasystems/">following us on Linkedin</a>.</p>
+  ]]></content><author><name>shen-may-khoo</name></author><category term="MDR" /><category term="SaMD" /><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[Our webinar with Cyber Alchemy addressed bringing AI-enabled medical devices to market with both the right regulatory and cybersecurity foundations.]]></summary></entry><entry><title type="html">Mantra Systems at MEDICA 2025</title><link href="https://mantrasystems.com/articles/mantra-systems-at-medica-2025" rel="alternate" type="text/html" title="Mantra Systems at MEDICA 2025" /><published>2025-11-11T00:00:00+00:00</published><updated>2025-11-10T18:46:40+00:00</updated><id>https://mantrasystems.com/articles/mantra-systems-at-medica-2025</id><content type="html" xml:base="https://mantrasystems.com/articles/mantra-systems-at-medica-2025"><![CDATA[<p>The Mantra Systems Team are pleased to be sending a delegation <a href="https://www.medica-tradefair.com">MEDICA 2025</a> in Düsseldorf, Germany, on 18th and 19th November. MEDICA is the world’s largest medical trade fair, which has been running for over 40 years.</p>
   <p>MEDICA provides the exciting experience of showcasing medical innovations with several thousand exhibitors from almost 70 nations.</p>
   <p>Exhibitors range in a variety of medical fields, such as;</p>
   <ul>
@@ -189,7 +280,7 @@
     <li><a href="/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2"><strong>Clinical evaluation in context</strong></a></li>
     <li><a href="/articles/state-of-the-art-sota-literature-review-a-guide-to-clinical-evaluation-video-series-ep-3"><strong>The State-of-the-Art (SOTA) review – core of a successful submission</strong></a></li>
     <li><strong><em>The CEP and CER</em></strong></li>
-    <li><strong>Clinical evaluation pitfalls and useful resources</strong></li>
+    <li><a href="/articles/common-clinical-evaluation-pitfalls-useful-resources-a-guide-to-clinical-evaluation-video-series-ep-5"><strong>Clinical evaluation pitfalls and useful resources</strong></a></li>
   </ol>
   ]]></content><author><name>william-brambley</name></author><category term="Clinical Evaluation" /><category term="MDR" /><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[Part 4 - We explore how these guide reviewers through the evidence that supports safey, performance, and conformity.]]></summary></entry><entry><title type="html">The Critical Role of Pre-Submission Reviews in EU MDR Clinical Evaluations</title><link href="https://mantrasystems.com/articles/critical-role-of-pre-submission-reviews-in-eu-mdr-clinical-evaluations" rel="alternate" type="text/html" title="The Critical Role of Pre-Submission Reviews in EU MDR Clinical Evaluations" /><published>2025-10-27T00:00:00+00:00</published><updated>2025-10-27T13:25:34+00:00</updated><id>https://mantrasystems.com/articles/critical-role-of-pre-submission-reviews-in-eu-mdr-clinical-evaluations</id><content type="html" xml:base="https://mantrasystems.com/articles/critical-role-of-pre-submission-reviews-in-eu-mdr-clinical-evaluations"><![CDATA[<p>Knowing whether your Clinical Evaluation meets Notified Body expectations is more challenging than ever. Regulations are evolving, guidance is frequently updated, and internal interpretations don’t always align with external expectations.</p>
   <p>According to the <a href="https://www.medtecheurope.org/resource-library/medtech-europe-2024-regulatory-survey-key-findings-and-insights/">2024 MedTech Survey</a>, <strong>50% of manufacturers experienced significant delays</strong> or even negative outcomes due to their Clinical or Performance Evaluations being challenged. Therefore, ensuring your CER is robust and aligned with current standards is critical.</p>
@@ -242,114 +333,6 @@
     <li><a href="/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2"><strong>Clinical evaluation in context</strong></a></li>
     <li><strong><em>The State-of-the-Art (SOTA) review – core of a successful submission</em></strong></li>
     <li><a href="/articles/cep-strategy-cer-structure-a-guide-to-clinical-evaluation-video-series-ep-4"><strong>The CEP and CER</strong></a></li>
-    <li><strong>Clinical evaluation pitfalls and useful resources</strong></li>
+    <li><a href="/articles/common-clinical-evaluation-pitfalls-useful-resources-a-guide-to-clinical-evaluation-video-series-ep-5"><strong>Clinical evaluation pitfalls and useful resources</strong></a></li>
   </ol>
-  ]]></content><author><name>william-brambley</name></author><category term="Clinical Evaluation" /><category term="MDR" /><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[Part 3 - This is core of a sucessful submission. Will demystifies the process and explains how it supports clinical evaluation.]]></summary></entry><entry><title type="html">Regulatory Update: EU Borderline &amp;amp; Classification Manual for medical devices v4</title><link href="https://mantrasystems.com/articles/eu-borderline-classification-manual-medical-devices-version-4-released-regulatory-update" rel="alternate" type="text/html" title="Regulatory Update: EU Borderline &amp;amp; Classification Manual for medical devices v4" /><published>2025-10-07T00:00:00+01:00</published><updated>2025-10-07T11:47:21+01:00</updated><id>https://mantrasystems.com/articles/eu-borderline-classification-manual-medical-devices-version-4-released-regulatory-update</id><content type="html" xml:base="https://mantrasystems.com/articles/eu-borderline-classification-manual-medical-devices-version-4-released-regulatory-update"><![CDATA[<p>Version 4 of the EU Borderline &amp; Classification Manual (September 2025) introduces new examples that sharpen the distinction between medical devices and other product categories. This update includes clarified classifications for products containing pharmacologically active substances, and aesthetic-only products.</p>
-  <p>In the ever-changing regulatory landscape of the EU MDR and IVDR, access to clear and reliable information is essential. Particularly for borderline products which may fall under different frameworks such as medical devices, pharmaceuticals, cosmetics, biocides or even food. On 12 September 2025, the <a href="https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en">Medical Device Coordination Group (MDCG)</a> published the fourth version of the <a href="https://health.ec.europa.eu/document/download/71a87df8-5ca1-4555-b453-b65bdf8de909_en?filename=md_borderline_manual_en.pdf">‘Manual on Borderline and Classification for Medical Devices under Regulations (EU) 2017/745 and (EU) 2017/746‘</a>. This edition brings together the agreements made by representatives the Borderline and Classification Working Group (BCWG) related to <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20200424#tocId2">Regulation (EU) 2017/745 on medical devices (MDR)</a> and <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20250110">Regulation (EU) 2017/746 on in vitro diagnostic medical devices (IVDR)</a>.</p>
-  <p>This manual serves as a vital interpretive and supportive tool when preparing qualification and classification rationales, although it is not a legally binding document. The aspects concerning the borderline between medical devices and other types of products, also known as the qualification of a product, are generally governed by Article 4, Regulatory status of products of <a href="/medical-device-regulatory-consulting-services/mdr-consulting">the MDR</a> and the corresponding Article 3 of <a href="/medical-device-regulatory-consulting-services/ivdr-consulting">the IVDR</a>. Borderline cases are those for which it is not clear from the outset whether a given product is a medical device, or an in vitro diagnostic medical device, or not. Once a product is qualified as a medical device, a certain risk class will be assigned to it, namely <a href="/solutions/regulatory-consulting-for-class-i-medical-devices">I</a>, <a href="/solutions/regulatory-consulting-for-class-iia-iib-medical-devices">IIa, IIb</a>, and <a href="/solutions/regulatory-consulting-for-class-iii-medical-devices">III</a>. For a product qualified as an IVD, the <a href="/articles/understanding-risk-based-classification-of-in-vitro-medical-devices-under-eu-ivdr">risk classes</a> are A, B, C and D.</p>
-  <h2 id="key-updates-include">Key updates include:</h2>
-  <ul>
-    <li>The addition includes multiple concrete examples of qualification and classification, such as endodontic irrigation solutions, dual-action creams, health apps, implantable devices, etc., aimed at supporting a more harmonised interpretation of EU regulations for the benefit of patient safety and the internal market.</li>
-    <li>Clearer distinctions between medical devices, IVDs, medicinal products, biocides, cosmetics, PPE, and consumer goods.</li>
-    <li>A refined classification logic that places greater emphasis on intended purpose, mode of action, and risk level.</li>
-    <li>Qualification of medical devices.</li>
-  </ul>
-  <p>The following devices were added to Version 4 of the guidance:</p>
-  <table class="simple">
-    <thead>
-      <tr>
-        <th>Product</th>
-        <th>Is it a medical device?</th>
-        <th>Key reasoning</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th colspan="3">Borderline between medical devices and medicinal products</th>
-      </tr>
-      <tr>
-        <td>Red blood cell additive solutions containing adenine</td>
-        <td>Yes, Class III</td>
-        <td>Adenine is a substance, increases adenosine monophosphate (AMP) in the blood and is used to increase the shelf life of the red blood cells. Its action can be metabolic or pharmacological, as defined in MDCG 2022-5. When used in additive solutions for RBC processing, adenine acts as an ancillary medicinal substance, and the device should therefore be classified as Class III under Rule 14.</td>
-      </tr>
-      <tr>
-        <td>Dual action cream with menthol and capsaicin</td>
-        <td>Not a device</td>
-        <td>The cream is intended to relieve muscle and joint pain. Menthol and capsaicin exert recognised pharmacological effects by acting on receptors. Since the principal effect is pharmacological, the product does not qualify as a medical device.</td>
-      </tr>
-      <tr>
-        <td>Lactose tablets for vaginal use</td>
-        <td>Not a device</td>
-        <td>The lactose tablet achieves its principal intended action by metabolic means in or on the human body, as the consumption of the lactose by the lactic acid bacteria is a metabolic process, and the indigenous lactic bacteria is considered as part of the human body and therefore does not qualify as a medical device.</td>
-      </tr>
-      <tr>
-        <th colspan="3">Borderline between medical devices and cosmetic products</th>
-      </tr>
-      <tr>
-        <td>Microabrasion dental stain removers</td>
-        <td>Not a device Excluded as aesthetic-only products.</td>
-        <td>Products intended to remove dental stains and improve the appearance of teeth serve a purely aesthetic purpose, regardless of method or underlying cause. They do not treat conditions such as amelogenesis imperfecta or cleidocranial dysplasia and therefore do not meet the MDR definition of a medical device.</td>
-      </tr>
-      <tr>
-        <th colspan="3">Borderline between medical devices and personal protective equipment</th>
-      </tr>
-      <tr>
-        <td>Medical examination table covers</td>
-        <td>Yes, Class I devices</td>
-        <td>Medical examination table covers are intended to cover patient tables in medical exam rooms to maintain hygiene and prevent the transmission of infectious agents. As they serve a specific medical purpose—disease prevention—they meet the MDR definition of a medical device (Article 2, point 1, EU 2017/745).</td>
-      </tr>
-      <tr>
-        <th colspan="3">Other medical device borderlines</th>
-      </tr>
-      <tr>
-        <td>Mobile sterile air system</td>
-        <td>Not a device</td>
-        <td>The product’s purpose is to remove harmful pathogens and reduce infection risk, enabling a safe environment for medical procedures, but it does not have a specific medical purpose itself and is therefore not a medical device.</td>
-      </tr>
-    </tbody>
-  </table>
-  <h2 id="classification-of-medical-devices">Classification of medical devices</h2>
-  <p>In addition to qualification issues, Version 4 includes important clarifications on device classification, ensuring greater consistency across Member States.</p>
-  <ul>
-    <li>Dermal fillers are confirmed as implantable devices, falling under Rules 7 and 8, depending on duration of use.</li>
-    <li>n-butyl-2-cyanoacrylate (nBCA)-based adhesives for vein closure are always classified as Class III, regardless of absorption time, ending long-standing debates on risk class justification.</li>
-    <li>Argon coagulation units classified as Class IIb (active therapeutic) devices under Rule 9 due to delivering potentially hazardous energy in a therapeutic context.</li>
-    <li>Root canal irrigants with sodium hypochlorite (NaOCl) or chlorhexidine digluconate (CHX) classified as Class III according to Rule 14 unless proven otherwise.</li>
-    <li>Ethylene oxide gas cartridges are classified as Class IIa (or IIb depending on use), since they are integral to sterilisation processes for medical devices.</li>
-    <li>Medical calculators are reinforced as at least Class IIa under Rule 11 but may be higher depending on their impact on clinical decisions.</li>
-    <li>Custom-made cranial implants are now clearly established as Class III due to direct contact with the central nervous system, irrespective of the interaction mechanism.</li>
-  </ul>
-  <p>Finally, the fractional exhaled Nitric Oxide (FeNO) measuring device is explicitly qualified as an IVD, as exhaled breath is considered a specimen derived from the human body.</p>
-  <h2 id="why-does-borderline-matter-to-the-manufacturers">Why Does Borderline Matter to the Manufacturers?</h2>
-  <p>For organisations developing products that may sit on the borderline between a medical device, IVD, medicinal product, or consumer product, this latest update is essential reading. While it provides valuable clarity, it also raises expectations for scientific justification and evidence, making early and accurate qualification decisions more critical than ever. This is important because:</p>
-  <ul>
-    <li>Determining whether a product is a medical device, an IVD, or falls outside the scope of these regulations is often the first and most critical regulatory decision. Incorrect qualification can result in significant consequences, including regulatory delays, compliance risks, or even market withdrawal.</li>
-    <li>Deciding on product classifications is crucial as it impacts the entire regulatory process. Misclassifying products can lead to delays, rejections of submissions, or loss of time and resources, or forced market withdrawal.</li>
-    <li>Version 4 reinforces a recurring principle: if a product’s principal mode of action is pharmacological, immunological, or metabolic, it cannot be a medical device. Manufacturers must therefore provide robust scientific evidence to demonstrate mechanical or physical claims, rather than relying solely on intended use statements.</li>
-  </ul>
-  <h2 id="next-steps-for-manufacturers">Next Steps for Manufacturers</h2>
-  <p>Review your portfolios to identify products potentially impacted by the new examples in version 4.</p>
-  <ul>
-    <li>Update borderline and classification justifications with robust evidence in technical documentation.</li>
-    <li>Engage early with notified bodies or competent authorities where uncertainty remains.</li>
-    <li>Plan proactively to address the gaps before assessments or audits to reduce compliance risks.</li>
-  </ul>
-  <p>Unsure about your product’s status under EU MDR or IVDR? <a href="/contact">Contact us today</a> for a no-obligation, confidential discussion on how we can support your path forward.</p>
-  ]]></content><author><name>chandini-vk</name></author><category term="MDR" /><category term="IVDR" /><summary type="html"><![CDATA[New examples sharpen the distinction between medical devices and other product categories, such as pharmacologically active substances and aesthetic-only products.]]></summary></entry><entry><title type="html">Guide to Clinical Evaluation: Clinical Evaluation in Context</title><link href="https://mantrasystems.com/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2" rel="alternate" type="text/html" title="Guide to Clinical Evaluation: Clinical Evaluation in Context" /><published>2025-09-30T00:00:00+01:00</published><updated>2025-10-31T12:03:46+00:00</updated><id>https://mantrasystems.com/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2</id><content type="html" xml:base="https://mantrasystems.com/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2"><![CDATA[<p>In the ever-evolving world of medical device regulation, clinical evaluation is often seen as a standalone exercise. Yet, for manufacturers striving for MDR compliance, it is far more than that; it is the linchpin that connects multiple components of your technical documentation.</p>
-  <p>In this second episode of our Guide to Clinical Evaluation video series, we explore how clinical evaluation fits into the broader technical file, and how other sections of the file both inform and are informed by it.</p>
-  <p>At its core, a clinical evaluation demonstrates that a device is safe and effective for its intended purpose. But achieving this requires more than simply compiling clinical studies; it involves integrating insights from across the technical file. Key inputs include <a href="/articles/a-medical-devices-intended-purpose-what-is-the-point">intended purpose</a>, <a href="/articles/understanding-clinical-evidence-requirements-mdcg-2020-6">clinical evidence</a>, <a href="/articles/gspr-1-a-new-era-of-performance-with-patient-safety-at-the-core">general safety and performance requirements (GSPRs)</a>, <a href="/articles/essential-usability-testing-for-medical-devices-iec-62366-1-2015-demystified">pre-clinical testing</a>, <a href="/eu-mdr-compliance/risk-management">risk management file</a>, and <a href="/eu-mdr-compliance/post-market-surveillance-pms">post-market surveillance</a>.</p>
-  <p>The beauty of a robust clinical evaluation lies in its dual role: not only does it synthesise inputs from across the technical file, but its outputs also influence other regulatory processes. Clinical findings can prompt updates to the risk management file, inform labelling, or trigger modifications to post-market surveillance plans.</p>
-  <p>When viewed in isolation, clinical evaluation may appear as a single chapter in the technical file. In reality, it is a central hub, a living document that both draws from and feeds into the broader technical file. By leveraging other components of the technical file, manufacturers can create a clinical evaluation that is not only compliant with MDR but also genuinely insightful, guiding safer and more effective use of medical devices in the real world.</p>
-  <h2 id="a-proven-framework-for-success">A Proven Framework for Success</h2>
-  <p>At Mantra Systems, we know what success looks like. Our approach to clinical evaluation is built on experience: over 300 successful evaluations conducted under MDR. This track record reflects not just regulatory knowledge, but also a deep commitment to patient safety, clinical relevance, and quality of evidence.</p>
-  <p>Through this series, we’ll share that expertise with you, helping you avoid the pitfalls we see most often and giving you a clear pathway to stronger, more resilient submissions.</p>
-  <p>If you missed Episode 1: <a href="/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce">What is Clinical Evaluation? Catch up here</a>.</p>
-  <p><a href="/newsletter">Subscribe to our newsletter</a> to keep up with the full five-part series on mastering MDR clinical evaluation, including:</p>
-  <ol>
-    <li><a href="/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce"><strong>What is clinical evaluation?</strong></a></li>
-    <li><strong><em>Clinical evaluation in context</em></strong></li>
-    <li><a href="/articles/state-of-the-art-sota-literature-review-a-guide-to-clinical-evaluation-video-series-ep-3"><strong>The State-of-the-Art (SOTA) review – core of a successful submission</strong></a></li>
-    <li><a href="/articles/cep-strategy-cer-structure-a-guide-to-clinical-evaluation-video-series-ep-4"><strong>The CEP and CER</strong></a></li>
-    <li><strong>Clinical evaluation pitfalls and useful resources</strong></li>
-  </ol>
-  ]]></content><author><name>peter-boxall</name></author><category term="Clinical Evaluation" /><category term="MDR" /><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[Part 2 - A clinical evaluation demonstrates that a device is safe and effective, but achieving this requires more than simply compiling studies.]]></summary></entry></feed>
+  ]]></content><author><name>william-brambley</name></author><category term="Clinical Evaluation" /><category term="MDR" /><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[Part 3 - This is core of a sucessful submission. Will demystifies the process and explains how it supports clinical evaluation.]]></summary></entry></feed>

@@ -7,7 +7,9 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 	const params = new URLSearchParams(window.location.search);
-	const from_linkedin = params.get('utm_source') === 'linkedin';
+	const from_linkedin =
+		params.get('utm_source') === 'linkedin' ||
+		params.has('lid');
 	const consent = localStorage.getItem('linkedinConsent');
 
 	if (consent === 'yes') {

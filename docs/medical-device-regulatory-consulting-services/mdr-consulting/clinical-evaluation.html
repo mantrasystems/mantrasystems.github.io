@@ -645,11 +645,6 @@
                     <p><strong class="break">Our goal is first-time approval of your Clinical Evaluation documentation.</strong></p>
                     <form action="https://usebasin.com/f/d0ebbae30915" method="POST" enctype="multipart/form-data">
                       <fieldset>
-                        <input type="hidden" name="gclid" class="js-gid" />
-                        <label class="hide">
-                          Please ignore this field
-                          <input type="text" name="genius" />
-                        </label>
                         <div class="form-group">
                           <label>
                             <span class="label hide-screen">Work email address</span>
@@ -664,6 +659,12 @@
                           <button type="submit" class="button full">Book my free consultation</button>
                         </div>
                       </fieldset>
+                      <input type="hidden" name="contact-type" value="clinical-evaluation-consulting" />
+                      <input type="hidden" name="gclid" class="js-gid" />
+                      <label class="hide">
+                        Please ignore this field
+                        <input type="text" name="genius" />
+                      </label>
                     </form>
                     <p class="privacy-notice">We respect your information &mdash; <a href="/privacy#information">Read what this means</a></p>
                   </div>
@@ -878,21 +879,13 @@
             </div>
           </div>
           <form action="https://usebasin.com/f/d0ebbae30915" method="POST" enctype="multipart/form-data">
-            <input type="hidden" name="gclid" class="js-gid" />
-            <label class="hide">
-              Please ignore this field
-              <input type="text" name="genius" />
-            </label>
-            <input type="hidden" name="origin" value="From page: /medical-device-regulatory-consulting-services/mdr-consulting/clinical-evaluation" />
-            <input type="hidden" name="location" value="Form location: Footer" />
-            <input type="hidden" name="contact-type" value="clinical-evaluation-consulting" />
             <div class="row">
               <fieldset class="col col-7">
                 <div class="form-group linear-fields">
                   <label>
                     <span class="label ">Your name</span>
                     <span class="field">
-                      <input type="text" name="contact name" maxlength="100" />
+                      <input type="text" name="name" maxlength="100" />
                     </span>
                   </label>
                   <label>
@@ -969,6 +962,14 @@
               <button type="submit" class="button pop">Send</button>
               <p class="privacy-notice">We respect your information &mdash; <a href="/privacy#information">Read what this means</a></p>
             </div>
+            <input type="hidden" name="contact-type" value="clinical-evaluation-consulting" />
+            <input type="hidden" name="gclid" class="js-gid" />
+            <label class="hide">
+              Please ignore this field
+              <input type="text" name="genius" />
+            </label>
+            <input type="hidden" name="origin" value="From page: /medical-device-regulatory-consulting-services/mdr-consulting/clinical-evaluation" />
+            <input type="hidden" name="location" value="Form location: Footer" />
           </form>
         </div>
       </div>

@@ -1,56 +1,145 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://mantrasystems.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mantrasystems.com/" rel="alternate" type="text/html" /><updated>2025-12-02T14:06:11+00:00</updated><id>https://mantrasystems.com/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Guide to Clinical Evaluation: Common Pitfalls &amp;amp; Useful Resources</title><link href="https://mantrasystems.com/articles/common-clinical-evaluation-pitfalls-useful-resources-a-guide-to-clinical-evaluation-video-series-ep-5" rel="alternate" type="text/html" title="Guide to Clinical Evaluation: Common Pitfalls &amp;amp; Useful Resources" /><published>2025-12-02T00:00:00+00:00</published><updated>2025-12-02T13:06:45+00:00</updated><id>https://mantrasystems.com/articles/common-clinical-evaluation-pitfalls-useful-resources-a-guide-to-clinical-evaluation-video-series-ep-5</id><content type="html" xml:base="https://mantrasystems.com/articles/common-clinical-evaluation-pitfalls-useful-resources-a-guide-to-clinical-evaluation-video-series-ep-5"><![CDATA[<p>Conducting a clinical evaluation under the EU MDR can be a complex and demanding process. Even experienced teams can fall into common pitfalls that jeopardise the success of their submissions.</p>
-      <p>In this video, we highlight the most frequent mistakes manufacturers make during clinical evaluations and share practical strategies to avoid them. You’ll also discover key resources and guidelines that can help ensure your clinical evaluation meets all regulatory requirements.</p>
-      <p>If you missed previous episodes. Catch up here:</p>
-      <ol>
-        <li><a href="/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce"><strong>What is clinical evaluation?</strong></a></li>
-        <li><a href="/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2"><strong>Clinical evaluation in context</strong></a></li>
-        <li><a href="/articles/state-of-the-art-sota-literature-review-a-guide-to-clinical-evaluation-video-series-ep-3"><strong>The State-of-the-Art (SOTA) review – core of a successful submission</strong></a></li>
-        <li><a href="/articles/cep-strategy-cer-structure-a-guide-to-clinical-evaluation-video-series-ep-4"><strong>The CEP and CER</strong></a></li>
-        <li><strong><em>Clinical evaluation pitfalls and useful resources</em></strong></li>
-      </ol>
-      <p>This video explores five major pitfalls that often derail clinical evaluations:</p>
-      <ol class="numbered-discs">
-        <li><strong>Lack of a proper search protocol</strong><br />
-          Simply listing research questions and search terms isn’t enough. A robust protocol must detail how sources will be identified, appraised, and analysed.</li>
-        <li><strong>Lack of safety and performance objectives</strong><br />
-          Clinical evaluations must be grounded in explicit, measurable safety and performance objectives. These benchmarks, derived from the state of the art, are essential for demonstrating conformity and ensuring that devices meet clinical expectations.</li>
-        <li><strong>Choosing the wrong route to conformity</strong><br />
-          Legacy strategies no longer suffice. Under MDR, equivalence is far harder to justify, and Article 61(10) is frequently misapplied. Manufacturers must critically assess the most appropriate route early in the process to avoid regulatory setbacks.</li>
-        <li><strong>Improper use of equivalence</strong><br />
-          Under the MDR, demonstrating equivalence requires detailed justification across technical, biological, and clinical characteristics. Full access to the equivalent device’s technical documentation is typically needed. Anything less risks rejection.</li>
-        <li><strong>Absence of quantitative benefit-risk assessment</strong><br />
-          The MDR raises the bar: qualitative arguments are no longer sufficient. A numerical benefit-risk ratio is now mandatory, signalling a shift toward more data-driven evaluations.</li>
-      </ol>
-      <p>By understanding these pitfalls and using the recommended guidance, manufacturers can strengthen their clinical evaluations and improve submission success rates.</p>
-      <h2 id="key-resources-for-clinical-evaluation-under-eu-mdr">Key resources for Clinical Evaluation under EU MDR</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://mantrasystems.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mantrasystems.com/" rel="alternate" type="text/html" /><updated>2025-12-16T16:17:38+00:00</updated><id>https://mantrasystems.com/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Periodic Safety Update Report: Requirements under EU MDR</title><link href="https://mantrasystems.com/articles/psur-periodic-safety-update-report-requirements-under-eu-mdr" rel="alternate" type="text/html" title="Periodic Safety Update Report: Requirements under EU MDR" /><published>2025-12-16T00:00:00+00:00</published><updated>2025-12-16T16:17:15+00:00</updated><id>https://mantrasystems.com/articles/psur-periodic-safety-update-report-requirements-under-eu-mdr</id><content type="html" xml:base="https://mantrasystems.com/articles/psur-periodic-safety-update-report-requirements-under-eu-mdr"><![CDATA[<p>As part of the ongoing efforts to ensure the safety and performance of medical devices, the <a href="/eu-mdr-compliance/post-market-surveillance-pms">Post-Market Surveillance</a> (PMS) system under the European Union Medical Device Regulation (EU MDR) has become more stringent. One of the components of PMS is the periodic safety update report (PSUR), <a href="https://eur-lex.europa.eu/eli/reg/2017/745/oj/eng#:~:text=Periodic%20safety%20update%20report">introduced in Article 86 of MDR 2017/745</a>, which is now a cornerstone of compliance and device lifecycle management.</p>
+      <p>Interestingly, while PSURs have been mandatory for pharmaceutical products for some time, they have only recently become a requirement for medical devices under EU MDR.</p>
+      <h2 id="what-is-a-periodic-safety-update-report-psur">What is a Periodic Safety Update Report (PSUR)?</h2>
+      <p>A PSUR provides a concise analysis of PMS data to assess the benefit-risk profile, incorporating new or emerging information. By evaluating global safety data and summarising PMS findings, a PSUR ensures timely identification of risks and supports regulatory compliance.</p>
+      <h2 id="objectives-of-the-psur">Objectives of the PSUR</h2>
+      <p>Under the EU MDR (2017/745), manufacturers are required to submit PSURs with the goal of enhancing medical devices and maximising the benefits they provide to patients.</p>
+      <p>The objectives include:</p>
       <ul>
-        <li>The <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745">EU MDR</a></li>
-        <li>MDCG Guidelines:
+        <li>Identification and evaluation of changes in the benefit-risk profile</li>
+        <li>To provide information on Preventive or Corrective Actions (CAPA) according to Article 83(4).</li>
+      </ul>
+      <h2 id="content-of-the-psur">Content of the PSUR</h2>
+      <p>The key requirements of a PSUR are set out in Article 86(1) and Annex III. These include the following:</p>
+      <ul>
+        <li>The conclusions of the benefit-risk determination</li>
+        <li>The main findings of the post-market clinical follow-up (<a href="/eu-mdr-compliance/post-market-clinical-follow-up-pmcf">PMCF</a>)</li>
+        <li>The volume of sales of the device, an estimate of the size and other characteristics of the population using the device, and, where practicable, the usage frequency of the device.</li>
+      </ul>
+      <h2 id="which-devices-need-a-psur">Which devices need a PSUR?</h2>
+      <p>According to the EU MDR, the following groups of devices require a PSUR:</p>
+      <ul>
+        <li>MDR compliant devices
           <ul>
-            <li><a href="https://health.ec.europa.eu/document/download/575a0f79-e3a0-4a96-9ce0-930576c12aa2_en">MDCG 2020-5: Guidance on Clinical Evaluation - Equivalence</a></li>
-            <li><a href="https://health.ec.europa.eu/document/download/a6d29444-b5d5-4afb-8024-10be85256aa7_en">MDCG 2020-6: Guidance on sufficient clinical evidence for legacy devices</a></li>
-            <li><a href="https://health.ec.europa.eu/document/download/02f50abc-91db-4ad9-b137-6ffedb690716_en">MDCG 2020-13: Clinical evaluation assessment report template</a></li>
+            <li>Class IIa, IIb and III devices</li>
+            <li>Custom-made devices falling within Class IIa, Class IIb and Class III</li>
+            <li>Annex XVI devices falling within Class IIa, IIb and Class III certified under MDR,</li>
           </ul>
         </li>
-        <li><a href="https://ec.europa.eu/docsroom/documents/17522/attachments/1/translations/en/renditions/native">MEDDEV2.7/1 Rev 4. Clinical Evaluation: A guide for manufacturers and notified bodies under directives 93/42/EEC and 90/385/EEC</a></li>
+        <li>Legacy devices placed on the market before or after 26 May 2021 under Article 120(3).</li>
       </ul>
-      <h3 id="a-proven-framework-for-success">A Proven Framework for Success</h3>
-      <p>At Mantra Systems, we know what success looks like. Our approach to clinical evaluation is built on experience: over 300 successful evaluations conducted under MDR. This track record reflects not just regulatory knowledge, but also a deep commitment to patient safety, clinical relevance, and quality of evidence.</p>
-      <p>Through this series, we have shared that expertise with you, helping you avoid the pitfalls we see most often and giving you a clear pathway to stronger, more resilient submissions.</p>
-      ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[Part 5 - In the final video from this series, we explore five major pitfalls that often derail clinical evaluations.]]></summary></entry><entry><title type="html">Webinar: From USA to Europe - Accelerating Your Path to the Medical Device Market</title><link href="https://mantrasystems.com/articles/from-usa-fda-to-europe-mdr-accelerating-your-path-to-the-medical-device-market-webinar" rel="alternate" type="text/html" title="Webinar: From USA to Europe - Accelerating Your Path to the Medical Device Market" /><published>2025-11-26T00:00:00+00:00</published><updated>2025-12-01T16:51:26+00:00</updated><id>https://mantrasystems.com/articles/from-usa-fda-to-europe-mdr-accelerating-your-path-to-the-medical-device-market-webinar</id><content type="html" xml:base="https://mantrasystems.com/articles/from-usa-fda-to-europe-mdr-accelerating-your-path-to-the-medical-device-market-webinar"><![CDATA[<p>Already have FDA marketing authorisation and now setting your sights on Europe?</p>
-    <p>Join our webinar to learn how to transform your U.S. regulatory work into a compliant EU MDR submission, speeding up your time to market and reducing the cost of Notified Body reviews.</p>
-    <p><strong>From USA to Europe: Accelerating Your Path to the Medical Device Market</strong><br />
-      📅 <strong>Date: Tuesday, 9th December 2025</strong><br />
-      🕒 <strong>Time: 4:00 pm UTC / 11:00 am ET / 8:00 am PT</strong><br />
-      🔗 <strong>Register: <a href="https://events.teams.microsoft.com/event/4b054e6a-cdfd-4add-ab85-fbc7c69abf47@7f83608b-abd8-4d54-b0bf-d8984c4c3657/registration">Our MS Teams event page</a></strong></p>
-    <p>Our team has helped dozens of U.S. manufacturers successfully transition to the European market. We are proud of our 100% acceptance rate from Notified Bodies across all our submissions. Join us as we share:</p>
+      <p>Class I MDR devices and Class I legacy devices are excluded from this requirement.</p>
+      <p>Unsure which classification your device falls under? <a href="https://www.linkedin.com/pulse/introduction-medical-device-classification-mantrasystems-bw47e/">Check out our quick guide</a>.</p>
+      <h2 id="frequency-of-psur-submission">Frequency of PSUR submission</h2>
+      <table class="simple">
+        <thead>
+          <tr>
+            <th>Classification</th>
+            <th>Frequency</th>
+            <th>Submission</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Class IIa</td>
+            <td>Every two years</td>
+            <td>Submit to Notified Body</td>
+          </tr>
+          <tr>
+            <td>Class IIb non-implantable devices</td>
+            <td>Annually</td>
+            <td>Submit to Notified Body</td>
+          </tr>
+          <tr>
+            <td>Class IIb implantable devices</td>
+            <td>Annually</td>
+            <td>Submit via EUDAMED to Notified Body</td>
+          </tr>
+          <tr>
+            <td>Class III</td>
+            <td>Annually</td>
+            <td>Submit via EUDAMED to Notified Body</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="reporting-to-competent-authorities">Reporting to competent authorities</h2>
+      <p>Data collection for the PSUR should commence from the first certification date of the MDR device. Manufacturers of class III devices or implantable devices are required to submit their PSURs electronically through the <a href="/eu-mdr-compliance/eudamed">European Database on Medical Devices (EUDAMED)</a> to the Notified Body involved in the conformity assessment.</p>
+      <p>For Class IIa and IIb non-implantable devices, they are made available to the Notified Body involved in the conformity assessment and to competent authorities during surveillance activities or upon request.</p>
+      <h2 id="action-points-for-manufacturers">Action points for manufacturers</h2>
+      <ul>
+        <li>Ensure continuous data collection processes focusing on clinical data and adverse event reporting</li>
+        <li>Implement a robust risk management process to assess the device’s safety and performance</li>
+        <li>Review and update the PMS plan to ensure that PSURs meet regulatory expectations</li>
+        <li>Maintain open communication with competent authorities to submit reports and address any identified risks promptly.</li>
+      </ul>
+      <p>Ensuring compliance with EU MDR PSUR requirements not only helps mitigate regulatory risks but also enhances the safety of medical devices on the market. By proactively implementing a comprehensive PMS process, manufacturers can enhance device performance, improve patient outcomes, and meet EU MDR expectations.</p>
+      <p>Stay ahead of regulatory requirements—assess your PSUR process today. <a href="/contact">Contact us</a> for a free and confidential discussion on how we can support you in meeting your MDR requirements.</p>
+      ]]></content><author><name>chandini-vk</name></author><category term="MDR" /><summary type="html"><![CDATA[Post-Market Surveillance has become more stringent. We help you to understand what manufacturers need to consider.]]></summary></entry><entry><title type="html">Webinar: From USA to Europe - Accelerating Your Path to the Medical Device Market</title><link href="https://mantrasystems.com/articles/from-usa-fda-to-europe-mdr-accelerating-your-path-to-the-medical-device-market-webinar" rel="alternate" type="text/html" title="Webinar: From USA to Europe - Accelerating Your Path to the Medical Device Market" /><published>2025-12-10T00:00:00+00:00</published><updated>2025-12-16T12:31:53+00:00</updated><id>https://mantrasystems.com/articles/from-usa-fda-to-europe-mdr-accelerating-your-path-to-the-medical-device-market-webinar</id><content type="html" xml:base="https://mantrasystems.com/articles/from-usa-fda-to-europe-mdr-accelerating-your-path-to-the-medical-device-market-webinar"><![CDATA[<p>Already have FDA marketing authorisation and now setting your sights on Europe?</p>
+    <p>In our recent webinar on the 10th December 2025, we explored:</p>
     <ul>
-      <li>The key differences between FDA 510(k) and MDR equivalence requirements</li>
-      <li>How to adapt your existing clinical evidence and integrate PMCF requirements</li>
-      <li>Strategies for leveraging prior documentation to fast-track EU MDR approval</li>
+      <li>The key differences between FDA 510(k) and MDR requirements</li>
+      <li>How U.S. manufacturers can strategically repurpose existing FDA documentation and streamline their European submissions</li>
+      <li>Predicate vs Equivalant devices</li>
+      <li>How to adapt existing clinical evidence and integrate PMCF requirements</li>
     </ul>
+    <h2 id="understanding-the-key-differences-between-fda-and-eu-mdr">Understanding the Key Differences between FDA and EU MDR</h2>
+    <p>Although ensuring device safety and performance is the ultimate goal of both the FDA and EU MDR frameworks, there are significant differences in the evidence expectations, documentation structure, and post-market obligations, which differ substantially. The MDR places greater emphasis on clinical evidence, risk management integration, and ongoing post-market performance evaluation, making it essential for FDA-approved companies to carefully adapt their U.S. regulatory data and systems for Europe.</p>
+    <p><strong>The FDA</strong> is a single centralised authority offering predictable procedures, clear timelines, and defined costs.</p>
+    <p>Meanwhile, <strong>the MDR</strong> is enforced by individual EU Member States, while Notified Bodies (NBs) conduct conformity assessments. Timelines and costs vary significantly between NBs, and average certification times exceed 18 months from contract signature.</p>
+    <p><strong>Actionable insight:</strong> Well-prepared documentation can remove months from your regulatory journey.</p>
+    <h2 id="can-you-reuse-your-fda-documentation">Can you reuse your FDA Documentation?</h2>
+    <p>A major advantage of having FDA clearance or approval is that much of your existing documentation can be repurposed for EU MDR compliance. However, some new MDR-specific documents will be required to address the European regulatory focus on clinical evaluation, safety, and post-market performance.</p>
+    <h3 id="documents-that-can-be-repurposed">Documents that can be repurposed</h3>
+    <ul>
+      <li>Device description and specification</li>
+      <li>Instructions for Use (IFU)</li>
+      <li>Preclinical testing – Biocompatibility, EMC, Invitro + animal testing, Physical, Chemical, Microbiological tests, Software V&amp;V, Stability &amp; Shelf-life test</li>
+      <li>Labelling &amp; Packaging</li>
+      <li>Substantial equivalence (if equivalence route)</li>
+    </ul>
+    <h3 id="new-mdr-documents-required">New MDR documents required</h3>
+    <ul>
+      <li>Clinical Evaluation Plan (CEP), Clinical Evaluation Report (CER) &amp; State-of-the-Art (SOTA) review</li>
+      <li>Device manufacturing and information</li>
+      <li>General Safety and Performance Requirements (GSPR checklist)</li>
+      <li>Standards and common specifications</li>
+      <li>Declaration of Conformity (DoC)</li>
+      <li>PMCF plans, PMS and PSUR</li>
+      <li>Risk Management per ISO 14971 – Characteristics related to safety, Criteria for risk acceptability, Evaluation of overall residual risk, Risk control, RMP, RMR, PHA</li>
+    </ul>
+    <p><strong>Actionable insight</strong>: A targeted MDR gap analysis clarifies what can be reused from FDA submissions and what must be newly generated.</p>
+    <p>By strategically repurposing and aligning your existing data, you can reduce redundancy, streamline your submission, and cut both time and costs during Notified Body review.</p>
+    <h2 id="predicate-vs-equivalent-devices">Predicate vs Equivalent devices</h2>
+    <p>FDA allows a device to be cleared by demonstrating “substantial equivalence” to a predicate device already on the market.</p>
+    <h3 id="predicate-device-under-the-fda">Predicate device under the FDA</h3>
+    <p>FDA allows a device to be cleared by demonstrating “substantial equivalence” to a predicate device already on the market.</p>
+    <h3 id="equivalence-under-the-mdr">Equivalence under the MDR</h3>
+    <p>Equivalence under EU MDR is not the same as the predicate device concept in an FDA 510(k).</p>
+    <p>Benefits of Claiming Equivalence:</p>
+    <ul>
+      <li>Leverages existing clinical evidence from an equivalent device</li>
+      <li>Reduces the need for new clinical investigations</li>
+    </ul>
+    <p>To Claim Equivalence Manufacturers must demonstrate similarity across:</p>
+    <ul>
+      <li>Technical characteristics</li>
+      <li>Biological characteristics</li>
+      <li>Clinical characteristics</li>
+    </ul>
+    <p><strong>Actionable insight:</strong> Gather measurable evidence for Technical, Biological and Clinical characteristics. Include biological characteristics early.</p>
+    <h2 id="clinical-evidence-and-pmcf">Clinical Evidence and PMCF</h2>
+    <h3 id="fda-requirements-for-premarket-evidence">FDA requirements for premarket evidence</h3>
+    <p>FDA requirements focus on premarket evidence; post-market obligations are defined but not as extensive as MDR.</p>
+    <h3 id="clinical-evaluation-under-the-eu-mdr">Clinical Evaluation under the EU MDR</h3>
+    <p>EU MDR places strong emphasis on ongoing clinical evaluation. Manufacturers must:</p>
+    <ul>
+      <li>Demonstrate clinical safety and performance using robust clinical evidence</li>
+      <li>Maintain continuous evaluation through PMCF activities</li>
+      <li>Integrate risk management and clinical evaluation into a single, living system.</li>
+    </ul>
+    <p><strong>Actionable insight:</strong> Build a cohesive clinical evidence strategy that aligns clinical evaluation, risk management, and PMS/PMCF to maintain compliance throughout the device lifecycle.</p>
     <h2 id="your-roadmap-to-european-market-success">Your Roadmap to European Market Success</h2>
-    <p>For medical device manufacturers based in the US, gaining FDA marketing authorisation is a major milestone. Generally, medical device manufacturers rarely limit themselves to a single market, with global expansion a key part of a long-term growth strategy. However, many assume that European regulatory expectations require an entirely separate development effort, but in reality, there’s substantial overlap in evidence, documentation, and technical strategy.</p>
+    <p>For medical device manufacturers based in the US, gaining FDA marketing authorisation is a major milestone.</p>
     <p>With a clear roadmap, you can avoid redundant testing, streamline your submission, and minimise costly Notified Body review cycles.</p>
     <ol class="numbered-discs">
       <li>Identify EU MDR classification</li>
@@ -63,33 +152,48 @@
       <li>Submit for notified body review and obtain a CE mark</li>
       <li><a href="/eu-mdr-compliance/eudamed">Register in EUDAMED</a> and maintain compliance</li>
     </ol>
-    <h2 id="understanding-the-key-differences-between-fda-and-eu-mdr">Understanding the Key Differences between FDA and EU MDR</h2>
-    <p>Although ensuring device safety and performance is the ultimate goal of both the FDA and EU MDR frameworks, there are significant differences in the evidence expectations, documentation structure, and post-market obligations, which differ substantially. The MDR places greater emphasis on clinical evidence, risk management integration, and ongoing post-market performance evaluation, making it essential for FDA-approved companies to carefully adapt their U.S. regulatory data and systems for Europe.</p>
-    <h3 id="key-areas-of-overlap">Key areas of overlap</h3>
-    <p>A major advantage of having FDA clearance or approval is that much of your existing documentation can be repurposed for EU MDR compliance. However, some new MDR-specific documents will be required to address the European regulatory focus on clinical evaluation, safety, and post-market performance.</p>
-    <h4 id="documents-that-can-be-repurposed">Documents that can be repurposed</h4>
-    <ul>
-      <li>Device description and specification</li>
-      <li>Instructions for Use (IFU)</li>
-      <li>Preclinical testing – Biocompatibility, EMC, Invitro + animal testing, Physical, Chemical, Microbiological tests, Software V&amp;V, Stability &amp; Shelf-life test</li>
-      <li>Labelling &amp; Packaging</li>
-      <li>Substantial equivalence (if equivalence route)</li>
-    </ul>
-    <h4 id="new-mdr-documents-required">New MDR documents required</h4>
-    <ul>
-      <li>Clinical Evaluation Documents (CEP, CER &amp; SOTA)</li>
-      <li>Device manufacturing and information</li>
-      <li>General Safety and Performance Requirements (GSPRs)</li>
-      <li>Standards and common specifications</li>
-      <li>Declaration of Conformity (DoC)</li>
-      <li>PMCF, PMS, PSUR</li>
-      <li>Risk Management per ISO 14971 – Characteristics related to safety, Criteria for risk acceptability, Evaluation of overall residual risk, Risk control, RMP, RMR, PHA</li>
-    </ul>
-    <p>By strategically repurposing and aligning your existing data, you can reduce redundancy, streamline your submission, and cut both time and costs during Notified Body review.</p>
-    <h2 id="our-webinar-accelerating-your-european-market-entry">Our webinar: Accelerating Your European Market Entry</h2>
-    <p>Transitioning from FDA to MDR compliance doesn’t have to be difficult. With expert guidance and a structured approach, U.S. manufacturers can efficiently adapt their data, close any clinical or technical gaps, and achieve successful Notified Body approval.</p>
-    <p>Places are still available, <strong><a href="https://events.teams.microsoft.com/event/4b054e6a-cdfd-4add-ab85-fbc7c69abf47@7f83608b-abd8-4d54-b0bf-d8984c4c3657/registration">so register to join our webinar here</a></strong></p>
-    ]]></content><author><name>chandini-vk</name></author><category term="MDR" /><summary type="html"><![CDATA[Join us on the 9th December 2025 to learn how to quickly transform your U.S. regulatory work into a compliant EU MDR submission.]]></summary></entry><entry><title type="html">Device Modifications: When a Simple Change Becomes a Regulatory Nightmare</title><link href="https://mantrasystems.com/articles/device-modifications-when-a-simple-change-becomes-a-regulatory-nightmare" rel="alternate" type="text/html" title="Device Modifications: When a Simple Change Becomes a Regulatory Nightmare" /><published>2025-11-18T00:00:00+00:00</published><updated>2025-11-17T18:21:09+00:00</updated><id>https://mantrasystems.com/articles/device-modifications-when-a-simple-change-becomes-a-regulatory-nightmare</id><content type="html" xml:base="https://mantrasystems.com/articles/device-modifications-when-a-simple-change-becomes-a-regulatory-nightmare"><![CDATA[<p>In the world of medical devices, change is inevitable. Whether it’s driven by clinical feedback, new market opportunities, or even strategic positioning, we see it constantly. But we see one type of change cause disproportionate disruption: seemingly “minor” modifications to a device, such as its intended purpose, clinical claims, or warnings.</p>
+    <h3 id="transitioning-from-fda-to-mdr-compliance-doesnt-have-to-be-difficult">Transitioning from FDA to MDR compliance doesn’t have to be difficult.</h3>
+    <p><a href="/contact">Get in touch now</a> if you’d like to discuss how our expert guidance, and structured approach can help U.S. manufacturers efficiently adapt their data, close any clinical or technical gaps, and achieve successful Notified Body approval.</p>
+    ]]></content><author><name>chandini-vk</name></author><category term="MDR" /><summary type="html"><![CDATA[We showed you how to quickly transform your U.S. regulatory work into a compliant EU MDR submission.]]></summary></entry><entry><title type="html">Guide to Clinical Evaluation: Common Pitfalls &amp;amp; Useful Resources</title><link href="https://mantrasystems.com/articles/common-clinical-evaluation-pitfalls-useful-resources-a-guide-to-clinical-evaluation-video-series-ep-5" rel="alternate" type="text/html" title="Guide to Clinical Evaluation: Common Pitfalls &amp;amp; Useful Resources" /><published>2025-12-02T00:00:00+00:00</published><updated>2025-12-02T14:19:12+00:00</updated><id>https://mantrasystems.com/articles/common-clinical-evaluation-pitfalls-useful-resources-a-guide-to-clinical-evaluation-video-series-ep-5</id><content type="html" xml:base="https://mantrasystems.com/articles/common-clinical-evaluation-pitfalls-useful-resources-a-guide-to-clinical-evaluation-video-series-ep-5"><![CDATA[<p>Conducting a clinical evaluation under the EU MDR can be a complex and demanding process. Even experienced teams can fall into common pitfalls that jeopardise the success of their submissions.</p>
+  <p>In this video, we highlight the most frequent mistakes manufacturers make during clinical evaluations and share practical strategies to avoid them. You’ll also discover key resources and guidelines that can help ensure your clinical evaluation meets all regulatory requirements.</p>
+  <p>If you missed previous episodes. Catch up here:</p>
+  <ol>
+    <li><a href="/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce"><strong>What is clinical evaluation?</strong></a></li>
+    <li><a href="/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2"><strong>Clinical evaluation in context</strong></a></li>
+    <li><a href="/articles/state-of-the-art-sota-literature-review-a-guide-to-clinical-evaluation-video-series-ep-3"><strong>The State-of-the-Art (SOTA) review – core of a successful submission</strong></a></li>
+    <li><a href="/articles/cep-strategy-cer-structure-a-guide-to-clinical-evaluation-video-series-ep-4"><strong>The CEP and CER</strong></a></li>
+    <li><strong><em>Clinical evaluation pitfalls and useful resources</em></strong></li>
+  </ol>
+  <p>This video explores five major pitfalls that often derail clinical evaluations:</p>
+  <ol class="numbered-discs">
+    <li><strong>Lack of a proper search protocol</strong><br />
+      Simply listing research questions and search terms isn’t enough. A robust protocol must detail how sources will be identified, appraised, and analysed.</li>
+    <li><strong>Lack of safety and performance objectives</strong><br />
+      Clinical evaluations must be grounded in explicit, measurable safety and performance objectives. These benchmarks, derived from the state of the art, are essential for demonstrating conformity and ensuring that devices meet clinical expectations.</li>
+    <li><strong>Choosing the wrong route to conformity</strong><br />
+      Legacy strategies no longer suffice. Under MDR, equivalence is far harder to justify, and Article 61(10) is frequently misapplied. Manufacturers must critically assess the most appropriate route early in the process to avoid regulatory setbacks.</li>
+    <li><strong>Improper use of equivalence</strong><br />
+      Under the MDR, demonstrating equivalence requires detailed justification across technical, biological, and clinical characteristics. Full access to the equivalent device’s technical documentation is typically needed. Anything less risks rejection.</li>
+    <li><strong>Absence of quantitative benefit-risk assessment</strong><br />
+      The MDR raises the bar: qualitative arguments are no longer sufficient. A numerical benefit-risk ratio is now mandatory, signalling a shift toward more data-driven evaluations.</li>
+  </ol>
+  <p>By understanding these pitfalls and using the recommended guidance, manufacturers can strengthen their clinical evaluations and improve submission success rates.</p>
+  <h2 id="key-resources-for-clinical-evaluation-under-eu-mdr">Key resources for Clinical Evaluation under EU MDR</h2>
+  <ul>
+    <li>The <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745">EU MDR</a></li>
+    <li>MDCG Guidelines:
+      <ul>
+        <li><a href="https://health.ec.europa.eu/document/download/575a0f79-e3a0-4a96-9ce0-930576c12aa2_en">MDCG 2020-5: Guidance on Clinical Evaluation - Equivalence</a></li>
+        <li><a href="https://health.ec.europa.eu/document/download/a6d29444-b5d5-4afb-8024-10be85256aa7_en">MDCG 2020-6: Guidance on sufficient clinical evidence for legacy devices</a></li>
+        <li><a href="https://health.ec.europa.eu/document/download/02f50abc-91db-4ad9-b137-6ffedb690716_en">MDCG 2020-13: Clinical evaluation assessment report template</a></li>
+      </ul>
+    </li>
+    <li><a href="https://ec.europa.eu/docsroom/documents/17522/attachments/1/translations/en/renditions/native">MEDDEV2.7/1 Rev 4. Clinical Evaluation: A guide for manufacturers and notified bodies under directives 93/42/EEC and 90/385/EEC</a></li>
+  </ul>
+  <h3 id="a-proven-framework-for-success">A Proven Framework for Success</h3>
+  <p>At Mantra Systems, we know what success looks like. Our approach to clinical evaluation is built on experience: over 300 successful evaluations conducted under MDR. This track record reflects not just regulatory knowledge, but also a deep commitment to patient safety, clinical relevance, and quality of evidence.</p>
+  <p>Through this series, we have shared that expertise with you, helping you avoid the pitfalls we see most often and giving you a clear pathway to stronger, more resilient submissions.</p>
+  ]]></content><author><name>paul-hercock</name></author><category term="Clinical Evaluation" /><category term="MDR" /><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[Part 5 - In the final video from this series, we explore five major pitfalls that often derail clinical evaluations.]]></summary></entry><entry><title type="html">Device Modifications: When a Simple Change Becomes a Regulatory Nightmare</title><link href="https://mantrasystems.com/articles/device-modifications-when-a-simple-change-becomes-a-regulatory-nightmare" rel="alternate" type="text/html" title="Device Modifications: When a Simple Change Becomes a Regulatory Nightmare" /><published>2025-11-18T00:00:00+00:00</published><updated>2025-11-17T18:21:09+00:00</updated><id>https://mantrasystems.com/articles/device-modifications-when-a-simple-change-becomes-a-regulatory-nightmare</id><content type="html" xml:base="https://mantrasystems.com/articles/device-modifications-when-a-simple-change-becomes-a-regulatory-nightmare"><![CDATA[<p>In the world of medical devices, change is inevitable. Whether it’s driven by clinical feedback, new market opportunities, or even strategic positioning, we see it constantly. But we see one type of change cause disproportionate disruption: seemingly “minor” modifications to a device, such as its intended purpose, clinical claims, or warnings.</p>
   <p>On the surface, it’s just a small adjustment, a new patient population, or a clearer articulation of clinical value. But under the <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745">Medical Device Regulation (MDR)</a>, even subtle changes can trigger major downstream effects on your technical documentation. And just as you’re finalising the updates? Another request lands: <em>“Can we also target this for paediatric use?”</em>. This is where the role becomes more than just writing and reviewing.</p>
   <h2 id="why-minor-changes-can-create-major-work">Why “Minor” Changes Can Create Major Work</h2>
   <p>Changing the <a href="/articles/a-medical-devices-intended-purpose-what-is-the-point">intended purpose</a> or clinical claims of your medical device isn’t just a matter of editing a sentence in the Instructions For Use (IFU). Under the MDR, your device’s intended purpose defines the whole regulatory strategy, from classification to clinical evidence to post-market surveillance. Even well-intentioned updates, like adding a benefit, can have more implications than expected:</p>
@@ -145,7 +249,7 @@
   <h3 id="need-support-navigating-device-modifications">Need Support Navigating Device Modifications?</h3>
   <p>At Mantra Systems, we specialise in helping medical device companies manage evolving product strategies without compromising compliance. Whether you’re expanding intended use, revising benefit claims, or updating risk communications, we’ll help you assess the impact, implement the right updates, and stay on track.</p>
   <p><a href="/contact">Let’s turn complexity into clarity, together</a>.</p>
-  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[As regulatory consultants we understand how minor modifications to a device can often cause disproportionate disruption.]]></summary></entry><entry><title type="html">Webinar: Regulatory &amp;amp; Cybersecurity Essentials for medical device software and AI-enabled devices</title><link href="https://mantrasystems.com/articles/regulatory-cybersecurity-essentials-for-medical-device-software-ai-devices-webinar" rel="alternate" type="text/html" title="Webinar: Regulatory &amp;amp; Cybersecurity Essentials for medical device software and AI-enabled devices" /><published>2025-11-14T00:00:00+00:00</published><updated>2025-11-14T14:02:39+00:00</updated><id>https://mantrasystems.com/articles/regulatory-cybersecurity-essentials-for-medical-device-software-ai-devices-webinar</id><content type="html" xml:base="https://mantrasystems.com/articles/regulatory-cybersecurity-essentials-for-medical-device-software-ai-devices-webinar"><![CDATA[<p>Our webinar on the 13th of November with cybersecurity experts Cyber Alchemy explored how to bring AI-enabled medical devices to market with the right regulatory and cybersecurity foundations.</p>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[As regulatory consultants we understand how minor modifications to a device can often cause disproportionate disruption.]]></summary></entry><entry><title type="html">Webinar: Regulatory &amp;amp; Cybersecurity Essentials for medical device software and AI-enabled devices</title><link href="https://mantrasystems.com/articles/regulatory-cybersecurity-essentials-for-medical-device-software-ai-devices-webinar" rel="alternate" type="text/html" title="Webinar: Regulatory &amp;amp; Cybersecurity Essentials for medical device software and AI-enabled devices" /><published>2025-11-14T00:00:00+00:00</published><updated>2025-12-10T12:46:23+00:00</updated><id>https://mantrasystems.com/articles/regulatory-cybersecurity-essentials-for-medical-device-software-ai-devices-webinar</id><content type="html" xml:base="https://mantrasystems.com/articles/regulatory-cybersecurity-essentials-for-medical-device-software-ai-devices-webinar"><![CDATA[<p>Our webinar on the 13th of November 2025 with cybersecurity experts Cyber Alchemy explored how to bring AI-enabled medical devices to market with the right regulatory and cybersecurity foundations.</p>
   <p>The discussion - led by <strong>Dr Will Brambley (Mantra Systems)</strong>, <strong>Dr Simon Cumiskey (Mantra Systems)</strong> and <strong>Luke Hill (<a href="https://cyberalchemy.co.uk/">Cyber Alchemy</a>)</strong> - brought together insights from both regulatory and cybersecurity perspectives, covering everything from device qualification to protecting proprietary AI models.</p>
   <p>If you couldn’t join us live, you can watch in full here - or read our key takeaways bellow.</p>
   <h2 id="hardware-security-matters-too">Hardware Security Matters Too</h2>
@@ -261,7 +365,7 @@
   <p>The EU MDR’s emphasis on Post-Market Surveillance represents a paradigm shift in how medical devices are regulated and improved. By leveraging PMS data, manufacturers can not only meet regulatory requirements but also drive continuous improvement, enhance patient safety, and foster innovation.</p>
   <p>In an increasingly data-driven world, PMS is no longer just a compliance obligation, it’s a strategic advantage. Companies that embrace this approach will be better positioned to deliver safer, more effective devices and build trust with regulators, healthcare providers, and patients alike.</p>
   <p>Are you ready to harness the power of PMS data for continuous improvement? <a href="/contact">Contact us today</a> to learn how we can help you build a robust PMS system that drives innovation and ensures compliance with the EU MDR.</p>
-  ]]></content><author><name>shen-may-khoo</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[PMS isn’t just about compliance, it’s an opportunity for improvement, enhance patient safety & innovate.]]></summary></entry><entry><title type="html">Guide to Clinical Evaluation: CEP Strategy &amp;amp; CER Structure</title><link href="https://mantrasystems.com/articles/cep-strategy-cer-structure-a-guide-to-clinical-evaluation-video-series-ep-4" rel="alternate" type="text/html" title="Guide to Clinical Evaluation: CEP Strategy &amp;amp; CER Structure" /><published>2025-10-31T00:00:00+00:00</published><updated>2025-10-31T12:03:46+00:00</updated><id>https://mantrasystems.com/articles/cep-strategy-cer-structure-a-guide-to-clinical-evaluation-video-series-ep-4</id><content type="html" xml:base="https://mantrasystems.com/articles/cep-strategy-cer-structure-a-guide-to-clinical-evaluation-video-series-ep-4"><![CDATA[<p>Under the EU MDR, a well-defined Clinical Evaluation Plan (CEP) and a clearly structured Clinical Evaluation Report (CER) are essential to the clinical evaluation process.</p>
+  ]]></content><author><name>shen-may-khoo</name></author><category term="Clinical Evaluation" /><category term="MDR" /><summary type="html"><![CDATA[PMS isn’t just about compliance, it’s an opportunity for improvement, enhance patient safety & innovate.]]></summary></entry><entry><title type="html">Guide to Clinical Evaluation: CEP Strategy &amp;amp; CER Structure</title><link href="https://mantrasystems.com/articles/cep-strategy-cer-structure-a-guide-to-clinical-evaluation-video-series-ep-4" rel="alternate" type="text/html" title="Guide to Clinical Evaluation: CEP Strategy &amp;amp; CER Structure" /><published>2025-10-31T00:00:00+00:00</published><updated>2025-12-02T14:19:12+00:00</updated><id>https://mantrasystems.com/articles/cep-strategy-cer-structure-a-guide-to-clinical-evaluation-video-series-ep-4</id><content type="html" xml:base="https://mantrasystems.com/articles/cep-strategy-cer-structure-a-guide-to-clinical-evaluation-video-series-ep-4"><![CDATA[<p>Under the EU MDR, a well-defined Clinical Evaluation Plan (CEP) and a clearly structured Clinical Evaluation Report (CER) are essential to the clinical evaluation process.</p>
   <p>Together, they form the backbone of a device’s regulatory narrative, guiding reviewers through the evidence that supports its safety, performance, and conformity with applicable requirements.</p>
   <p>In this fourth episode of our Guide to Clinical Evaluation video series, we take a closer look at the <strong>CEP</strong> and <strong>CER</strong>. We explain how the CEP sets the strategy for gathering clinical evidence and how it informs the structure of the CER.</p>
   <p>This video covers:</p>
@@ -316,23 +420,4 @@
   <h2 id="the-regulatory-road-ahead">The Regulatory Road Ahead</h2>
   <p>Regulation can often be seen as a hurdle, or just another hoop you have to jump through in the world of AI in healthcare, but attending the summit reminded me that, when seen in the correct light, it can also be a powerful enabler. When done thoughtfully, regulation doesn’t just protect patients, but it builds trust, innovation, and creates a clear pathway for AI tools to move safely from their development to real-world clinical use. One key theme was the importance of proportionate oversight. Rather than a one-size-fits-all approach, regulators are increasingly focusing on risk-based frameworks, ensuring that higher-risk AI applications receive more scrutiny, while lower-risk tools can reach clinicians faster. This balance is critical: it protects patients without unnecessarily slowing innovation, giving developers opportunities to experiment and iterate.</p>
   <p>At Mantra Systems, we empower these innovators, guiding them through the regulatory process and allowing them to lean into regulations, not fight against them. Working together in this way enables us to reach a shared goal of getting medical devices onto the market, applying a unique combination of clinical, regulatory and medical device expertise. In the past, we have hosted the MedTech Start-Up Workshop, providing early-stage companies with practical insights into navigating regulatory requirements. <a href="/newsletter">Subscribe to our newsletter</a> to hear about the next one.</p>
-  ]]></content><author><name>kamiya-crabtree</name></author><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[Conversations around AI in healthcare have evolved dramatically over the past few years. We found insight, debate and a healthy dose of cautious optimism at this summit.]]></summary></entry><entry><title type="html">Guide to Clinical Evaluation: The State-of-the-Art (SOTA) Literature Review</title><link href="https://mantrasystems.com/articles/state-of-the-art-sota-literature-review-a-guide-to-clinical-evaluation-video-series-ep-3" rel="alternate" type="text/html" title="Guide to Clinical Evaluation: The State-of-the-Art (SOTA) Literature Review" /><published>2025-10-15T00:00:00+01:00</published><updated>2025-10-31T12:03:46+00:00</updated><id>https://mantrasystems.com/articles/state-of-the-art-sota-literature-review-a-guide-to-clinical-evaluation-video-series-ep-3</id><content type="html" xml:base="https://mantrasystems.com/articles/state-of-the-art-sota-literature-review-a-guide-to-clinical-evaluation-video-series-ep-3"><![CDATA[<p>Under the EU MDR, the importance of a robust and well-structured state-of-the-art (SOTA) literature review cannot be overstated. It serves as the foundation of the clinical evaluation process, offering regulators and stakeholders a clear, evidence-based understanding of where a device fits within its clinical context.</p>
-  <p>In this third episode of our <strong>Guide to Clinical Evaluation</strong> video series, we explore an overview of the SOTA literature review including its purpose and overall structure. We guide you through its essential components, demystifying the process and explaining how it supports clinical evaluation. You’ll learn how to:</p>
-  <ul>
-    <li><strong>Place your device in clinical context</strong> by outlining the conditions it addresses, its intended use, and how it achieves therapeutic benefit.</li>
-    <li><strong>Assess the performance and safety of SOTA devices</strong> to understand current clinical expectations and identify relevant comparators.</li>
-    <li><strong>Develop safety and performance objectives</strong> that define measurable benchmarks for evaluation within the <a href="/medical-device-regulatory-consulting-services/mdr-consulting/clinical-evaluation">Clinical Evaluation Plan (CEP)</a> and Clinical Evaluation Report (CER).</li>
-  </ul>
-  <p>We’ll also share our structured approach to conducting these reviews, from defining the clinical background and search strategy to appraising literature and synthesizing data into actionable insights.</p>
-  <h2 id="a-proven-framework-for-success">A Proven Framework for Success</h2>
-  <p>At Mantra Systems, we know what success looks like. Our approach to clinical evaluation is built on experience: over 300 successful evaluations conducted under MDR. This track record reflects not just regulatory knowledge, but also a deep commitment to patient safety, clinical relevance, and quality of evidence.</p>
-  <p>Through this series, we’ll share that expertise with you, helping you avoid the pitfalls we see most often and giving you a clear pathway to stronger, more resilient submissions.</p>
-  <p><a href="/newsletter">Subscribe to our newsletter</a> to keep up with the full five-part series on mastering MDR clinical evaluation, including:</p>
-  <ol>
-    <li><a href="/articles/a-guide-to-clinical-evaluation-video-series-ep-1-what-is-ce"><strong>What is clinical evaluation?</strong></a></li>
-    <li><a href="/articles/clinical-evaluation-process-in-context-a-guide-to-clinical-evaluation-video-series-ep-2"><strong>Clinical evaluation in context</strong></a></li>
-    <li><strong><em>The State-of-the-Art (SOTA) review – core of a successful submission</em></strong></li>
-    <li><a href="/articles/cep-strategy-cer-structure-a-guide-to-clinical-evaluation-video-series-ep-4"><strong>The CEP and CER</strong></a></li>
-    <li><a href="/articles/common-clinical-evaluation-pitfalls-useful-resources-a-guide-to-clinical-evaluation-video-series-ep-5"><strong>Clinical evaluation pitfalls and useful resources</strong></a></li>
-  </ol>
-  ]]></content><author><name>william-brambley</name></author><category term="Clinical Evaluation" /><category term="MDR" /><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[Part 3 - This is core of a sucessful submission. Will demystifies the process and explains how it supports clinical evaluation.]]></summary></entry></feed>
+  ]]></content><author><name>kamiya-crabtree</name></author><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[Conversations around AI in healthcare have evolved dramatically over the past few years. We found insight, debate and a healthy dose of cautious optimism at this summit.]]></summary></entry></feed>

@@ -9,6 +9,8 @@ document.addEventListener('DOMContentLoaded', () => {
 	const params = new URLSearchParams(window.location.search);
 	const from_linkedin =
 		params.get('utm_source') === 'linkedin' ||
+		// Separate this, 'cos we won't treat _everything_ like a campaign
+		params.get('source') === 'linkedin' ||
 		params.has('lid');
 	const consent = localStorage.getItem('linkedinConsent');
 

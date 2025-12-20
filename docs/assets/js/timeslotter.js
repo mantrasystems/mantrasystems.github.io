@@ -11,7 +11,6 @@
 	// ---------
 	const config = {
 		timezone: 'Europe/London',   // canonical zone (for formatting day names)
-		daysToShow: 5,               // number of days to generate
 		skipWeekends: true,           // whether to skip Saturday/Sunday
 		dayName: 'long',             // weekday format ('short' → Mon, 'long' → Monday)
 		offsetMinutes: 60,           // artificial "now" offset in minutes (e.g., +60 = +1hr)
@@ -118,10 +117,10 @@
 	};
 
 	// Map weekday -> Set(hours) | null (null = whole weekday blocked)
-	const compileWeeklyBlackouts = (spec) => {
+	const compileWeeklyBlackouts = (rules) => {
 		const map = new Map(); // 0..6 => Set | null
-		if (!spec || !Array.isArray(spec.weekly)) return map;
-		for (const rule of spec.weekly) {
+		if (!Array.isArray(rules)) return map;
+		for (const rule of rules) {
 			if (!rule || typeof rule.weekday !== 'number') continue;
 			if (Array.isArray(rule.hours) && rule.hours.length) {
 				map.set(rule.weekday, new Set(rule.hours.map(Number)));
@@ -190,7 +189,7 @@
 		const weeklyBlackouts = compileWeeklyBlackouts(readBlackoutsFromDom(root));
 
 		const dayNodes = root.querySelectorAll($.day);
-		const daysCount = Math.min(dayNodes.length, config.daysToShow);
+		const daysCount = dayNodes.length; // markup is source-of-truth
 		if (!daysCount) return;
 
 		// Effective "now" in UK

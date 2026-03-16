@@ -42,7 +42,6 @@
 
 		// OPTION B: mirror existing hidden inputs (true)
 		// params: true,
-
 		overwriteExisting: true,
 		multiValue: 'first',         // 'first' | 'last' | 'join'
 		joinSep: ',',                // used only when multiValue === 'join'
@@ -54,7 +53,6 @@
 
 	// utils
 	// ---------
-
 	// Debug logger (no-op unless debug=true)
 	const log = (...a) => config.debug && console.log('[qs→hidden]', ...a);
 

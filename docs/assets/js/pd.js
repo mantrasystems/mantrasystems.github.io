@@ -93,15 +93,32 @@
 		if ('disabled' in el) el.removeAttribute('disabled');
 	};
 	const clearBinary = (panel) => {
-		if (!config.clearBinaryOnHide) return;
-		panel.querySelectorAll('input[type="radio"], input[type="checkbox"]').forEach(i => { if (i.checked) i.checked = false; });
+		if (!config.clearBinaryOnHide) return [];
+		const cleared = [];
+		panel.querySelectorAll('input[type="radio"], input[type="checkbox"]').forEach(i => {
+			if (i.checked) {
+				i.checked = false;
+				cleared.push(i);
+			}
+		});
+		return cleared;
 	};
 	const hidePanel = (el) => {
-		clearBinary(el); // clear before disabling
+		// clear before disabling (and report what was cleared)
+		const cleared = clearBinary(el);
+
 		el.classList.remove(config.showClass);
 		el.classList.add(config.hideClass);
 		el.setAttribute('aria-hidden','true');
 		if ('disabled' in el) el.setAttribute('disabled','');
+
+		// Notify listeners (e.g. hidden-field binder) so they can clear derived values
+		if (cleared.length) {
+			el.dispatchEvent(new CustomEvent('conditional:cleared', {
+				bubbles: true,
+				detail: { controls: cleared }
+			}));
+		}
 	};
 
 	const focusFirst = (panel) => {

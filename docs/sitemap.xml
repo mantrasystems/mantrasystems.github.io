@@ -214,11 +214,11 @@
     </url>
     <url>
       <loc>https://mantrasystems.com/articles/navigating-non-conformities-in-technical-documentation</loc>
-      <lastmod>2025-06-10T12:34:12+01:00</lastmod>
+      <lastmod>2026-03-12T09:59:46+00:00</lastmod>
     </url>
     <url>
       <loc>https://mantrasystems.com/articles/european-commission-guidelines-on-prohibited-artificial-intelligence-practices</loc>
-      <lastmod>2025-03-18T12:16:10+00:00</lastmod>
+      <lastmod>2026-01-21T10:10:45+00:00</lastmod>
     </url>
     <url>
       <loc>https://mantrasystems.com/articles/labelling-101-a-comprehensive-overview-form-medical-device-manufacturers</loc>
@@ -282,7 +282,7 @@
     </url>
     <url>
       <loc>https://mantrasystems.com/articles/finding-my-passion-at-the-intersection-of-science-regulation-and-medical-devices</loc>
-      <lastmod>2025-06-10T12:34:22+01:00</lastmod>
+      <lastmod>2026-01-14T18:52:37+00:00</lastmod>
     </url>
     <url>
       <loc>https://mantrasystems.com/articles/innovator-passports-cut-red-tape-and-speed-up-access-to-medtech</loc>
@@ -386,7 +386,43 @@
     </url>
     <url>
       <loc>https://mantrasystems.com/articles/mdd-mdr-key-differences-in-demonstrating-equivalence</loc>
-      <lastmod>2026-01-05T16:31:49+00:00</lastmod>
+      <lastmod>2026-01-06T10:16:03+00:00</lastmod>
+    </url>
+    <url>
+      <loc>https://mantrasystems.com/articles/why-clinical-trial-design-should-begin-early-in-medical-device-development-franklyn-health</loc>
+      <lastmod>2026-01-13T18:09:24+00:00</lastmod>
+    </url>
+    <url>
+      <loc>https://mantrasystems.com/articles/did-you-know-your-glasses-were-a-medical-device-a-regulatory-guide-for-manufacturers</loc>
+      <lastmod>2026-01-19T10:29:43+00:00</lastmod>
+    </url>
+    <url>
+      <loc>https://mantrasystems.com/articles/regulatory-reset-eu-proposed-changes-to-mdr-ivdr-explained</loc>
+      <lastmod>2026-02-02T18:48:23+00:00</lastmod>
+    </url>
+    <url>
+      <loc>https://mantrasystems.com/articles/eliminating-the-top-5-notified-body-gaps-in-clinical-evaluation-through-pre-submission-review</loc>
+      <lastmod>2026-02-02T18:48:23+00:00</lastmod>
+    </url>
+    <url>
+      <loc>https://mantrasystems.com/articles/fixing-the-mdr-and-ivdr-eu-commissions-proposed-amendments-what-they-mean-for-manufacturers</loc>
+      <lastmod>2026-02-03T10:09:18+00:00</lastmod>
+    </url>
+    <url>
+      <loc>https://mantrasystems.com/articles/how-eu-medical-device-classification-differs-from-the-us-are-you-prepared</loc>
+      <lastmod>2026-02-10T20:05:15+00:00</lastmod>
+    </url>
+    <url>
+      <loc>https://mantrasystems.com/articles/how-eu-mdr-post-market-surveillance-differs-from-fda-post-market-expectations</loc>
+      <lastmod>2026-02-18T13:04:39+00:00</lastmod>
+    </url>
+    <url>
+      <loc>https://mantrasystems.com/articles/nhs-clinical-entrepreneur-programme-partner-announcement</loc>
+      <lastmod>2026-03-11T15:13:17+00:00</lastmod>
+    </url>
+    <url>
+      <loc>https://mantrasystems.com/articles/navigating-mdr-article-117-practical-guide-to-drug-device-combination-product-submissions</loc>
+      <lastmod>2026-03-12T09:59:46+00:00</lastmod>
     </url>
     <url>
       <loc>https://mantrasystems.com/about</loc>
@@ -406,7 +442,7 @@
     </url>
     <url>
       <loc>https://mantrasystems.com/careers</loc>
-      <lastmod>2025-12-24T12:51:23+00:00</lastmod>
+      <lastmod>2026-03-02T10:10:48+00:00</lastmod>
     </url>
     <url>
       <loc>https://mantrasystems.com/enable-ce-mark/technical-document-templates/clinical-evaluation-plan-cep-template</loc>
@@ -437,12 +473,12 @@
       <lastmod>2025-09-16T18:26:33+01:00</lastmod>
     </url>
     <url>
-      <loc>https://mantrasystems.com/medical-device-regulatory-consulting-services/mdr-consulting/clinical-evaluation</loc>
-      <lastmod>2025-12-08T11:44:02+00:00</lastmod>
-    </url>
-    <url>
       <loc>https://mantrasystems.com/eu-mdr-compliance/clinical-evaluation</loc>
       <lastmod>2025-10-13T12:14:44+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://mantrasystems.com/medical-device-regulatory-consulting-services/mdr-consulting/clinical-evaluation</loc>
+      <lastmod>2025-12-08T11:44:02+00:00</lastmod>
     </url>
     <url>
       <loc>https://mantrasystems.com/contact</loc>
@@ -451,6 +487,10 @@
     <url>
       <loc>https://mantrasystems.com/enable-ce-mark/online-video-training-courses</loc>
       <lastmod>2025-05-25T16:24:42+01:00</lastmod>
+    </url>
+    <url>
+      <loc>https://mantrasystems.com/careers/digital-marketing-specialist</loc>
+      <lastmod>2026-03-02T10:10:48+00:00</lastmod>
     </url>
     <url>
       <loc>https://mantrasystems.com/medical-device-regulation-resources/enablechat</loc>
@@ -467,10 +507,6 @@
     <url>
       <loc>https://mantrasystems.com/faqs</loc>
       <lastmod>2024-09-26T23:55:30+01:00</lastmod>
-    </url>
-    <url>
-      <loc>https://mantrasystems.com/medical-device-regulatory-consulting-services/fda-510k-consulting</loc>
-      <lastmod>2025-12-08T11:44:02+00:00</lastmod>
     </url>
     <url>
       <loc>https://mantrasystems.com/medical-device-regulatory-consulting-services/fractional-regulatory-consulting</loc>
@@ -530,7 +566,7 @@
     </url>
     <url>
       <loc>https://mantrasystems.com/careers/marketing-manager</loc>
-      <lastmod>2025-12-24T12:51:23+00:00</lastmod>
+      <lastmod>2026-01-28T15:09:42+00:00</lastmod>
     </url>
     <url>
       <loc>https://mantrasystems.com/solutions/mdd-mdr-transition-legacy-devices</loc>
@@ -597,6 +633,10 @@
       <lastmod>2025-12-08T11:44:02+00:00</lastmod>
     </url>
     <url>
+      <loc>https://mantrasystems.com/medical-device-regulatory-consulting-services/qms-jumpstart-platform</loc>
+      <lastmod>2026-03-12T12:16:25+00:00</lastmod>
+    </url>
+    <url>
       <loc>https://mantrasystems.com/eu-mdr-compliance/quality-management-system-qms</loc>
       <lastmod>2025-10-13T12:14:33+01:00</lastmod>
     </url>
@@ -626,7 +666,7 @@
     </url>
     <url>
       <loc>https://mantrasystems.com/careers/regulatory-medical-writer</loc>
-      <lastmod>2025-12-24T12:51:23+00:00</lastmod>
+      <lastmod>2026-01-28T15:09:42+00:00</lastmod>
     </url>
     <url>
       <loc>https://mantrasystems.com/medical-device-regulation-resources</loc>
@@ -637,16 +677,16 @@
       <lastmod>2025-02-26T17:45:35+00:00</lastmod>
     </url>
     <url>
-      <loc>https://mantrasystems.com/eu-mdr-compliance/risk-management</loc>
-      <lastmod>2025-02-13T16:58:47+00:00</lastmod>
-    </url>
-    <url>
       <loc>https://mantrasystems.com/enable-ce-mark/online-video-training-courses/risk-management</loc>
       <lastmod>2024-06-18T16:45:04+01:00</lastmod>
     </url>
     <url>
+      <loc>https://mantrasystems.com/eu-mdr-compliance/risk-management</loc>
+      <lastmod>2025-02-13T16:58:47+00:00</lastmod>
+    </url>
+    <url>
       <loc>https://mantrasystems.com/medical-device-regulatory-consulting-services/samd-accelerated-approval</loc>
-      <lastmod>2025-12-09T21:17:06+00:00</lastmod>
+      <lastmod>2026-03-03T13:38:45+00:00</lastmod>
     </url>
     <url>
       <loc>https://mantrasystems.com/medical-device-market-access-consulting</loc>
@@ -679,6 +719,10 @@
     <url>
       <loc>https://mantrasystems.com/enable-ce-mark/online-video-training-courses/understanding-eu-mdr</loc>
       <lastmod>2025-02-26T17:45:35+00:00</lastmod>
+    </url>
+    <url>
+      <loc>https://mantrasystems.com/medical-device-regulatory-consulting-services/us-europe-mdr-ivdr-market-access-programme</loc>
+      <lastmod>2026-03-09T15:32:00+00:00</lastmod>
     </url>
     <url>
       <loc>https://mantrasystems.com/eu-mdr-compliance/vigilance</loc>

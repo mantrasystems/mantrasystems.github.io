@@ -84,14 +84,6 @@ function loadLinkedInTag() {
 		b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
 		s.parentNode.insertBefore(b, s);
 	})(window.lintrk);
-
-    // Optionally inject the <noscript> fallback after consent
-	const noscript = document.createElement("noscript");
-	noscript.innerHTML = `
-		<img height="1" width="1" style="display:none;" alt=""
-			src="https://px.ads.linkedin.com/collect/?pid=${pid}&fmt=gif" />
-	`;
-	document.body.appendChild(noscript);
     
 	// console.log("LinkedIn Insight Tag loaded");
 }

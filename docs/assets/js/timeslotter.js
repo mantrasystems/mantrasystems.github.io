@@ -4,16 +4,38 @@
  *	- Submits values in UK time (ISO-like with +00:00/+01:00).
  *	- Replaces each label’s content with viewer-local time: "H <small>am|pm|noon</small>"
  *	- Shows a message explaining which timezone is being displayed.
+ *
+ *	BLACKOUTS (frontmatter-friendly)
+ *	- Store these in your page frontmatter (Liquid/Jekyll/etc.) and print JSON into data-blackouts.
+ *	- Uses the names you prefer:
+ *		- dates: [ "YYYY-MM-DD", ... ]						→ fully closed days (shown, but all slots disabled)
+ *		- slots: [ { weekday: <0..6>, hours: [..] }, ... ]	→ disable certain hours on certain weekdays
+ *
+ *	Example frontmatter (YAML):
+ *		blackouts:
+ *			dates:
+ *				- 2025-12-25
+ *				- 2025-12-26
+ *				- 2026-01-01
+ *			slots:
+ *				- weekday: 1
+ *				  hours: [11, 12]		# Monday: block 11:00 + 12:00
+ *				- weekday: 5
+ *				  hours: [15]			# Friday: block 15:00
+ *
+ *	Example markup output (Liquid):
+ *		<ol class="timeslots js-timeslots"
+ *			data-blackouts='{{ page.blackouts | jsonify }}'>
  */
 
 (() => {
 	// settings
 	// ---------
 	const config = {
-		timezone: 'Europe/London',   // canonical zone (for formatting day names)
-		skipWeekends: true,           // whether to skip Saturday/Sunday
-		dayName: 'long',             // weekday format ('short' → Mon, 'long' → Monday)
-		offsetMinutes: 60,           // artificial "now" offset in minutes (e.g., +60 = +1hr)
+		timezone: 'Europe/London',	// canonical zone (for formatting day names)
+		skipWeekends: true,			// whether to skip Saturday/Sunday
+		dayName: 'long',			// weekday format ('short' → Mon, 'long' → Monday)
+		offsetMinutes: 60,			// artificial "now" offset in minutes (e.g., +60 = +1hr)
 		selectors: {
 			timeslots: '.js-timeslots',
 			day: '.js-day',
@@ -38,6 +60,7 @@
 		day: 'numeric',
 		month: 'short'
 	});
+
 	// For getting the current UK wall clock (cheap parts format)
 	const ukNowPartsFmt = new Intl.DateTimeFormat('en-GB', {
 		timeZone: config.timezone,
@@ -96,39 +119,105 @@
 
 	const isWeekend = d => d.getDay() === 0 || d.getDay() === 6;
 
-	// Build day sequence (today + next N−1), optionally skipping weekends for days 2..N
-	const nextDays = (startWall, count, skipWeekends) => {
-		const out = new Array(count);
-		out[0] = new Date(startWall);
-		let i = 1, cursor = new Date(startWall);
-		while (i < count) {
-			cursor.setDate(cursor.getDate() + 1);
-			if (!skipWeekends || !isWeekend(cursor)) out[i++] = new Date(cursor);
-		}
-		return out;
+	// prettify "America/Los_Angeles" → "Los Angeles" (and optionally "America")
+	const prettyTimeZone = (tz, { includeRegion = false } = {}) => {
+		const parts = tz.split('/');
+		const city = parts.pop().replace(/_/g, ' ');
+		if (!includeRegion) return city;
+		const region = parts.join(' / ').replace(/_/g, ' ');
+		return region ? `${city}, ${region}` : city;
 	};
 
-	// Weekly blackouts
+	// get a stable GMT offset label like "GMT-7" (falls back to short name like "PDT")
+	const timeZoneOffsetLabel = (tz, date = new Date()) => {
+		// Try to get "GMT-7" via shortOffset
+		const off = new Intl.DateTimeFormat('en', { timeZone: tz, timeZoneName: 'shortOffset' })
+			.formatToParts(date).find(p => p.type === 'timeZoneName')?.value;
+		if (off) return off;
+
+		// Fallback: abbreviation like "PDT"
+		const short = new Intl.DateTimeFormat('en', { timeZone: tz, timeZoneName: 'short' })
+			.formatToParts(date).find(p => p.type === 'timeZoneName')?.value;
+		return short || '';
+	};
+
+	// Blackouts (frontmatter-friendly: { dates:[], slots:[] })
 	// ---------
+
+	// Read blackout JSON from the DOM. This is where your frontmatter ends up.
 	const readBlackoutsFromDom = (root) => {
 		const raw = root.getAttribute('data-blackouts');
 		if (!raw) return null;
 		try { return JSON.parse(raw); } catch { return null; }
 	};
 
-	// Map weekday -> Set(hours) | null (null = whole weekday blocked)
-	const compileWeeklyBlackouts = (rules) => {
-		const map = new Map(); // 0..6 => Set | null
-		if (!Array.isArray(rules)) return map;
-		for (const rule of rules) {
-			if (!rule || typeof rule.weekday !== 'number') continue;
-			if (Array.isArray(rule.hours) && rule.hours.length) {
-				map.set(rule.weekday, new Set(rule.hours.map(Number)));
-			} else {
-				map.set(rule.weekday, null); // block entire weekday
+	// "YYYY-MM-DD" for a Date that represents UK wall time.
+	const ymd = (d) => `${d.getFullYear()}-${zeroPadTwoDigits(d.getMonth()+1)}-${zeroPadTwoDigits(d.getDate())}`;
+
+	// Compile blackouts into two quick lookup structures:
+	// - closedDates: Set("YYYY-MM-DD") → if present, disable all slots on that date
+	// - weeklySlots: Map(weekday -> Set(hours) | null)
+	//		- null means "block the entire weekday"
+	const compileBlackouts = (spec) => {
+		const out = {
+			closedDates: new Set(),
+			weeklySlots: new Map()
+		};
+
+		if (!spec || typeof spec !== 'object') return out;
+
+		// dates: fully closed days (shown, but all slots disabled)
+		if (Array.isArray(spec.dates)) {
+			for (const s of spec.dates) {
+				if (typeof s === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(s)) {
+					out.closedDates.add(s);
+				}
 			}
 		}
-		return map;
+
+		// slots: weekly per-hour blocks (disable those hours on matching weekdays)
+		if (Array.isArray(spec.slots)) {
+			for (const rule of spec.slots) {
+				if (!rule || typeof rule.weekday !== 'number') continue;
+
+				if (Array.isArray(rule.hours) && rule.hours.length) {
+					out.weeklySlots.set(rule.weekday, new Set(rule.hours.map(Number)));
+				} else {
+					out.weeklySlots.set(rule.weekday, null); // whole weekday blocked
+				}
+			}
+		}
+
+		return out;
+	};
+
+	// Slot predicate: should this hour be disabled for this day?
+	// - If the date is in closedDates → disable everything (all hours)
+	// - If weeklySlots has null for weekday → disable everything (all hours)
+	// - If weeklySlots has a Set for weekday → disable only those hours
+	const isClosedSlot = (dateUkWall, hour24, rules) => {
+		// whole-date closure
+		if (rules.closedDates.has(ymd(dateUkWall))) return true;
+
+		// weekly closure
+		const rule = rules.weeklySlots.get(dateUkWall.getDay()); // undefined | null | Set
+		if (rule === null) return true;
+		if (rule instanceof Set) return rule.has(hour24);
+		return false;
+	};
+
+	// Build exactly N visible days, based on how many day columns exist in markup.
+	// NOTE: closed dates are *not* removed here anymore — they are displayed but fully disabled.
+	const buildVisibleDays = (startUkWall, count) => {
+		const out = [];
+		const cursor = new Date(startUkWall);
+
+		while (out.length < count) {
+			// skip weekends only (if configured)
+			if (!config.skipWeekends || !isWeekend(cursor)) out.push(new Date(cursor));
+			cursor.setDate(cursor.getDate() + 1);
+		}
+		return out;
 	};
 
 	// Replace a label’s content with: "H <small>am|pm|noon</small>"
@@ -144,28 +233,6 @@
 		labelEl.replaceChildren(inputEl, document.createTextNode(String(hour12) + ' '), small);
 	};
 
-	// prettify "America/Los_Angeles" → "Los Angeles" (and optionally "America")
-	const prettyTimeZone = (tz, { includeRegion = false } = {}) => {
-		const parts = tz.split('/');
-		const city = parts.pop().replace(/_/g, ' ');
-		if (!includeRegion) return city;
-		const region = parts.join(' / ').replace(/_/g, ' ');
-		return region ? `${city}, ${region}` : city;
-	};
-
-	// get a stable GMT offset label like "GMT-7" (falls back to short name like "PDT")
-	const timeZoneOffsetLabel = (tz, date = new Date()) => {
-		// Try to get "GMT-7" via shortOffset
-		const off = new Intl.DateTimeFormat('en', { timeZone: tz, timeZoneName: 'shortOffset' })
-			.formatToParts(date).find(p => p.type === 'timeZoneName')?.value;
-		if (off) return off; // e.g., "GMT-7"
-
-		// Fallback: "GMT-7" or an abbreviation like "PDT"
-		const short = new Intl.DateTimeFormat('en', { timeZone: tz, timeZoneName: 'short' })
-			.formatToParts(date).find(p => p.type === 'timeZoneName')?.value;
-		return short || '';
-	};
-
 	// main
 	// ---------
 	document.addEventListener('DOMContentLoaded', () => {
@@ -174,7 +241,7 @@
 		if (!root) return;
 
 		// Show timezone message
-		const msgEl = document.querySelector(config.selectors.timezoneMsg);
+		const msgEl = document.querySelector($.timezoneMsg);
 		if (msgEl) {
 			const nice = prettyTimeZone(viewerTimezone);           // "Los Angeles"
 			const off  = timeZoneOffsetLabel(viewerTimezone);      // "GMT-7" (or "PDT" fallback)
@@ -185,18 +252,21 @@
 			}
 		}
 
-		// Compile weekly blackouts once
-		const weeklyBlackouts = compileWeeklyBlackouts(readBlackoutsFromDom(root));
+		// Compile blackouts once (dates + slots)
+		const blackoutSpec = readBlackoutsFromDom(root);
+		const rules = compileBlackouts(blackoutSpec);
 
+		// Markup is the source-of-truth for number of days shown
 		const dayNodes = root.querySelectorAll($.day);
-		const daysCount = dayNodes.length; // markup is source-of-truth
+		const daysCount = dayNodes.length;
 		if (!daysCount) return;
 
 		// Effective "now" in UK
 		const { instantUK: effectiveNowInstantUk, wallUK: nowWallUk } = computeEffectiveUkNow();
 
-		// Sequence of day dates (UK wall)
-		const days = nextDays(nowWallUk, daysCount, config.skipWeekends);
+		// Sequence of day dates (UK wall), skipping weekends (if configured)
+		// NOTE: closed dates are displayed; they become fully disabled via isClosedSlot()
+		const days = buildVisibleDays(nowWallUk, daysCount);
 
 		for (let i = 0; i < daysCount; i++) {
 			const dayEl = dayNodes[i];
@@ -211,10 +281,7 @@
 			if (daySpan)  daySpan.textContent = weekdayFmt.format(d); // "Monday"
 			if (dateSpan) dateSpan.textContent = dateFmt.format(d);   // "14 Aug"
 
-			// per-day weekly rule (undefined | null | Set)
-			const weeklyRule = weeklyBlackouts.get(d.getDay());
-
-			// cache Y/M/D
+			// cache Y/M/D (UK wall fields)
 			const year  = d.getFullYear();
 			const month = d.getMonth();
 			const dayNo = d.getDate();
@@ -233,13 +300,13 @@
 				const submitValue = isoInUk(year, month, dayNo, slotHour, 0);
 				if (input.value !== submitValue) input.value = submitValue;
 
-				// 2) Weekly blackout: null → whole weekday; Set → hours
-				const weeklyBlocked =
-					weeklyRule === null ? true :
-					(weeklyRule instanceof Set ? weeklyRule.has(slotHour) : false);
+				// 2) Slot blackout:
+				//	- dates[] disables every slot on that date
+				//	- slots[] disables specific hours (or whole weekday)
+				const blocked = isClosedSlot(d, slotHour, rules);
 
 				// 3) Disable if past (only for first column) OR blacked out
-				const disable = ((i === 0) && (effectiveNowInstantUk >= slotInstantUk)) || weeklyBlocked;
+				const disable = ((i === 0) && (effectiveNowInstantUk >= slotInstantUk)) || blocked;
 				input.toggleAttribute('disabled', disable);
 
 				// 4) Replace label text with viewer-local time

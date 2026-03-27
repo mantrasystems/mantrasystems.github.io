@@ -3,7 +3,6 @@
  *
  *	TOOD:
  *	Explore https://a11y-dialog.netlify.app if #a11y problems pop up
- *	Consider https://dbushell.com/2026/02/12/declarative-dialog-menu-invoker-commands/
  *
  */
 

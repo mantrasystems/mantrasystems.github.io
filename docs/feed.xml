@@ -1,199 +1,498 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://mantrasystems.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mantrasystems.com/" rel="alternate" type="text/html" /><updated>2026-03-16T14:08:04+00:00</updated><id>https://mantrasystems.com/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">Navigating EU MDR Article 117: A Practical Guide to Drug-Device Combination Product Submissions</title><link href="https://mantrasystems.com/articles/navigating-mdr-article-117-practical-guide-to-drug-device-combination-product-submissions" rel="alternate" type="text/html" title="Navigating EU MDR Article 117: A Practical Guide to Drug-Device Combination Product Submissions" /><published>2026-03-11T00:00:00+00:00</published><updated>2026-03-12T09:59:46+00:00</updated><id>https://mantrasystems.com/articles/navigating-mdr-article-117-practical-guide-to-drug-device-combination-product-submissions</id><content type="html" xml:base="https://mantrasystems.com/articles/navigating-mdr-article-117-practical-guide-to-drug-device-combination-product-submissions"><![CDATA[<p>With the implementation of the EU Medical Device Regulation (MDR) 2017/745, the regulatory landscape for drug-device combination products (DDCs) has undergone significant changes.</p>
-      <p>One of the most impactful updates is Article 117, which introduces new conformity assessment obligations for the device components of medicinal products. This article provides a clear, step-by-step overview of how manufacturers can navigate these requirements, obtain the necessary CE marking or Notified Body Opinion (NBOp), and achieve successful EU market approval for their combination products. Whether you are developing a pre-filled syringe, drug-eluting stent, or auto-injector, understanding these new regulatory expectations is essential for timely and compliant market access.</p>
-      <h2 id="what-is-a-drug-device-combination-product">What is a drug-device Combination Product?</h2>
-      <p>A drug-device combination product integrates a medicinal product and a medical device into a single, combined product. These products are designed to improve patient outcomes by delivering medication through a controlled, targeted method or simplifying treatment administration.</p>
-      <p>Additionally, the European Medicines Agency (EMA) provides the most meaningful definition, describing the combination, and which is stated as:</p>
-      <blockquote>
-        <p>“The medical device may be supplied as an integral component of the medicinal product (e.g., pre-filled syringe, auto-injector) or separately (co-packaged; e.g., oral syringe, pen-injector), as a non-integral combination with the medicinal product, or independently marketed (in cases where the device meets the requirements for the necessary delivery system stated in the Summary of Product Characteristics (SmPC) for the medicinal product).”</p>
-      </blockquote>
-      <h2 id="how-is-a-product-categorised-as-a-medicinal-product-or-a-medical-device-based-on-its-mode-of-action">How is a product categorised as a medicinal product, or a medical device based on its mode of action?</h2>
-      <p>Under EU MDR 2017/745, the classification of a drug-device combination product is determined by its Primary Mode of Action (PMOA) - that is, the principal intended action by which the product achieves its therapeutic purpose in or on the human body.</p>
-      <p>The PMOA guides whether a product is regulated as a medical device or a medicinal product as follows.</p>
-      <h3 id="device-led-combination-products">Device-led combination products</h3>
-      <p>These are regulated as medical devices if the action of the device is the primary intended effect, and any medicinal substance present plays only an ancillary, supportive, or secondary role to the device’s physical, mechanical, or other non-pharmacological action.</p>
-      <p>In such cases, while the device is assessed under the MDR 2017/745, a consultation procedure with a competent authority or EMA is still required to assess the ancillary medicinal substance’s quality, safety, and usefulness.</p>
-      <figure class="inline">
-        <img src="/assets/images/content/articles/inline/heart-stent.jpg" alt="A heart stent being held up in someones hand." loading="lazy" width="800" height="530" />
-        <figcaption>Drug-eluting stents are considered device-led combination products.</figcaption>
-      </figure>
-      <h3 id="drug-led-combination-products">Drug-led combination products</h3>
-      <p>These are regulated as medicinal products if the action of the medicinal substance is the primary, principal, and prominent effect, with the device element serving a supplementary or supporting function (e.g., a pre-filled syringe administering a drug).</p>
-      <p>These are authorised under the Medicinal Products Directive 2001/83/EC or Regulation (EC) No 726/2004 depending on the route, with specific obligations under MDR Article 117 for the device part.</p>
-      <figure class="inline">
-        <img src="/assets/images/content/articles/inline/insulin-injector-arm.jpg" alt="A user of a insulin auto-injector holding it up to their arm." loading="lazy" width="800" height="530" />
-        <figcaption>Auto-injectors administering a drug are an example of a drug-led combination product.</figcaption>
-      </figure>
-      <p>Correctly identifying and documenting the PMOA at the earliest development stage is crucial, as it defines the applicable regulatory framework, conformity assessment obligations, and <a href="/eu-mdr-compliance/notified-bodies">Notified Body (NB)</a> or Competent Authority (CA) involvement required for EU market approval.</p>
-      <h2 id="article-117---ce-marking-requirements-for-combination-products">Article 117 - CE Marking Requirements for Combination Products</h2>
-      <p><a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20200424">Article 117 of the EU MDR</a> requires that the device component of a drug-device combination undergoes formal assessment by a Notified Body to ensure that it meets the applicable requirements of the EU MDR. The results of the assessment of the conformity of the device part shall be included in the marketing authorisation dossier.</p>
-      <p>The necessity of a declaration of conformity and an EU certificate issued by a notified authority for the evaluation of compliance of the device part and the drug-device Combination marketing authorisation dossier is the most significant change brought about by Article 117 of the EU MDR.</p>
-      <p>Article 117 of the new EU MDR amends Annex I of the Medicinal Product Directive (MPD) 2001/83/EC, point 12 of Section 3.2. This states that:</p>
-      <blockquote>
-        <p>“(12) Where, a product is governed by this Directive, the marketing authorization dossier shall include, where available, the results of the assessment of the conformity of the device part with the relevant general safety and performance requirements set out in Annex I to that Regulation contained in the manufacturer’s EU declaration of conformity or the relevant certificate issued by a notified body allowing the manufacturer to affix a CE marking to the medical device.</p>
-      </blockquote>
-      <p>If the dossier does not include the results of the conformity assessment referred to in the first subparagraph and where for the conformity assessment of the device, if used separately, the involvement of a notified body is required in accordance with Regulation (EU) 2017/745, the authority shall require the applicant to provide an opinion on the conformity of the device part with the relevant general safety and performance requirements set out in Annex I to that Regulation issued by a notified body designated in accordance with that Regulation for the type of device in question.”</p>
-      <p>Article 117 requires:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://mantrasystems.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mantrasystems.com/" rel="alternate" type="text/html" /><updated>2026-03-27T10:59:29+00:00</updated><id>https://mantrasystems.com/feed.xml</id><title type="html">Mantra Systems</title><entry><title type="html">EU MDR &amp;amp; NHS DTAC Cybersecurity Requirements for UK Market Entry</title><link href="https://mantrasystems.com/articles/eu-mdr-nhs-dtac-cybersecurity-requirements-for-uk-market-entry" rel="alternate" type="text/html" title="EU MDR &amp;amp; NHS DTAC Cybersecurity Requirements for UK Market Entry" /><published>2026-03-27T00:00:00+00:00</published><updated>2026-03-27T10:59:01+00:00</updated><id>https://mantrasystems.com/articles/eu-mdr-nhs-dtac-cybersecurity-requirements-for-uk-market-entry</id><content type="html" xml:base="https://mantrasystems.com/articles/eu-mdr-nhs-dtac-cybersecurity-requirements-for-uk-market-entry"><![CDATA[<p>Most market-entry delays we see come from evidence gaps, not missing security work: unclear system boundaries, weak traceability, and documents that can’t be tied to a specific product release.</p>
+      <p>This article shows you the minimum viable cybersecurity evidence to prepare for EU MDR and NHS DTAC expectations and how to build it once, so it can be reused across routes to market.</p>
+      <p>This article is published in partnership with <strong><a href="https://cyberalchemy.co.uk/">Cyber Alchemy</a></strong>. Cyber Alchemy focuses on <strong>cybersecurity, helping teams develop and evidence security</strong> for software-enabled and connected medical devices. Mantra Systems specialises in <strong>regulatory strategy and clinical evidence</strong> for UKCA and EU MDR/IVDR pathways. Together, we’re producing a practical series for MedTech teams: what to build, what to defer, and how to avoid avoidable rework when moving between UK, NHS procurement, and EU routes.</p>
+      <h2 id="key-takeaways">Key takeaways</h2>
       <ul>
-        <li>The device component of a combination product must meet the General Safety and Performance Requirements (GSPRs) of <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20200424#tocId142">Annex I of the MDR</a>.</li>
-        <li>Evidence of this conformity must be included in the Marketing Authorisation Application (MAA).</li>
-        <li>Requires either:
-          <ul>
-            <li>A CE certificate issued by a Notified Body (NB) for the device component, or</li>
-            <li>A Notified Body Opinion (NBOp) confirming conformity if the device is not CE marked.</li>
-          </ul>
-        </li>
+        <li>EU MDR cybersecurity requirements are more explicit than the current GB framework. For EU market entry, manufacturers need to explain the IT and security conditions required for safe use and demonstrate that cybersecurity has been built into software development, testing, and risk management. In the UK, cybersecurity expectations will show up through procurement, especially NHS routes using DTAC, even if your UKCA pathway feels less prescriptive than EU MDR wording.</li>
+        <li>Building a single versioned Security Evidence Pack can reduce duplication of costs and effort across EU MDR, UKCA, and DTAC. The core work is done once, then tailored for each route, which means fewer document rewrites, fewer repeated testing exercises, and fewer delays caused by missing or inconsistent evidence.</li>
+        <li>Your evidence must be release‑tied: test reports, SBOM, vulnerability handling and residual risks should clearly reference what you are placing on the market now.</li>
+        <li>If you want a fast way to benchmark your gaps, use the two free downloads near the end of this article.</li>
       </ul>
-      <p>Article 117 affects integral products, referenced and co-packaged device components where the medicinal substance achieves the principal mode of action, such as those devices intended to administer a medicinal product.</p>
-      <p><strong>Single integral products</strong> comprise a device component with a medicinal product, intended to be used exclusively in the given combination and are not reusable (multi-dose products which cannot be refilled fall within this criteria). When the device is integrated with a medicinal substance where the action of that substance is principal, or when the medical device administers a medicinal product forming a single integral product, such devices are considered an integral product (a combination of a medical device and a medicinal product).</p>
-      <p><strong>Co-packaged products</strong> comprise a medicinal product where the medical device is packed together with the medicinal product.</p>
-      <p><strong>Referenced products</strong> include a medicinal product where the product information refers to a specific medical device to be used with the medicinal product and where the medical device is obtained separately.</p>
-      <div class="scroller">
-        <table class="simple natural">
-          <thead>
-            <tr>
-              <th>Product Type</th>
-              <th>Regulatory Oversight</th>
-              <th>Conformity Requirement</th>
-              <th>Compliance Route</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>Single Integral Products</td>
-              <td>Directive 2001/83/EC or Regulation (EC) No 726/2004</td>
-              <td>NBOp or CE mark for the device part</td>
-              <td>Must meet:<br />
-                - Combined into a single, integral product <br />
-                - Not reusable <br />
-                - Only intended to be used in combination</td>
-            </tr>
-            <tr>
-              <td>Co-packaged Devices</td>
-              <td>MDR 2017/745</td>
-              <td>Must be CE marked</td>
-              <td>Class I non-sterile, non-measuring: self-certified <br />
-                All other classes: NB involvement required</td>
-            </tr>
-            <tr>
-              <td>Referenced Devices</td>
-              <td>MDR 2017/745</td>
-              <td>Must be CE marked</td>
-              <td>Class I non-sterile, non-measuring: self-certified <br />
-                All other classes: NB involvement required</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-      <h2 id="submission-process-overview">Submission Process Overview</h2>
-      <ol class="numbered-discs">
-        <li>Determine applicability of Article 117 (e.g., non-CE marked)</li>
-        <li>Identify an NB with MDR designation in the relevant product technology.</li>
-        <li>Assess which GSPRs apply to your device.</li>
-        <li>Obtain scientific evidence demonstrating compliance with each applicable GSPR.</li>
-        <li>Prepare Technical documentation accordance with MDR Annex II.</li>
-        <li>Apply for CE mark or NBOp, depending on the device status.</li>
-        <li>Receive NB opinion or CE certificate.</li>
-        <li>Include in the MAA submission.</li>
-      </ol>
-      <h2 id="notified-body-opinion-nbop-and-ce-marking-requirements-under-mdr-article-117">Notified Body Opinion (NBOp) and CE Marking Requirements under MDR Article 117</h2>
-      <p>Manufacturers of medical devices intended for use in drug-device combination products must obtain CE marking through an appropriate conformity assessment process applicable to the device. The resulting CE certificate must then be included in the Marketing Authorisation Application (MAA).</p>
-      <p>The assessment report of the NB concluding the requested opinion should be designed in a way that the medicine’s competent authority can rely on it for the final marketing authorisation (MA). Hence, representatives of the NB and the EMA should discuss the expectations and requirements in advance to ensure a consistent procedure.</p>
-      <p>For new marketing authorisation applicants to establish that the device component of a drug-device combination product meets the MDR requirements established in Annex I of the Regulation, a DoC or CE mark will be required. If not, they must provide opinions from NBs supporting conformity to MDR Annex I rules.</p>
-      <h2 id="ce-marking-route">CE Marking Route</h2>
-      <p>Manufacturers of drug-device combination (DDC) products must ensure the device component undergoes a conformity assessment as per the applicable device classification and requirements under EU MDR 2017/745.</p>
-      <p>If the device component already holds a CE mark, the manufacturer must:</p>
+      <h3 id="companion-perspective-mantra-systems">Companion perspective (Mantra Systems)</h3>
+      <p>This article focuses on cybersecurity evidence (what to build, how to evidence it, and how to keep it release-tied). <a href="/articles/where-to-launch-first-a-medtech-founders-regulatory-eu-uk-us-roadmap">The companion article from Mantra Systems covers the clinical and regulatory side of the same decision</a>: classification, pathway choice (UK vs EU), and Minimum Viable Evidence beyond cybersecurity. Read both to align your cyber evidence plan with the right regulatory route and claim set.</p>
+      <p>Ready for the next step? <strong><a href="https://cyberalchemy.co.uk/contact/">Book a joint Cyber Alchemy × Mantra Systems review</a></strong> to map your route and evidence plan.</p>
+      <h2 id="why-this-matters-now">Why this matters now</h2>
+      <h3 id="1-uk-first-is-not-one-route-its-two-private-practice-vs-nhs">1) “UK first” is not one route; it’s two (private practice vs NHS)</h3>
+      <p>Many founders we work with opt to launch in the UK first, as their home market. Frequently, there is an assumption that means “UKCA plus a few security questionnaires during procurement”.</p>
+      <p>In reality, UK market entry often splits into two very different cyber assurance paths:</p>
       <ul>
-        <li>Include the Declaration of Conformity (DoC) and CE certificate issued by a Notified Body (NB) in the Marketing Authorisation Application (MAA).</li>
-        <li>Ensure that the device has undergone the appropriate conformity assessment procedure for its risk class and intended use.</li>
+        <li><strong>Private practice/private providers:</strong> requirements are usually contractual and variable (supplier due diligence questionnaires, requested cybersecurity penetration test summaries, security policies, incident response posture, etc.). There’s no single national “one form to rule them all”.</li>
+        <li><strong>NHS/NHS-adjacent procurement:</strong> DTAC is the standardised entry point for procurement and due diligence (including pilots), with evidence expected to be supplied by the manufacturer and kept up to date as the product changes.</li>
       </ul>
-      <h2 id="notified-body-opinion-nbop-route">Notified Body Opinion (NBOp) Route</h2>
-      <p>If the device is not CE marked for the specific intended use:</p>
+      <p>This matters because <a href="https://cyberalchemy.co.uk/service/dtac-compliance/">DTAC cybersecurity requirements</a> often push you to demonstrate organisational cyber posture (as well as product‑level controls) earlier than you expect, and that can delay pilots if left until late.</p>
+      <h3 id="2-eu-mdr-and-dtac">2) EU MDR and DTAC</h3>
+      <p>It’s easy to assume DTAC and EU MDR are “equivalents” because both lead to long security conversations — but they’re not the same gate.</p>
       <ul>
-        <li>The manufacturer must apply to an EU MDR-designated NB to obtain an opinion on the device’s conformity with the General Safety and Performance Requirements (GSPRs) outlined in Annex I of the MDR.</li>
-        <li>This NBOp must be submitted with the MAA and is mandatory for initial marketing authorisation or any substantial design changes (e.g., new device, major modifications).</li>
+        <li><strong>DTAC (NHS procurement assurance)</strong> is a <em>buying and due diligence</em> requirement. It helps NHS organisations assess whether a digital product is safe to adopt and operate. DTAC tends to focus on <em>both</em> organisational posture (your ability to operate securely) and product controls (testing, patching, monitoring, incident response), often early in pilots and procurement.</li>
+        <li><strong>EU MDR (CE marking)</strong> is a <em>regulatory requirement for market access</em>. It focuses on safety and performance for the intended purpose, as well as the technical documentation required to place the device on the EU market (with cybersecurity expectations embedded in Annex I/GSPR).</li>
       </ul>
-      <h3 id="how-to-select-a-notified-body">How to select a Notified Body?</h3>
-      <p>If a NBOp is necessary, selecting an accredited NB is the next step. While New Approach Notified and Designated Organisations (NANDO) Information System lists 50 NBs accredited under MDR. However, not all of them provide Article 117 services EFPIA members typically select from a group of 4 commonly used NBs. This preference may come from having an established relationship, or business considerations such as the NB expertise, dedicated resources for review, and/or offering expedited review options.</p>
-      <p>Companies usually initiate contact with their selected NB approximately nine months before their planned NBOp submission. Most of these assessments relate to initial Marketing Authorization (MA) Applications (MAAs), with 92% of companies agreeing on a submission slot and established review timelines with the NBs. This ensures alignment with the EMA MA timelines, in which EMA has strongly recommended submitting the NBOp at time of submission, especially for short variations procedures. However, some companies prefer and have been successful with parallel reviews in which the NBOp is provided during the MAA review procedure. Misalignment of these timelines can lead to delays in the approval process, highlighting the need for proactive communication with the EMA.</p>
-      <p>To streamline the process, early discussions (e.g. project introduction; structured dialogue) with the NB is highly advantageous. These discussions facilitate collaboration and provide early regulatory guidance, issue identification, improved submission quality, and efficient resource planning. Early planning is crucial for selecting the right NB, establishing contractual agreements, securing a submission slot for timely EMA submission, and involving suppliers early to support the creation of GSPR-compliant deliverables.</p>
-      <h3 id="how-long-does-it-take-to-obtain-a-notified-body-opinion-nbop">How long does it take to obtain a Notified Body Opinion (NBOp)?</h3>
-      <p>The timeframe for obtaining an NBOp can vary considerably and largely depends on the quality and completeness of the documentation initially submitted to the Notified Body (NB), as well as the number of “clock stops” required to address requests for clarification or additional information. Engaging directly with an NB at the outset is therefore advisable, as it allows applicants to establish realistic timelines for assessment and ensure expectations are aligned. Whether an NBOp is sought to accompany a Marketing Authorisation Application (MAA), a variation, or a line extension, early dialogue with the NB is essential to avoid unnecessary delays.</p>
-      <p>The Notified Body, BSI has indicated in its guidance materials that the NBOp process typically takes between two and six months to complete. While this timeframe is not explicitly stated as being specific to MAAs, it can reasonably be inferred that this range applies to NBOp assessments in support of such applications.</p>
-      <h2 id="technical-documentation-requirements">Technical Documentation Requirements</h2>
-      <p>To obtain a Notified Body Opinion (NBO), manufacturers must provide their technical documentation to the Notified Bodies, ensuring it contains adequate scientific evidence and data to validate the product’s claims. The requirements for this documentation are outlined in Annex II of the Medical Device Regulation (MDR). This comprehensive documentation is essential to support the evaluation process and typically encompasses a wide range of detailed technical and clinical information.</p>
+      <p>The good news is that the evidence overlaps. If you build a robust security system and evidence it well, you can “wrap” it for DTAC or EU MDR without rebuilding the underlying truth.</p>
+      <h3 id="3-dtac-has-a-hard-transition-date-in-2026">3) DTAC has a hard transition date in 2026</h3>
+      <p>NHS England has issued an <a href="https://cyberalchemy.co.uk/service/dtac-compliance/">updated DTAC form</a> (version 2.0 updated 24 February 2026). The previous DTAC form should not be used from 6 April 2026 onwards.</p>
+      <p>If NHS is in your near-term plan, treat DTAC readiness as a programme with artefacts, owners, and a refresh cadence, not a last-minute questionnaire exercise.</p>
+      <p><a href="https://cyberalchemy.co.uk/service/dtac-compliance/">Further reading: DTAC support from Cyber Alchemy.</a></p>
+      <h3 id="4-gb-still-recognises-ce-for-now--and-may-recognise-it-indefinitely">4) GB still recognises CE for now — and may recognise it indefinitely</h3>
+      <p>The Medicines and Healthcare products Regulatory Agency (MHRA) regulates medicines and <a href="https://cyberalchemy.co.uk/service/medical-technology-cyber-security/">medical devices</a> in the UK and has published updated timelines showing CE acceptance in Great Britain running (in many cases) to 30 June 2030, and is currently consulting on indefinite recognition of CE-marked devices in GB (consultation closes 10 April 2026).</p>
+      <p><strong>Translation:</strong> your first-market decision should consider where your cybersecurity investment, and crucially the evidence of that investment, gives you the most optionality.</p>
+      <p><strong>Note on terminology:</strong> In this article, Great Britain (GB) means England, Scotland and Wales. That matters because <a href="https://cyberalchemy.co.uk/knowledge-hub/medical-device-regulation-uk/">medical device regulation</a> differs across the UK following Brexit. Northern Ireland follows EU rules for placing devices on the NI market, while GB uses the UK framework (UKCA routes). When we say “GB recognises CE for now”, we’re referring specifically to GB market access arrangements.</p>
+      <h2 id="ukca-vs-eu-mdr-why-cybersecurity-feels-different">UKCA vs EU MDR: why cybersecurity “feels” different</h2>
+      <p>Founders often hear “EU is stricter on cybersecurity” and interpret that as “UK market access will be easy”. That’s not what’s happening. The differences are mostly about how explicit the requirements are in legislation and how evidence is assessed in practice.</p>
+      <h3 id="eu-mdr-cybersecurity-requirements-what-gspr-172-and-174-mean-in-practice">EU MDR cybersecurity requirements: what GSPR 17.2 and 17.4 mean in practice</h3>
+      <p>The EU MDR includes an explicit requirement that manufacturers set out the minimum requirements for hardware, IT network characteristics, and IT security measures, including protection against <a href="https://cyberalchemy.co.uk/knowledge-hub/how-to-control-unauthorised-access/">unauthorised access</a>, needed to run the software as intended (GSPR 17.4). It also calls for a “state of the art” approach to software and electronic programmable systems, including the development life cycle, risk management (including information security), and verification and validation (GSPR 17.2).</p>
+      <p><strong>Explainer:</strong> In regulatory terms, “state of the art” does not mean cutting-edge technology for its own sake. It means using current, generally accepted industry practice for your device type and risk profile — typically demonstrated through recognised standards, established engineering controls, and documented justification for any deviations.</p>
+      <p>Rather than creating a “burden”, these clauses provide a clear framework for what “good” looks like: you are expected to define the environment your product is designed for, design security in a way that is proportionate to the risks, and be able to demonstrate (with evidence) that the controls work for the release you are placing on the market. In practice, that means documenting your intended environment assumptions (identity model, network conditions, supported platforms, update mechanism), setting out the minimum security expectations needed for safe operation, and maintaining a traceable line from threats → controls → verification evidence that a reviewer can follow quickly.</p>
+      <p>In practice, EU MDR reviewers tend to look for the following evidence signals:</p>
       <table class="simple">
         <thead>
           <tr>
-            <th>Documents</th>
-            <th>Purpose</th>
+            <th>EU MDR requirement signal</th>
+            <th>What you show (evidence examples)</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>Risk Management Documentation</td>
-            <td>Demonstrates identification and control of risks (ISO 14971 compliant).</td>
+            <td>Minimum IT/security requirements (intended environment)</td>
+            <td>A short ‘minimum IT requirements’ section: identity model, network assumptions, supported platforms, update mechanism, logging expectations, secure configuration guidance.</td>
           </tr>
           <tr>
-            <td>Safety and Performance Data</td>
-            <td>Includes clinical data to prove safe and effective use with the drug.</td>
+            <td>State of the art lifecycle + V&amp;V</td>
+            <td>Secure development lifecycle controls, verification evidence index and release gating.</td>
           </tr>
           <tr>
-            <td>Functionality Testing</td>
-            <td>Verifies performance accuracy (e.g., dosage accuracy, mechanical reliability).</td>
+            <td>Risk management, including information security</td>
+            <td>Threat model and security risk register, aligned to safety and performance risk management where relevant.</td>
           </tr>
           <tr>
-            <td>Usability / Human Factors Testing</td>
-            <td>Ensures user-friendly design with minimal risk in real-world use.</td>
+            <td>Verification of adopted solutions</td>
+            <td><a href="https://cyberalchemy.co.uk/service/penetration-testing-services/external-infrastructure-penetration-testing/">Penetration test</a> and vulnerability test summaries scoped to boundary, remediation actions and re-test confirmation.</td>
           </tr>
           <tr>
-            <td>Instructions for Use (IFU)/Training for users</td>
-            <td>Provides end-user with safety-critical usage guidelines and training info.</td>
-          </tr>
-          <tr>
-            <td>Compatibility Testing</td>
-            <td>Ensures safe and effective interaction between drug and device materials.</td>
-          </tr>
-          <tr>
-            <td>Sterilization Validation &amp; Sterility Test Data</td>
-            <td>Proves the device meets sterility assurance levels as per ISO 11135/11737.</td>
-          </tr>
-          <tr>
-            <td>Packaging Validation Testing</td>
-            <td>Confirms protection and stability of the device in packaging.</td>
+            <td>Post-market maintainability</td>
+            <td>Vulnerability monitoring, SBOM coverage statement, security PMS cadence and triggers for re-test/impact assessment.</td>
           </tr>
         </tbody>
       </table>
-      <h2 id="practical-challenges-and-regulatory-expectations">Practical Challenges and Regulatory Expectations</h2>
+      <p><strong>A key nuance:</strong> guidance tells you <strong>what</strong> to do (“implement access control”, “manage vulnerabilities”, “protect against unauthorised access”). The time and cost usually surface when teams have to work out how to implement those requirements in a way that is proportionate to their threat model, realistic for clinical deployment, and clearly evidenced to a reviewer. That “how” is where submissions and procurements often slow down and where getting it right early avoids expensive rework later.</p>
+      <p><strong>UKCA (GB) is currently less prescriptive in the <em>wording</em> — but still evidence-driven in practice</strong></p>
+      <p>Under the current UK MDR 2002 framework, you still need to demonstrate conformity with the applicable requirements through the correct conformity assessment route, and (depending on class) via a UK Approved Body.</p>
+      <p>What’s different is that the current GB pre-market framework does not (yet) present cybersecurity as a standalone “controls checklist” clause, as people experience in the EU MDR’s explicit GSPR language. In practice, cybersecurity is assessed through existing safety/performance and software validation expectations (“state of the art” lifecycle, risk management, verification and validation), as well as what you communicate to users about safe installation, interoperability, and residual risks.</p>
+      <p><strong>The UK has signalled it intends to move closer to EU-style explicit SaMD cyber requirements</strong></p>
+      <p>The UK’s SaMD consultation outcome states that the current regulations contain few provisions specifically aimed at SaMD/AIaMD, and that the government intends to introduce a requirement akin to EU MDR GSPR 17.4, including minimum requirements for security measures and protection against unauthorised access.</p>
+      <p><strong>Practical takeaway:</strong> even if you start with a GB route, building your evidence pack so it maps cleanly to EU MDR expectations reduces future-market rework.</p>
+      <h2 id="the-business-reality-cybersecurity-affects-time-to-market-especially-in-the-eu">The business reality: cybersecurity affects time-to-market (especially in the EU)</h2>
+      <p><strong>A quick clarification:</strong> regulation vs procurement are different “gates”</p>
+      <p>It’s helpful to separate two things that often get mixed up:</p>
       <ul>
-        <li>Due to expanded MDR requirements, the number of NBs with scope for combination products has decreased, limiting manufacturer options.</li>
-        <li>Pharmaceutical companies may find it challenging to locate a suitably designated NB, especially under time constraints.</li>
-        <li>The format and clarity of the conformity evidence are critical. The NB’s final assessment report must be clear and structured so that Medicines Competent Authorities (e.g., EMA or national authorities) can rely on it during the MAA review.</li>
-        <li>Manufacturers and their designated NB should engage with regulators early to harmonise expectations and avoid submission delays.</li>
+        <li><strong>Regulatory market access</strong> (e.g., <strong>EU MDR for CE marking</strong>, and the <strong>UK MDR 2002 / UKCA</strong> framework for GB) determines whether you can legally place a device on a market.</li>
+        <li><strong>Procurement assurance</strong> (e.g., <strong>NHS DTAC</strong>) determines whether an organisation is willing and able to adopt your product in practice.</li>
       </ul>
-      <p>Article 117 under EU MDR 2017/745 represents a significant regulatory advancement in the way drug-device combination products are assessed and authorised within the European Union. Manufacturers must ensure that the device components of their drug-device combination products either hold a valid CE mark or are supported by a Notified Body Opinion (NBOp) confirming compliance with the General Safety and Performance Requirements (GSPRs) outlined in Annex I of the MDR. These conformity assessment results, whether a CE certificate or NBOp, must be included in the marketing authorisation dossier, with an NBOp being mandatory for any device components that do not yet hold CE marking. By following a structured, well-documented approach and engaging early with regulatory authorities and Notified Bodies, manufacturers can navigate Article 117 requirements efficiently, ensuring timely and compliant EU market access for their combination products.</p>
-      <p>If you have any questions about this article or would like to learn how Mantra Systems can support your MDR compliance, <a href="/contact">get in touch</a>.</p>
-      ]]></content><author><name>chandini-vk</name></author><category term="MDR" /><summary type="html"><![CDATA[Implementation of the EU MDR 2017/745 has brought significant changes.]]></summary></entry><entry><title type="html">Mantra Systems becomes an official Programme Partner of the NHS Clinical Entrepreneur Programme</title><link href="https://mantrasystems.com/articles/nhs-clinical-entrepreneur-programme-partner-announcement" rel="alternate" type="text/html" title="Mantra Systems becomes an official Programme Partner of the NHS Clinical Entrepreneur Programme" /><published>2026-02-25T00:00:00+00:00</published><updated>2026-03-11T15:13:17+00:00</updated><id>https://mantrasystems.com/articles/nhs-clinical-entrepreneur-programme-partner-announcement</id><content type="html" xml:base="https://mantrasystems.com/articles/nhs-clinical-entrepreneur-programme-partner-announcement"><![CDATA[<p>Mantra Systems is proud to share that we are now <a href="https://nhscep.com/2026/02/06/mantra-systems-announced-as-programme-partner-for-the-nhs-clinical-entrepreneur-programme/">an official Programme Partner</a> of the NHS Clinical Entrepreneur Programme (NHS CEP), a nationally recognised initiative supporting healthcare workers and patients to develop, scale, and deliver innovative solutions for the NHS.</p>
-    <p>Becoming a Programme Partner marks an important milestone in our mission to support safe and effective innovations that benefit patients and the NHS.</p>
-    <p>This partnership enables us to contribute directly to medical innovation led from the front line by providing specialised guidance on medical device regulations, clinical evidence generation, and pathways for bringing medical devices to market. It also reflects a full‑circle moment for our team. Our connection to the Programme began long before today with Paul Hercock, Our CEO, whose early experience as a Clinical Entrepreneur helped shape the foundations of the company we are today.</p>
-    <h2 id="our-journey-with-the-nhs-cep">Our journey with the NHS CEP</h2>
-    <p>When it comes down to it, an entire career can be defined by just a handful of days. In my case, it came down to a wet Tuesday morning in February 2017. I emerged from Elephant &amp; Castle tube station and cursed my choice of shoes as they dark-spotted around blobs of rain and splashes of puddle water. Not the look I was going for.</p>
-    <p>I was on my way to meet Professor Tony Young, head of NHS Innovation and founder of the NHS Clinical Entrepreneur Programme. As a clinician working on my own medical device innovation, I’d been advised that the NHS CEP would be an ideal way to make the most of my fledgling idea.</p>
-    <p>Somehow balancing his work at NHS Innovation with multiple other commitments and an active clinical career as a Professor of Urology, Tony was nonetheless extremely generous with his time. He patiently listened to my ideas while outlining the benefits that the NHS CEP would bring, including a personal mentor, educational sessions on business strategy, personal growth, finance, fundraising and more, along with direct access to funders and an entire network of other healthcare professionals crazy enough to be working on innovations of their own. I was hooked from day 1.</p>
-    <p>I applied to the scheme and – 1-minute video pitch and detailed interview later – was invited to join the Programme in Cohort 2. The first “Pit Stop” session was held a few weeks later and I remember nervously approaching the venue, wondering how far out of my depth I would be. The Friday night was a series of talks from inspirational entrepreneurs that were completely different to those you’d see at a ‘sanitised’ event – these were warts, scars and all, meaning they were highly relatable and made me realise that no one ‘makes it’ without getting knocked back multiple times. The Saturday explored personality types and Belbin team roles, making me think about team composition in a way I’d never even imagined.</p>
-    <p>Then followed a blur of similar events, each offering value completely out of proportion to my expectations. I demolished the ‘recommended reading’ list and attended every event I could, including those during the week, becoming intimately acquainted with the LNER route from Doncaster to London. It was so clear to me that the more I put in, the more the returns compounded. In short, it exploded my growth as an entrepreneur.</p>
-    <h2 id="founding-a-regulatory-affairs-consultancy">Founding a regulatory affairs consultancy</h2>
-    <p>The greatest insight? My idea wasn’t going to work. This might sound like a negative, but it wasn’t. Without the Programme, it’s likely I would have spent years chasing a lost dream. Instead, I’d learned enough to understand that I needed to be honest with myself. I needed to refocus and pivot into a new venture – this time, one that was built around solid business principles and a proper analysis of need.</p>
-    <p>What became Mantra Systems found its origins in the NHS CEP. I wasn’t born an entrepreneur. Yet, Mantra Systems now serves a client base on 5 continents and is growing from strength to strength. It doesn’t happen by magic. It happens by making the most of amazing opportunities when they come along and through applying proper advice and learned principles.</p>
-    <p>Through the challenges of developing my own medical device and realising how difficult it was to understand and navigate regulatory requirements, I recognised a clear gap in the industry. That experience became the foundation for Mantra Systems. Drawing on my background as a clinician, I set out to build a consultancy that could support medical device innovators through the EU MDR and IVDR, helping them navigate the regulations and bring safe, effective devices to market.</p>
-    <figure class="inline">
-      <img src="/assets/images/content/articles/inline/paul-speaks-at-bbraun-industryday-nhs-cep.jpg" alt="Paul standing behind a lecturn with the slide 'Regulations are not your enemy!" />
-      <figcaption>Paul speaking at the BBraun Industry Day hosted in partnership with the NHS CEP</figcaption>
-    </figure>
-    <p>If I hadn’t joined the NHS Clinical Entrepreneur Programme, none of what’s followed would have happened. I’d remain a ‘dreampreneur’, wondering why none of my ideas turned into reality. As it happens, I’m now proud to be a Mentor on the NHS CEP and to bring my own experience and perspectives to events aimed at supporting current cohorts of NHS Clinical Entrepreneurs.</p>
-    <p>I’m even more proud that Mantra Systems is now an official partner to the NHS CEP, closing the circle on a journey that’s been utterly transformative for me. I’m proud that we’ve come so far but mostly grateful – grateful that I made the journey to London that day, grateful that my wet shoes didn’t spoil the meeting, and grateful that I was given the opportunity to learn so much from others who so generously share their time and expertise through the Programme.</p>
-    <p>I’ve been privileged to benefit from all that the NHS CEP brings and look forward to the next chapter as an official partner, working to support a new wave of medical device innovators to bring their ideas to market and solve real healthcare challenges for the benefit of the many. If you’re embarking on your own innovation journey and need support navigating the regulatory landscape, <a href="/contact">contact us today</a>.</p>
-    <p><a href="https://nhscep.com/2026/02/06/mantra-systems-announced-as-programme-partner-for-the-nhs-clinical-entrepreneur-programme/">Read the full announcement on the NHS Clinical Entrepreneur Programme website</a>.</p>
-    ]]></content><author><name>paul-hercock</name></author><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[We're proud to join a this initiative supporting healthcare workers and patients to develop innovative solutions for the NHS.]]></summary></entry><entry><title type="html">How EU MDR Post Market Surveillance differs from FDA post-market expectations</title><link href="https://mantrasystems.com/articles/how-eu-mdr-post-market-surveillance-differs-from-fda-post-market-expectations" rel="alternate" type="text/html" title="How EU MDR Post Market Surveillance differs from FDA post-market expectations" /><published>2026-02-18T00:00:00+00:00</published><updated>2026-02-18T13:04:39+00:00</updated><id>https://mantrasystems.com/articles/how-eu-mdr-post-market-surveillance-differs-from-fda-post-market-expectations</id><content type="html" xml:base="https://mantrasystems.com/articles/how-eu-mdr-post-market-surveillance-differs-from-fda-post-market-expectations"><![CDATA[<p>Ensuring the continued safety and performance of medical devices after they enter the market is a core responsibility for regulators worldwide. In the United States, this function is led by the Food and Drug Administration (FDA) through the Center for Devices and Radiological Health (CDRH). In Europe, it is governed under the European Union Medical Device Regulation (<a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20200424#tocId2">EU MDR 2017/745</a>), implemented jointly by national Competent Authorities, the European Commission, and Notified Bodies.</p>
+      <p>They overlap heavily in the evidence they rely on, but they’re not the same process. This is why we recommend building one core Security Evidence Pack that can be packaged both for regulatory documentation and for procurement due diligence.</p>
+      <p>Device classification applies equally to cybersecurity: regulatory class and pathway decisions affect the volume and rigour of documentation, fees and time to market. If you need a refresher, <a href="/articles/how-eu-medical-device-classification-differs-from-the-us-are-you-prepared">Mantra Systems’ article on EU vs US classification explains why early classification errors create expensive rework</a>.</p>
+      <p>For EU entry specifically, notified body capacity is still a pacing factor. <a href="https://health.ec.europa.eu/document/download/59b9d90e-be42-4895-9f6f-bec35138bb0a_en">The European Commission’s 14th notified body survey</a> (data up to 28 February 2025) shows many notified bodies reporting 13–18 months as the most common band to reach a new MDR certificate (QMS and QMS+product), and it highlights that a substantial share of time is often with the manufacturer (document revision/readiness).</p>
+      <p>That’s exactly why this guide focuses on Minimum Viable Cyber Evidence: to reduce avoidable back-and-forth.</p>
+      <h2 id="what-good-looks-like">What good looks like</h2>
+      <p>Good market-ready cyber evidence has a single source of truth: one Security Evidence Pack that is:</p>
+      <ul>
+        <li>Versioned to a specific product release</li>
+        <li>Built on stable system boundaries (device/app/cloud/integrations)</li>
+        <li>Traceable (threats → controls → verification → evidence location)</li>
+        <li>Maintainable (clear refresh triggers so it doesn’t rot)</li>
+      </ul>
+      <p>Then you present the same truth differently depending on the audience:</p>
+      <ul>
+        <li><strong>GB/UKCA packaging:</strong> demonstrate conformity via technical documentation and the appropriate conformity route (including UK Approved Body involvement where required).</li>
+        <li><strong>EU MDR packaging:</strong> map explicitly to Annex I/GSPR expectations (including minimum IT/security requirements) and to MDCG cybersecurity guidance.</li>
+        <li><strong>NHS procurement:</strong> DTAC-aligned summaries plus supporting evidence (and often DSPT alignment where applicable).</li>
+      </ul>
+      <p>You’re not changing the truth, you’re changing navigation.</p>
+      <h2 id="minimum-viable-cyber-evidence-checklist">Minimum Viable Cyber Evidence checklist</h2>
+      <p>This is the smallest set that reliably supports private UK due diligence → NHS DTAC → EU packaging, without overbuilding.</p>
+      <h3 id="1-security-architecture-and-boundaries">1) Security architecture and boundaries</h3>
+      <ul>
+        <li>Boundary diagram: device/app/cloud/APIs/integrations + trust boundaries</li>
+        <li>Data flows + where data is stored/processed</li>
+        <li>Responsibilities: what you control vs what the customer controls</li>
+      </ul>
+      <h3 id="2-threat-model-and-risk-register">2) Threat model and risk register</h3>
+      <ul>
+        <li>Stated assumptions</li>
+        <li>Top abuse cases</li>
+        <li>Threat modelling should be aligned with a recognised framework, such as STRIDE.</li>
+      </ul>
+      <h3 id="3-risk-control-traceability-matrix">3) Risk-control traceability matrix</h3>
+      <p>A single table linking:</p>
+      <ul>
+        <li>Threat/risk → mitigation → design requirement → verification evidence</li>
+        <li>This table shows that you have considered threats, designed and implemented mitigations into the product, and then verified, through practical means, that they have addressed the risk as intended.</li>
+      </ul>
+      <h3 id="4-verification-evidence-index">4) Verification evidence index</h3>
+      <p>A controlled index of evidence artefacts (reports, test outputs, configs, procedures), each tied to:</p>
+      <ul>
+        <li>Product release/version</li>
+        <li>Owner</li>
+        <li>Location</li>
+      </ul>
+      <h3 id="5-security-testing-evidence">5) Security testing evidence</h3>
+      <ul>
+        <li>What was tested, when, and why the scope matches the boundary</li>
+        <li>Findings summary</li>
+        <li>Remediation actions and re-test confirmation to confirm that all unacceptable risks have been addressed</li>
+      </ul>
+      <h3 id="6-sbom-and-vulnerability-management">6) SBOM and vulnerability management</h3>
+      <ul>
+        <li>SBOM coverage statement (what is included/excluded)</li>
+        <li>CVE monitoring workflow and triage log</li>
+        <li>One worked example from detection → decision → fix/mitigation → closure</li>
+      </ul>
+      <h3 id="7-secure-update-and-patch-policy">7) Secure update and patch policy</h3>
+      <ul>
+        <li>How updates are delivered (signing, rollback/failsafe as applicable)</li>
+        <li>Routine vs urgent timelines you can actually meet in clinical deployment</li>
+      </ul>
+      <h3 id="8-post-market-cyber-assurance-cadence">8) Post-market cyber assurance cadence</h3>
+      <ul>
+        <li>What triggers a security impact assessment</li>
+        <li>When you re-test</li>
+        <li>How evidence stays aligned with shipped versions</li>
+      </ul>
+      <h3 id="9-nhs-layer-only-if-nhs-is-a-target-market">9) NHS layer (only if NHS is a target market)</h3>
+      <p>DTAC technical assurance commonly expects cybersecurity evidence around:</p>
+      <ul>
+        <li>Cyber Essentials position</li>
+        <li>Penetration/vulnerability testing evidence</li>
+        <li>Clarity on internal vs external testing</li>
+        <li>Adherence with the DSIT Software Security Code of Practice that governs secure design and development, secure build environment, secure deployment, maintenance and communication with customers</li>
+        <li>Defined logging and reporting requirements</li>
+      </ul>
+      <p>This is the checklist we use to keep procurement and assurance work from becoming a last-minute scramble. It covers the ten artefacts that are most frequently requested — including security architecture and boundaries, threat model and risk register, a risk-control traceability matrix, SBOM and vulnerability monitoring, a VDP/PSIRT route, secure update/patch policy, security test evidence, logging/monitoring approach, supplier security controls, and an incident response playbook with rehearsal evidence — plus a suggested cadence for keeping them current.</p>
+      <p><strong>Free download: <a href="https://cyberalchemy.co.uk/wp-content/uploads/2026/03/10-Core-Procurement-Artefacts-CA.pdf">10 Core Procurement Artefacts</a></strong></p>
+      <figure class="inline">
+        <img src="/assets/images/content/articles/inline/pdf-download-10-core-procurement-artefacts.png" alt="" loading="lazy" width="800" height="574" />
+      </figure>
+      <h2 id="five-common-failure-patterns-that-cause-delays-and-how-to-avoid-them">Five common failure patterns that cause delays (and how to avoid them)</h2>
+      <p>These aren’t theoretical. They are repeatable patterns that slow procurement and submissions because they break the “evidence story”.</p>
+      <table class="simple">
+        <thead>
+          <tr>
+            <th>Failure pattern</th>
+            <th>What to do instead</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Unclear system boundaries (scope ambiguity poisons threat modelling, test scope and evidence packaging)</td>
+            <td>Create system architecture documentation and data flow diagrams. Assign trust boundaries and a responsibility matrix, then scope all evidence to it.</td>
+          </tr>
+          <tr>
+            <td>Traceability gap (you can’t show threat → control → verification cleanly)</td>
+            <td>Maintain a short, traceable table listing only the top threats, tied to the release you are shipping. STRIDE is a good framework to use for threat modelling.</td>
+          </tr>
+          <tr>
+            <td>SBOM exists once but isn’t release‑tied</td>
+            <td>Automate SBOM generation per release and log ‘are we affected?’ decisions for material vulnerabilities.</td>
+          </tr>
+          <tr>
+            <td>Patch policy commitments you can’t keep</td>
+            <td>Define realistic timelines that align with clinical deployment and explain how you manage exceptions.</td>
+          </tr>
+          <tr>
+            <td>External developers weren’t contracted to produce evidence</td>
+            <td>Make security requirements and evidence deliverables part of the definition of done and the contract.</td>
+          </tr>
+        </tbody>
+      </table>
+      <p>If you want a quick reference you can actually use while planning your roadmap, we’ve put together a tri-fold PDF that summarises the key cybersecurity evidence differences and overlaps across the UK, EU and US — including the practical split in the UK between private practice and NHS procurement (DTAC). It’s designed to help you answer two questions fast: what evidence can I build once and reuse, and what needs tailoring for the market I’m targeting first (with the cost/time implications in mind).</p>
+      <p><strong>Free download: <a href="https://cyberalchemy.co.uk/wp-content/uploads/2026/03/Access-to-Markets-CA.pdf">Market Differences: UK vs EU vs US</a></strong></p>
+      <figure class="inline">
+        <img src="/assets/images/content/articles/inline/pdf-download-access-to-markets.png" alt="" loading="lazy" width="676" height="648" />
+      </figure>
+      <p><a href="/articles/where-to-launch-first-a-medtech-founders-regulatory-eu-uk-us-roadmap">Mantra’s companion article</a> provides the founder decision framework for the UK vs EU, as well as the broader clinical/regulatory evidence pathways, so you can plan your route to market with the right clinical evidence and pathway.</p>
+      <h2 id="next-step-book-a-joint-review">Next step: Book a joint review</h2>
+      <p>If you want a clear, evidence-first view of what will satisfy assessors and procurement teams (and what will be wasted effort), book a review with <strong>Cyber Alchemy and Mantra Systems</strong>.</p>
+      <p>In 30 minutes we’ll:</p>
+      <ul>
+        <li>Discuss your route to market, drawing on our experts’ real-world experience</li>
+        <li>Identify any key challenges you might face on your route to market and how to overcome them</li>
+        <li>Advise on what to build now vs what to defer (avoid “future-market overbuild”)</li>
+      </ul>
+      <p><a href="https://cyberalchemy.co.uk/contact/">Book a joint review</a></p>
+      <hr />
+      <h2 id="faqs-eu-mdr-and-dtac-cybersecurity-requirements">FAQs (EU MDR and DTAC cybersecurity requirements)</h2>
+      <p><strong>What are the EU MDR cybersecurity requirements for software medical devices?</strong></p>
+      <p>EU MDR expects you to define minimum IT/security requirements for the intended environment (GSPR 17.4) and demonstrate a state‑of‑the‑art approach to lifecycle, risk management (including information security), verification and validation (GSPR 17.2). In practice, reviewers look for a traceable evidence story tied to the release you are putting on the market.</p>
+      <p><strong>What are DTAC cybersecurity requirements and who needs to meet them?</strong></p>
+      <p>DTAC is used in NHS procurement and due diligence. If you intend to sell to, pilot with, or integrate with NHS organisations, you should expect to provide DTAC‑aligned evidence covering organisational posture and product‑level security controls.</p>
+      <p><strong>How do DTAC requirements differ from private practice procurement checks?</strong></p>
+      <p>Private providers typically use variable supplier questionnaires. DTAC is more standardised and tends to require more repeatable, auditable evidence that you can keep current as your product changes.</p>
+      <p><strong>Does UKCA marking require an SBOM?</strong></p>
+      <p>SBOM is not typically presented as a named, standalone UKCA pre‑market requirement in the way it is in some US contexts, but it is a strong evidence signal for <a href="https://cyberalchemy.co.uk/knowledge-hub/fintech-supply-chain-exploiting-payment-terminals-to-harvest-pin-numbers/">supply chain</a> control and post‑market vulnerability handling, and is increasingly expected in procurement.</p>
+      <p><strong>How often should penetration testing be repeated?</strong></p>
+      <p>There is no single universal interval, though at least annual intervals are generally considered a reasonable approach. What really matters is a defensible cadence plus triggers tied to change (major releases, new integrations, significant architectural changes, or new vulnerability classes).</p>
+      <p><strong>How do we keep evidence from going stale after go‑live?</strong></p>
+      <p>Treat your Security Evidence Pack as a maintained asset: assign owners, define refresh triggers, and tie updates to release management and post‑market monitoring.</p>
+      <h2 id="about-the-author">About the author</h2>
+      <p><strong>Luke Hill, Senior Security Consultant at Cyber Alchemy</strong></p>
+      <p>Luke brings deep expertise in security consultancy, penetration testing and regulatory‑aligned security measures in the Health and Social Care sector. He leads Cyber Alchemy’s technical and regulatory efforts in the <a href="https://cyberalchemy.co.uk/wp-content/uploads/2025/06/Medical_Device_Cybersecurity.png">MedTech space</a>, supporting a broad range of MedTech companies in building resilient devices and applications that comply with complex UK, US, and EU regulations.</p>
+      <p><a href="https://cyberalchemy.co.uk/case-study/adaptix-cyber-alchemy"><strong>Related case study:</strong> See how Cyber Alchemy supported <strong>Adaptix</strong> with MedTech cybersecurity and assurance work in practice.</a></p>
+      ]]></content><author><name>luke-hill</name></author><category term="SaMD" /><category term="MDR" /><summary type="html"><![CDATA[This guest article from our partner Cyber Alchemy shows you how to build cybersecurity evidence for the EU MDR and NHS DTAC.]]></summary></entry><entry><title type="html">Where to Launch First? A MedTech Founder’s Regulatory Roadmap to the EU, UK and US</title><link href="https://mantrasystems.com/articles/where-to-launch-first-a-medtech-founders-regulatory-eu-uk-us-roadmap" rel="alternate" type="text/html" title="Where to Launch First? A MedTech Founder’s Regulatory Roadmap to the EU, UK and US" /><published>2026-03-18T00:00:00+00:00</published><updated>2026-03-27T10:57:48+00:00</updated><id>https://mantrasystems.com/articles/where-to-launch-first-a-medtech-founders-regulatory-eu-uk-us-roadmap</id><content type="html" xml:base="https://mantrasystems.com/articles/where-to-launch-first-a-medtech-founders-regulatory-eu-uk-us-roadmap"><![CDATA[<p>A Cyber Alchemy × Mantra Systems Perspective.</p>
+    <p><em>This article is published in partnership with <a href="https://cyberalchemy.co.uk"><strong>Cyber Alchemy</strong></a>. Their focus is on cybersecurity, helping teams develop and evidence security for software-enabled and connected medical devices. Together, we’re producing a practical series for MedTech teams: what to build, what to defer, and how to avoid avoidable rework when moving between UK, NHS procurement, and EU routes.</em></p>
+    <hr />
+    <p>For early-stage MedTech companies, choosing a first target market is not only a commercial decision, but also a regulatory one. The first market often shapes the initial regulatory pathway, the structure of the technical documentation, the evidence strategy, and the internal resources required to reach market readiness.</p>
+    <p>For manufacturers planning international expansion, the question is often whether to start with the UK, the EU, or the US. While all three markets are important, they operate under different regulatory systems and place different demands on manufacturers.</p>
+    <ul>
+      <li>In the EU, market access is governed by Regulation (EU) 2017/745 (MDR), with software-specific implications under Rule 11 and significant reliance on Notified Body assessment for many devices.</li>
+      <li>In the UK, devices are currently regulated under the UK MDR 2002 (which resembles the legacy EU MDD framework), with MHRA oversight.</li>
+      <li>In the US, market entry depends on FDA device classification and the applicable premarket route, such as 510(k), De Novo, or PMA.</li>
+    </ul>
+    <p>A practical first-market decision should therefore begin with regulatory fit rather than assumption. There is no universal answer to which market is “easier” or “faster.” The more useful question is which market best aligns with the product’s <a href="/articles/a-medical-devices-intended-purpose-what-is-the-point">intended purpose</a>, likely classification, available evidence, and current regulatory maturity. For <a href="/medical-device-regulatory-consulting-services/samd-accelerated-approval">software</a> and <a href="/articles/regulatory-cybersecurity-essentials-for-medical-device-software-ai-devices-webinar">AI-enabled</a> products, that analysis may also need to account for parallel obligations relating to data privacy, <a href="https://cyberalchemy.co.uk/service/medical-technology-cyber-security/">cybersecurity</a>, and, in the EU, AI-specific regulation (EU AI Act).</p>
+    <h2 id="a-high-level-overview-of-the-three-regulatory-systems">A High-Level Overview of the Three Regulatory Systems</h2>
+    <p>In the EU, under the MDR, many devices above Class I require conformity assessment by a Notified Body before CE marking can be achieved. <a href="/articles/software-as-a-medical-device">For software</a>, Rule 11 can significantly affect classification and may result in Class IIa, IIb or III depending on the impact of the software on clinical decisions and patient management. The MDR also places strong emphasis on clinical evaluation and post-market obligations.</p>
+    <p>In the UK, devices placed on the UK market must be registered with the MHRA. Although UKCA remains the domestic conformity marking route, CE-marked devices continue to be accepted under current transitional arrangements, with the latest applicable deadline extending to 30 June 2030 depending on device type and the legislation under which the CE mark was obtained. The MHRA has recently launched a consultation on the <a href="https://www.gov.uk/government/consultations/medical-devices-regulations-targeted-consultation-on-the-indefinite-recognition-of-ce-marked-devices">indefinite recognition of CE-marked medical devices</a>. That means CE-mark availability remains a practical factor in first-market planning for companies considering Great Britain alongside the EU.</p>
+    <p>In the US, FDA regulatory framework is more risk-based. Depending on the device and its classification, market entry may proceed through a 510(k) premarket notification, a De Novo request for novel devices without a predicate, or PMA for higher-risk devices. The FDA also maintains dedicated resources for AI-enabled and software-based devices through its Digital Health and device software programmes.</p>
+    <h2 id="ai-enabled-medical-devices-where-the-comparison-becomes-more-complex">AI-Enabled Medical Devices: Where the Comparison Becomes More Complex</h2>
+    <p>For AI-enabled products, the first-market question becomes more complex because manufacturers may need to consider not only medical device rules, but also wider AI, data protection, and cybersecurity requirements.</p>
+    <p>Across all three markets, the starting point is the same: if an AI product meets the definition of a medical device, it is first assessed under the applicable medical device framework. The presence of AI does not, by itself, create a separate medical device category.</p>
+    <p>That said, the regulatory context around AI is no longer limited to regulations surrounding medical devices alone. In the EU, the AI Act adds a horizontal layer for certain AI systems, including some AI-enabled medical devices. The MDCG has explained that the AI Act complements, rather than replaces, the MDR/IVDR by introducing requirements aimed at AI-specific risks; it does not itself change device qualification or MDR/IVDR classification. In parallel, where personal data is processed, GDPR obligations may also apply.</p>
+    <p>In the UK, AI developers need to consider UK GDPR and broader data protection requirements where personal data is processed.</p>
+    <p>In the US, AI-enabled products that meet the device definition remain within the FDA device framework, and the FDA continues to expand guidance and oversight tools for AI-enabled device software functions. For software-based products, cybersecurity and lifecycle management expectations are also increasingly important in premarket planning. Unlike the EU, the US does not currently apply a single cross-sector AI act equivalent to the EU AI Act, so the comparison is not symmetrical.</p>
+    <p>For manufacturers, the practical point is that AI products often require a dual-lens assessment: first, whether the product is a medical device at all; and second, whether additional AI, privacy, or cybersecurity frameworks apply in parallel.</p>
+    <h2 id="five-regulatory-questions-founders-should-ask-before-choosing-a-first-market">Five Regulatory Questions Founders Should Ask Before Choosing a First Market</h2>
+    <h3 id="1-is-the-product-clearly-within-medical-device-scope-in-all-three-markets">1. Is the product clearly within medical device scope in all three markets?</h3>
+    <p>Start with intended purpose, claims, functionality, user type, and the degree to which the product influences diagnosis, treatment, or patient management. This is especially important for software and AI-enabled products, where qualification can differ across jurisdictions.</p>
+    <p>This point is particularly important for software, generative AI, and clinical workflow tools. Not all healthcare-related software is medical device software. Qualification depends on intended purpose and the actual function being performed. In the EU, MDCG (2019-11) software guidance remains central to that analysis, and in the UK the MHRA likewise ties software qualification to whether the product meets the legal definition of a medical device.</p>
+    <p>For AI-enabled products, this boundary question is even more important because the product may sit at the edge of medical device regulation while also raising separate questions around model governance, data protection, and cybersecurity.</p>
+    <h3 id="2-what-is-the-likely-classification-review-route-and-timeline">2. What is the likely classification, review route, and timeline?</h3>
+    <p>Manufacturers should assess not only likely classification, but also the practical route to market and expected review timeline.</p>
+    <p>In the EU, software may be upclassified under MDR Rule 11, which can trigger Notified Body involvement and significantly extend timelines. Industry sources indicate MDR conformity assessment often takes around 12 to 18 months, depending on device complexity, evidence readiness, and Notified Body capacity. This is particularly relevant for some AI-enabled products: AI does not automatically increase classification, but AI-driven functionality may contribute to a higher-risk classification where the software informs or drives diagnosis, treatment decisions, or patient management.</p>
+    <p>In the UK, the position can be different. Because the current UK framework still largely reflects legacy MDD rules rather than the EU MDR software regime, some stand-alone software products that may be Class IIa or above in the EU can remain self-certified as Class I in the UK in some cases. That can create a materially faster route to market, provided the classification rationale is robust.</p>
+    <p>For some early-stage software companies, this difference can shape sequencing strategy. Where early market entry, initial revenue generation, and real-world or clinical data collection are priorities, a UK-first approach may in some cases be a practical step before pursuing a higher-class EU submission. The key point is that classification, reviewer involvement, and timeline should be mapped early, because the most practical first market is not always the same as the long-term target market.</p>
+    <h3 id="3-is-the-evidence-package-sufficient">3. Is the evidence package sufficient?</h3>
+    <p>Evidence readiness is one of the most common reasons early-stage companies stall after choosing a market. Having a plausible regulatory route is not the same as being ready to walk it.</p>
+    <p>Under the EU MDR, clinical evaluation sits at the heart of the technical documentation. Manufacturers must demonstrate a favourable benefit-risk profile through a Clinical Evaluation that is substantiated by clinical data, whether generated through clinical investigations, post-market clinical follow-up, or a robust equivalence argument supported by sufficient clinical, biological, and technical similarity to an equivalent device. For software and AI products, equivalence arguments are often harder to sustain because the nature of the product, its training data, and its intended outputs make genuine equivalence to a legacy device difficult to establish. Regulators and Notified Bodies are increasingly scrutinising equivalence claims for software, and founders should not assume that equivalence is a shortcut available to them.</p>
+    <p>The state of the evidence should be mapped against the likely classification at an early stage. A Class IIa software product heading toward a Notified Body review needs a materially more developed evidence package than a Class I product relying on self-declaration. If the evidence is thin, early feasibility data, limited clinical datasets, or surrogate endpoints that do not directly measure patient outcomes, that should factor directly into the choice of first market, not just the submission timeline.</p>
+    <p>In Great Britain, the current framework gives manufacturers somewhat more flexibility in how clinical evidence is structured and presented, particularly for lower-classification products. While the MHRA expects a proportionate and credible benefit-risk justification, the prescriptive requirements around CER format and PMCF planning that apply under EU MDR are not currently replicated in the GB regime. For companies with limited but promising early-stage clinical data, this can make a GB-first submission more viable in the near term, provided the evidence is genuinely sufficient to support the claims being made and the intended use.</p>
+    <p>For the US, the FDA’s evidentiary expectations depend on the pathway. A 510(k) requires a substantial equivalence argument supported by performance testing and, where relevant, clinical data. A De Novo requires a more developed benefit-risk analysis. For AI and software-based products, the FDA has published increasingly detailed guidance on performance testing expectations, transparency, and real-world performance monitoring. Founders targeting the US should engage early with what the FDA expects for their specific product type, rather than assuming that evidence generated for the EU or UK will map directly.</p>
+    <p>The practical question is not just whether the evidence exists, but whether it is the right kind of evidence for the market you are entering first, and whether it will also serve the markets you intend to enter next.</p>
+    <h3 id="4-is-the-company-operationally-ready">4. Is the company operationally ready?</h3>
+    <p>The right route on paper may still be the wrong first market in practice. Companies need to look honestly at how ready they are: is the documentation mature enough, is the quality system in place, and can the team handle regulator or reviewer questions without slowing the project down?</p>
+    <p>In the EU, the technical documentation required under MDR Annexes II and III is extensive. For software products, this includes the software lifecycle documentation expected under IEC 62304, usability engineering records under IEC 62366, cybersecurity documentation, and where AI or machine learning functionality is present, an increasing expectation around transparency, algorithm governance, and change management. The quality management system must be MDR-compliant and, for most Class IIa and above devices, certified under ISO 13485 by a Notified Body. Companies should also ensure they have a PRRC (Person Responsible for Regulatory Compliance) in place. This is a legal requirement under MDR Article 15, and the PRRC must hold documented qualifications in the relevant regulatory field. Many early-stage companies underestimate the practical burden of having an appropriately qualified PRRC, particularly where the team is small and wearing multiple hats.</p>
+    <p>In the UK, the operational requirements are somewhat lighter in some respects but should not be treated as negligible. MHRA registration is required, and manufacturers established outside the UK must appoint a UK Responsible Person, a UK-based entity that takes on defined legal responsibilities in relation to the device’s compliance and registration. For EU-based or US-based companies targeting the UK market, identifying and formally appointing a UK Responsible Person should be treated as an early operational task, not an afterthought. The quality system requirements under the current UK framework also broadly align with ISO 13485, though the full implementation of the future UK MDR regime, which is expected to introduce closer alignment with MDR-style requirements, will increase the operational burden over time.</p>
+    <h3 id="5-will-the-first-market-support-the-next-one">5. Will the first market support the next one?</h3>
+    <p>First-market strategy should always be designed with the second and third markets in mind. This is especially important for medical device companies, where the cost and time of generating clinical evidence and building technical documentation is substantial, and where poor upfront planning can mean that work done for one jurisdiction needs to be substantially repeated for another.</p>
+    <p>The most significant area of leverage is intended use and claims. The way a product’s intended purpose is framed, the patient population, the clinical context, the specific function being performed, shapes both the regulatory classification and the evidence requirements across all three major markets. A claims strategy that is drafted purely to navigate the first market can create real problems when the same product is presented to a different regulator with different expectations. Founders should work with regulatory counsel to develop an intended use statement that is not only appropriate for the first submission but that is defensible and reasonably portable across the UK, EU, and US.</p>
+    <p>Core technical documentation is another area where upfront investment pays dividends. The EU MDR technical file structure, clinical evaluation, risk management documentation under ISO 14971, software lifecycle records, post-market surveillance planning, and usability evidence, represents a high documentation standard. Companies that build documentation to MDR standards from the outset will generally find that adapting it for a Great Britain submission or a US FDA submission involves incremental work rather than starting from scratch. The reverse is not always true: companies that take shortcuts to meet the minimum requirements of an easier first market often find that the documentation they have produced is not sufficient as a foundation for subsequent submissions.</p>
+    <p>For AI and software products specifically, the post-market obligations embedded in the EU MDR, PMCF planning, post-market surveillance reports, and the evolving expectations under the EU AI Act for high-risk AI systems, mean that companies should be collecting and structuring real-world performance data from the earliest point of market entry. Data collected in the GB market, if structured correctly, can contribute to PMCF evidence for a subsequent EU submission. That opportunity is often missed when first-market entry is treated as a standalone exercise rather than the first phase of an integrated evidence strategy.</p>
+    <p>The practical recommendation is to treat the first submission not as a minimum viable compliance exercise, but as the foundation of a regulatory programme. The investment required to do this well is modest relative to the cost of rebuilding documentation from scratch for each subsequent market, and the value of having a coherent, credible regulatory story across jurisdictions should not be underestimated when engaging with Notified Bodies, the MHRA, or the FDA at a later stage.</p>
+    <h2 id="conclusion">Conclusion</h2>
+    <p>There is no one-size-fits-all answer to the question of whether the UK, EU, or US should come first. The right decision depends on the product, the pathway, the evidence, and the company’s readiness to support it.</p>
+    <p>What matters most is making that decision early and on the right regulatory basis. A structured first-market assessment and regulatory strategy can help identify the most practical route, reduce avoidable rework, and build a stronger foundation for future expansion across multiple markets.</p>
+    <p>Regulatory strategy and cybersecurity readiness are two sides of the same coin, and your choice of first market shapes both.</p>
+    <hr />
+    <h2 id="book-a-joint-review">Book a Joint Review</h2>
+    <p>Choosing your first market is one of the most consequential decisions you’ll make as a medical device founder. Getting the regulatory sequencing, evidence strategy, and documentation right from the start can mean the difference between a smooth path to commercialisation and years of costly rework.</p>
+    <p>Mantra Systems and Cyber Alchemy are offering a free 30-minute joint review for early-stage founders and innovation teams. In that session we will:</p>
+    <ul>
+      <li>Map your most practical route to market based on your product, classification, and evidence readiness</li>
+      <li>Identify the key regulatory and cybersecurity challenges on your path, and how to address them</li>
+      <li>Advise on what to build now versus what to defer, so you invest your resources in the right things at the right time</li>
+    </ul>
+    <p><a href="/contact">Get in touch to book your session</a>.</p>
+    ]]></content><author><name>ronghe-xu</name></author><category term="MDR" /><category term="SaMD" /><summary type="html"><![CDATA[Cyber Alchemy × Mantra Systems — Episode 1: All three markets operate under different regulatory systems and place different demands on manufacturers.]]></summary></entry><entry><title type="html">Navigating EU MDR Article 117: A Practical Guide to Drug-Device Combination Product Submissions</title><link href="https://mantrasystems.com/articles/navigating-mdr-article-117-practical-guide-to-drug-device-combination-product-submissions" rel="alternate" type="text/html" title="Navigating EU MDR Article 117: A Practical Guide to Drug-Device Combination Product Submissions" /><published>2026-03-11T00:00:00+00:00</published><updated>2026-03-12T09:59:46+00:00</updated><id>https://mantrasystems.com/articles/navigating-mdr-article-117-practical-guide-to-drug-device-combination-product-submissions</id><content type="html" xml:base="https://mantrasystems.com/articles/navigating-mdr-article-117-practical-guide-to-drug-device-combination-product-submissions"><![CDATA[<p>With the implementation of the EU Medical Device Regulation (MDR) 2017/745, the regulatory landscape for drug-device combination products (DDCs) has undergone significant changes.</p>
+  <p>One of the most impactful updates is Article 117, which introduces new conformity assessment obligations for the device components of medicinal products. This article provides a clear, step-by-step overview of how manufacturers can navigate these requirements, obtain the necessary CE marking or Notified Body Opinion (NBOp), and achieve successful EU market approval for their combination products. Whether you are developing a pre-filled syringe, drug-eluting stent, or auto-injector, understanding these new regulatory expectations is essential for timely and compliant market access.</p>
+  <h2 id="what-is-a-drug-device-combination-product">What is a drug-device Combination Product?</h2>
+  <p>A drug-device combination product integrates a medicinal product and a medical device into a single, combined product. These products are designed to improve patient outcomes by delivering medication through a controlled, targeted method or simplifying treatment administration.</p>
+  <p>Additionally, the European Medicines Agency (EMA) provides the most meaningful definition, describing the combination, and which is stated as:</p>
+  <blockquote>
+    <p>“The medical device may be supplied as an integral component of the medicinal product (e.g., pre-filled syringe, auto-injector) or separately (co-packaged; e.g., oral syringe, pen-injector), as a non-integral combination with the medicinal product, or independently marketed (in cases where the device meets the requirements for the necessary delivery system stated in the Summary of Product Characteristics (SmPC) for the medicinal product).”</p>
+  </blockquote>
+  <h2 id="how-is-a-product-categorised-as-a-medicinal-product-or-a-medical-device-based-on-its-mode-of-action">How is a product categorised as a medicinal product, or a medical device based on its mode of action?</h2>
+  <p>Under EU MDR 2017/745, the classification of a drug-device combination product is determined by its Primary Mode of Action (PMOA) - that is, the principal intended action by which the product achieves its therapeutic purpose in or on the human body.</p>
+  <p>The PMOA guides whether a product is regulated as a medical device or a medicinal product as follows.</p>
+  <h3 id="device-led-combination-products">Device-led combination products</h3>
+  <p>These are regulated as medical devices if the action of the device is the primary intended effect, and any medicinal substance present plays only an ancillary, supportive, or secondary role to the device’s physical, mechanical, or other non-pharmacological action.</p>
+  <p>In such cases, while the device is assessed under the MDR 2017/745, a consultation procedure with a competent authority or EMA is still required to assess the ancillary medicinal substance’s quality, safety, and usefulness.</p>
+  <figure class="inline">
+    <img src="/assets/images/content/articles/inline/heart-stent.jpg" alt="A heart stent being held up in someones hand." loading="lazy" width="800" height="530" />
+    <figcaption>Drug-eluting stents are considered device-led combination products.</figcaption>
+  </figure>
+  <h3 id="drug-led-combination-products">Drug-led combination products</h3>
+  <p>These are regulated as medicinal products if the action of the medicinal substance is the primary, principal, and prominent effect, with the device element serving a supplementary or supporting function (e.g., a pre-filled syringe administering a drug).</p>
+  <p>These are authorised under the Medicinal Products Directive 2001/83/EC or Regulation (EC) No 726/2004 depending on the route, with specific obligations under MDR Article 117 for the device part.</p>
+  <figure class="inline">
+    <img src="/assets/images/content/articles/inline/insulin-injector-arm.jpg" alt="A user of a insulin auto-injector holding it up to their arm." loading="lazy" width="800" height="530" />
+    <figcaption>Auto-injectors administering a drug are an example of a drug-led combination product.</figcaption>
+  </figure>
+  <p>Correctly identifying and documenting the PMOA at the earliest development stage is crucial, as it defines the applicable regulatory framework, conformity assessment obligations, and <a href="/eu-mdr-compliance/notified-bodies">Notified Body (NB)</a> or Competent Authority (CA) involvement required for EU market approval.</p>
+  <h2 id="article-117---ce-marking-requirements-for-combination-products">Article 117 - CE Marking Requirements for Combination Products</h2>
+  <p><a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20200424">Article 117 of the EU MDR</a> requires that the device component of a drug-device combination undergoes formal assessment by a Notified Body to ensure that it meets the applicable requirements of the EU MDR. The results of the assessment of the conformity of the device part shall be included in the marketing authorisation dossier.</p>
+  <p>The necessity of a declaration of conformity and an EU certificate issued by a notified authority for the evaluation of compliance of the device part and the drug-device Combination marketing authorisation dossier is the most significant change brought about by Article 117 of the EU MDR.</p>
+  <p>Article 117 of the new EU MDR amends Annex I of the Medicinal Product Directive (MPD) 2001/83/EC, point 12 of Section 3.2. This states that:</p>
+  <blockquote>
+    <p>“(12) Where, a product is governed by this Directive, the marketing authorization dossier shall include, where available, the results of the assessment of the conformity of the device part with the relevant general safety and performance requirements set out in Annex I to that Regulation contained in the manufacturer’s EU declaration of conformity or the relevant certificate issued by a notified body allowing the manufacturer to affix a CE marking to the medical device.</p>
+  </blockquote>
+  <p>If the dossier does not include the results of the conformity assessment referred to in the first subparagraph and where for the conformity assessment of the device, if used separately, the involvement of a notified body is required in accordance with Regulation (EU) 2017/745, the authority shall require the applicant to provide an opinion on the conformity of the device part with the relevant general safety and performance requirements set out in Annex I to that Regulation issued by a notified body designated in accordance with that Regulation for the type of device in question.”</p>
+  <p>Article 117 requires:</p>
+  <ul>
+    <li>The device component of a combination product must meet the General Safety and Performance Requirements (GSPRs) of <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20200424#tocId142">Annex I of the MDR</a>.</li>
+    <li>Evidence of this conformity must be included in the Marketing Authorisation Application (MAA).</li>
+    <li>Requires either:
+      <ul>
+        <li>A CE certificate issued by a Notified Body (NB) for the device component, or</li>
+        <li>A Notified Body Opinion (NBOp) confirming conformity if the device is not CE marked.</li>
+      </ul>
+    </li>
+  </ul>
+  <p>Article 117 affects integral products, referenced and co-packaged device components where the medicinal substance achieves the principal mode of action, such as those devices intended to administer a medicinal product.</p>
+  <p><strong>Single integral products</strong> comprise a device component with a medicinal product, intended to be used exclusively in the given combination and are not reusable (multi-dose products which cannot be refilled fall within this criteria). When the device is integrated with a medicinal substance where the action of that substance is principal, or when the medical device administers a medicinal product forming a single integral product, such devices are considered an integral product (a combination of a medical device and a medicinal product).</p>
+  <p><strong>Co-packaged products</strong> comprise a medicinal product where the medical device is packed together with the medicinal product.</p>
+  <p><strong>Referenced products</strong> include a medicinal product where the product information refers to a specific medical device to be used with the medicinal product and where the medical device is obtained separately.</p>
+  <div class="scroller">
+    <table class="simple natural">
+      <thead>
+        <tr>
+          <th>Product Type</th>
+          <th>Regulatory Oversight</th>
+          <th>Conformity Requirement</th>
+          <th>Compliance Route</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Single Integral Products</td>
+          <td>Directive 2001/83/EC or Regulation (EC) No 726/2004</td>
+          <td>NBOp or CE mark for the device part</td>
+          <td>Must meet:<br />
+            - Combined into a single, integral product <br />
+            - Not reusable <br />
+            - Only intended to be used in combination</td>
+        </tr>
+        <tr>
+          <td>Co-packaged Devices</td>
+          <td>MDR 2017/745</td>
+          <td>Must be CE marked</td>
+          <td>Class I non-sterile, non-measuring: self-certified <br />
+            All other classes: NB involvement required</td>
+        </tr>
+        <tr>
+          <td>Referenced Devices</td>
+          <td>MDR 2017/745</td>
+          <td>Must be CE marked</td>
+          <td>Class I non-sterile, non-measuring: self-certified <br />
+            All other classes: NB involvement required</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <h2 id="submission-process-overview">Submission Process Overview</h2>
+  <ol class="numbered-discs">
+    <li>Determine applicability of Article 117 (e.g., non-CE marked)</li>
+    <li>Identify an NB with MDR designation in the relevant product technology.</li>
+    <li>Assess which GSPRs apply to your device.</li>
+    <li>Obtain scientific evidence demonstrating compliance with each applicable GSPR.</li>
+    <li>Prepare Technical documentation accordance with MDR Annex II.</li>
+    <li>Apply for CE mark or NBOp, depending on the device status.</li>
+    <li>Receive NB opinion or CE certificate.</li>
+    <li>Include in the MAA submission.</li>
+  </ol>
+  <h2 id="notified-body-opinion-nbop-and-ce-marking-requirements-under-mdr-article-117">Notified Body Opinion (NBOp) and CE Marking Requirements under MDR Article 117</h2>
+  <p>Manufacturers of medical devices intended for use in drug-device combination products must obtain CE marking through an appropriate conformity assessment process applicable to the device. The resulting CE certificate must then be included in the Marketing Authorisation Application (MAA).</p>
+  <p>The assessment report of the NB concluding the requested opinion should be designed in a way that the medicine’s competent authority can rely on it for the final marketing authorisation (MA). Hence, representatives of the NB and the EMA should discuss the expectations and requirements in advance to ensure a consistent procedure.</p>
+  <p>For new marketing authorisation applicants to establish that the device component of a drug-device combination product meets the MDR requirements established in Annex I of the Regulation, a DoC or CE mark will be required. If not, they must provide opinions from NBs supporting conformity to MDR Annex I rules.</p>
+  <h2 id="ce-marking-route">CE Marking Route</h2>
+  <p>Manufacturers of drug-device combination (DDC) products must ensure the device component undergoes a conformity assessment as per the applicable device classification and requirements under EU MDR 2017/745.</p>
+  <p>If the device component already holds a CE mark, the manufacturer must:</p>
+  <ul>
+    <li>Include the Declaration of Conformity (DoC) and CE certificate issued by a Notified Body (NB) in the Marketing Authorisation Application (MAA).</li>
+    <li>Ensure that the device has undergone the appropriate conformity assessment procedure for its risk class and intended use.</li>
+  </ul>
+  <h2 id="notified-body-opinion-nbop-route">Notified Body Opinion (NBOp) Route</h2>
+  <p>If the device is not CE marked for the specific intended use:</p>
+  <ul>
+    <li>The manufacturer must apply to an EU MDR-designated NB to obtain an opinion on the device’s conformity with the General Safety and Performance Requirements (GSPRs) outlined in Annex I of the MDR.</li>
+    <li>This NBOp must be submitted with the MAA and is mandatory for initial marketing authorisation or any substantial design changes (e.g., new device, major modifications).</li>
+  </ul>
+  <h3 id="how-to-select-a-notified-body">How to select a Notified Body?</h3>
+  <p>If a NBOp is necessary, selecting an accredited NB is the next step. While New Approach Notified and Designated Organisations (NANDO) Information System lists 50 NBs accredited under MDR. However, not all of them provide Article 117 services EFPIA members typically select from a group of 4 commonly used NBs. This preference may come from having an established relationship, or business considerations such as the NB expertise, dedicated resources for review, and/or offering expedited review options.</p>
+  <p>Companies usually initiate contact with their selected NB approximately nine months before their planned NBOp submission. Most of these assessments relate to initial Marketing Authorization (MA) Applications (MAAs), with 92% of companies agreeing on a submission slot and established review timelines with the NBs. This ensures alignment with the EMA MA timelines, in which EMA has strongly recommended submitting the NBOp at time of submission, especially for short variations procedures. However, some companies prefer and have been successful with parallel reviews in which the NBOp is provided during the MAA review procedure. Misalignment of these timelines can lead to delays in the approval process, highlighting the need for proactive communication with the EMA.</p>
+  <p>To streamline the process, early discussions (e.g. project introduction; structured dialogue) with the NB is highly advantageous. These discussions facilitate collaboration and provide early regulatory guidance, issue identification, improved submission quality, and efficient resource planning. Early planning is crucial for selecting the right NB, establishing contractual agreements, securing a submission slot for timely EMA submission, and involving suppliers early to support the creation of GSPR-compliant deliverables.</p>
+  <h3 id="how-long-does-it-take-to-obtain-a-notified-body-opinion-nbop">How long does it take to obtain a Notified Body Opinion (NBOp)?</h3>
+  <p>The timeframe for obtaining an NBOp can vary considerably and largely depends on the quality and completeness of the documentation initially submitted to the Notified Body (NB), as well as the number of “clock stops” required to address requests for clarification or additional information. Engaging directly with an NB at the outset is therefore advisable, as it allows applicants to establish realistic timelines for assessment and ensure expectations are aligned. Whether an NBOp is sought to accompany a Marketing Authorisation Application (MAA), a variation, or a line extension, early dialogue with the NB is essential to avoid unnecessary delays.</p>
+  <p>The Notified Body, BSI has indicated in its guidance materials that the NBOp process typically takes between two and six months to complete. While this timeframe is not explicitly stated as being specific to MAAs, it can reasonably be inferred that this range applies to NBOp assessments in support of such applications.</p>
+  <h2 id="technical-documentation-requirements">Technical Documentation Requirements</h2>
+  <p>To obtain a Notified Body Opinion (NBO), manufacturers must provide their technical documentation to the Notified Bodies, ensuring it contains adequate scientific evidence and data to validate the product’s claims. The requirements for this documentation are outlined in Annex II of the Medical Device Regulation (MDR). This comprehensive documentation is essential to support the evaluation process and typically encompasses a wide range of detailed technical and clinical information.</p>
+  <table class="simple">
+    <thead>
+      <tr>
+        <th>Documents</th>
+        <th>Purpose</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Risk Management Documentation</td>
+        <td>Demonstrates identification and control of risks (ISO 14971 compliant).</td>
+      </tr>
+      <tr>
+        <td>Safety and Performance Data</td>
+        <td>Includes clinical data to prove safe and effective use with the drug.</td>
+      </tr>
+      <tr>
+        <td>Functionality Testing</td>
+        <td>Verifies performance accuracy (e.g., dosage accuracy, mechanical reliability).</td>
+      </tr>
+      <tr>
+        <td>Usability / Human Factors Testing</td>
+        <td>Ensures user-friendly design with minimal risk in real-world use.</td>
+      </tr>
+      <tr>
+        <td>Instructions for Use (IFU)/Training for users</td>
+        <td>Provides end-user with safety-critical usage guidelines and training info.</td>
+      </tr>
+      <tr>
+        <td>Compatibility Testing</td>
+        <td>Ensures safe and effective interaction between drug and device materials.</td>
+      </tr>
+      <tr>
+        <td>Sterilization Validation &amp; Sterility Test Data</td>
+        <td>Proves the device meets sterility assurance levels as per ISO 11135/11737.</td>
+      </tr>
+      <tr>
+        <td>Packaging Validation Testing</td>
+        <td>Confirms protection and stability of the device in packaging.</td>
+      </tr>
+    </tbody>
+  </table>
+  <h2 id="practical-challenges-and-regulatory-expectations">Practical Challenges and Regulatory Expectations</h2>
+  <ul>
+    <li>Due to expanded MDR requirements, the number of NBs with scope for combination products has decreased, limiting manufacturer options.</li>
+    <li>Pharmaceutical companies may find it challenging to locate a suitably designated NB, especially under time constraints.</li>
+    <li>The format and clarity of the conformity evidence are critical. The NB’s final assessment report must be clear and structured so that Medicines Competent Authorities (e.g., EMA or national authorities) can rely on it during the MAA review.</li>
+    <li>Manufacturers and their designated NB should engage with regulators early to harmonise expectations and avoid submission delays.</li>
+  </ul>
+  <p>Article 117 under EU MDR 2017/745 represents a significant regulatory advancement in the way drug-device combination products are assessed and authorised within the European Union. Manufacturers must ensure that the device components of their drug-device combination products either hold a valid CE mark or are supported by a Notified Body Opinion (NBOp) confirming compliance with the General Safety and Performance Requirements (GSPRs) outlined in Annex I of the MDR. These conformity assessment results, whether a CE certificate or NBOp, must be included in the marketing authorisation dossier, with an NBOp being mandatory for any device components that do not yet hold CE marking. By following a structured, well-documented approach and engaging early with regulatory authorities and Notified Bodies, manufacturers can navigate Article 117 requirements efficiently, ensuring timely and compliant EU market access for their combination products.</p>
+  <p>If you have any questions about this article or would like to learn how Mantra Systems can support your MDR compliance, <a href="/contact">get in touch</a>.</p>
+  ]]></content><author><name>chandini-vk</name></author><category term="MDR" /><summary type="html"><![CDATA[Implementation of the EU MDR 2017/745 has brought significant changes.]]></summary></entry><entry><title type="html">Mantra Systems becomes an official Programme Partner of the NHS Clinical Entrepreneur Programme</title><link href="https://mantrasystems.com/articles/nhs-clinical-entrepreneur-programme-partner-announcement" rel="alternate" type="text/html" title="Mantra Systems becomes an official Programme Partner of the NHS Clinical Entrepreneur Programme" /><published>2026-02-25T00:00:00+00:00</published><updated>2026-03-11T15:13:17+00:00</updated><id>https://mantrasystems.com/articles/nhs-clinical-entrepreneur-programme-partner-announcement</id><content type="html" xml:base="https://mantrasystems.com/articles/nhs-clinical-entrepreneur-programme-partner-announcement"><![CDATA[<p>Mantra Systems is proud to share that we are now <a href="https://nhscep.com/2026/02/06/mantra-systems-announced-as-programme-partner-for-the-nhs-clinical-entrepreneur-programme/">an official Programme Partner</a> of the NHS Clinical Entrepreneur Programme (NHS CEP), a nationally recognised initiative supporting healthcare workers and patients to develop, scale, and deliver innovative solutions for the NHS.</p>
+  <p>Becoming a Programme Partner marks an important milestone in our mission to support safe and effective innovations that benefit patients and the NHS.</p>
+  <p>This partnership enables us to contribute directly to medical innovation led from the front line by providing specialised guidance on medical device regulations, clinical evidence generation, and pathways for bringing medical devices to market. It also reflects a full‑circle moment for our team. Our connection to the Programme began long before today with Paul Hercock, Our CEO, whose early experience as a Clinical Entrepreneur helped shape the foundations of the company we are today.</p>
+  <h2 id="our-journey-with-the-nhs-cep">Our journey with the NHS CEP</h2>
+  <p>When it comes down to it, an entire career can be defined by just a handful of days. In my case, it came down to a wet Tuesday morning in February 2017. I emerged from Elephant &amp; Castle tube station and cursed my choice of shoes as they dark-spotted around blobs of rain and splashes of puddle water. Not the look I was going for.</p>
+  <p>I was on my way to meet Professor Tony Young, head of NHS Innovation and founder of the NHS Clinical Entrepreneur Programme. As a clinician working on my own medical device innovation, I’d been advised that the NHS CEP would be an ideal way to make the most of my fledgling idea.</p>
+  <p>Somehow balancing his work at NHS Innovation with multiple other commitments and an active clinical career as a Professor of Urology, Tony was nonetheless extremely generous with his time. He patiently listened to my ideas while outlining the benefits that the NHS CEP would bring, including a personal mentor, educational sessions on business strategy, personal growth, finance, fundraising and more, along with direct access to funders and an entire network of other healthcare professionals crazy enough to be working on innovations of their own. I was hooked from day 1.</p>
+  <p>I applied to the scheme and – 1-minute video pitch and detailed interview later – was invited to join the Programme in Cohort 2. The first “Pit Stop” session was held a few weeks later and I remember nervously approaching the venue, wondering how far out of my depth I would be. The Friday night was a series of talks from inspirational entrepreneurs that were completely different to those you’d see at a ‘sanitised’ event – these were warts, scars and all, meaning they were highly relatable and made me realise that no one ‘makes it’ without getting knocked back multiple times. The Saturday explored personality types and Belbin team roles, making me think about team composition in a way I’d never even imagined.</p>
+  <p>Then followed a blur of similar events, each offering value completely out of proportion to my expectations. I demolished the ‘recommended reading’ list and attended every event I could, including those during the week, becoming intimately acquainted with the LNER route from Doncaster to London. It was so clear to me that the more I put in, the more the returns compounded. In short, it exploded my growth as an entrepreneur.</p>
+  <h2 id="founding-a-regulatory-affairs-consultancy">Founding a regulatory affairs consultancy</h2>
+  <p>The greatest insight? My idea wasn’t going to work. This might sound like a negative, but it wasn’t. Without the Programme, it’s likely I would have spent years chasing a lost dream. Instead, I’d learned enough to understand that I needed to be honest with myself. I needed to refocus and pivot into a new venture – this time, one that was built around solid business principles and a proper analysis of need.</p>
+  <p>What became Mantra Systems found its origins in the NHS CEP. I wasn’t born an entrepreneur. Yet, Mantra Systems now serves a client base on 5 continents and is growing from strength to strength. It doesn’t happen by magic. It happens by making the most of amazing opportunities when they come along and through applying proper advice and learned principles.</p>
+  <p>Through the challenges of developing my own medical device and realising how difficult it was to understand and navigate regulatory requirements, I recognised a clear gap in the industry. That experience became the foundation for Mantra Systems. Drawing on my background as a clinician, I set out to build a consultancy that could support medical device innovators through the EU MDR and IVDR, helping them navigate the regulations and bring safe, effective devices to market.</p>
+  <figure class="inline">
+    <img src="/assets/images/content/articles/inline/paul-speaks-at-bbraun-industryday-nhs-cep.jpg" alt="Paul standing behind a lecturn with the slide 'Regulations are not your enemy!" />
+    <figcaption>Paul speaking at the BBraun Industry Day hosted in partnership with the NHS CEP</figcaption>
+  </figure>
+  <p>If I hadn’t joined the NHS Clinical Entrepreneur Programme, none of what’s followed would have happened. I’d remain a ‘dreampreneur’, wondering why none of my ideas turned into reality. As it happens, I’m now proud to be a Mentor on the NHS CEP and to bring my own experience and perspectives to events aimed at supporting current cohorts of NHS Clinical Entrepreneurs.</p>
+  <p>I’m even more proud that Mantra Systems is now an official partner to the NHS CEP, closing the circle on a journey that’s been utterly transformative for me. I’m proud that we’ve come so far but mostly grateful – grateful that I made the journey to London that day, grateful that my wet shoes didn’t spoil the meeting, and grateful that I was given the opportunity to learn so much from others who so generously share their time and expertise through the Programme.</p>
+  <p>I’ve been privileged to benefit from all that the NHS CEP brings and look forward to the next chapter as an official partner, working to support a new wave of medical device innovators to bring their ideas to market and solve real healthcare challenges for the benefit of the many. If you’re embarking on your own innovation journey and need support navigating the regulatory landscape, <a href="/contact">contact us today</a>.</p>
+  <p><a href="https://nhscep.com/2026/02/06/mantra-systems-announced-as-programme-partner-for-the-nhs-clinical-entrepreneur-programme/">Read the full announcement on the NHS Clinical Entrepreneur Programme website</a>.</p>
+  ]]></content><author><name>paul-hercock</name></author><category term="News &amp;amp; Media" /><summary type="html"><![CDATA[We're proud to join a this initiative supporting healthcare workers and patients to develop innovative solutions for the NHS.]]></summary></entry><entry><title type="html">How EU MDR Post Market Surveillance differs from FDA post-market expectations</title><link href="https://mantrasystems.com/articles/how-eu-mdr-post-market-surveillance-differs-from-fda-post-market-expectations" rel="alternate" type="text/html" title="How EU MDR Post Market Surveillance differs from FDA post-market expectations" /><published>2026-02-18T00:00:00+00:00</published><updated>2026-02-18T13:04:39+00:00</updated><id>https://mantrasystems.com/articles/how-eu-mdr-post-market-surveillance-differs-from-fda-post-market-expectations</id><content type="html" xml:base="https://mantrasystems.com/articles/how-eu-mdr-post-market-surveillance-differs-from-fda-post-market-expectations"><![CDATA[<p>Ensuring the continued safety and performance of medical devices after they enter the market is a core responsibility for regulators worldwide. In the United States, this function is led by the Food and Drug Administration (FDA) through the Center for Devices and Radiological Health (CDRH). In Europe, it is governed under the European Union Medical Device Regulation (<a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20200424#tocId2">EU MDR 2017/745</a>), implemented jointly by national Competent Authorities, the European Commission, and Notified Bodies.</p>
   <p>Post-market surveillance (PMS) plays a central role in ensuring that medical devices remain safe and effective after being made available on the market. While both FDA and the EU MDR impose robust PMS requirements, the scope, structure, and regulatory expectations differ significantly.</p>
   <p>This article presents a comparison of manufacturer-specific post-market obligations across both regulatory systems.</p>
   <h2 id="structure-of-the-post-market-surveillance-system">Structure of the Post-Market Surveillance System</h2>
@@ -716,129 +1015,4 @@
   <p>The ideal consultant will take the time to thoroughly understand your business and products and will be proactive and responsive to your needs throughout the engagement. We offer such a service here at Mantra Systems, so <a href="/contact">reach out if you’d like to explore this with us</a>.</p>
   <h2 id="compliance-is-the-key-to-global-market-access">Compliance is the Key to Global Market Access</h2>
   <p>In essence, eyewear manufacturers operating in today’s environment must recognise that their products are not merely accessories but critical medical devices subject to rigorous oversight. Navigating the complexities of regulations from bodies like the FDA, the EU MDR, and the UK MDR, while also adhering to international standards such as ISO 13485, is paramount. Understanding device classifications, maintaining meticulous documentation, and prioritising quality management are not just compliance exercises; they are fundamental to ensuring product safety and gaining access to global markets.</p>
-  ]]></content><author><name>gabriela-cardoso</name></author><category term="MDR" /><summary type="html"><![CDATA[The importance of correct classification and our recommended path to avoid common ophthalmic device 'gotchas'.]]></summary></entry><entry><title type="html">The Shift from MDD to MDR: Key Differences in Demonstrating Equivalence</title><link href="https://mantrasystems.com/articles/mdd-mdr-key-differences-in-demonstrating-equivalence" rel="alternate" type="text/html" title="The Shift from MDD to MDR: Key Differences in Demonstrating Equivalence" /><published>2026-01-06T00:00:00+00:00</published><updated>2026-01-06T10:16:03+00:00</updated><id>https://mantrasystems.com/articles/mdd-mdr-key-differences-in-demonstrating-equivalence</id><content type="html" xml:base="https://mantrasystems.com/articles/mdd-mdr-key-differences-in-demonstrating-equivalence"><![CDATA[<p>The <a href="/solutions/mdd-mdr-transition-legacy-devices">transition from the Medical Device Directive (MDD)</a> to the Medical Device Regulation (MDR) represents a significant shift in the regulatory landscape for medical devices within the European Union (EU).</p>
-  <p>The MDD provided a regulatory framework to govern the safety and performance of medical devices within the EU market. It was designed to ensure that medical devices, from simple products like bandages to more complex technologies such as pacemakers, met stringent safety and performance standards before entering the market. The introduction of the <a href="/eu-mdr-compliance">EU MDR</a> replaces the MDD and the Active Implantable Medical Devices Directive (AIMDD), introducing a more rigorous and comprehensive regulatory approach.</p>
-  <p>The EU MDR requires the demonstration of equivalence to be more transparent and supported by more evidence. Furthermore, the process of establishing equivalence necessitates careful preparation and comprehensive documentation due to the MDR’s unique criteria and enhanced scrutiny.</p>
-  <h2 id="unlocking-the-concept-of-equivalence">Unlocking the Concept of Equivalence</h2>
-  <p>Equivalence refers to the process of demonstrating that a new device is as safe and effective as an already existing, previously approved device. This comparison is made in terms of several critical factors, including the device’s intended use, design, principles of operation, and clinical performance. Essentially, proving equivalence involves showing that the new device performs in a similar way to the predicate device, ensuring that it does not introduce any additional risks or hazards for the patient or user.</p>
-  <p>Under the MDR (Annex XIV, Part A), manufacturers are required to consider a comprehensive range of technical, biological, and clinical characteristics when demonstrating equivalence. These characteristics are fundamental to the assessment process and must be thoroughly evaluated to confirm that the new device meets the same safety and performance standards as the existing device. The MDR outlines specific expectations for each of these areas, with the requirement for robust documentation and evidence to support equivalence claims.</p>
-  <p>The guidelines set forth in the <a href="https://health.ec.europa.eu/system/files/2020-09/md_mdcg_2020_5_guidance_clinical_evaluation_equivalence_en_0.pdf">MDCG 2020-5</a> document offer further clarity on how to assess these three key characteristics. The guideline underscores the need for clear, scientific evidence and detailed justifications when manufacturers claim equivalence, ensuring that the new device is not only technically comparable but also demonstrates equivalent clinical performance in real-world settings.</p>
-  <h2 id="technical-characteristics">Technical characteristics</h2>
-  <p>Under the MDD, both the subject device and its equivalent must be used in the same conditions of use. In contrast, the MDR only mandates that the conditions of use be similar. If there are no significant differences expected in terms of safety and performance, the conditions of use can be considered similar.</p>
-  <p>The MDR also introduces a specific requirement for software algorithms, stating that the algorithms of the subject device and its equivalent must be similar. This includes software algorithms that drive or influence the use of the device, as well as software intended for standalone use, which was not something explicitly required under the MDD. When establishing equivalence for a software algorithm, factors such as its functional principle, clinical performance, and intended purpose are all taken into account.</p>
-  <h2 id="biological-characteristics">Biological characteristics</h2>
-  <p>Both the MDD and MDR require the use of the same materials or substances that come into contact with the same type of human tissue or body fluids. However, the MDD allowed for some flexibility, particularly when it comes to devices that are in contact with intact skin or contain minor components. In these cases, risk analysis results may permit the use of similar materials, considering the role and nature of the material in the device.</p>
-  <p>In contrast, the MDR introduces more specific and stringent requirements. It mandates that materials used in devices must exhibit similar release characteristics, such as leachable and degradation products, compared to the equivalent device. Additionally, these materials must be used under similar conditions, such as the same type of contact, and for a similar duration. Furthermore, the MDR imposes extra obligations when it comes to substances intended for introduction into the human body, whether they are absorbed or locally dispersed. In such cases, equivalence must be demonstrated by using the same substances, ensuring that safety and performance standards are met across the board.</p>
-  <p>These devices are not medicinal products, but they must meet the requirements in Annex I of <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32001L0083">Directive 2001/83/EC17</a> for conformity assessment. This includes evaluating how they are absorbed, distributed, metabolised, and excreted, as well as their local tolerance, toxicity, interactions with other devices, medicines, or substances, and potential adverse reactions. These factors must also be considered when proving equivalence under the MDR.</p>
-  <h2 id="clinical-characteristics">Clinical characteristics</h2>
-  <p>The MDR specifies that the device must be used by the same type of user, whether that’s a healthcare professional or a layperson. When making an equivalence claim, manufacturers are required to assess whether the skills and knowledge of the intended user might influence the safety, performance, or clinical outcomes. For example, a portable oxygen concentrator designed for hospital use may have advanced features, such as precise flow control and continuous monitoring, to meet the needs of medical professionals. On the other hand, a home-use oxygen concentrator is simpler, offering basic functionality for patients with respiratory conditions, designed for ease of use without the need for professional intervention, and likely with fewer advanced features.</p>
-  <p>While the MDD clearly states that the medical devices being compared must be used for the same medical indication and duration, the MDR presents a more flexible requirement, stating that devices must be used “for the same clinical condition of the patient or for the same purpose.” Both the MDD and MDR, however, ensure that devices address a similar severity and stage of disease, while also demonstrating comparable critical performance characteristics.</p>
-  <figure class="intrinsic">
-    <img src="/assets/images/content/articles/inline/mdr-equivalence-tips.png" alt="3x tips for MDR equivalence claims infographic." loading="lazy" width="400" height="400" />
-  </figure>
-  <h2 id="winning-strategies-for-mdr-equivalence-claims">Winning Strategies for MDR Equivalence Claims</h2>
-  <h3 id="tip-1-understand-the-process">Tip 1: Understand the process</h3>
-  <p>Equivalence is the process of demonstrating that two or more devices are similar to the point that there is no clinically relevant difference in their safety and clinical performance. In other words, it’s much more than just showing they are ‘similar’. Equivalent means ‘effectively the same as’, meaning that it’s harder to prove than a claim of similarity.</p>
-  <h3 id="tip-2-do-the-prep-work">Tip 2: Do the prep work</h3>
-  <p>According to <a href="https://www.medical-device-regulation.eu/wp-content/uploads/2019/05/2_7_1_rev4_en.pdf">MedDev 2.7/1 rev 4</a>, equivalence claims should be backed up with strong scientific evidence. This may require an extensive literature search to address the device’s technical, biological, and clinical specifications.</p>
-  <p>The medical device manufacturer should identify and declare any differences between the two devices that are revealed during the literature appraisal – don’t shy away from them. <a href="/enable-ce-mark/technical-document-templates/mdr-compliance-checker-gap-analysis-tool">Conducting a Gap Analysis</a> to see whether there is a clinically relevant difference between your product and the proposed equivalent device will also help you to flesh out the equivalence claim.</p>
-  <div class="video-wrap">
-    <div class="video-insert youtube-player" data-id="3EDLJ0s2b0U"></div>
-    <p class="video-caption">Watch our guide on equivalence in medical devices</p>
-  </div>
-  <h3 id="tip-3-go-three-dimensional">Tip 3: Go three-dimensional</h3>
-  <p>The three dimensions to be taken into consideration while demonstrating equivalence are technical, biological, and clinical characteristics of the devices. Having done the prep work, it’s time to form the argument.</p>
-  <h2 id="key-tips-for-a-robust-equivalence-claim">Key tips for a robust equivalence claim</h2>
-  <p>Under the new regulations, the process of equivalence is more rigorous, demanding robust clinical evidence, detailed documentation, and a proactive approach to post-market surveillance. These changes are designed to ensure that medical devices continue to meet the highest standards of safety and effectiveness, ultimately benefiting patients.</p>
-  <p>For manufacturers, understanding and navigating these changes is essential to successfully demonstrate equivalence and ensure compliance with the MDR. As the regulatory landscape evolves, companies must be prepared to adapt their processes and enhance the quality of their evidence to maintain market access and meet the growing expectations of regulatory authorities and patients alike.</p>
-  <p>If you’re looking to navigate the complexities of MDR equivalence claims, our team is here to help. <a href="/contact">Contact us today</a> to learn how we can support your regulatory journey and ensure compliance with the latest MDR requirements.</p>
-  ]]></content><author><name>kamiya-crabtree</name></author><category term="MDR" /><summary type="html"><![CDATA[This transition has demanded that device safety must be demonstrated with more evidence. We offer tips for winning equivalence claims.]]></summary></entry><entry><title type="html">Why Clinical Trial Design Should Begin at the Earliest Stages of Medical Device Development</title><link href="https://mantrasystems.com/articles/why-clinical-trial-design-should-begin-early-in-medical-device-development-franklyn-health" rel="alternate" type="text/html" title="Why Clinical Trial Design Should Begin at the Earliest Stages of Medical Device Development" /><published>2026-01-06T00:00:00+00:00</published><updated>2026-01-13T18:09:24+00:00</updated><id>https://mantrasystems.com/articles/why-clinical-trial-design-should-begin-early-in-medical-device-development-franklyn-health</id><content type="html" xml:base="https://mantrasystems.com/articles/why-clinical-trial-design-should-begin-early-in-medical-device-development-franklyn-health"><![CDATA[<p>A Franklyn Health × Mantra Systems Perspective.</p>
-  <p><em>This article was written by Rob Bedford, Head of Clinical Operations at <a href="https://franklynhealth.com/">Franklyn Health</a>. Franklyn Health is a medical device contract research organisation (CRO) that works with small and midsize medtech manufacturers to design and lead outcome-driven, pragmatic clinical trials. Franklyn Health generates clinical evidence to support regulatory objectives in UK, EU and USA.</em></p>
-  <p>The most successful medical device clinical investigations rarely start with a protocol. They start months, sometimes years earlier, during concept development. Under both the EU MDR (2017/745) and the UK Medical Devices Regulations (UK MDR 2002, as amended), clinical evidence is not simply a box-ticking exercise before market approval. It is a continuous thread running through the entire lifecycle of a device, from initial design to post-market follow-up.</p>
-  <p>This means that the earliest decisions in device development often shape the feasibility, efficiency and impact of the clinical investigation later on. Teams that integrate clinical strategy and communicate with their target users early are consistently better positioned for regulatory approval, clinician adoption and commercial success.</p>
-  <h2 id="why-early-classification-shapes-the-entire-programme">Why early classification shapes the entire programme</h2>
-  <p>Determining the correct device classification is one of the earliest and most critical steps in development. Classification directly influences:</p>
-  <ul>
-    <li>the <a href="https://franklynhealth.com/insights/top-5-clinical-study-challenges-for-small-device-companies-and-how-to-overcome-them/">clinical evidence</a> required</li>
-    <li>whether a clinical investigation is mandatory</li>
-    <li>the type of post-market obligations</li>
-    <li>the regulatory pathway and approval timelines</li>
-    <li>the claims that can ultimately appear in marketing materials</li>
-  </ul>
-  <p>Many start-ups inadvertently make early assumptions about classification based on perceived risk, competitor products or intended use. However, classification hinges on the specific intended purpose: the exact wording that defines how the device is meant to be used. Even subtle phrasing changes can move a device between classes, fundamentally altering what evidence is required.</p>
-  <p>Misclassification discovered late can lead to additional studies, redesigns or major delays at a point when funding and timelines are tight. Identifying the correct classification early provides a stable foundation for the entire clinical and regulatory strategy.</p>
-  <h2 id="the-value-of-early-sota-work-setting-the-frame-before-design-begins">The value of early SOTA work: setting the frame before design begins</h2>
-  <p>A State of the Art (SOTA) review is often conducted when preparing the Clinical Evaluation Plan (CEP). But its real power lies when it is done early, even before design controls formally begin. An early SOTA review helps teams understand:</p>
-  <ul>
-    <li>what technologies exist</li>
-    <li>how clinicians currently treat the condition</li>
-    <li>what outcomes matter most to clinicians and patients</li>
-    <li>what performance thresholds competitors have already achieved</li>
-    <li>which imaging modalities, scoring scales or patient-reported outcomes are considered meaningful</li>
-    <li>where genuine gaps in treatment outcomes exist</li>
-  </ul>
-  <p>This knowledge informs every downstream decision. When you know the benchmark clinical outcomes and what surgeons or users value, the initial design inputs, risk controls and endpoint selection all become much clearer.</p>
-  <p>It also prevents a common pitfall: building a technically impressive device that ultimately solves the wrong problem or solves a problem that doesn’t exist.</p>
-  <h2 id="validate-the-need-before-designing-the-solution">Validate the need before designing the solution</h2>
-  <p>A fundamental question for all MedTech teams (especially at early-stage) is whether the device solves a meaningful problem and whether the problem is commercially viable. Procurement teams, clinicians and hospital administrators increasingly expect devices to demonstrate clinical benefit or economic benefit, not simply performance improvements.</p>
-  <p>Under MDR, “clinical benefit” is defined as a measurable positive impact on the health of an individual. If a device cannot show this, adoption will be slow and reimbursement difficult. Technical excellence alone does not guarantee success.</p>
-  <p>Validating the problem early helps teams:</p>
-  <ul>
-    <li>confirm that a worthwhile unmet need exists</li>
-    <li>understand the commercial landscape</li>
-    <li>map where the device fits within treatment pathways</li>
-    <li>identify the outcomes that will matter to end users and payers</li>
-  </ul>
-  <p>Once this foundation is in place, the team can begin shaping a clinical and regulatory strategy that answers the most important questions, not just the easiest (or even most obvious) ones to study. A thorough evaluation of the SOTA can give MedTech teams the early problem validation they need to move forward with the next stages of development.</p>
-  <h2 id="a-real-example-of-early-alignment-that-delivered-results">A real example of early alignment that delivered results</h2>
-  <p>Members of the Franklyn Health team previously worked on a global clinical investigation for a rotator cuff repair device in sports medicine. Before the clinical evaluation plan had been drafted, the team had already mapped out:</p>
-  <ul>
-    <li>the specific clinical need they aimed to address</li>
-    <li>the demographics and characteristics of the ideal study population</li>
-    <li>which literature publications formed the true benchmark</li>
-    <li>what surgeons needed to justify switching from their existing devices</li>
-    <li>which endpoints would demonstrate meaningful clinical benefit</li>
-    <li>the appropriate follow-up schedule to capture healing and functional outcomes</li>
-    <li>how the data would feed into positioning, marketing and procurement discussions</li>
-  </ul>
-  <p>Because this thinking occurred early (i.e. years before protocol development) the entire programme was cohesive. Regulatory requirements, clinical design, commercial strategy and user needs all aligned. The result was a highly efficient study that generated compelling data, supporting global adoption and strong clinical confidence.</p>
-  <p>This level of early clarity is not limited to large organisations. Start-ups and scale-ups can follow the same approach by ensuring that design, regulatory planning, market knowledge and clinical strategy develop together. Engaging clinicians early is essential.</p>
-  <h2 id="how-early-clinical-planning-strengthens-the-whole-development-pathway">How early clinical planning strengthens the whole development pathway</h2>
-  <p>When early planning is done well, it supports critical regulatory and quality system activities:</p>
-  <h3 id="1-risk-management-iso-14971">1. Risk Management (ISO 14971)</h3>
-  <p>Early understanding of clinical risk informs hazard identification, risk control measures and safety-related endpoints. This strengthens both the risk management file and the protocol.</p>
-  <h3 id="2-design-controls">2. Design Controls</h3>
-  <p>Intended purpose, user needs and clinical claims provide the foundation for design inputs. When these are aligned from the start, verification and validation become more efficient.</p>
-  <h3 id="3-clinical-evaluation-mdr-annex-xiv">3. Clinical Evaluation (MDR Annex XIV)</h3>
-  <p>A strong early SOTA and early understanding of clinical claims make CEP development smoother, reducing gaps later on.</p>
-  <h3 id="4-human-factors-and-usability">4. Human Factors and Usability</h3>
-  <p>Knowing the intended use scenario, and the outcomes that matter, helps structure meaningful usability testing, rather than superficial exercises.</p>
-  <h3 id="5-post-market-planning">5. Post-Market Planning</h3>
-  <p>A clear early understanding of risk, claims and clinical needs helps define appropriate post-market clinical follow-up (PMCF) activities.</p>
-  <h2 id="avoiding-late-stage-surprises">Avoiding late-stage surprises</h2>
-  <p>Companies that begin clinical planning too late often face:</p>
-  <ul>
-    <li>delays due to incomplete or misaligned evidence</li>
-    <li>protocols that require redesign after regulatory feedback</li>
-    <li>endpoints that don’t map to clinical claims</li>
-    <li>unintended gaps in clinical evaluation</li>
-    <li>the need for additional clinical investigations</li>
-    <li>issues with investigator recruitment due to poorly chosen endpoints</li>
-  </ul>
-  <p>Early planning prevents these missteps and ensures that evidence collection is deliberate, focused and defensible.</p>
-  <h2 id="benefits-for-smaller-companies-and-investors">Benefits for smaller companies and investors</h2>
-  <p>For start-ups and scale-ups, early planning builds confidence among investors and stakeholders. A team that understands its: device classification, evidence pathway, benchmarks, likely endpoints and trial structure appears far more credible than a team that “will figure that out later”.</p>
-  <p>This helps secure funding, attract partners and maintain momentum through development.</p>
-  <p>Working with an experienced CRO and regulatory consultancy early in the journey can accelerate this alignment, ensuring that the evidence strategy, regulatory planning and commercial pathway reinforce one another from the very beginning.</p>
-  <h2 id="conclusion">Conclusion</h2>
-  <p>Clinical trial design should not begin when the protocol template is opened; it should begin during the earliest moments of device conception. Early classification, early SOTA work, early understanding of clinical benefit and early alignment between engineering, regulatory strategy and market expectations create a development pathway that is efficient, credible and coherent.</p>
-  <p>This approach results in stronger evidence, clearer claims, smoother regulatory review and better adoption by clinicians and healthcare systems. Whether you’re a global manufacturer or a two-person start-up, planning your clinical strategy from day one remains one of the most powerful ways to set your device up for success.</p>
-  <h3 id="references">References</h3>
-  <ul>
-    <li>EU MDR 2017/745 – Medical Device Regulation.</li>
-    <li>UK MDR 2002 (as amended).</li>
-    <li>ISO 14155:2020 – Clinical investigations of medical devices.</li>
-    <li>ISO 14971:2019 – Risk management for medical devices.</li>
-    <li>MDCG 2020-6 – Clinical evidence guidance for medical devices.</li>
-  </ul>
-  ]]></content><author><name>rob-bedford</name></author><category term="Clinical Evaluation" /><summary type="html"><![CDATA[In this guest post from our partners at Franklyn Health, they explore the benefits of a well-planned approach.]]></summary></entry></feed>
+  ]]></content><author><name>gabriela-cardoso</name></author><category term="MDR" /><summary type="html"><![CDATA[The importance of correct classification and our recommended path to avoid common ophthalmic device 'gotchas'.]]></summary></entry></feed>
